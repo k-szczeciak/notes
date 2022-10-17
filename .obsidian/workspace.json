@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyLog.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9c9cc4ee2b00006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-10-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DialyLog.md",
+                "file": "daily/2022-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DialyLog.md",
+                "file": "daily/2022-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DialyLog.md"
+                "file": "daily/2022-10-17.md"
               }
             }
           }
@@ -163,12 +176,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c3eada6b4e704556",
+  "active": "b9c9cc4ee2b00006",
   "lastOpenFiles": [
+    "DialyLog.md",
     "Readme.md",
     "MarCator.md",
     "daily/2022-10-17.md",
-    "DialyLog.md",
     "documentation/stm32wb55rg-1.pdf",
     "C1202icon64h.png",
     "sheets/C1202t.png",
