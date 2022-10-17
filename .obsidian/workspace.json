@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarCator.md",
+                "file": "DialyLog.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator.md",
+                "file": "DialyLog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator.md",
+                "file": "DialyLog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator.md"
+                "file": "DialyLog.md"
               }
             }
           }
@@ -165,9 +165,9 @@
   },
   "active": "c3eada6b4e704556",
   "lastOpenFiles": [
-    "_StartHere.md",
-    "daily/2022-10-17.md",
+    "Readme.md",
     "MarCator.md",
+    "daily/2022-10-17.md",
     "DialyLog.md",
     "documentation/stm32wb55rg-1.pdf",
     "C1202icon64h.png",
