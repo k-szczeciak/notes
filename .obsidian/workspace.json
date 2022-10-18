@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarCator.md",
+                "file": "daily/2022-10-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator.md",
+                "file": "daily/2022-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator.md",
+                "file": "daily/2022-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator.md"
+                "file": "daily/2022-10-18.md"
               }
             }
           }
@@ -141,6 +141,7 @@
   },
   "active": "4c95cbe8170371da",
   "lastOpenFiles": [
+    "MarCator.md",
     "daily/2022-10-18.md",
     "DialyLog.md",
     "Readme.md",
@@ -149,7 +150,6 @@
     "google Tensor Flow.md",
     "google core.md",
     "private notes.md",
-    "MarCator.md",
     "Temp links.md"
   ]
 }
