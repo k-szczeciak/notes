@@ -12,6 +12,8 @@
 |6|Github|||
 |7|web dev: Angular|||
 |8|IoT, MQTT,...|||
+|9|AWS, AZURE; GC|||
+|10|Doker|||
 
 
 
