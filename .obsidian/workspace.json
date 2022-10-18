@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp links.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0e86bb58dbfbf12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp links.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp links.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp links.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -139,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4b0bba525bdd5747",
+  "active": "f0e86bb58dbfbf12",
   "lastOpenFiles": [
-    "MarCator.md",
-    "daily/2022-10-17.md",
+    "google core.md",
+    "Learn.md",
     "Readme.md",
+    "private notes.md",
+    "MarCator.md",
+    "Temp links.md",
+    "daily/2022-10-17.md",
     "DialyLog.md",
     "documentation/stm32wb55rg-1.pdf",
-    "C1202icon64h.png",
-    "sheets/C1202t.png",
-    "C1202t.md",
-    "job search.md",
-    "private notes.md"
+    "C1202icon64h.png"
   ]
 }
