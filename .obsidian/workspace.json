@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "daily/2022-10-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "daily/2022-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "daily/2022-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "daily/2022-10-18.md"
               }
             }
           }
@@ -139,12 +139,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f8c9706a2ca0c241",
+  "active": "4c95cbe8170371da",
   "lastOpenFiles": [
-    "todo.md",
-    "Readme.md",
-    "daily/2022-10-18.md",
     "DialyLog.md",
+    "Readme.md",
+    "todo.md",
+    "daily/2022-10-18.md",
     "Learn.md",
     "google Tensor Flow.md",
     "google core.md",
