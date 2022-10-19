@@ -1,2 +1,2 @@
 - bnp pkp: 2500
-- kuc
+- kuc (ostatnio 25.01.2022), szacunek: 
