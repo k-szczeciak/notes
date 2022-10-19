@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-18.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07a843bfde673a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-18.md",
+                "file": "usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-18.md",
+                "file": "usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-18.md"
+                "file": "usefull URLs.md"
               }
             }
           }
@@ -139,12 +152,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4c95cbe8170371da",
+  "active": "07a843bfde673a0c",
   "lastOpenFiles": [
-    "MarCator.md",
-    "daily/2022-10-18.md",
-    "DialyLog.md",
     "Readme.md",
+    "daily/2022-10-18.md",
+    "MarCator.md",
+    "DialyLog.md",
     "todo.md",
     "Learn.md",
     "google Tensor Flow.md",
