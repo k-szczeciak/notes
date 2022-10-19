@@ -3,4 +3,4 @@
 - [[private notes]]
 - [[todo]]
 - [[usefull URLs]]
-- [[fin]]
+- [[finanse]]

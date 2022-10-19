@@ -23,11 +23,9 @@
             "id": "07a843bfde673a0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "photos/marcator_pcb_bot_old.png"
               }
             }
           },
@@ -56,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/previous activity.md",
+                "file": "photos/marcator_pcb_bot_old.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/previous activity.md",
+                "file": "photos/marcator_pcb_bot_old.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/previous activity.md"
+                "file": "photos/marcator_pcb_bot_old.png"
               }
             }
           }
@@ -178,15 +176,15 @@
   },
   "active": "f8c9706a2ca0c241",
   "lastOpenFiles": [
+    "photos/bot_MC1087BR.jpg",
+    "photos/marcator_pcb_bot_old.png",
+    "photos/top_MC1087BR.jpg",
+    "finanse.md",
+    "Readme.md",
     "DialyLog.md",
+    "daily/previous activity.md",
     "documentation/Content-Umtausch-PL_211916-1_637662666585113806.pdf",
     "daily/2022-10-19.md",
-    "fin.md",
-    "Readme.md",
-    "usefull URLs.md",
-    "daily/2022-10-18.md",
-    "MarCator.md",
-    "todo.md",
-    "Learn.md"
+    "usefull URLs.md"
   ]
 }
