@@ -23,9 +23,11 @@
             "id": "07a843bfde673a0c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "photos/marcator_pcb_bot_old.png"
+                "file": "MarCator.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photos/marcator_pcb_bot_old.png",
+                "file": "MarCator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photos/marcator_pcb_bot_old.png",
+                "file": "MarCator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photos/marcator_pcb_bot_old.png"
+                "file": "MarCator.md"
               }
             }
           }
@@ -174,17 +176,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f8c9706a2ca0c241",
+  "active": "07a843bfde673a0c",
   "lastOpenFiles": [
-    "photos/bot_MC1087BR.jpg",
-    "photos/marcator_pcb_bot_old.png",
+    "DialyLog.md",
+    "photos/top_MC1087BR_cut.png",
+    "photos/bot_MC1087BR_cut.png",
     "photos/top_MC1087BR.jpg",
+    "photos/bot_MC1087BR.jpg",
     "finanse.md",
     "Readme.md",
-    "DialyLog.md",
     "daily/previous activity.md",
     "documentation/Content-Umtausch-PL_211916-1_637662666585113806.pdf",
-    "daily/2022-10-19.md",
-    "usefull URLs.md"
+    "daily/2022-10-19.md"
   ]
 }
