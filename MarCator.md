@@ -9,3 +9,7 @@
 ~~4337664~~   4337697 /698
 4337662 br
 
+funkcje menue:
+- off timer
+- units
+- 

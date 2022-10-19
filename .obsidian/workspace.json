@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-19.md",
+                "file": "MarCator.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-19.md",
+                "file": "MarCator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-19.md",
+                "file": "MarCator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-19.md"
+                "file": "MarCator.md"
               }
             }
           }
@@ -178,6 +178,7 @@
   },
   "active": "07a843bfde673a0c",
   "lastOpenFiles": [
+    "daily/2022-10-19.md",
     "MarCator.md",
     "DialyLog.md",
     "photos/top_MC1087BR_cut.png",
@@ -186,7 +187,6 @@
     "photos/bot_MC1087BR.jpg",
     "finanse.md",
     "Readme.md",
-    "daily/previous activity.md",
-    "documentation/Content-Umtausch-PL_211916-1_637662666585113806.pdf"
+    "daily/previous activity.md"
   ]
 }
