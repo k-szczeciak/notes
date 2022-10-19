@@ -1,4 +1,5 @@
 - checking urls for scam:
 	- [notron](https://safeweb.norton.com/)
 	- [e.veritas](https://www.emailveritas.com/url-checker)
-	- 
+- [bnp ppk](https://sti24.tfi.bnpparibas.pl/client/login)
+- 
