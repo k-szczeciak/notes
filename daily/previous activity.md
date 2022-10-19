@@ -1,1 +1,6 @@
-pon
+pon (10.10) - przygotowanie stm32 ble), Hedit, nauka
+wt (11.10) - ios app, rozmowa engler,
+sr(12.10) - aplikacja stm32, c.d. dokumentacja, chiny - maile
+czw (13.10) - samochod - dokuemntacja pliku, chiny (4h) praca
+pt (14.10) - 
+
