@@ -1,2 +1,5 @@
 - bnp pkp: 2500
 - kuc (ostatnio 25.01.2022), szacunek: 
+	- funkcje: piny blokad, rampa i zwloka zaw ham. joysticki 2-sygn. di4 modyfikacje
+	- ilosc hexow: 17 (x1h = 17h * 125 = 2125)
+	- konsultacje: > 100 telefonow
