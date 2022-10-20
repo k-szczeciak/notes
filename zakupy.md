@@ -1,0 +1,2 @@
+- [gramin vivofit jr](https://www.eazymut.pl/garmin-vivofit-jr-3/3983-vivofit-jr-3-star-wars-mandalorian-010-02441-15.html) [garmin site](https://www.garmin.com/pl-PL/p/871905/pn/010-02441-15)
+- 
