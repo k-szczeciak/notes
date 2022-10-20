@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zakupy.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zakupy.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zakupy.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zakupy.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -190,6 +190,7 @@
   },
   "active": "72748f34df1ae164",
   "lastOpenFiles": [
+    "zakupy.md",
     "private notes.md",
     "Learn.md",
     "daily/2022-10-20.md",
@@ -198,7 +199,6 @@
     "daily/2022-10-19.md",
     "todo.md",
     "MarCator.md",
-    "photos/top_MC1087BR_cut.png",
-    "photos/bot_MC1087BR_cut.png"
+    "photos/top_MC1087BR_cut.png"
   ]
 }

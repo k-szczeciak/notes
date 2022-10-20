@@ -6,7 +6,7 @@
 |:-:|:-|:-|:-|
 |1|AI, ML, Nvidia Tensor flow||[[google Tensor Flow]]|
 |2|Edge computing|||
-|3| jenkins, CD/CI, Devops|||
+|3| jenkins, CD/CI, Devops, Azure, AWS, GC...|||
 |4|CMake|||
 |5|Linux|||
 |6|Github|||
