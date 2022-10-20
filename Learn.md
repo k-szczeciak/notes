@@ -14,6 +14,12 @@
 |8|IoT, MQTT,...|||
 |9|AWS, AZURE; GC|||
 |10|Doker|||
+|11|linux|||
+|12|safety, security|||
+|13|cryprography and blockchain|||
+|14|test automation|||
 
 
+- automation framework, great for test: [robot framework](https://robotframework.org/)
+- 
 
