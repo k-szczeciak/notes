@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50eb60f24d864de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ada0d18778237d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alfa.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "Alfa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "Alfa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "Alfa.md"
               }
             }
           }
@@ -188,17 +212,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "72748f34df1ae164",
+  "active": "1ada0d18778237d8",
   "lastOpenFiles": [
+    "projects.md",
+    "Readme.md",
+    "MarCator.md",
+    "Temp links.md",
+    "Learn.md",
     "zakupy.md",
     "private notes.md",
-    "Learn.md",
     "daily/2022-10-20.md",
     "DialyLog.md",
-    "job search.md",
-    "daily/2022-10-19.md",
-    "todo.md",
-    "MarCator.md",
-    "photos/top_MC1087BR_cut.png"
+    "job search.md"
   ]
 }
