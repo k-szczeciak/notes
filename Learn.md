@@ -21,5 +21,6 @@
 
 
 - automation framework, great for test: [robot framework](https://robotframework.org/)
+- [khan academy](https://pl.khanacademy.org/)
 - 
 
