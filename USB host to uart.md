@@ -1,1 +1,8 @@
+- [forum 1](https://community.st.com/s/question/0D50X00009XkgaYSAR/usb-host-cdc-support-to-ftdi-devices)  [forum 2](https://community.st.com/s/question/0D50X00009Xkbp9SAB/usb-host-for-vcp)
+- FTDI:
+	-  [Vinculum II](https://ftdichip.com/products/vnc2-48q1c/)  [data sheet](https://ftdichip.com/wp-content/uploads/2020/08/DS_Vinculum-II.pdf)  [projects](https://ftdichip.com/software-examples/vinculum-ii-projects/)
+	- 
+	- 
+- [Atmel](https://www.microchip.com/en-us/development-tool/AT90USBKEY2)
+- [nxp lpc2388](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/lpc2000-arm7/arm7-with-512-kb-flash-98-kb-sram-ethernet-usb-2-0-device-host-otg-can-and-10-bit-adc:LPC2388FBD144)  [[[LPC23_UM10211.pdf]]]
 - 
