@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "opcje HW na GW.md",
+                "file": "USB host to uart.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opcje HW na GW.md",
+                "file": "USB host to uart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opcje HW na GW.md",
+                "file": "USB host to uart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "opcje HW na GW.md"
+                "file": "USB host to uart.md"
               }
             }
           }
@@ -216,13 +216,13 @@
   "lastOpenFiles": [
     "daily/2022-10-24.md",
     "DialyLog.md",
+    "opcje HW na GW.md",
     "daily/2022-10-21.md",
     "USB host to uart.md",
     "daily/2022-10-19.md",
     "todo.md",
     "Learn.md",
     "MarCator.md",
-    "photos/top_MC1087BR_cut.png",
-    "photos/bot_MC1087BR_cut.png"
+    "photos/top_MC1087BR_cut.png"
   ]
 }
