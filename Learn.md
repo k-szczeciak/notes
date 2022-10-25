@@ -22,5 +22,6 @@
 
 - automation framework, great for test: [robot framework](https://robotframework.org/)
 - [khan academy](https://pl.khanacademy.org/)
+- [solid u bob](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 - 
 
