@@ -7,3 +7,5 @@ go back to [[_START_]]
 - [[2022-10-21]]
 - [[2022-10-24]]
 - [[2022-10-25]]
+next:
+- wyjscie w odpowiedzi na przerwaie

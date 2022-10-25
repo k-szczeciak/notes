@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyLog.md",
+                "file": "_DailyLog_.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyLog.md",
+                "file": "_DailyLog_.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_START_.md",
+                "file": "_DailyLog_.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DialyLog.md",
+                "file": "_DailyLog_.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_START_.md",
+                "file": "_DailyLog_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_START_.md",
+                "file": "_DailyLog_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_START_.md"
+                "file": "_DailyLog_.md"
               }
             }
           }
@@ -238,10 +238,10 @@
   },
   "active": "b7f6f78011eaad0f",
   "lastOpenFiles": [
-    "job search.md",
-    "_START_.md",
     "daily/2022-10-25.md",
-    "DialyLog.md",
+    "_DailyLog_.md",
+    "_START_.md",
+    "job search.md",
     "Learn.md",
     "C1202.md",
     "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",

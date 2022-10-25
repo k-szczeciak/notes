@@ -1,5 +1,5 @@
 ## Notes Hub
-- [[DialyLog]]
+- [[_DailyLog_]]
 - [[private notes]]
 - [[todo]]
 - [[usefull URLs]]
