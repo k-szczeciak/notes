@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "_START_.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1202.md",
+                "file": "DialyLog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7f6f78011eaad0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_START_.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C1202.md",
+                "file": "_START_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C1202.md",
+                "file": "_START_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C1202.md"
+                "file": "_START_.md"
               }
             }
           }
@@ -224,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fe15cffd4e71a073",
+  "active": "b7f6f78011eaad0f",
   "lastOpenFiles": [
-    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
-    "Alfa.md",
+    "job search.md",
+    "_START_.md",
+    "daily/2022-10-25.md",
+    "DialyLog.md",
     "Learn.md",
     "C1202.md",
+    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
+    "Alfa.md",
     "projects.md",
-    "DialyLog.md",
-    "USB host to uart.md",
-    "daily/2022-10-24.md",
-    "opcje HW na GW.md",
-    "daily/2022-10-21.md"
+    "USB host to uart.md"
   ]
 }
