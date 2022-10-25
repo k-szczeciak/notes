@@ -71,9 +71,11 @@
             "id": "fe15cffd4e71a073",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
+                "file": "C1202.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
+                "file": "C1202.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
+                "file": "C1202.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
+                "file": "C1202.md"
               }
             }
           }
@@ -224,6 +226,7 @@
   },
   "active": "fe15cffd4e71a073",
   "lastOpenFiles": [
+    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
     "Alfa.md",
     "Learn.md",
     "C1202.md",
@@ -232,7 +235,6 @@
     "USB host to uart.md",
     "daily/2022-10-24.md",
     "opcje HW na GW.md",
-    "daily/2022-10-21.md",
-    "daily/2022-10-19.md"
+    "daily/2022-10-21.md"
   ]
 }
