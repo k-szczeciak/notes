@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -236,17 +236,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b7f6f78011eaad0f",
+  "active": "0ce9ebe3f51147c3",
   "lastOpenFiles": [
-    "daily/2022-10-25.md",
+    "daily/previous activity.md",
     "_DailyLog_.md",
+    "daily/2022-10-25.md",
     "_START_.md",
     "job search.md",
     "Learn.md",
     "C1202.md",
     "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
     "Alfa.md",
-    "projects.md",
-    "USB host to uart.md"
+    "projects.md"
   ]
 }
