@@ -95,9 +95,11 @@
             "id": "0ce9ebe3f51147c3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
+                "file": "daily/2022-10-26.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -180,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
+                "file": "daily/2022-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
+                "file": "daily/2022-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
+                "file": "daily/2022-10-26.md"
               }
             }
           }
@@ -236,15 +238,15 @@
   },
   "active": "0ce9ebe3f51147c3",
   "lastOpenFiles": [
-    "Alfa.md",
     "_DailyLog_.md",
+    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
+    "Alfa.md",
     "daily/2022-10-26.md",
     "_START_.md",
     "daily/previous activity.md",
     "daily/2022-10-25.md",
     "job search.md",
     "Learn.md",
-    "C1202.md",
-    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
+    "C1202.md"
   ]
 }
