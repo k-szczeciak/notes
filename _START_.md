@@ -5,3 +5,4 @@
 - [[usefull URLs]]
 - [[finanse]]
 - [[projects]]
+- General notes

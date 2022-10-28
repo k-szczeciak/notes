@@ -2,4 +2,5 @@
 	- [web: STM32WB55 Nucleo Pack](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/p-nucleo-wb55.html)
 	- pdf: [[um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf]]
 	- 
+- dokumentacja STM32WB55: [[rm0434-multiprotocol-wireless-32bit-mcu-armbased-cortexm4-with-fpu-bluetooth-lowenergy-and-802154-radio-solution-stmicroelectronics.pdf]]
 - 
