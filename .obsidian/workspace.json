@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-28.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-28.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-28.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-28.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -141,9 +141,9 @@
   },
   "active": "a1e4b79cfa282a3b",
   "lastOpenFiles": [
+    "daily/2022-10-28.md",
     "_DailyLog_.md",
     "Learn.md",
-    "daily/2022-10-28.md",
     "daily/previous activity.md",
     "daily/2022-10-24.md",
     "daily/2022-10-25.md",
