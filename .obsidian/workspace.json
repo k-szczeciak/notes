@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_START_.md",
+                "file": "General notes Mahr.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_START_.md",
+                "file": "General notes Mahr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_START_.md",
+                "file": "General notes Mahr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_START_.md"
+                "file": "General notes Mahr.md"
               }
             }
           }
@@ -202,15 +202,15 @@
   },
   "active": "1ada0d18778237d8",
   "lastOpenFiles": [
+    "_START_.md",
+    "documentation/Mahr-Metrology-DE-1.pdf",
+    "General notes Mahr.md",
     "Alfa.md",
     "documentation/rm0434-multiprotocol-wireless-32bit-mcu-armbased-cortexm4-with-fpu-bluetooth-lowenergy-and-802154-radio-solution-stmicroelectronics.pdf",
     "daily/2022-10-28.md",
     "_DailyLog_.md",
     "daily/2022-10-27.md",
     "Learn.md",
-    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
-    "documentation/Content-Umtausch-PL_211916-1_637662666585113806.pdf",
-    "projects.md",
-    "Readme.md"
+    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
   ]
 }

@@ -5,4 +5,4 @@
 - [[usefull URLs]]
 - [[finanse]]
 - [[projects]]
-- General notes
+- [[General notes Mahr]]
