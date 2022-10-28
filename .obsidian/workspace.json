@@ -41,19 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ada0d18778237d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General notes Mahr.md",
+                "file": "daily/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General notes Mahr.md",
+                "file": "daily/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General notes Mahr.md",
+                "file": "daily/2022-10-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General notes Mahr.md"
+                "file": "daily/2022-10-24.md"
               }
             }
           }
@@ -200,17 +188,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1ada0d18778237d8",
+  "active": "50eb60f24d864de3",
   "lastOpenFiles": [
+    "_DailyLog_.md",
+    "daily/2022-10-25.md",
+    "projects.md",
+    "General notes Mahr.md",
     "_START_.md",
     "documentation/Mahr-Metrology-DE-1.pdf",
-    "General notes Mahr.md",
     "Alfa.md",
     "documentation/rm0434-multiprotocol-wireless-32bit-mcu-armbased-cortexm4-with-fpu-bluetooth-lowenergy-and-802154-radio-solution-stmicroelectronics.pdf",
     "daily/2022-10-28.md",
-    "_DailyLog_.md",
-    "daily/2022-10-27.md",
-    "Learn.md",
-    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
+    "daily/2022-10-27.md"
   ]
 }
