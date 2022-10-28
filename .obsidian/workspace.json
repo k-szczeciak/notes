@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eae62110c6ee0ff4",
+        "id": "3be6cb86da15dbb9",
         "type": "tabs",
         "children": [
           {
-            "id": "4c95cbe8170371da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "07a843bfde673a0c",
+            "id": "a1e4b79cfa282a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72748f34df1ae164",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "50eb60f24d864de3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2022-10-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ce9ebe3f51147c3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "30e68d09e167e927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/previous activity.md",
+                "file": "daily/2022-10-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "daily/2022-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-24.md",
+                "file": "daily/2022-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-24.md"
+                "file": "daily/2022-10-28.md"
               }
             }
           }
@@ -188,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "50eb60f24d864de3",
+  "active": "a1e4b79cfa282a3b",
   "lastOpenFiles": [
     "_DailyLog_.md",
+    "daily/previous activity.md",
+    "daily/2022-10-24.md",
     "daily/2022-10-25.md",
     "projects.md",
     "General notes Mahr.md",
     "_START_.md",
     "documentation/Mahr-Metrology-DE-1.pdf",
     "Alfa.md",
-    "documentation/rm0434-multiprotocol-wireless-32bit-mcu-armbased-cortexm4-with-fpu-bluetooth-lowenergy-and-802154-radio-solution-stmicroelectronics.pdf",
-    "daily/2022-10-28.md",
-    "daily/2022-10-27.md"
+    "documentation/rm0434-multiprotocol-wireless-32bit-mcu-armbased-cortexm4-with-fpu-bluetooth-lowenergy-and-802154-radio-solution-stmicroelectronics.pdf"
   ]
 }
