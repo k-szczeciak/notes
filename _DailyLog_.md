@@ -8,6 +8,8 @@ go back to [[_START_]]
 - [[2022-10-24]]
 - [[2022-10-25]]
 - [[2022-10-26]]
+- [[2022-10-27]]
+- [[2022-10-28]]
 - 
 next:
 - wyjscie w odpowiedzi na przerwaie
