@@ -18,6 +18,8 @@
 |12|safety, security|||
 |13|cryprography and blockchain|||
 |14|test automation|||
+|15|social marketing|||
+
 
 
 - automation framework, great for test: [robot framework](https://robotframework.org/)
