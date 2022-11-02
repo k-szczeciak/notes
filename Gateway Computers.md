@@ -3,8 +3,9 @@
 	- [metal housing](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)
 - raspberry pi:
 	- [model 3B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
-	- 
-- onion omega 2.
+	- [zero WiFi](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
+- onion omega 2:
+	pro: kleineste, einbau möglichkeit als ferige Modulen, 
 	- [module](https://onion.io/store/omega2/)
-	- [mini doc](https://onion.io/store/mini-dock/)
+	- [mini dock](https://onion.io/store/mini-dock/)
 	- 
