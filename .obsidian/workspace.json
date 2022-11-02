@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-02.md",
+                "file": "Gateway Computers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-02.md",
+                "file": "Gateway Computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-02.md",
+                "file": "Gateway Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-02.md"
+                "file": "Gateway Computers.md"
               }
             }
           }
@@ -141,12 +141,12 @@
   },
   "active": "f7748098fea1ad82",
   "lastOpenFiles": [
+    "daily/2022-11-02.md",
     "_DailyLog_.md",
     "_START_.md",
     "conflict-files-obsidian-git.md",
     "daily/previous activity.md",
     "Ausrüstung.md",
-    "daily/2022-11-02.md",
     "Gateway Computers.md",
     "MarCator.md",
     "projects.md",
