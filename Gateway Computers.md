@@ -1,0 +1,5 @@
+- frendly elec:
+	- [nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132) with [display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)
+	- 
+- raspberry pi 
+- 
