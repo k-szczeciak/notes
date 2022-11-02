@@ -1,7 +1,8 @@
 - frendly elec:
 	- [nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132) with [display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)
-	- 
-- raspberry pi 
+	- [metal housing](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)
+- raspberry pi:
+	- [zero]
 - onion omega 2.
 	- [module](https://onion.io/store/omega2/)
 	- [mini doc](https://onion.io/store/mini-dock/)
