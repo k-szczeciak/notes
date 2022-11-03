@@ -28,93 +28,9 @@
                 "currentVersion": "1.0.3"
               }
             }
-          },
-          {
-            "id": "77b9098ff9e22587",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0a95ad5a89be604",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "782aa93ea5bb6f03",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "689262cdf37212da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "12b8d1e848bbf4be",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e8f8284f668bde9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2bd46aaaf4e6dc8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "328c22b99155356b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "14cb1c92a7e118ac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "85448f761a9e4bfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MarCator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MarCator.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -231,8 +143,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85448f761a9e4bfe",
+  "active": "1912b4771d4257c1",
   "lastOpenFiles": [
+    "MarCator.md",
     "Gateway Computers.md",
     "daily/2022-11-02.md",
     "_DailyLog_.md",
@@ -241,7 +154,6 @@
     "conflict-files-obsidian-git.md",
     "Learn.md",
     "daily/previous activity.md",
-    "daily/2022-10-24.md",
-    "daily/2022-10-25.md"
+    "daily/2022-10-24.md"
   ]
 }
