@@ -22,5 +22,5 @@
 |2|![image](/img/rpizerow.png)| | |[raspberry pi zero w]([Raspberry Pi Zero 2 W – Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/))|
 |3|![image](/img/onion_o2.png)|Omega Onion||[Omega2 – Onion](https://onion.io/store/omega2/) |
 |-|![image](/img/onion_o2_dock.png)|Omega Onion||[Mini Dock – Onion](https://onion.io/store/mini-dock/) |
-|-|![image](/img/onion_o2s.png)|Omega Onion||[Omega2S – Onion](https://onion.io/omega2s/)|
+|-|![image](/img/onion_o2s.png)|Omega Onion|klein: 34x20x2.8 mm, und billig, pcb und gehause entwicklung noetig|[Omega2S – Onion](https://onion.io/omega2s/) |
 |4||x86 SBC|||
