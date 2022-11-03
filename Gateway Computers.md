@@ -24,9 +24,9 @@
 |3|![image](/img/onion_o2.png)|Omega Onion||[Omega2 – Onion](https://onion.io/store/omega2/) |
 |-|![image](/img/onion_o2_dock.png)|Omega Onion||[Mini Dock – Onion](https://onion.io/store/mini-dock/) |
 |-|![image](/img/onion_o2s.png)|Omega Onion|Sehr klein (34x20x2.8mm) und billig, pcb und gehause entwicklung noetig|[Omega2S – Onion](https://onion.io/omega2s/) |
-|4||x86 SBC|||
-|5||industrial computers, robust ||
-|- ||industrial computers - DIN-rail mount|||
+|4||x86 SBC| komplexe anvendung moeglich, mit database, www-server, kommunikation mit mehrere geraete,  ||
+|-||industrial computers ||
+|-||industrial computers - DIN-rail mount|||
 |-||industrial computers, custom design|||
 
 
