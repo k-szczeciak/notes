@@ -25,3 +25,5 @@
 |-|![image](/img/onion_o2_dock.png)|Omega Onion||[Mini Dock – Onion](https://onion.io/store/mini-dock/) |
 |-|![image](/img/onion_o2s.png)|Omega Onion|Sehr klein (34x20x2.8mm) und billig, pcb und gehause entwicklung noetig|[Omega2S – Onion](https://onion.io/omega2s/) |
 |4||x86 SBC|||
+|5||industrial computers, custom ||
+
