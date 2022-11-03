@@ -28,9 +28,105 @@
                 "currentVersion": "1.0.3"
               }
             }
+          },
+          {
+            "id": "77b9098ff9e22587",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0a95ad5a89be604",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "782aa93ea5bb6f03",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "689262cdf37212da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "12b8d1e848bbf4be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e8f8284f668bde9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2bd46aaaf4e6dc8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "328c22b99155356b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "14cb1c92a7e118ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "85448f761a9e4bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "finanse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b09add793ecb0d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -96,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-28.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-28.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-28.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,8 +243,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1912b4771d4257c1",
+  "active": "2b09add793ecb0d8",
   "lastOpenFiles": [
+    "finanse.md",
+    "conflict-files-obsidian-git.md",
     "_DailyLog_.md",
     "Learn.md",
     "daily/2022-10-28.md",
@@ -156,8 +254,6 @@
     "daily/2022-10-24.md",
     "daily/2022-10-25.md",
     "projects.md",
-    "General notes Mahr.md",
-    "_START_.md",
-    "documentation/Mahr-Metrology-DE-1.pdf"
+    "General notes Mahr.md"
   ]
 }
