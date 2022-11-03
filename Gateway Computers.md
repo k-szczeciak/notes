@@ -1,8 +1,9 @@
 - frendly elec:
 	vor: klein, billig, mit geheuse, 
 	gegen: 
-	- [nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132) mit optionales [display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)
-	- [metal housing](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)
+	- [nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132) ![image](img/NEO_LTS_1.png)
+	- optionales [display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191) ![image](img/NEO_DISPL.png)
+	- [nanopi mit display und metal gehause](https://www.friendlyelec.com/index.php?route=product/product&product_id=190) ![image](img/NEO_LTS_METAL.png)
 - raspberry pi:
 	- [model 3B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
 	- [zero WiFi](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
@@ -15,6 +16,7 @@
 |#|photo|name|descr|
 |-|-|-|-|
 |1|![image](img/NEO_LTS_1.png)|NEO LTS|vor:, gegen|
-|2|![image](/img/NEO_DISPL.png)|NEO Dispaly|vor:|
-|3|
+|-|![image](/img/NEO_DISPL.png)|NEO Dispaly|vor:|
+|-|![[Pasted image 20221103154938.png]]|||
+
 
