@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DailyLog_.md",
+                "file": "Gateway Computers.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DailyLog_.md",
+                "file": "Gateway Computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DailyLog_.md",
+                "file": "Gateway Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DailyLog_.md"
+                "file": "Gateway Computers.md"
               }
             }
           }
@@ -233,9 +233,9 @@
   },
   "active": "85448f761a9e4bfe",
   "lastOpenFiles": [
-    "daily/2022-10-28.md",
-    "_DailyLog_.md",
     "daily/2022-11-02.md",
+    "_DailyLog_.md",
+    "daily/2022-10-28.md",
     "finanse.md",
     "conflict-files-obsidian-git.md",
     "Learn.md",
