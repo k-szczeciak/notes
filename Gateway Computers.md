@@ -1,7 +1,7 @@
 - frendly elec:
 	vor: klein, billig, mit geheuse, 
 	gegen: 
-	- [nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132) with [display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)
+	- [nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132) mit optionales [display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)
 	- [metal housing](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)
 - raspberry pi:
 	- [model 3B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "Ausrüstung.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "Ausrüstung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "Ausrüstung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "usefull URLs.md"
+                "file": "Ausrüstung.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "1912b4771d4257c1",
   "lastOpenFiles": [
+    "Gateway Computers.md",
+    "usefull URLs.md",
     "_DailyLog_.md",
     "daily/2022-11-03.md",
     "MarCator.md",
-    "Gateway Computers.md",
     "daily/2022-11-02.md",
     "daily/2022-10-28.md",
     "finanse.md",
     "conflict-files-obsidian-git.md",
-    "Learn.md",
-    "daily/previous activity.md"
+    "Learn.md"
   ]
 }
