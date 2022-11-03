@@ -11,3 +11,8 @@
 	gegen: keine gehuse, eingene pcb nötig
 	- [module](https://onion.io/store/omega2/)
 	- [mini dock](https://onion.io/store/mini-dock/)
+
+|#|photo|name|descr|
+|-|-|-|-|
+|1|![image](img/NEO_LTS_1.png)|-|-|
+
