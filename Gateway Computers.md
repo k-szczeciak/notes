@@ -18,6 +18,7 @@
 |1|![image](img/NEO_LTS_1.png)|NEO LTS|vor:, gegen|[nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132)|
 |-|![image](/img/NEO_DISPL.png)|NEO Dispaly|vor:|[display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)|
 |-|![[Pasted image 20221103154938.png]]|NEO LTS + Display + Metal Gehause||[nanopi mit display und metal gehause](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)|
-|1|![[Pasted image 20221103155046.png]]|Raspberry Pi ||[raspberry Pi 3, Model B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)|
-
-
+|1|![[rpi3bp.png]]|Raspberry Pi ||[raspberry Pi 3, Model B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)|
+|2|![image](/img/rpizerow.png)| | |[raspberry pi zero w]([Raspberry Pi Zero 2 W – Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/))|
+|3||Omega Onion|||
+|4||x86 SBC|||
