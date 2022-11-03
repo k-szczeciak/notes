@@ -23,9 +23,11 @@
             "id": "1912b4771d4257c1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "_DailyLog_.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_DailyLog_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_DailyLog_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_DailyLog_.md"
+              }
             }
           }
         ]
@@ -145,15 +151,15 @@
   },
   "active": "1912b4771d4257c1",
   "lastOpenFiles": [
+    "daily/2022-11-03.md",
+    "_DailyLog_.md",
     "MarCator.md",
     "Gateway Computers.md",
     "daily/2022-11-02.md",
-    "_DailyLog_.md",
     "daily/2022-10-28.md",
     "finanse.md",
     "conflict-files-obsidian-git.md",
     "Learn.md",
-    "daily/previous activity.md",
-    "daily/2022-10-24.md"
+    "daily/previous activity.md"
   ]
 }
