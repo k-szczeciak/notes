@@ -15,7 +15,7 @@
 
 |#|photo|name|descr|link|
 |-|-|-|-|-|
-|1|![image](img/NEO_LTS_1.png)|NEO LTS|von selbem Hersteller wie NEO3|[nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132)|
+|1|![image](img/NEO_LTS_1.png)|NEO LTS|von selbem Hersteller wie NEO3, klein, guenstig, mit Geheuse |[nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132)|
 |-|![image](/img/NEO_DISPL.png)|NEO Dispaly|vor:|[display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)|
 |-|![[Pasted image 20221103154938.png]]|NEO LTS + Display + Metal Gehause||[nanopi mit display und metal gehause](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)|
 |1|![[rpi3bp.png]]|Raspberry Pi ||[raspberry Pi 3, Model B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)|
