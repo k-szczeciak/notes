@@ -14,5 +14,7 @@
 
 |#|photo|name|descr|
 |-|-|-|-|
-|1|![image](img/NEO_LTS_1.png)|-|-|
+|1|![image](img/NEO_LTS_1.png)|NEO LTS|vor:, gegen|
+|2|![image](/img/NEO_DISPL.png)|NEO Dispaly|vor:|
+|3|
 
