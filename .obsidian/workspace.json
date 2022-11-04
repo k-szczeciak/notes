@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "_DailyLog_.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "_DailyLog_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "_DailyLog_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "usefull URLs.md"
+                "file": "_DailyLog_.md"
               }
             }
           }
@@ -138,11 +138,11 @@
   },
   "active": "a1e4b79cfa282a3b",
   "lastOpenFiles": [
+    "usefull URLs.md",
     "Gateway Computers.md",
     "img/NEO_LTS_1.md",
     "daily/2022-10-28.md",
     "Ausrüstung.md",
-    "usefull URLs.md",
     "_DailyLog_.md",
     "daily/2022-11-03.md",
     "MarCator.md",
