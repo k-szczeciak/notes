@@ -36,4 +36,10 @@ kursy:
 
 
 - big data, ML AI, AGI
-- jupiter [getting started](https://www.youtube.com/watch?v=5pf0_bpNbkw)
+- jupiter [getting started](https://www.youtube.com/watch?v=5pf0_bpNbkw), [quick start](https://www.youtube.com/watch?v=7wf1HhYQiDg)
+[pros](https://www.youtube.com/watch?v=zai2pLUD9FA)
+
+
+AI frameworks:
+- tensor flow
+- pandas [pandas](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
