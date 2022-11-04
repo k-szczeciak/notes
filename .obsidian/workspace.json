@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-20.md",
+                "file": "daily/2022.10.06 - 2022.10.14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-20.md",
+                "file": "daily/2022.10.06 - 2022.10.14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-20.md",
+                "file": "daily/2022.10.06 - 2022.10.14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-20.md"
+                "file": "daily/2022.10.06 - 2022.10.14.md"
               }
             }
           }
@@ -139,14 +139,14 @@
   "active": "a1e4b79cfa282a3b",
   "lastOpenFiles": [
     "_DailyLog_.md",
-    "daily/2022-10-19.md",
     "daily/2022-10-18.md",
-    "[.md",
-    "daily/2022-10-17.md",
-    "daily/2022.10.06 - 2022.10.14.md",
-    "usefull URLs.md",
-    "Gateway Computers.md",
-    "img/NEO_LTS_1.md",
-    "daily/2022-10-28.md"
+    "daily/2022-10-28.md",
+    "daily/2022-10-27.md",
+    "daily/2022-10-26.md",
+    "daily/2022-10-25.md",
+    "daily/2022-11-03.md",
+    "daily/2022-10-20.md",
+    "daily/2022-10-24.md",
+    "daily/2022-10-21.md"
   ]
 }
