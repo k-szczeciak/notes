@@ -47,3 +47,6 @@ AI frameworks:
 
 
 3D object in wpfg: [yt](https://www.youtube.com/watch?v=xg0p-5TJ46k)
+
+
+[math in md, wzory i rysunki](https://upmath.me/)  !!!
