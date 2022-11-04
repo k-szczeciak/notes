@@ -24,7 +24,8 @@
 |3|![image](/img/onion_o2.png)|Omega Onion||||[Omega2 – Onion](https://onion.io/store/omega2/)|
 |-|![image](/img/onion_o2_dock.png)|Omega Onion||||[Mini Dock – Onion](https://onion.io/store/mini-dock/) |
 |-|![image](/img/onion_o2s.png)|Omega Onion|Sehr klein (34x20x2.8mm) und billig, pcb und gehause entwicklung noetig|||[Omega2S – Onion](https://onion.io/omega2s/) |
-|4||x86 SBC| komplexe anvendung moeglich, mit database, www-server, kommunikation mit mehrere geraete, fortgeschrittene Algoritmen, EDGE computeing  |||[u|
+|4|![[up-board_1.png]]|x86 SBC| komplexe anvendung moeglich, mit database, www-server, kommunikation mit mehrere geraete, fortgeschrittene Algoritmen, EDGE computeing  |||[up-board](https://up-board.org/up-4000/)|
+|-|![[up-board_2.png]]|Intel (x86) Single Board Computer (SBC)|wie oben||||
 |-||industrial computers | wie oben||||
 |-||industrial computers - DIN-rail mount| wie oben,||||
 |-||industrial computers, custom design| wie oben,||||
