@@ -33,3 +33,7 @@ kursy:
 - [list bootcamow warszawa](https://codeberryschool.com/blog/pl/top-kursow-programowania-w-warszawie/)
 - [big data](https://podyplomowe.pja.edu.pl/big-data-inzynieria-duzych-zbiorow-danych/)
 - 
+
+
+- big data, ML AI, AGI
+- jupiter
