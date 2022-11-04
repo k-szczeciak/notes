@@ -43,3 +43,5 @@ kursy:
 AI frameworks:
 - tensor flow
 - pandas [pandas](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
+- [colral](https://www.coral.ai/)
+- 
