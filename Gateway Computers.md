@@ -13,7 +13,7 @@
 	- [module](https://onion.io/store/omega2/)
 	- [mini dock](https://onion.io/store/mini-dock/)
 
-|#|Photo|Name|Beschreibung|price|verfuegbarkeit|link|
+|#|Photo|Name|Beschreibung|Preiss|verfuegbarkeit|link|
 |-|-|-|-|-|-|-|
 |1|![image](img/NEO_LTS_1.png)|NEO LTS|von selbem Hersteller wie NEO3, klein, guenstig, mit Geheuse |||[nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132)|
 |-|![image](/img/NEO_DISPL.png)|NEO Dispaly|vor:|||[display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)|
