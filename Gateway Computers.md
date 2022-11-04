@@ -24,12 +24,12 @@
 |3|![image](/img/onion_o2.png)|Omega Onion|kleineste linux rechner, guenstig|ca 20eur|>1000 bei Mouser.de|[Omega2 – Onion](https://onion.io/store/omega2/)|
 |-|![image](/img/onion_o2_dock.png)|Omega Onion||||[Mini Dock – Onion](https://onion.io/store/mini-dock/) |
 |-|![image](/img/onion_o2s.png)|Omega Onion|Sehr klein (34x20x2.8mm) und billig, pcb und gehause entwicklung noetig|ca 20eur|>1000 bei Mouser.de|[Omega2S – Onion](https://onion.io/omega2s/) |
-|4|![[up-core_1.png]]|Intel (x86) Single Board Computer (SBC), kleinest|kleineste intel rechner. M komplexe anvendung moeglich, mit database, www-server, kommunikation mit mehrere geraete, fortgeschrittene Algoritmen, EDGE computing, AI, ML...  ||>100eur|[up-core](https://up-board.org/upcore/specifications/)   [up-board, all](https://up-board.org/boards/)|
-|-|![[up-core_2.png]]|Intel (x86) Single Board Computer (SBC)|wie oben||>100eur|[up-core](https://up-board.org/upcore/specifications/)  [systems](https://up-board.org/systems/)|
-|-|![[industrial_pc.png]]|industrial computers | wie oben||>500eur|[inpustrial-pc](https://www.industrial-computers.com/fanless-systems/)  [industrial-pc 2](https://www.onlogic.com/computers/industrial/)|
-|-|![[din-rail_pc.png]]|industrial computers - DIN-rail mount| wie oben,||>500eur|[link](https://omtec.de/en/industrial-pc/rugged-embedded/din-rail-pc/poc-40)|
-|5|![[fujitsu.png]]|terminal computers | wie oben,|||[fujitsu](https://www.fujitsu.com/de/products/computing/pc/notebooks/)|
-|6|![[tablet.png]]|industrieles tablet, x86|wie oben, MarCom Prof oder MillimarTool verbindung moeglich||||
+|4|![[up-core_1.png]]|Intel (x86) Single Board Computer (SBC), kleinest|kleineste intel rechner. Mit intel rechner, komplexe anvendung moeglich, mit database, www-server, kommunikation mit mehrere geraete, fortgeschrittene Algoritmen, EDGE computing, AI, ML...  MarCom Prof oder MillimarTool anwendung moeglich|ca 100 euro| verfuegbar|[up-core](https://up-board.org/upcore/specifications/)   [up-board, all](https://up-board.org/boards/)|
+|-|![[up-core_2.png]]|Intel (x86) Single Board Computer (SBC)|wie oben mit gehaeuse|ca 150eur||[up-core](https://up-board.org/upcore/specifications/)  [systems](https://up-board.org/systems/)|
+|-|![[industrial_pc.png]]|industrial computers | Intel rechner|>500 eur||[inpustrial-pc](https://www.industrial-computers.com/fanless-systems/)  [industrial-pc 2](https://www.onlogic.com/computers/industrial/)|
+|-|![[din-rail_pc.png]]|industrial computers - DIN-rail mount| wie oben|>500eur||[link](https://omtec.de/en/industrial-pc/rugged-embedded/din-rail-pc/poc-40)|
+|5|![[fujitsu.png]]|terminal computers |nicht robust|>300 eur||[fujitsu](https://www.fujitsu.com/de/products/computing/pc/notebooks/)|
+|6|![[tablet.png]]|industrieles tablet, x86|wie oben|>500 eur|||
 
 
 
