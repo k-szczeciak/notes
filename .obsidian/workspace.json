@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gateway Computers.md",
-                "mode": "preview",
+                "file": "daily/2022-11-04.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gateway Computers.md",
+                "file": "daily/2022-11-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gateway Computers.md",
+                "file": "daily/2022-11-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gateway Computers.md"
+                "file": "daily/2022-11-04.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "a1e4b79cfa282a3b",
   "lastOpenFiles": [
-    "daily/2022-11-03.md",
     "_DailyLog_.md",
+    "Gateway Computers.md",
+    "daily/2022-11-03.md",
     "daily/2022-11-04.md",
     "[.md",
     "daily/2022.10.06 - 2022.10.14.md",
     "daily/2022-10-18.md",
     "daily/2022-10-28.md",
     "daily/2022-10-27.md",
-    "daily/2022-10-26.md",
-    "daily/2022-10-25.md"
+    "daily/2022-10-26.md"
   ]
 }
