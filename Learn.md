@@ -44,4 +44,6 @@ AI frameworks:
 - tensor flow
 - pandas [pandas](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
 - [colral](https://www.coral.ai/)
-- 
+
+
+3D object in wpfg: [yt](https://www.youtube.com/watch?v=xg0p-5TJ46k)
