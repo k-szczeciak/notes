@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gateway Computers.md",
+                "file": "usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gateway Computers.md",
+                "file": "usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gateway Computers.md",
+                "file": "usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gateway Computers.md"
+                "file": "usefull URLs.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "a1e4b79cfa282a3b",
   "lastOpenFiles": [
+    "Gateway Computers.md",
     "img/NEO_LTS_1.md",
     "daily/2022-10-28.md",
-    "Gateway Computers.md",
     "Ausrüstung.md",
     "usefull URLs.md",
     "_DailyLog_.md",
