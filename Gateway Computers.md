@@ -28,7 +28,7 @@
 |-|![[up-core_2.png]]|Intel (x86) Single Board Computer (SBC)|wie oben||>100eur|[up-core](https://up-board.org/upcore/specifications/)  [systems](https://up-board.org/systems/)|
 |-|![[industrial_pc.png]]|industrial computers | wie oben||>500eur|[inpustrial-pc](https://www.industrial-computers.com/fanless-systems/)  [industrial-pc 2](https://www.onlogic.com/computers/industrial/)|
 |-|![[din-rail_pc.png]]|industrial computers - DIN-rail mount| wie oben,||>500eur|[link](https://omtec.de/en/industrial-pc/rugged-embedded/din-rail-pc/poc-40)|
-|-||terminal computers| wie oben,||||
+|-|![[fujitsu.png]]|terminal computers | wie oben,|||[fujitsu](https://www.fujitsu.com/de/products/computing/pc/notebooks/)|
 |5||tablet, x86|wie oben, MarCom Prof oder MillimarTool verbindung moeglich||||
 
 
