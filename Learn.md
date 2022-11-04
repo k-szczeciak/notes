@@ -36,4 +36,4 @@ kursy:
 
 
 - big data, ML AI, AGI
-- jupiter
+- jupiter [getting started](https://www.youtube.com/watch?v=5pf0_bpNbkw)
