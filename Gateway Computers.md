@@ -24,10 +24,10 @@
 |3|![image](/img/onion_o2.png)|Omega Onion||||[Omega2 – Onion](https://onion.io/store/omega2/)|
 |-|![image](/img/onion_o2_dock.png)|Omega Onion||||[Mini Dock – Onion](https://onion.io/store/mini-dock/) |
 |-|![image](/img/onion_o2s.png)|Omega Onion|Sehr klein (34x20x2.8mm) und billig, pcb und gehause entwicklung noetig|||[Omega2S – Onion](https://onion.io/omega2s/) |
-|4|![[up-board_1.png]]|Intel (x86) Single Board Computer (SBC)| komplexe anvendung moeglich, mit database, www-server, kommunikation mit mehrere geraete, fortgeschrittene Algoritmen, EDGE computing, AI, ML...  ||>100eur|[up-core](https://up-board.org/upcore/specifications/)   [up-board, all](https://up-board.org/boards/)|
-|-|![[up-board_2.png]]|Intel (x86) Single Board Computer (SBC)|wie oben||>100eur|[systems](https://up-board.org/systems/)|
-|-||industrial computers | wie oben||||
-|-||industrial computers - DIN-rail mount| wie oben,||||
+|4|![[up-core_1.png]]|Intel (x86) Single Board Computer (SBC)| komplexe anvendung moeglich, mit database, www-server, kommunikation mit mehrere geraete, fortgeschrittene Algoritmen, EDGE computing, AI, ML...  ||>100eur|[up-core](https://up-board.org/upcore/specifications/)   [up-board, all](https://up-board.org/boards/)|
+|-|![[up-core_2.png]]|Intel (x86) Single Board Computer (SBC)|wie oben||>100eur|[up-core](https://up-board.org/upcore/specifications/)  [systems](https://up-board.org/systems/)|
+|-||industrial computers | wie oben||>500eur|[inpustrial-pc](https://www.industrial-computers.com/fanless-systems/)  [industrial-pc 2](https://www.onlogic.com/computers/industrial/)|
+|-||industrial computers - DIN-rail mount| wie oben,||>500eur||
 |-||industrial computers, custom design| wie oben,||||
 |5||tablet, x86|wie oben, MarCom Prof oder MillimarTool verbindung moeglich||||
 
