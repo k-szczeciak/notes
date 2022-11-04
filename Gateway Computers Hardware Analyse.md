@@ -1,7 +1,7 @@
 
 |#|Photo|Name|Beschreibung|Preiss|verfuegbarkeit|link|
 |-|-|-|-|-|-|-|
-|1|![image](img/NEO_LTS_1.png)|NEO LTS|von selbem Hersteller wie NEO3, klein, guenstig, mit Geheuse |ca 30 euro|verfuegbar|[nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132)|
+|1|![image](img/NEO_LTS_1.png)|NEO LTS|von selbem Hersteller wie NEO3, klein, guenstig, mit Geheuse |ca 30 euro|verfuegbar|[nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132)  [andere produkte](https://www.friendlyelec.com/index.php?route=common/home)|
 |-|![image](/img/NEO_DISPL.png)|NEO Dispaly|||verfuegbar|[display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)|
 |-|![[Pasted image 20221103154938.png]]|NEO LTS + Display + Metal Gehause||ca 50 euro|verfuegbar|[nanopi mit display und metal gehause](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)|
 |1|![[rpi3bp.png]]|Raspberry Pi | bekannt und guenstig|ca 50 eur|probleme mit verfuegbarkeit|[raspberry Pi 3, Model B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)|
@@ -12,9 +12,9 @@
 |-|![image](/img/onion_o2s.png)|Omega Onion|Sehr klein (34x20x2.8mm) und billig, pcb und gehause entwicklung noetig|ca 20eur|>1000 bei Mouser.de|[Omega2S – Onion](https://onion.io/omega2s/) |
 |4|![[up-core_1.png]]|Intel (x86) Single Board Computer (SBC), kleinest|kleineste intel rechner. Mit intel rechner, komplexe anvendung moeglich, mit database, www-server, kommunikation mit mehrere geraete, fortgeschrittene Algoritmen, EDGE computing, AI, ML...  MarCom Prof oder MillimarTool anwendung moeglich|ca 100 euro| verfuegbar|[up-core](https://up-board.org/upcore/specifications/)   [up-board, all](https://up-board.org/boards/)|
 |-|![[up-core_2.png]]|Intel (x86) Single Board Computer (SBC)|wie oben mit gehaeuse|ca 150eur||[up-core](https://up-board.org/upcore/specifications/)  [systems](https://up-board.org/systems/)|
-|-|![[industrial_pc.png]]|industrial computers | Intel rechner|>500 eur||[inpustrial-pc](https://www.industrial-computers.com/fanless-systems/)  [industrial-pc 2](https://www.onlogic.com/computers/industrial/)|
-|-|![[din-rail_pc.png]]|industrial computers - DIN-rail mount| wie oben|>500eur||[link](https://omtec.de/en/industrial-pc/rugged-embedded/din-rail-pc/poc-40)|
-|5|![[fujitsu.png]]|terminal computers |nicht robust|>300 eur||[fujitsu](https://www.fujitsu.com/de/products/computing/pc/notebooks/)|
+|-|![[industrial_pc.png]]|industrial computers | Intel rechner, robust passiv gekuehlt|>500 eur||[inpustrial-pc](https://www.industrial-computers.com/fanless-systems/)  [industrial-pc 2](https://www.onlogic.com/computers/industrial/)|
+|-|![[din-rail_pc.png]]|industrial computers - DIN-rail mount| wie oben, nur DIN-schienenmontage|>500eur||[link](https://omtec.de/en/industrial-pc/rugged-embedded/din-rail-pc/poc-40)|
+|5|![[fujitsu.png]]|terminal computers |nicht robust, standard biuro gehaeuse|>300 eur||[fujitsu](https://www.fujitsu.com/de/products/computing/pc/notebooks/)|
 |6|![[tablet.png]]|industrieles tablet, x86|wie oben|>500 eur|||
 
 
