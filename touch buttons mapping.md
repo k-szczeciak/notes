@@ -8,3 +8,6 @@
 |  Button 6  |     P9.1      |      P2.2      | **ON** | **ON** | **ON** | **ON** | **ON** | **ON** | **ON**  | **ON**  |
 
 
+$$
+f(x) = \int_{-\infty}^{\infty}\hat f(\xi)\,e^{2\pi i \xi x}\,d\xi
+$$
