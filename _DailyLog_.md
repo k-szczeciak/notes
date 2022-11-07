@@ -1,5 +1,5 @@
 go back to [[_START_]]
-- [[previous activity]]
+- [[2022.10.06 - 2022.10.14]]
 - [[2022-10-17]]
 - [[2022-10-18]]
 - [[2022-10-19]]
@@ -11,7 +11,8 @@ go back to [[_START_]]
 - [[2022-10-27]]
 - [[2022-10-28]]
 - [[2022-11-02]]
-- 
+- [[2022-11-03]]
+- [[2022-11-04]]
 next:
 - wyjscie w odpowiedzi na przerwaie
 https://en.wikipedia.org/wiki/SOLID

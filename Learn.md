@@ -33,3 +33,20 @@ kursy:
 - [list bootcamow warszawa](https://codeberryschool.com/blog/pl/top-kursow-programowania-w-warszawie/)
 - [big data](https://podyplomowe.pja.edu.pl/big-data-inzynieria-duzych-zbiorow-danych/)
 - 
+
+
+- big data, ML AI, AGI
+- jupiter [getting started](https://www.youtube.com/watch?v=5pf0_bpNbkw), [quick start](https://www.youtube.com/watch?v=7wf1HhYQiDg)
+[pros](https://www.youtube.com/watch?v=zai2pLUD9FA)
+
+
+AI frameworks:
+- tensor flow
+- pandas [pandas](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
+- [colral](https://www.coral.ai/)
+
+
+3D object in wpfg: [yt](https://www.youtube.com/watch?v=xg0p-5TJ46k)
+
+
+[math in md, wzory i rysunki](https://upmath.me/)  !!!
