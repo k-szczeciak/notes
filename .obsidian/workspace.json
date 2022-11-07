@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "touch buttons mapping.md",
+                "file": "usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "touch buttons mapping.md",
+                "file": "usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "touch buttons mapping.md",
+                "file": "usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "touch buttons mapping.md"
+                "file": "usefull URLs.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "32290d6336a0dc73",
   "lastOpenFiles": [
+    "touch buttons mapping.md",
     "daily/2022-11-07.md",
     "_DailyLog_.md",
     "usefull URLs.md",
@@ -159,7 +160,6 @@
     "daily/2022-11-02.md",
     "_START_.md",
     "daily/previous activity.md",
-    "Ausrüstung.md",
-    "Gateway Computers.md"
+    "Ausrüstung.md"
   ]
 }
