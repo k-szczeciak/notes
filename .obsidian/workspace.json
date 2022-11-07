@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finanse.md",
+                "file": "2022-11-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finanse.md",
+                "file": "2022-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "finanse.md",
+                "file": "2022-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finanse.md"
+                "file": "2022-11-07.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "ac137e16e9616910",
   "lastOpenFiles": [
+    "finanse.md",
     "conflict-files-obsidian-git.md",
     "_DailyLog_.md",
     "daily/2022-11-02.md",
@@ -146,7 +147,6 @@
     "Ausrüstung.md",
     "Gateway Computers.md",
     "MarCator.md",
-    "projects.md",
-    "Alfa.md"
+    "projects.md"
   ]
 }
