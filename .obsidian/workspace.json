@@ -11,11 +11,9 @@
             "id": "d214b39052b31cb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MarCator.md",
-                "mode": "source",
-                "source": false
+                "file": "touch buttons mapping.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator.md",
+                "file": "touch buttons mapping.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator.md",
+                "file": "touch buttons mapping.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator.md"
+                "file": "touch buttons mapping.pdf"
               }
             }
           }
@@ -138,15 +136,15 @@
   },
   "active": "d214b39052b31cb0",
   "lastOpenFiles": [
+    "touch buttons mapping.md",
+    "touch buttons mapping.pdf",
+    "Gateway Computers Hardware Analyse.md",
+    "Gateway Computers Hardware Analyse.pdf",
+    "MarCator.md",
     "projects.md",
     "Temp links.md",
     "todo.md",
-    "touch buttons mapping.md",
     "Alfa.md",
-    "Ausrüstung.md",
-    "chart.md",
-    "finanse.md",
-    "google Tensor Flow.md",
-    "interface.md"
+    "Ausrüstung.md"
   ]
 }
