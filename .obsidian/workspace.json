@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3be6cb86da15dbb9",
+        "id": "411ecca318798048",
         "type": "tabs",
         "children": [
           {
-            "id": "a1e4b79cfa282a3b",
+            "id": "d214b39052b31cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DailyLog_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "defc4c0b7f72c155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b92c189719bcc42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gateway Computers Hardware Analyse.md",
+                "file": "interface.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gateway Computers Hardware Analyse.md",
+                "file": "interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gateway Computers Hardware Analyse.md",
+                "file": "interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gateway Computers Hardware Analyse.md"
+                "file": "interface.md"
               }
             }
           }
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b92c189719bcc42",
+  "active": "d214b39052b31cb0",
   "lastOpenFiles": [
-    "Pasted image 20221108130901.png",
-    "Pasted image 20221103154938.png",
-    "Pasted image 20221108120007.png",
-    "Pasted image 20221108120001.png",
-    "Pasted image 20221103155046.png",
-    "interface.md",
     "2022-11-08.md",
-    "chart.md",
-    "_DailyLog_.md",
-    "_START_.md"
+    "Pasted image 20221108130901.png",
+    "Gateway Computers Hardware Analyse.md",
+    "Gateway Computers Hardware Analyse.pdf",
+    "projects.md",
+    "private notes.md",
+    "Temp links.md",
+    "todo.md",
+    "touch buttons mapping.md",
+    "touch buttons mapping.pdf"
   ]
 }

@@ -3,7 +3,7 @@
 |-|-|-|-|-|-|-|
 |1|![image](img/NEO_LTS_1.png)|NEO LTS|von selbem Hersteller wie NEO3, klein, guenstig, mit Geheuse |ca 30 euro|verfuegbar|[nanopi NEO-LTS](https://www.friendlyelec.com/index.php?route=product/product&path=69&product_id=132)  [andere produkte](https://www.friendlyelec.com/index.php?route=common/home)|
 |-|![image](/img/NEO_DISPL.png)|NEO Dispaly|||verfuegbar|[display](https://www.friendlyelec.com/index.php?route=product/product&product_id=191)|
-|-|![[Pasted image 20221103154938.png]]|NEO LTS + Display + Metal Gehause||ca 50 euro|verfuegbar|[nanopi mit display und metal gehause](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)|
+|-|![[/img/NEO_LTS_METAL.png]]|NEO LTS + Display + Metal Gehause||ca 50 euro|verfuegbar|[nanopi mit display und metal gehause](https://www.friendlyelec.com/index.php?route=product/product&product_id=190)|
 |1|![[rpi3bp.png]]|Raspberry Pi | bekannt und guenstig|ca 50 eur|probleme mit verfuegbarkeit|[raspberry Pi 3, Model B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)|
 |-|![image](/img/rpi3bp_metal.png)|Raspberry pi with Metal housing|bekannt und guenstig||probleme mit verfuegbarkeit|[Metallgehäuse Raspberry Pi 3 - schwarz](https://de.farnell.com/gothenburg-designs/110218b/metal-case-for-raspberry-pi-3/dp/3404375?ost=110218b)|
 |2|![image](/img/rpizerow.png)| Raspberry pi zero W |bekant un guenstig, fehlt ethernet steckdose|ca 30 eur|probleme mit verfuegbarkeit|[raspberry pi zero w]([Raspberry Pi Zero 2 W – Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/))|
