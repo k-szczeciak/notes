@@ -13,6 +13,8 @@ go back to [[_START_]]
 - [[2022-11-02]]
 - [[2022-11-03]]
 - [[2022-11-04]]
+- [[2022-11-07]]
+- 
 next:
 - wyjscie w odpowiedzi na przerwaie
 https://en.wikipedia.org/wiki/SOLID
