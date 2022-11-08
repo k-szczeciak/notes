@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interface.md",
+                "file": "MarCator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interface.md",
+                "file": "MarCator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interface.md",
+                "file": "MarCator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interface.md"
+                "file": "MarCator.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "d214b39052b31cb0",
   "lastOpenFiles": [
-    "2022-11-08.md",
-    "Pasted image 20221108130901.png",
-    "Gateway Computers Hardware Analyse.md",
-    "Gateway Computers Hardware Analyse.pdf",
     "projects.md",
-    "private notes.md",
     "Temp links.md",
     "todo.md",
     "touch buttons mapping.md",
-    "touch buttons mapping.pdf"
+    "Alfa.md",
+    "Ausrüstung.md",
+    "chart.md",
+    "finanse.md",
+    "google Tensor Flow.md",
+    "interface.md"
   ]
 }
