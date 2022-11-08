@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c10a0b21cd261cc",
+        "id": "3be6cb86da15dbb9",
         "type": "tabs",
         "children": [
           {
-            "id": "ac137e16e9616910",
+            "id": "a1e4b79cfa282a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "touch buttons mapping.md",
+                "file": "usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "touch buttons mapping.md",
+                "file": "usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "touch buttons mapping.md",
+                "file": "usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "touch buttons mapping.md"
+                "file": "usefull URLs.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac137e16e9616910",
+  "active": "a1e4b79cfa282a3b",
   "lastOpenFiles": [
-    "daily/2022-11-07.md",
-    "touch buttons mapping.md",
     "_DailyLog_.md",
     "usefull URLs.md",
-    "finanse.md",
-    "conflict-files-obsidian-git.md",
-    "daily/2022-11-02.md",
-    "_START_.md",
-    "daily/previous activity.md",
-    "Ausrüstung.md"
+    "daily/2022-11-04.md",
+    "Gateway Computers Hardware Analyse.md",
+    "Learn.md",
+    "daily/2022-11-03.md",
+    "[.md",
+    "daily/2022.10.06 - 2022.10.14.md",
+    "daily/2022-10-18.md",
+    "daily/2022-10-28.md"
   ]
 }
