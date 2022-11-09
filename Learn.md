@@ -53,4 +53,8 @@ AI frameworks:
 
 Learn Now:
 - [YT writting better embedded systems C++](https://www.youtube.com/watch?v=3VtGCPIoBfs)
-- 
+- GIT
+
+
+IDEA:
+- make courses for udemy, free or paied, four your own record, e.g. tworzenie pliku jezykowego do C1202
