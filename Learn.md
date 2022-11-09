@@ -56,6 +56,7 @@ Learn Now:
 - [Mosch](https://codewithmosh.com/)
 	- [GIT](https://codewithmosh.com/p/the-ultimate-git-course)
 	- [docker](https://codewithmosh.com/p/the-ultimate-docker-course)
+- [Gitlab](https://www.youtube.com/watch?v=qP8kir2GUgo)
 - 
 
 
