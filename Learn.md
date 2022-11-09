@@ -53,7 +53,9 @@ AI frameworks:
 
 Learn Now:
 - [YT writting better embedded systems C++](https://www.youtube.com/watch?v=3VtGCPIoBfs)
-- [GIT](https://codewithmosh.com/p/the-ultimate-git-course)
+- [Mosch](https://codewithmosh.com/)
+	- [GIT](https://codewithmosh.com/p/the-ultimate-git-course)
+	- [docker](https://codewithmosh.com/p/the-ultimate-docker-course)
 - 
 
 
