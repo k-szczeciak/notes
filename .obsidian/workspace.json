@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn.md",
+                "file": "C1202.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "C1202.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "C1202.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "C1202.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "00ea4ad6897beb01",
   "lastOpenFiles": [
+    "Learn.md",
     "C1202.md",
     "Ausrüstung.md",
-    "Learn.md",
     "MarCator.md",
     "private notes.md",
     "projects.md",
