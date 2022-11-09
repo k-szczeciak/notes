@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kompy.md",
+                "file": "MarCator.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kompy.md",
+                "file": "MarCator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kompy.md",
+                "file": "MarCator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kompy.md"
+                "file": "MarCator.md"
               }
             }
           }
@@ -164,14 +164,14 @@
   "active": "00ea4ad6897beb01",
   "lastOpenFiles": [
     "private notes.md",
+    "MarCator.md",
+    "projects.md",
     "_START_.md",
+    "kompy.md",
     "daily/2022-11-09.md",
     "_DailyLog_.md",
     "daily/2022-11-08.md",
     "usefull URLs.md",
-    "touch buttons mapping.md",
-    "daily/2022-11-07.md",
-    "finanse.md",
-    "conflict-files-obsidian-git.md"
+    "touch buttons mapping.md"
   ]
 }

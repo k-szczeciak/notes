@@ -12,4 +12,8 @@
 funkcje menue:
 - off timer
 - units
+
+
+links:
+- [dokumentation](\\essfs01\Abteilungen\Entwicklung\Elektronik\Projekte\Messuhr 1086-87RF\Dokumentation)
 - 
