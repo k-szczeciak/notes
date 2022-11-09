@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "2022-11-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "2022-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "2022-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "usefull URLs.md"
+                "file": "2022-11-08.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "ac137e16e9616910",
   "lastOpenFiles": [
+    "usefull URLs.md",
     "touch buttons mapping.md",
     "daily/2022-11-07.md",
     "_DailyLog_.md",
-    "usefull URLs.md",
     "finanse.md",
     "conflict-files-obsidian-git.md",
     "daily/2022-11-02.md",
