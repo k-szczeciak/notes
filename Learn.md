@@ -59,6 +59,8 @@ Learn Now:
 - [Gitlab](https://www.youtube.com/watch?v=qP8kir2GUgo)
 - [azure devops](https://www.youtube.com/watch?v=4BibQ69MD8c)
 - [CUnit in CSS](https://www.youtube.com/watch?v=3Ri4SZCnzQo)
+- [C code docs](https://www.slant.co/topics/4160/~open-source-documentation-generators-for-c-c)
+- 
 
 IDEA:
 - make courses for udemy, free or paied, four your own record, e.g. tworzenie pliku jezykowego do C1202
