@@ -53,8 +53,14 @@ AI frameworks:
 
 Learn Now:
 - [YT writting better embedded systems C++](https://www.youtube.com/watch?v=3VtGCPIoBfs)
-- GIT
+- [GIT](https://codewithmosh.com/p/the-ultimate-git-course)
+- 
 
 
 IDEA:
 - make courses for udemy, free or paied, four your own record, e.g. tworzenie pliku jezykowego do C1202
+
+
+pytania do Mario:
+- jakie uzywa notatki (symbol podobny do gitlab)
+- jakie uzywal unit testy
