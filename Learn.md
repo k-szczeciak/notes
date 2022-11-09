@@ -50,3 +50,7 @@ AI frameworks:
 
 
 [math in md, wzory i rysunki](https://upmath.me/)  !!!
+
+Learn Now:
+- [YT writting better embedded systems C++](https://www.youtube.com/watch?v=3VtGCPIoBfs)
+- 

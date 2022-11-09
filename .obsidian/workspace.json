@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarCator.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "00ea4ad6897beb01",
   "lastOpenFiles": [
-    "private notes.md",
     "MarCator.md",
+    "private notes.md",
     "projects.md",
     "_START_.md",
     "kompy.md",
