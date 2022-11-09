@@ -1,2 +1,3 @@
 - [[job search]]
 - [[zakupy]]
+- [[kompy]]
