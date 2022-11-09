@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c10a0b21cd261cc",
+        "id": "411ecca318798048",
         "type": "tabs",
         "children": [
           {
-            "id": "ac137e16e9616910",
+            "id": "d214b39052b31cb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "touch buttons mapping.md",
-                "mode": "source",
-                "source": false
+                "file": "touch buttons mapping.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "touch buttons mapping.md",
+                "file": "touch buttons mapping.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "touch buttons mapping.md",
+                "file": "touch buttons mapping.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "touch buttons mapping.md"
+                "file": "touch buttons mapping.pdf"
               }
             }
           }
@@ -136,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac137e16e9616910",
+  "active": "d214b39052b31cb0",
   "lastOpenFiles": [
-    "daily/2022-11-07.md",
     "touch buttons mapping.md",
-    "_DailyLog_.md",
-    "usefull URLs.md",
-    "finanse.md",
-    "conflict-files-obsidian-git.md",
-    "daily/2022-11-02.md",
-    "_START_.md",
-    "daily/previous activity.md",
+    "touch buttons mapping.pdf",
+    "Gateway Computers Hardware Analyse.md",
+    "Gateway Computers Hardware Analyse.pdf",
+    "MarCator.md",
+    "projects.md",
+    "Temp links.md",
+    "todo.md",
+    "Alfa.md",
     "Ausrüstung.md"
   ]
 }
