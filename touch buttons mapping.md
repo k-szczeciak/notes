@@ -5,7 +5,7 @@
 |  Button 3  |     P9.4      |      P1.0      |  OFF   |  OFF   | **ON** |  OFF   |  OFF   |  OFF   | **ON**  | **ON**  |
 |  Button 4  |     P9.3      |      P1.1      |  OFF   |  OFF   |  OFF   | **ON** |  OFF   |  OFF   | **ON**  | **ON**  |
 |  Button 5  |     P9.2      |      P1.2      |  OFF   |  OFF   |  OFF   |  OFF   | **ON** |  OFF   | **ON**  | **ON**  |
-|  Button 6  |     P9.1 & P1.1      |      P2.2      | **ON** | **ON** | **ON** | **ON** | **ON** | **ON** | **ON**  | **ON**  |
+|  Button 6  | P9.1 & P1.1      |      P2.2      | **ON** | **ON** | **ON** | **ON** | **ON** | **ON** | **ON**  | **ON**  |
 
 
 
