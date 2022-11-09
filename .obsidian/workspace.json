@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "411ecca318798048",
+        "id": "0c10a0b21cd261cc",
         "type": "tabs",
         "children": [
           {
-            "id": "d214b39052b31cb0",
+            "id": "ac137e16e9616910",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "touch buttons mapping.pdf"
+                "file": "usefull URLs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "touch buttons mapping.pdf",
+                "file": "usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "touch buttons mapping.pdf",
+                "file": "usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "touch buttons mapping.pdf"
+                "file": "usefull URLs.md"
               }
             }
           }
@@ -134,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d214b39052b31cb0",
+  "active": "ac137e16e9616910",
   "lastOpenFiles": [
     "touch buttons mapping.md",
-    "touch buttons mapping.pdf",
-    "Gateway Computers Hardware Analyse.md",
-    "Gateway Computers Hardware Analyse.pdf",
-    "MarCator.md",
-    "projects.md",
-    "Temp links.md",
-    "todo.md",
-    "Alfa.md",
+    "daily/2022-11-07.md",
+    "_DailyLog_.md",
+    "usefull URLs.md",
+    "finanse.md",
+    "conflict-files-obsidian-git.md",
+    "daily/2022-11-02.md",
+    "_START_.md",
+    "daily/previous activity.md",
     "Ausrüstung.md"
   ]
 }
