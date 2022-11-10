@@ -82,6 +82,7 @@ linux embeded
 rpi dual core
 iMX - board
 fpga
+mit study lub polibuda
 
 buy:
 xillix
