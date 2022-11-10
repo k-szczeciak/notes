@@ -80,6 +80,12 @@ microcontroller with external memory
 linux embeded
 [kursy](https://www.youtube.com/c/digikey/playlists)
 rpi dual core
+iMX - board
+fpga
+
+buy:
+xillix
+imx board
 
 
 ## books
