@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0c10a0b21cd261cc",
+        "id": "411ecca318798048",
         "type": "tabs",
         "children": [
           {
-            "id": "ac137e16e9616910",
+            "id": "d214b39052b31cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DailyLog_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a5ac26a7695d4db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00ea4ad6897beb01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1202.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C1202.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C1202.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C1202.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00ea4ad6897beb01",
+  "active": "d214b39052b31cb0",
   "lastOpenFiles": [
-    "Learn.md",
-    "C1202.md",
-    "Ausrüstung.md",
+    "touch buttons mapping.pdf",
+    "touch buttons mapping.md",
+    "Gateway Computers Hardware Analyse.md",
+    "Gateway Computers Hardware Analyse.pdf",
     "MarCator.md",
-    "private notes.md",
     "projects.md",
-    "_START_.md",
-    "kompy.md",
-    "daily/2022-11-09.md",
-    "_DailyLog_.md"
+    "Temp links.md",
+    "todo.md",
+    "Alfa.md",
+    "Ausrüstung.md"
   ]
 }
