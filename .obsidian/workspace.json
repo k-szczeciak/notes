@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn.md",
+                "file": "usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "usefull URLs.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "d214b39052b31cb0",
   "lastOpenFiles": [
+    "Learn.md",
     "touch buttons mapping.pdf",
     "touch buttons mapping.md",
     "Gateway Computers Hardware Analyse.md",
@@ -146,7 +147,6 @@
     "projects.md",
     "Temp links.md",
     "todo.md",
-    "Alfa.md",
-    "Ausrüstung.md"
+    "Alfa.md"
   ]
 }
