@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81e3577204c82ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kompy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private notes.md",
+                "file": "kompy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private notes.md",
+                "file": "kompy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private notes.md"
+                "file": "kompy.md"
               }
             }
           }
@@ -136,12 +149,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d214b39052b31cb0",
+  "active": "81e3577204c82ee3",
   "lastOpenFiles": [
-    "_START_.md",
     "zakupy.md",
-    "kompy.md",
     "private notes.md",
+    "_START_.md",
+    "kompy.md",
     "_DailyLog_.md",
     "usefull URLs.md",
     "2022-11-10.md",
