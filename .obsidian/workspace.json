@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-10.md",
+                "file": "private notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-10.md",
+                "file": "private notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-10.md",
+                "file": "private notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-10.md"
+                "file": "private notes.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "d214b39052b31cb0",
   "lastOpenFiles": [
+    "_START_.md",
+    "zakupy.md",
+    "kompy.md",
+    "private notes.md",
+    "_DailyLog_.md",
     "usefull URLs.md",
+    "2022-11-10.md",
     "Learn.md",
     "touch buttons mapping.pdf",
-    "touch buttons mapping.md",
-    "Gateway Computers Hardware Analyse.md",
-    "Gateway Computers Hardware Analyse.pdf",
-    "MarCator.md",
-    "projects.md",
-    "Temp links.md",
-    "todo.md"
+    "touch buttons mapping.md"
   ]
 }
