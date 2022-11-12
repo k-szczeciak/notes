@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "job search.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "job search.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "job search.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "job search.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "81e3577204c82ee3",
   "lastOpenFiles": [
+    "job search.md",
     "kompy.md",
     "zakupy.md",
     "private notes.md",
@@ -159,7 +160,6 @@
     "usefull URLs.md",
     "2022-11-10.md",
     "Learn.md",
-    "touch buttons mapping.pdf",
-    "touch buttons mapping.md"
+    "touch buttons mapping.pdf"
   ]
 }
