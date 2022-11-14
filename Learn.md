@@ -69,3 +69,25 @@ IDEA:
 pytania do Mario:
 - jakie uzywa notatki (symbol podobny do gitlab)
 - jakie uzywal unit testy
+
+
+## low level learnining
+[embedded engineer](https://stackoverflow.com/questions/17210254/embedded-developer-what-skills-are-important)
+embedded udemy 101
+[microcontroller in fpga](https://www.youtube.com/watch?v=eQQRoY0J12M)
+praca mobica
+microcontroller with external memory
+linux embeded
+[kursy](https://www.youtube.com/c/digikey/playlists)
+rpi dual core
+iMX - board
+fpga
+mit study lub polibuda
+
+buy:
+xillix
+imx board
+[C++ for C](https://www.coursera.org/learn/c-plus-plus-a?action=enroll#syllabus)
+
+## books
+[ARM microcontroller](https://www.amazon.de/-/pl/dp/B09PHBT859/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2A2RX6KEFIDVF&keywords=microcontrollers&qid=1668066818&sprefix=microcontrollers%2Caps%2C92&sr=8-1)
