@@ -8,3 +8,6 @@ Google Tech Lead:
 resources:
 [what team lead does](https://dev.to/ksaaskil/how-to-lead-an-engineering-team-at-google-32jg)
 
+
+online practice: [leetcode](https://leetcode.com/)
+
