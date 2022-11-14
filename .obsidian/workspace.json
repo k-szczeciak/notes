@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "14684790388742c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "description.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "description.md",
+                "file": "job search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "description.md",
+                "file": "job search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "description.md"
+                "file": "job search.md"
               }
             }
           }
@@ -149,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14684790388742c0",
+  "active": "ac137e16e9616910",
   "lastOpenFiles": [
+    "description.md",
     "job search.md",
     "daily/2022-11-14.md",
     "_DailyLog_.md",
@@ -159,7 +147,6 @@
     "daily/2022-11-08.md",
     "private notes.md",
     "usefull URLs.md",
-    "conflict-files-obsidian-git.md",
-    "C1202.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

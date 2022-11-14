@@ -5,3 +5,6 @@
 
 Google Tech Lead:
 [[description]]
+resources:
+[what team lead does](https://dev.to/ksaaskil/how-to-lead-an-engineering-team-at-google-32jg)
+
