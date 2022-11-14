@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private notes.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "podatki DE.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "podatki DE.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "podatki DE.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -149,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aecf19e35542ff91",
+  "active": "ac137e16e9616910",
   "lastOpenFiles": [
+    "MarCator.md",
     "private notes.md",
+    "podatki DE.md",
     "_START_.md",
     "job search.md",
     "description.md",
     "daily/2022-11-14.md",
     "_DailyLog_.md",
     "daily/2022-11-10.md",
-    "daily/2022-11-09.md",
-    "daily/2022-11-08.md",
-    "usefull URLs.md"
+    "daily/2022-11-09.md"
   ]
 }

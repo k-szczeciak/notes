@@ -91,3 +91,9 @@ imx board
 
 ## books
 [ARM microcontroller](https://www.amazon.de/-/pl/dp/B09PHBT859/ref=sr_1_1?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2A2RX6KEFIDVF&keywords=microcontrollers&qid=1668066818&sprefix=microcontrollers%2Caps%2C92&sr=8-1)
+
+
+[C++ for C](https://www.youtube.com/watch?v=Mkg2fpKD1KI)
+[C++ data strucs](https://www.educative.io/blog/cpp-data-structures-interview-prep)
+[data structures in C](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
+[struct](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
