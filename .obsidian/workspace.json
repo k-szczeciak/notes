@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-14.md",
+                "file": "job search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14684790388742c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "description.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-14.md",
+                "file": "description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-14.md",
+                "file": "description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-14.md"
+                "file": "description.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac137e16e9616910",
+  "active": "14684790388742c0",
   "lastOpenFiles": [
+    "job search.md",
+    "daily/2022-11-14.md",
     "_DailyLog_.md",
     "daily/2022-11-10.md",
-    "daily/2022-11-14.md",
     "daily/2022-11-09.md",
     "daily/2022-11-08.md",
     "private notes.md",
     "usefull URLs.md",
     "conflict-files-obsidian-git.md",
-    "C1202.md",
-    "Learn.md"
+    "C1202.md"
   ]
 }

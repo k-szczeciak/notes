@@ -3,3 +3,5 @@
 	- BOSCH
 	- zaproszenie na rozmowe kwalifikacyjna 27.10.2022 Teams 10:00
 
+Google Tech Lead:
+[[description]]
