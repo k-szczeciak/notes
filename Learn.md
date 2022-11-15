@@ -97,3 +97,5 @@ imx board
 [C++ data strucs](https://www.educative.io/blog/cpp-data-structures-interview-prep)
 [data structures in C](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 [struct](https://www.geeksforgeeks.org/mutex-vs-semaphore/)
+[c++ vs java](https://www.geeksforgeeks.org/similarities-and-difference-between-java-and-c/)
+[leetcode](https://leetcode.com/)
