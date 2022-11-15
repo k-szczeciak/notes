@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "01e3a199f94e6110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceab7d6340c6f60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ausrüstung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aecf19e35542ff91",
             "type": "leaf",
             "state": {
@@ -150,15 +174,15 @@
   },
   "active": "ac137e16e9616910",
   "lastOpenFiles": [
-    "MarCator.md",
-    "private notes.md",
-    "podatki DE.md",
+    "kompy.md",
+    "Tools.md",
     "_START_.md",
-    "job search.md",
-    "description.md",
-    "daily/2022-11-14.md",
+    "usefull URLs.md",
+    "finanse.md",
+    "private notes.md",
+    "Ausrüstung.md",
     "_DailyLog_.md",
-    "daily/2022-11-10.md",
-    "daily/2022-11-09.md"
+    "daily/2022-11-15.md",
+    "Learn.md"
   ]
 }

@@ -18,6 +18,7 @@ go back to [[_START_]]
 - [[2022-11-09]]
 - [[2022-11-10]]
 - [[2022-11-14]]
+- [[2022-11-15]]
 - 
 next:
 - wyjscie w odpowiedzi na przerwaie
