@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahr Gitlab.md",
+                "file": "usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mahr Gitlab.md",
+                "file": "usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mahr Gitlab.md",
+                "file": "usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mahr Gitlab.md"
+                "file": "usefull URLs.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "aee25c78c78b562a",
   "lastOpenFiles": [
+    "Mahr Gitlab.md",
     "services.md",
     "_START_.md",
     "private notes.md",
@@ -159,7 +160,6 @@
     "Tools.md",
     "Ausrüstung.md",
     "podatki DE.md",
-    "kompy.md",
-    "finanse.md"
+    "kompy.md"
   ]
 }

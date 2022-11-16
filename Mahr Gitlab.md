@@ -14,4 +14,6 @@ eb41a2e5e0932a26
 - login: szczeciak
 - pass: as for main comp
 - email: krzysztof.szczeciak@mahr.com
+- url: [gitlab.mahr.com](gitlab.mahr.com)
+- 
 - 

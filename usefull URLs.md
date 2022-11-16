@@ -3,4 +3,5 @@
 	- [e.veritas](https://www.emailveritas.com/url-checker)
 - [bnp ppk](https://sti24.tfi.bnpparibas.pl/client/login)
 - komputery przemyslowe [CSI](https://sklep.csi.pl/49-komputery-up-up-square-up-core?orderby=price&orderway=asc&orderway=asc)
+- [gitlab.mahr.com](gitlab.mahr.com)
 - 
