@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "job search.md",
+                "file": "Mahr Gitlab.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "job search.md",
+                "file": "Mahr Gitlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "job search.md",
+                "file": "Mahr Gitlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "job search.md"
+                "file": "Mahr Gitlab.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "ac551fbd53ac0803",
   "lastOpenFiles": [
+    "services.md",
+    "_START_.md",
+    "job search.md",
     "_DailyLog_.md",
     "daily/2022-11-16.md",
     "daily/2022-11-15.md",
     "Mahr Gitlab.md",
-    "services.md",
-    "_START_.md",
     "Learn.md",
     "usefull URLs.md",
-    "private notes.md",
-    "Tools.md"
+    "private notes.md"
   ]
 }
