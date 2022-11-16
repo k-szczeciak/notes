@@ -15,5 +15,5 @@ eb41a2e5e0932a26
 - pass: as for main comp
 - email: krzysztof.szczeciak@mahr.com
 - url: [gitlab.mahr.com](gitlab.mahr.com)
-- 
+- [generateKey in PS](https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/generate-ssh-key-pair.html)
 - 

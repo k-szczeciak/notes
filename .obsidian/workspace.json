@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn.md",
+                "file": "services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac551fbd53ac0803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mahr Gitlab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "Mahr Gitlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "Mahr Gitlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "Mahr Gitlab.md"
               }
             }
           }
@@ -149,14 +161,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aee25c78c78b562a",
+  "active": "ac551fbd53ac0803",
   "lastOpenFiles": [
-    "usefull URLs.md",
-    "Mahr Gitlab.md",
     "services.md",
     "_START_.md",
-    "private notes.md",
     "Learn.md",
+    "usefull URLs.md",
+    "Mahr Gitlab.md",
+    "private notes.md",
     "Tools.md",
     "Ausrüstung.md",
     "podatki DE.md",
