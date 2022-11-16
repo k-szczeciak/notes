@@ -100,3 +100,4 @@ imx board
 [c++ vs java](https://www.geeksforgeeks.org/similarities-and-difference-between-java-and-c/)
 [leetcode](https://leetcode.com/)
 
+[gitlab tutorial](https://www.youtube.com/watch?v=8aV5AxJrHDg)

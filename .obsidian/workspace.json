@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "usefull URLs.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "usefull URLs.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -151,11 +151,11 @@
   },
   "active": "aee25c78c78b562a",
   "lastOpenFiles": [
+    "usefull URLs.md",
     "Mahr Gitlab.md",
     "services.md",
     "_START_.md",
     "private notes.md",
-    "usefull URLs.md",
     "Learn.md",
     "Tools.md",
     "Ausrüstung.md",
