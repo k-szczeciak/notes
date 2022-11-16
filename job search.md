@@ -11,3 +11,9 @@ resources:
 
 online practice: [leetcode](https://leetcode.com/)
 
+obecnie aktywne:
+- Bosch
+- Google
+- linkedin 2x
+- xing schweitz
+- 
