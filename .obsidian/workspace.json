@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-18.md",
+                "file": "daily/2022-11-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-18.md",
+                "file": "private notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-18.md",
+                "file": "private notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-18.md"
+                "file": "private notes.md"
               }
             }
           }
@@ -161,8 +160,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "feb829dc2bfc0a32",
+  "active": "d214b39052b31cb0",
   "lastOpenFiles": [
+    "daily/2022-11-18.md",
     "daily/2022-11-17.md",
     "_DailyLog_.md",
     "Learn.md",
@@ -171,7 +171,6 @@
     "zakupy.md",
     "private notes.md",
     "_START_.md",
-    "usefull URLs.md",
-    "2022-11-10.md"
+    "usefull URLs.md"
   ]
 }
