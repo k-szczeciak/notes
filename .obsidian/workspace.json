@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "0c10a0b21cd261cc",
+        "id": "411ecca318798048",
         "type": "tabs",
         "children": [
           {
-            "id": "ac137e16e9616910",
+            "id": "d214b39052b31cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services.md",
+                "file": "private notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aee25c78c78b562a",
+            "id": "81e3577204c82ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services.md",
+                "file": "_DailyLog_.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac551fbd53ac0803",
+            "id": "feb829dc2bfc0a32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn.md",
+                "file": "2022-11-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "2022-11-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "2022-11-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "2022-11-18.md"
               }
             }
           }
@@ -161,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac551fbd53ac0803",
+  "active": "feb829dc2bfc0a32",
   "lastOpenFiles": [
-    "Mahr Gitlab.md",
-    "services.md",
-    "_START_.md",
-    "job search.md",
+    "daily/2022-11-17.md",
     "_DailyLog_.md",
-    "daily/2022-11-16.md",
-    "daily/2022-11-15.md",
     "Learn.md",
+    "job search.md",
+    "kompy.md",
+    "zakupy.md",
+    "private notes.md",
+    "_START_.md",
     "usefull URLs.md",
-    "private notes.md"
+    "2022-11-10.md"
   ]
 }
