@@ -11,8 +11,10 @@
             "id": "d604acf5e5d26eb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf"
+              }
             }
           }
         ]
@@ -130,6 +136,7 @@
   },
   "active": "d604acf5e5d26eb9",
   "lastOpenFiles": [
+    "Alfa.md",
     "2020_podatki_DE/postbank_wyciagi_06.2019-08.2020/2019.07_PB_Kontoauszug_KtoNr_0000483133_06-09-2019_044949 (1).pdf",
     "podatki DE.md",
     "private notes.md",
@@ -138,7 +145,6 @@
     "services.md",
     "daily/2022-11-16.md",
     "_DailyLog_.md",
-    "daily/2022-11-21.md",
-    "daily/2022-11-18.md"
+    "daily/2022-11-21.md"
   ]
 }
