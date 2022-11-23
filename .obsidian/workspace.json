@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-22.md",
+                "file": "2022-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-22.md",
+                "file": "2022-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-22.md",
+                "file": "2022-11-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-22.md"
+                "file": "2022-11-23.md"
               }
             }
           }
@@ -138,6 +138,8 @@
   },
   "active": "d604acf5e5d26eb9",
   "lastOpenFiles": [
+    "2022-11-22.md",
+    "2022-11-23.md",
     "usefull URLs.md",
     "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
     "Alfa.md",
@@ -145,8 +147,6 @@
     "podatki DE.md",
     "private notes.md",
     "_START_.md",
-    "services.md",
-    "daily/2022-11-16.md",
-    "_DailyLog_.md"
+    "services.md"
   ]
 }
