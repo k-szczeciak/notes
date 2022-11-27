@@ -16,4 +16,8 @@ obecnie aktywne:
 - Google
 - linkedin 2x
 - xing schweitz
-- 
+
+
+odbyte rozmowy;
+- medima.pl:
+	- 

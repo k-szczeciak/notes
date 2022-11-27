@@ -101,3 +101,20 @@ imx board
 [leetcode](https://leetcode.com/)
 
 [gitlab tutorial](https://www.youtube.com/watch?v=8aV5AxJrHDg)
+
+
+IDEA:
+- wykorzystac IA do kariery
+
+studia h_ha:
+[[Modul_Electrical_Engineering_International_M.Sc.pdf]]
+
+
+embedded:
+- [interrupt](https://www.tutorialspoint.com/what-are-the-interrupt-stages-and-processing)
+- [bootup process](https://microcontrollerslab.com/microcontroller-booting-process-reset-sequence/)
+- [arm wiki](https://en.wikipedia.org/wiki/ARM_architecture_family)
+
+ksiazki: arm:
+- [embedded arm](https://www.amazon.de/s?k=arm+embedded&__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZR8A228YGMZO&sprefix=arm+embedded%2Caps%2C98&ref=nb_sb_noss_2)
+- 
