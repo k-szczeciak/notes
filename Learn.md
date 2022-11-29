@@ -117,4 +117,6 @@ embedded:
 
 ksiazki: arm:
 - [embedded arm](https://www.amazon.de/s?k=arm+embedded&__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2ZR8A228YGMZO&sprefix=arm+embedded%2Caps%2C98&ref=nb_sb_noss_2)
-- 
+
+
+algori
