@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-29.md",
+                "file": "_START_.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-29.md",
+                "file": "_START_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-29.md",
+                "file": "_START_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-29.md"
+                "file": "_START_.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
+    "Tools.md",
+    "todo.md",
+    "zakupy.md",
+    "2022-11-29.md",
     "_DailyLog_.md",
     "daily/2022-11-25.md",
     "daily/2022-11-24.md",
     "daily/2022-11-28.md",
     "daily/2022-11-23.md",
-    "daily/2022-11-22.md",
-    "usefull URLs.md",
-    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
-    "Alfa.md",
-    "2020_podatki_DE/postbank_wyciagi_06.2019-08.2020/2019.07_PB_Kontoauszug_KtoNr_0000483133_06-09-2019_044949 (1).pdf"
+    "daily/2022-11-22.md"
   ]
 }
