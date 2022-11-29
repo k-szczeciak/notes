@@ -4,3 +4,5 @@
 
 
 [[kompy]]
+
+[[ubrania]]
