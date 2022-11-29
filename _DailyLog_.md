@@ -23,6 +23,8 @@ go back to [[_START_]]
 - [[2022-11-17]]
 - [[2022-11-18]]
 - [[2022-11-21]]
+- [[2022-11-22]]
+- [[2022-11-23]]
 - 
 next:
 - wyjscie w odpowiedzi na przerwaie
