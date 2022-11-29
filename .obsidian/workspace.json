@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_START_.md",
+                "file": "private notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_START_.md",
+                "file": "private notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_START_.md",
+                "file": "private notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_START_.md"
+                "file": "private notes.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
+    "_START_.md",
     "Tools.md",
     "todo.md",
     "zakupy.md",
@@ -146,7 +147,6 @@
     "daily/2022-11-25.md",
     "daily/2022-11-24.md",
     "daily/2022-11-28.md",
-    "daily/2022-11-23.md",
-    "daily/2022-11-22.md"
+    "daily/2022-11-23.md"
   ]
 }

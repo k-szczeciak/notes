@@ -1,4 +1,5 @@
 - [[job search]]
 - [[zakupy]]
 - [[podatki DE]]
+- [display SPI step by step](https://forbot.pl/blog/kurs-stm32l4-kolorowy-wyswietlacz-tft-spi-id48620)
 - 
