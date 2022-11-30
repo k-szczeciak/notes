@@ -122,11 +122,19 @@ ksiazki: arm:
 algorithms:
 [course]([Advanced Algorithms (COMPSCI 224), Lecture 1 - YouTube](https://www.youtube.com/watch?v=0JUN9aDxVmI))
 
+[https://www.youtube.com/watch?v=0JUN9aDxVmI](https://deu01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0JUN9aDxVmI&data=05%7C01%7Ckrzysztof.szczeciak%40mahr.com%7C7d865b51fea34f0d89f408daccde8d5e%7C7d9a04f1547340a3b9c5186b23af51c5%7C0%7C0%7C638047553471603087%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YWRlB2TqTkk3Nbw9FwHM3QoU2OvF2bygNGz%2BoF4TVZc%3D&reserved=0)
+dynamic programming:
+[https://www.youtube.com/watch?v=OQ5jsbhAv_M](https://deu01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOQ5jsbhAv_M&data=05%7C01%7Ckrzysztof.szczeciak%40mahr.com%7C7d865b51fea34f0d89f408daccde8d5e%7C7d9a04f1547340a3b9c5186b23af51c5%7C0%7C0%7C638047553471603087%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EzOHcfSzoFhrF9hsnk%2BsozMbarcGOOl6UQWx7V5o6CU%3D&reserved=0)
+[https://www.youtube.com/watch?v=7lQXYl_L28w](https://deu01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7lQXYl_L28w&data=05%7C01%7Ckrzysztof.szczeciak%40mahr.com%7C08579e7d89c84e3e7a5008dacb449895%7C7d9a04f1547340a3b9c5186b23af51c5%7C0%7C0%7C638045792715904700%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nWuQLvG1uREYYj0L9fKiBzXE3j0Xi9KhqMDZaQtoc6Y%3D&reserved=0)
+
 
 quantum computer logic
 
 [advanced algs]([Advanced Algorithms (COMPSCI 224), Lecture 1 - YouTube](https://www.youtube.com/watch?v=0JUN9aDxVmI)) 40min
-
+c - data structures reprezentation [1](https://www.programiz.com/dsa/trees) [2](https://techvidvan.com/tutorials/binary-tree-in-c/) 
+[codewars](https://www.codewars.com/join?language=c)
+przygotowania do interview: online, udemy
+[1](https://www.regendus.com/best-leetcode-alternatives/) 
 
 [display from scratch](https://forbot.pl/blog/kurs-stm32l4-kolorowy-wyswietlacz-tft-spi-id48620)
 [displ](https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-3/1.14inch-lcd-module.htm)
@@ -134,4 +142,4 @@ quantum computer logic
 
 topiki:
 - volantile
-- pragma mem optimali, pragma gcc [1](https://codeforces.com/blog/entry/96344?f0a28=1) 
+- pragma mem optimali, pragma gcc [1](https://codeforces.com/blog/entry/96344?f0a28=1) [2](https://gcc.gnu.org/onlinedocs/cpp/Pragmas.html) [3](https://www.cprogramming.com/reference/preprocessor/pragma.html) [4](https://www.cprogramming.com/tutorial/cpreprocessor.html) 
