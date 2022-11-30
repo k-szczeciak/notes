@@ -124,3 +124,14 @@ algorithms:
 
 
 quantum computer logic
+
+[advanced algs]([Advanced Algorithms (COMPSCI 224), Lecture 1 - YouTube](https://www.youtube.com/watch?v=0JUN9aDxVmI)) 40min
+
+
+[display from scratch](https://forbot.pl/blog/kurs-stm32l4-kolorowy-wyswietlacz-tft-spi-id48620)
+[displ](https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-3/1.14inch-lcd-module.htm)
+
+
+topiki:
+- volantile
+- pragma mem optimali, pragma gcc [1](https://codeforces.com/blog/entry/96344?f0a28=1) 
