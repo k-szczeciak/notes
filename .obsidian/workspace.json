@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zakupy.md",
+                "file": "2022-12-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zakupy.md",
+                "file": "2022-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zakupy.md",
+                "file": "2022-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zakupy.md"
+                "file": "2022-12-01.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "d604acf5e5d26eb9",
   "lastOpenFiles": [
+    "zakupy.md",
     "2022-11-23.md",
     "2022-11-22.md",
     "usefull URLs.md",
@@ -146,7 +147,6 @@
     "2020_podatki_DE/postbank_wyciagi_06.2019-08.2020/2019.07_PB_Kontoauszug_KtoNr_0000483133_06-09-2019_044949 (1).pdf",
     "podatki DE.md",
     "private notes.md",
-    "_START_.md",
-    "services.md"
+    "_START_.md"
   ]
 }
