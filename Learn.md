@@ -143,3 +143,9 @@ przygotowania do interview: online, udemy
 topiki:
 - volantile
 - pragma mem optimali, pragma gcc [1](https://codeforces.com/blog/entry/96344?f0a28=1) [2](https://gcc.gnu.org/onlinedocs/cpp/Pragmas.html) [3](https://www.cprogramming.com/reference/preprocessor/pragma.html) [4](https://www.cprogramming.com/tutorial/cpreprocessor.html) 
+
+
+
+bootcamp (macieja):
+[lowgular.io](https://courses.lowgular.edu.pl/courses/become-frontend-developer-angular-start) [1](https://lowgular.io/#)
+

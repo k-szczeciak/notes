@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-02.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-02.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-02.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-02.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
+    "2022-12-02.md",
     "usefull URLs.md",
     "Learn.md",
     "2022-11-30.md",
@@ -146,7 +147,6 @@
     "Tools.md",
     "todo.md",
     "zakupy.md",
-    "2022-11-29.md",
-    "_DailyLog_.md"
+    "2022-11-29.md"
   ]
 }
