@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-30.md",
+                "file": "daily/2022-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-30.md",
+                "file": "daily/2022-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-30.md",
+                "file": "daily/2022-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-30.md"
+                "file": "daily/2022-12-06.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   "active": "d604acf5e5d26eb9",
   "lastOpenFiles": [
     "_DailyLog_.md",
+    "daily/2022-11-30.md",
     "daily/2022-11-28.md",
     "daily/2022-11-24.md",
     "daily/2022-11-23.md",
@@ -146,7 +147,6 @@
     "daily/2022-11-21.md",
     "daily/2022-11-18.md",
     "daily/2022-11-17.md",
-    "daily/2022-11-16.md",
-    "daily/2022-11-15.md"
+    "daily/2022-11-16.md"
   ]
 }
