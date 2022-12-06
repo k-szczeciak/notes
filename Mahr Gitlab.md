@@ -18,4 +18,11 @@ eb41a2e5e0932a26
 - [generateKey in PS](https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/generate-ssh-key-pair.html)
 - [putty keygen](https://www.howtogeek.com/762863/how-to-generate-ssh-keys-in-windows-10-and-windows-11/)
 - [online key gen](https://cryptotools.net/rsagen)
-- 
+
+
+github:
+git config --global user.email krzysztof.szczeciak@icloud.com
+git config --global user.name k-szczeciak
+
+git config --global user.name "Krzysztof Szczeciak"
+git config --global user.email "krzysztof.szczeciak@mahr.com"
