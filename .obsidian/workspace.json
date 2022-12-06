@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-02.md",
+                "file": "_DailyLog_.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-02.md",
+                "file": "_DailyLog_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-02.md",
+                "file": "_DailyLog_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-02.md"
+                "file": "_DailyLog_.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "d604acf5e5d26eb9",
   "lastOpenFiles": [
+    "daily/2022-11-10.md",
     "_DailyLog_.md",
-    "daily/2022-11-29.md",
-    "daily/2022-12-06.md",
-    "daily/2022-12-01.md",
-    "zakupy.md",
-    "2022-11-23.md",
-    "2022-11-22.md",
-    "usefull URLs.md",
-    "documentation/um2435-bluetooth-low-energy-and-802154-nucleo-pack-based-on-stm32wb-series-microcontrollers-stmicroelectronics.pdf",
-    "Alfa.md"
+    "daily/2022-11-09.md",
+    "daily/2022-11-08.md",
+    "daily/2022-11-07.md",
+    "daily/2022-11-04.md",
+    "touch buttons mapping.md",
+    "daily/2022-11-03.md",
+    "daily/2022-11-02.md",
+    "daily/2022-11-29.md"
   ]
 }
