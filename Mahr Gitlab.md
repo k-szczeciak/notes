@@ -12,7 +12,7 @@ a45c5188ededc1ad
 eb41a2e5e0932a26
 
 - login: szczeciak
-- pass: as for main comp
+- pass: as for main comp (Taboret11.2022#)
 - email: krzysztof.szczeciak@mahr.com
 - url: [gitlab.mahr.com](gitlab.mahr.com)
 - [generateKey in PS](https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/generate-ssh-key-pair.html)
