@@ -30,3 +30,5 @@ git config --global user.email "krzysztof.szczeciak@mahr.com"
 
 eval $(ssh-agent -s) 
 ssh-add ~/.ssh/id_rsa 
+
+[info](https://docs.gitlab.com/ee/user/ssh.html)
