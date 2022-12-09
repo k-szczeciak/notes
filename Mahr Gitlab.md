@@ -33,10 +33,10 @@ ssh-add ~/.ssh/id_rsa
 
 [info](https://docs.gitlab.com/ee/user/ssh.html)
 
+example:
 $ git clone oauth2:1AbCDe F _ g2HIJKLMNOPqr@gitlab.com/yourusername/project.git project
 
 my:
-nsUwG5HiYYL1zJ2bJvSf
-_MJ5oFcWdAJHFwEroPGP
+nsUwG5HiYYL1zJ2bJvSf:
 
 git clone https://oauth2:nsUwG5HiYYL1zJ2bJvSf@gitlab.mahr.com/Szczeciak/MarCator.git
