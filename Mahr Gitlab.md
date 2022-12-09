@@ -77,3 +77,7 @@ git push -u origin --all
 git push -u origin --tags
 
 git remote add origin  https://oauth2:nsUwG5HiYYL1zJ2bJvSf@gitlab.mahr.com:precision-gages/marcator/marcator-firmware-main-mcu.git
+
+check log ssh:
+ssh -vvvT ‘git@gitlab.com
+
