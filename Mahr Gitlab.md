@@ -39,4 +39,4 @@ my:
 nsUwG5HiYYL1zJ2bJvSf
 _MJ5oFcWdAJHFwEroPGP
 
-git clolne https://gitlab.mahr.com/Szczeciak/MarCator.git
+git clone https://oauth2:nsUwG5HiYYL1zJ2bJvSf@gitlab.mahr.com/Szczeciak/MarCator.git
