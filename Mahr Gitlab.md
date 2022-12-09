@@ -26,3 +26,7 @@ git config --global user.name k-szczeciak
 
 git config --global user.name "Krzysztof Szczeciak"
 git config --global user.email "krzysztof.szczeciak@mahr.com"
+
+
+eval $(ssh-agent -s) 
+ssh-add ~/.ssh/id_rsa 
