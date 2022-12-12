@@ -101,6 +101,9 @@ resetowanie tokena:
 git config --global credential.helper cache
 git config --global --unset credential.helper
 
+klonowanie z historia:
+- ```
+git clone --bare <url>
 
 
 projekty do importu:
