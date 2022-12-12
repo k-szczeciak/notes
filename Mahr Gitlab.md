@@ -104,6 +104,8 @@ git config --global --unset credential.helper
 klonowanie z historia:
 - ```
 git clone --bare <url>
+git clone --bare https://github.com/k-szczeciak/C1202.git
+
 
 
 projekty do importu:
