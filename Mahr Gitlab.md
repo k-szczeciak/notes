@@ -114,9 +114,9 @@ projekty do importu:
 - A1701
 - C102
 - MillimarTool
-|#|projekt|status|office PC|home PC|laptop|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|MarCator|ported folder only|-|-|-|
+|#|projekt|status|office PC|home PC|laptop|other|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|MarCator|ported folder only|-|-|-|-
 |2|C1202|cloned with history|-|-|-|
 |3|MillimarTool|cloned with history|-|-|-|
 |4|A1701|ported from svn|-|-|-|
@@ -130,3 +130,16 @@ pytania:
 - git gui tool
 - gitlab application server
 WN 6741R
+
+
+
+
+dodac Tagi
+cleanup
+poczytac o gitflow
+rebase
+fork
+mirroring repos
+inne:
+- CI/CD (unit testing, automation tetsing)
+- deployments apps
