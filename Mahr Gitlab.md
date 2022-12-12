@@ -127,7 +127,7 @@ projekty do importu:
 pytania:
 - ssh - connections
 - yubikey add
-- git gui tool
+- git gui tool (git kraken, git tower, git fork, git s...)
 - gitlab application server
 WN 6741R
 
