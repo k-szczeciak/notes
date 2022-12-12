@@ -114,11 +114,12 @@ projekty do importu:
 - A1701
 - C102
 - MillimarTool
-|projekt|status|office PC|home PC|laptop|
-|:-:|:-:|:-:|:-:|:-:|
-|MarCator|ported folder only|-|-|
-|C1202|z cala historia|
-|MillimarTool|-|
+|#|projekt|status|office PC|home PC|laptop|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|MarCator|ported folder only|-|-|-|
+|2|C1202|cloned with history|-|-|-|
+|3|MillimarTool|-|-|-|-|
+|4|A1701|ported from svn|-|-|-|
 
 
 
