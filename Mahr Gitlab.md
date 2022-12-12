@@ -118,7 +118,7 @@ projekty do importu:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|MarCator|ported folder only|-|-|-|
 |2|C1202|cloned with history|-|-|-|
-|3|MillimarTool|-|-|-|-|
+|3|MillimarTool|cloned with history|-|-|-|
 |4|A1701|ported from svn|-|-|-|
 
 
