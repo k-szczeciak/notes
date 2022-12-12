@@ -121,4 +121,5 @@ pytania:
 - ssh - connections
 - yubikey add
 - git gui tool
+- gitlab application server
 WN 6741R
