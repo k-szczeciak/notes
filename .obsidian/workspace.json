@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-05.md",
+                "file": "Mahr Gitlab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-05.md",
+                "file": "Mahr Gitlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-05.md",
+                "file": "Mahr Gitlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-05.md"
+                "file": "Mahr Gitlab.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2022-12-09.md",
     "2022-12-05.md",
+    "conflict-files-obsidian-git.md",
     "Learn.md",
     "2022-12-02.md",
     "usefull URLs.md",
     "2022-11-30.md",
     "private notes.md",
     "_START_.md",
-    "Tools.md",
-    "todo.md"
+    "Tools.md"
   ]
 }
