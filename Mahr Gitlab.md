@@ -87,3 +87,6 @@ git remote add origin  https://oauth2:nsUwG5HiYYL1zJ2bJvSf@gitlab.mahr.com:preci
 check log ssh:
 ssh -vvvT ‘git@gitlab.mahr.com
 
+```
+ssh -T git@gitlab.mahr.com
+```
