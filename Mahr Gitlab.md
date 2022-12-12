@@ -90,3 +90,9 @@ ssh -vvvT ‘git@gitlab.mahr.com
 ```
 ssh -T git@gitlab.mahr.com
 ```
+
+
+token office pc:
+j24UuzJPUA6AT_MxqSzx
+feed token:
+_MJ5oFcWdAJHFwEroPGP
