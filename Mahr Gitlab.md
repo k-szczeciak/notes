@@ -96,3 +96,17 @@ token office pc:
 j24UuzJPUA6AT_MxqSzx
 feed token:
 _MJ5oFcWdAJHFwEroPGP
+
+resetowanie tokena:
+git config --global credential.helper cache
+
+
+
+projekty do importu:
+- MarCator
+- A1701
+- C102
+- MillimarTool
+|projekt|status|
+|:-:|:-:|
+|MarCator|ported folder only|
