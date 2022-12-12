@@ -105,7 +105,8 @@ klonowanie z historia:
 - ```
 git clone --bare <url>
 git clone --bare https://github.com/k-szczeciak/C1202.git
-
+cd C1202.git
+git push --mirror https://gitlab.mahr.com/precision-gages/millimar-c1202/millimar-c1202-firmware-main-mcu.git
 
 
 projekty do importu:
@@ -116,7 +117,8 @@ projekty do importu:
 |projekt|status|
 |:-:|:-:|
 |MarCator|ported folder only|
-
+|C1202|z cala historia|
+|Mi
 
 
 pytania:
