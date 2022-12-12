@@ -150,3 +150,5 @@ bootcamp (macieja):
 [lowgular.io](https://courses.lowgular.edu.pl/courses/become-frontend-developer-angular-start) [1](https://lowgular.io/#)
 
 computational marketing
+
+Sieci komputerow CNAA???

@@ -99,6 +99,7 @@ _MJ5oFcWdAJHFwEroPGP
 
 resetowanie tokena:
 git config --global credential.helper cache
+git config --global --unset credential.helper
 
 
 
@@ -110,3 +111,10 @@ projekty do importu:
 |projekt|status|
 |:-:|:-:|
 |MarCator|ported folder only|
+
+
+
+pytania:
+- ssh
+- yubikey add
+- git gui tool
