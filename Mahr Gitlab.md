@@ -115,6 +115,7 @@ projekty do importu:
 
 
 pytania:
-- ssh
+- ssh - connections
 - yubikey add
 - git gui tool
+WN 6741R
