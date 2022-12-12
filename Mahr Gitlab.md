@@ -12,10 +12,78 @@ a45c5188ededc1ad
 eb41a2e5e0932a26
 
 - login: szczeciak
-- pass: as for main comp
+- pass: as for main comp (Taboret11.2022#)
 - email: krzysztof.szczeciak@mahr.com
 - url: [gitlab.mahr.com](gitlab.mahr.com)
 - [generateKey in PS](https://docs.oracle.com/en/cloud/cloud-at-customer/occ-get-started/generate-ssh-key-pair.html)
 - [putty keygen](https://www.howtogeek.com/762863/how-to-generate-ssh-keys-in-windows-10-and-windows-11/)
 - [online key gen](https://cryptotools.net/rsagen)
-- 
+
+
+github:
+git config --global user.email krzysztof.szczeciak@icloud.com
+git config --global user.name k-szczeciak
+
+git config --global user.name "Krzysztof Szczeciak"
+git config --global user.email "krzysztof.szczeciak@mahr.com"
+
+
+```
+ssh-keygen -t ed25519 -C "<comment>"
+```
+```
+ssh-keygen -t rsa -b 2048 -C "<comment>"
+```
+eval $(ssh-agent -s) 
+ssh-add ~/.ssh/id_rsa 
+
+[info](https://docs.gitlab.com/ee/user/ssh.html)
+
+example:
+$ git clone oauth2:1AbCDe F _ g2HIJKLMNOPqr@gitlab.com/yourusername/project.git project
+
+my:
+nsUwG5HiYYL1zJ2bJvSf:
+
+git clone https://oauth2:nsUwG5HiYYL1zJ2bJvSf@gitlab.mahr.com/Szczeciak/MarCator.git
+
+git remote add origin git@gitlab.mahr.com:precision-gages/marcator/marcator-firmware-main-mcu.git
+
+
+
+
+git config --global user.name "Krzysztof Szczeciak"
+git config --global user.email "krzysztof.szczeciak@mahr.com"
+
+##### Create a new repository
+
+git clone git@gitlab.mahr.com:precision-gages/marcator/marcator-firmware-main-mcu.git
+cd marcator-firmware-main-mcu
+git switch -c main
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin main
+
+##### Push an existing folder
+
+cd existing_folder
+git init --initial-branch=main
+git remote add origin git@gitlab.mahr.com:precision-gages/marcator/marcator-firmware-main-mcu.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
+##### Push an existing Git repository
+
+cd existing_repo
+git remote rename origin old-origin
+git remote add origin git@gitlab.mahr.com:precision-gages/marcator/marcator-firmware-main-mcu.git
+git push -u origin --all
+git push -u origin --tags
+
+git remote add origin  https://oauth2:nsUwG5HiYYL1zJ2bJvSf@gitlab.mahr.com:precision-gages/marcator/marcator-firmware-main-mcu.git
+
+check log ssh:
+ssh -vvvT ‘git@gitlab.mahr.com
+
