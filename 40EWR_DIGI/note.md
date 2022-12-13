@@ -1,0 +1,1 @@
+HAL_GPIO_TogglePin(TESTPIN_GPIO_Port, TESTPIN_Pin);
