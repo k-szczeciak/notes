@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mahr Gitlab.md",
+                "file": "2022-12-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mahr Gitlab.md",
+                "file": "2022-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mahr Gitlab.md",
+                "file": "2022-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mahr Gitlab.md"
+                "file": "2022-12-14.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
+    "Mahr Gitlab.md",
     "analisis.md",
     "2022-12-14.md",
     "analisis 1.md",
@@ -145,7 +146,6 @@
     "2022-12-13.md",
     "_DailyLog_.md",
     "General notes Mahr.md",
-    "Mahr Gitlab.md",
     "2022-12-12.md",
     "MarCator.md"
   ]
