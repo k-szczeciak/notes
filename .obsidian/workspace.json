@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-13.md",
+                "file": "analisis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-13.md",
+                "file": "analisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-13.md",
+                "file": "analisis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-13.md"
+                "file": "analisis.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
-    "_DailyLog_.md",
+    "2022-12-14.md",
+    "analisis 1.md",
+    "analisis.md",
     "_START_.md",
-    "General notes Mahr.md",
     "2022-12-13.md",
+    "_DailyLog_.md",
+    "General notes Mahr.md",
     "Mahr Gitlab.md",
     "2022-12-12.md",
-    "MarCator.md",
-    "essfs01/Abteilungen/Entwicklung/Elektronik/Projekte/Messuhr.md",
-    "Learn.md",
-    "usefull URLs.md"
+    "MarCator.md"
   ]
 }
