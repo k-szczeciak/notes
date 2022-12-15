@@ -39,3 +39,4 @@ alumni google
 k.wilczynski
 
 wieksze teamy
+wieksze zespoly
