@@ -24,4 +24,9 @@ odbyte rozmowy;
 - bosch
 
 
+inne:
+- dell R&D
 https://jobs.dell.com/job/poland/software-r-and-d-center-poland-remote-apply/375/36233242784
+https://pl.indeed.com/jobs?q=Dell+Technologies&sc=0fcckey%3Aeff15de8be318fdf%2Cq%3A%3B&cjsFrom=similar-companies&vjk=170785d17fda3733
+sii
+inne linkedin
