@@ -37,3 +37,5 @@ psycholog
 treningi - mockup rozmow
 alumni google
 k.wilczynski
+
+wieksze teamy
