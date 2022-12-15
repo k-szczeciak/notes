@@ -153,6 +153,13 @@ computational marketing
 
 Sieci komputerow CNAA???
 
+rozmowa emerson 13.12.2022:
+pytania dt c, wskaznikow i inne rzeczy
+co w funkcji C++ bylo nie tak
+napisac funkcjie odwracajca kol wyrazow
+zmiana wartosci w rejestrze 3 bitow
+rtos
+
 
 
 coding challenge:
