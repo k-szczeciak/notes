@@ -162,3 +162,6 @@ rtos rust na rpi:
 https://www.seeedstudio.com/blog/2021/02/05/rust-rt-thread-os-freertos-come-to-the-raspberry-pi-pico/
 coding challenge:
 https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
+
+po niemiecku programowanie microcontrolerow  w c (atmel)
+https://www.youtube.com/watch?v=IkPOZXeW_CM
