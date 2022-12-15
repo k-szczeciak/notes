@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-14.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-14.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-14.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-14.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
+    "2022-12-14.md",
     "_START_.md",
     "markdown chtsheet.md",
-    "2022-12-14.md",
     "Mahr Gitlab.md",
     "analisis.md",
     "analisis 1.md",

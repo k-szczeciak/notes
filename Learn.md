@@ -152,3 +152,10 @@ bootcamp (macieja):
 computational marketing
 
 Sieci komputerow CNAA???
+
+
+
+coding challenge:
+
+
+rtos 
