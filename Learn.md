@@ -172,3 +172,12 @@ https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-
 
 po niemiecku programowanie microcontrolerow  w c (atmel)
 https://www.youtube.com/watch?v=IkPOZXeW_CM
+
+
+coding challnenges:
+- google z traversing tree
+- emerson: odwrocenie kolejnosci slow
+- drzewo RB
+-
+
+dalej udemy kursy plud gitlab

@@ -20,4 +20,8 @@ obecnie aktywne:
 
 odbyte rozmowy;
 - medima.pl:
-	- 
+- emmerson
+- bosch
+
+
+https://jobs.dell.com/job/poland/software-r-and-d-center-poland-remote-apply/375/36233242784
