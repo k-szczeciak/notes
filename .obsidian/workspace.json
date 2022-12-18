@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "job search.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "job search.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "job search.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "job search.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
+    "job search.md",
     "private notes.md",
     "_START_.md",
     "Ausrüstung.md",
@@ -158,7 +159,6 @@
     "markdown chtsheet.md",
     "Mahr Gitlab.md",
     "analisis.md",
-    "analisis 1.md",
-    "2022-12-13.md"
+    "analisis 1.md"
   ]
 }
