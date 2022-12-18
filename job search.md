@@ -41,3 +41,8 @@ k.wilczynski
 wieksze teamy
 wieksze zespoly
 agencja pr
+
+pytania do rtos
+https://climbtheladder.com/embedded-rtos-interview-questions/
+
+analizowac kod stm32
