@@ -46,3 +46,23 @@ pytania do rtos
 https://climbtheladder.com/embedded-rtos-interview-questions/
 
 analizowac kod stm32
+np:
+``` c
+void Paint_DrawFloatNum(UWORD Xpoint, UWORD Ypoint, double Nummber,  UBYTE Decimal_Point, 
+                        sFONT* Font,  UWORD Color_Background, UWORD Color_Foreground)
+{
+    char Str[ARRAY_LEN];
+    sprintf(Str,"%.*lf",Decimal_Point+2,Nummber);
+    char * pStr= (char *)malloc((strlen(Str))*sizeof(char));
+    memcpy(pStr,Str,(strlen(Str)-2));
+    * (pStr+strlen(Str)-1)='\0';
+    if((*(pStr+strlen(Str)-3))=='.')
+    {
+      *(pStr+strlen(Str)-3)='\0';
+    }
+    //show
+    Paint_DrawString_EN(Xpoint, Ypoint, (const char*)pStr, Font, Color_Foreground, Color_Background);
+    free(pStr);
+    pStr=NULL;
+}
+```
