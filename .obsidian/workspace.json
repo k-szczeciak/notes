@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarCator.md",
+                "file": "job search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator.md",
+                "file": "job search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator.md",
+                "file": "job search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator.md"
+                "file": "job search.md"
               }
             }
           }
@@ -138,13 +138,13 @@
   },
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
+    "MarCator.md",
     "daily/2022-12-19.md",
     "_DailyLog_.md",
     "Learn.md",
     "private notes.md",
     "pomiar dugosci pantograf.md",
     "_START_.md",
-    "MarCator.md",
     "daily/2022-12-05.md",
     "daily/2022-12-15.md",
     "daily/2022-12-14.md"

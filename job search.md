@@ -99,3 +99,10 @@ void Paint_DrawString_EN(UWORD Xstart, UWORD Ystart, const char * pString,
     }
 }
 ```
+
+pytania z medimy:
+- jak dziala przerwanie
+- roznica pomiedzy spi i uart
+- optymalizacja pamieci (pragma)
+- co to jest volantile
+- 
