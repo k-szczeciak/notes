@@ -20,6 +20,8 @@
 |14|test automation|||
 |15|social marketing, jak dzialaja media|||
 
+AI HW: (ok 2000pln)
+https://www.waveshare.com/jetracer-ai-kit.htm?sku=23754
 
 
 - automation framework, great for test: [robot framework](https://robotframework.org/)
