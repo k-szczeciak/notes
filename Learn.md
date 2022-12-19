@@ -193,3 +193,6 @@ https://rupl.github.io/unfold/
 
 js page exmaples:
 https://www.smashingmagazine.com/2010/02/50-brilliant-css3-javascript-coding-techniques/
+
+design pattersn in js:
+https://www.freecodecamp.org/news/javascript-design-patterns-explained/
