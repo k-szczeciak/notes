@@ -20,3 +20,4 @@ links:
 
 pomiar proadu, mierniki:
 https://www.olx.pl/d/oferta/miernik-meratronik-v640-CID99-IDS5VvA.html
+https://www.olx.pl/d/oferta/multimetr-meratronik-v640-CID767-IDOJPB5.html
