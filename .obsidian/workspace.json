@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarCator.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "2f60b1cc6e763e58",
   "lastOpenFiles": [
+    "MarCator.md",
     "Learn.md",
     "daily/2022-12-19.md",
     "_DailyLog_.md",
@@ -159,7 +160,6 @@
     "daily/2022-12-14.md",
     "daily/2022-12-13.md",
     "_START_.md",
-    "General notes Mahr.md",
-    "Mahr Gitlab.md"
+    "General notes Mahr.md"
   ]
 }
