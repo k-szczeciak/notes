@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-15.md",
+                "file": "_DailyLog_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f60b1cc6e763e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-12-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-15.md",
+                "file": "daily/2022-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-15.md",
+                "file": "daily/2022-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-15.md"
+                "file": "daily/2022-12-19.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8c9706a2ca0c241",
+  "active": "2f60b1cc6e763e58",
   "lastOpenFiles": [
-    "2022-12-14.md",
-    "2022-12-13.md",
     "_DailyLog_.md",
+    "daily/2022-12-19.md",
+    "daily/2022-12-05.md",
+    "daily/2022-12-15.md",
+    "daily/2022-12-14.md",
+    "daily/2022-12-13.md",
     "_START_.md",
     "General notes Mahr.md",
     "Mahr Gitlab.md",
-    "2022-12-12.md",
-    "MarCator.md",
-    "essfs01/Abteilungen/Entwicklung/Elektronik/Projekte/Messuhr.md",
-    "Learn.md"
+    "daily/2022-12-12.md"
   ]
 }
