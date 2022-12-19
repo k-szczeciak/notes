@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn.md",
+                "file": "daily/2022-12-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "daily/2022-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "daily/2022-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "daily/2022-12-19.md"
               }
             }
           }
@@ -139,11 +139,11 @@
   "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
     "_DailyLog_.md",
+    "Learn.md",
     "private notes.md",
     "pomiar dugosci pantograf.md",
     "_START_.md",
     "MarCator.md",
-    "Learn.md",
     "daily/2022-12-19.md",
     "daily/2022-12-05.md",
     "daily/2022-12-15.md",
