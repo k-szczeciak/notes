@@ -16,4 +16,7 @@ funkcje menue:
 
 links:
 - [dokumentation](\\essfs01\Abteilungen\Entwicklung\Elektronik\Projekte\Messuhr 1086-87RF\Dokumentation)
-- 
+
+
+pomiar proadu, mierniki:
+https://www.olx.pl/d/oferta/miernik-meratronik-v640-CID99-IDS5VvA.html
