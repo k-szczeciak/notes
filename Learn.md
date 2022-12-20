@@ -207,3 +207,7 @@ https://www.freecodecamp.org/news/javascript-design-patterns-explained/
 
 pair programmming:
 https://en.wikipedia.org/wiki/Pair_programming
+
+
+RTOS po polskui:
+https://www.youtube.com/watch?v=HrBywQwTgw8
