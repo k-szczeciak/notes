@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarCator.md",
+                "file": "2022-12-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator.md",
+                "file": "2022-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator.md",
+                "file": "2022-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator.md"
+                "file": "2022-12-20.md"
               }
             }
           }
@@ -151,10 +151,10 @@
   },
   "active": "6e769ac1541c5809",
   "lastOpenFiles": [
+    "MarCator.md",
     "daily/2022-12-19.md",
     "_DailyLog_.md",
     "job search.md",
-    "MarCator.md",
     "Learn.md",
     "private notes.md",
     "pomiar dugosci pantograf.md",
