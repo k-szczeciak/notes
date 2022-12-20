@@ -157,10 +157,10 @@ Sieci komputerow CNAA???
 
 rozmowa emerson 13.12.2022:
 pytania dt c, wskaznikow i inne rzeczy
-co w funkcji C++ bylo nie tak
-napisac funkcjie odwracajca kol wyrazow
+co w funkcji C++ bylo nie tak (next time dopytac)
+napisac funkcje odwracajca kol wyrazow
 zmiana wartosci w rejestrze 3 bitow
-rtos
+rtos - zapytania
 
 
 
@@ -209,5 +209,5 @@ pair programmming:
 https://en.wikipedia.org/wiki/Pair_programming
 
 
-RTOS po polskui:
+RTOS po polsku:
 https://www.youtube.com/watch?v=HrBywQwTgw8
