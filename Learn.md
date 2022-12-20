@@ -203,4 +203,7 @@ https://www.freecodecamp.org/news/javascript-design-patterns-explained/
 
 
 !!! kodowanie w tandemie...
-!!! hakatony workshopy i bootcamp
+!!! hakatony workshopy i bootcampy
+
+pair programmming:
+https://en.wikipedia.org/wiki/Pair_programming
