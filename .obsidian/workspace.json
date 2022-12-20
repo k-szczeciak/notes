@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "daily/2022-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "daily/2022-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "daily/2022-12-20.md"
               }
             }
           }
@@ -148,14 +149,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4dbaea8ba6db5ca",
+  "active": "6e769ac1541c5809",
   "lastOpenFiles": [
+    "Learn.md",
     "daily/2022-12-20.md",
     "_DailyLog_.md",
     "MarCator.md",
     "daily/2022-12-19.md",
     "job search.md",
-    "Learn.md",
     "private notes.md",
     "pomiar dugosci pantograf.md",
     "_START_.md",
