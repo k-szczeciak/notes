@@ -200,3 +200,7 @@ https://www.smashingmagazine.com/2010/02/50-brilliant-css3-javascript-coding-tec
 
 design pattersn in js:
 https://www.freecodecamp.org/news/javascript-design-patterns-explained/
+
+
+!!! kodowanie w tandemie...
+!!! hakatony workshopy i bootcamp

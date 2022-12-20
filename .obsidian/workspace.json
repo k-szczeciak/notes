@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DailyLog_.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-20.md",
+                "file": "daily/2022-12-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-20.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-20.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-20.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -149,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e769ac1541c5809",
+  "active": "d4dbaea8ba6db5ca",
   "lastOpenFiles": [
+    "daily/2022-12-20.md",
+    "_DailyLog_.md",
     "MarCator.md",
     "daily/2022-12-19.md",
-    "_DailyLog_.md",
     "job search.md",
     "Learn.md",
     "private notes.md",
     "pomiar dugosci pantograf.md",
     "_START_.md",
-    "daily/2022-12-05.md",
-    "daily/2022-12-15.md"
+    "daily/2022-12-05.md"
   ]
 }
