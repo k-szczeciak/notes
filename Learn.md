@@ -215,3 +215,5 @@ https://www.youtube.com/watch?v=HrBywQwTgw8
 
 springboot:
 https://www.youtube.com/watch?v=vtPkZShrvXQ
+spring security:
+https://www.youtube.com/watch?v=1S1XydtDgo8
