@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn.md",
+                "file": "MarCator.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "MarCator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "MarCator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "MarCator.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "6e769ac1541c5809",
   "lastOpenFiles": [
+    "Learn.md",
     "usefull URLs.md",
     "2022-12-21.md",
-    "Learn.md",
     "daily/2022-12-20.md",
     "_DailyLog_.md",
     "MarCator.md",
