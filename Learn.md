@@ -20,6 +20,8 @@
 |14|test automation|||
 |15|social marketing, jak dzialaja media|||
 
+AI HW: (ok 2000pln)
+https://www.waveshare.com/jetracer-ai-kit.htm?sku=23754
 
 
 - automation framework, great for test: [robot framework](https://robotframework.org/)
@@ -158,10 +160,10 @@ Sieci komputerow CNAA???
 
 rozmowa emerson 13.12.2022:
 pytania dt c, wskaznikow i inne rzeczy
-co w funkcji C++ bylo nie tak
-napisac funkcjie odwracajca kol wyrazow
+co w funkcji C++ bylo nie tak (next time dopytac)
+napisac funkcje odwracajca kol wyrazow
 zmiana wartosci w rejestrze 3 bitow
-rtos
+rtos - zapytania
 
 
 
@@ -173,7 +175,7 @@ https://www.seeedstudio.com/blog/2021/02/05/rust-rt-thread-os-freertos-come-to-t
 coding challenge:
 https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
 
-po niemiecku programowanie microcontrolerow  w c (atmel)
+po niemiecku programowanie microcontrolerow  w c (atmel) - bardzo szczegolowe
 https://www.youtube.com/watch?v=IkPOZXeW_CM
 
 
@@ -184,3 +186,37 @@ coding challnenges:
 -
 
 dalej udemy kursy plud gitlab
+
+angular:
+https://www.youtube.com/watch?v=AAu8bjj6-UI
+
+
+gry css:
+https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f
+
+
+ciekawe 3d efekty css:
+https://rupl.github.io/unfold/
+
+js page exmaples:
+https://www.smashingmagazine.com/2010/02/50-brilliant-css3-javascript-coding-techniques/
+
+design pattersn in js:
+https://www.freecodecamp.org/news/javascript-design-patterns-explained/
+
+
+!!! kodowanie w tandemie...
+!!! hakatony workshopy i bootcampy
+
+pair programmming:
+https://en.wikipedia.org/wiki/Pair_programming
+
+
+RTOS po polsku:
+https://www.youtube.com/watch?v=HrBywQwTgw8
+
+
+springboot:
+https://www.youtube.com/watch?v=vtPkZShrvXQ
+spring security:
+https://www.youtube.com/watch?v=1S1XydtDgo8

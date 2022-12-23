@@ -5,4 +5,5 @@
 - komputery przemyslowe [CSI](https://sklep.csi.pl/49-komputery-up-up-square-up-core?orderby=price&orderway=asc&orderway=asc)
 - [gitlab.mahr.com](gitlab.mahr.com)
 - [predkosci i czasy UART/RS232](https://lucidar.me/en/serialib/most-used-baud-rates-table/)
+- [https://www.keybr.com/login/2dfGAiWz6a](https://www.keybr.com/login/2dfGAiWz6a)
 - 
