@@ -42,6 +42,9 @@ go back to [[_START_]]
 - [[2022-12-15]]
 - [[2022-12-19]]
 - [[2022-12-20]]
+- [[2022-12-21]]
+- [[2022-12-22]]
+- [[2022-12-23]]
 next:
 - wyjscie w odpowiedzi na przerwaie
 https://en.wikipedia.org/wiki/SOLID
