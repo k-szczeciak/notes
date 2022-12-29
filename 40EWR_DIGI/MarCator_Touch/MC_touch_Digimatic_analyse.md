@@ -16,9 +16,15 @@
 
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
-![image](img/MC_meas.png)
-### 3.1. Zeitaufnahme mit Multi-Anforderung:
-![image](img/MC_multi.png)
+![image](meas.png)
+### 3.2. Zeitaufnahme mit Mehrfache Anforderung:
+![image](multi.png)
+- Requesttakt: 100ms
+![image](other/MC_100ms.png)
+- Requesttakt: 80ms
+![image](other/MC_80ms.png)
+- Requesttakt: 80ms Zoom
+![image](other/MC_80ms_zoom.png)
 <div style="page-break-after: always;"></div><br>
 
 ## 4. Ergebnis:
@@ -32,5 +38,6 @@ Alle Zeiten in toleranzen, T6 ist manuel betaetigt.
 |  T6   |   -    |   -   | 77 ms | < 90 ms  |
 |  T7   |   -    | 19 ms | 57 ms | 31,7 ms  |
 
-Sonst datei sind plausiebel.
+Alle datei sind plausiebel.
 Antwortzeit für Tastendruck ist auch ohne Verzögerung.
+Antwort Zeit kann ca 60ms sein aber <80ms Anforderungszeit ist nicht Stabil.

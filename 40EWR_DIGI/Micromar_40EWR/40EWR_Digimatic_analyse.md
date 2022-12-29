@@ -17,7 +17,7 @@
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
-### 3.1. Zeitaufnahme mit Mehrfach-Anforderung:
+### 3.2. Zeitaufnahme mit Mehrfach-Anforderung:
 ![image](multi.png)
 <div style="page-break-after: always;"></div><br>
 

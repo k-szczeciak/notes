@@ -18,7 +18,7 @@
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
 
-### 3.1. Zeitaufnahme mit Multi-Anforderung:
+### 3.2. Zeitaufnahme mit Multi-Anforderung:
 - 1000ms:
   ![image](1000ms.png)
 - 500ms
