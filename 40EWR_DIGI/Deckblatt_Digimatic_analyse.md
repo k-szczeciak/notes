@@ -56,7 +56,7 @@ Interface: kabel DK-D1, ..., ...
 
 [11]: Micromar_40EWR/40EWR_Digimatic_analyse.pdf
 [12]: Micromar_40EWR-L/40EWR-L_Digimatic_analyse.pdf
-[13]: 25EWR/
+[13]: 25EWR/25ERW_Digimatic_analyse.pdf
 [14]:
 [15]: MarCator_108x/MC_108x_Digimatic_analyse.pdf
 

@@ -1,13 +1,14 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](25EWR_Digimatic_analyse.pdf)
 # 25EWR digimatic schnittstelle pruefung
-<img src="device.png" width="300px"><br>
+<img src="device.png" height="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. **18EWR/E** 500mm (Art.: 4112713, sn.: 12040130), 
 ### 1.2. Digimatic Kabel: Digimatic, Art No. 4102411
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
 <img src="setup.png" width="600px"><br>
-<br><br>
+<div style="page-break-after: always;"></div><br>
+
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
 <img src="digi_def_6.png" width="400px">
@@ -29,6 +30,7 @@
   ![image](250ms.png)
 - 200ms:
   ![image](200ms.png)
+<div style="page-break-after: always;"></div><br>
 
 ## 4. Ergebnis:
 | Zeit  |  Typ   |  Min  |  Max  |  Ist   |
