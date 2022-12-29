@@ -8,7 +8,7 @@ Interface: kabel DK-D1, ..., ...
 ## Getestete Geraete:
 1. [Mikromar 40EWR](Micromar_40EWR/40EWR_Digimatic_analyse.md) 
 2. [Micromar 40EWR-L](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.md)
-3. [25EWR (18EWR/E)](25EWR/25ERW_Digimatic_analyse.md)
+3. [25EWR (18EWR/E)](25EWR/25EWR_Digimatic_analyse.md)
 4. [MarCator 1075R](Marcator_1075R/MC_1075R_Digimatic_analyse.md)
 5. [MarCator 108x](MarCator_108x/MC_108x_Digimatic_analyse.md)
 6. MarCator Touch (Prototyp)
@@ -56,7 +56,7 @@ Interface: kabel DK-D1, ..., ...
 
 [11]: Micromar_40EWR/40EWR_Digimatic_analyse.pdf
 [12]: Micromar_40EWR-L/40EWR-L_Digimatic_analyse.pdf
-[13]: 25EWR/25ERW_Digimatic_analyse.pdf
+[13]: 25EWR/25EWR_Digimatic_analyse.pdf
 [14]: MarCator_1075R/MC_1075R_Digimatic_analyse.pdf
 [15]: MarCator_108x/MC_108x_Digimatic_analyse.pdf
 

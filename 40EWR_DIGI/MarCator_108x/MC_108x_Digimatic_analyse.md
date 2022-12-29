@@ -1,4 +1,4 @@
-[HOME](../Deckblatt_Digimatic_analyse.md)
+[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](MC_108x_Digimatic_analyse.pdf)
 # MarCator 108x Digimatic schnittstelle prüfung
 <img src="device.png" width="300px"><br>
 
@@ -13,6 +13,7 @@
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
 <img src="digi_def_6.png" width="600px">
+<div style="page-break-after: always;"></div><br>
 
 ## 3. Messungen:
 ### 3.1. Einzelmessung:
