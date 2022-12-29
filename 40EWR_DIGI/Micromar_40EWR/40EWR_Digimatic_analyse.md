@@ -15,9 +15,9 @@
 
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
-![image](40EWR_eas.png)
+![image](meas.png)
 ### 3.1. Zeitaufnahme mit Multi-Anforderung:
-![image](img/40EWR__multi.png)
+![image](multi.png)
 <br><br>
 ## 4. Ergebnis:
 Zeiten T1, T6 und T7 sind auser toleranz.
