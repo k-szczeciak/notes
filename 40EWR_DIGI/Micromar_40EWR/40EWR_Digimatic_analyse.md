@@ -1,11 +1,11 @@
-# Micromar digimatic schnittstelle pruefung
-![image](img/40EWR_.png)
+# Micromar 40EWR digimatic schnittstelle analyse
+<img src="device.png" width="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. 40EWR, 75-100mm (art.: 4157003, kein Seriennummer)
 ### 1.2. Digimatic Kabel: DK-D1
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
-![image](img/40EWR__setup.png)
+![image](setup.png)
 <br><br>
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***

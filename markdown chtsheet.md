@@ -4,7 +4,7 @@ creating PDFs: page break:  
 ```
 
 keyshortcuts:
-
+Table alignment: Alt+Shift+F
 
 chart.js
 ```
@@ -40,4 +40,8 @@ new Chart("myChart", {
   }
 });
 </script>
+```
+
+```
+<img src="C1200/C1200.png" width="300px"><br>
 ```
