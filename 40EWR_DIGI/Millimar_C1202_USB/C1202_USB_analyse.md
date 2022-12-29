@@ -21,7 +21,7 @@
 - Anforderung: Befehl ('?')
 - Daten Senden: Parallel
 - Gesamtzeit: 60ms 
-- ![image](meas.png)
+  ![image](meas.png)
 <br><br><br>
 ### 3.2. Einzelantwort für 'M1?':
 - Anzahl Merkmale: 1, 2 oder 3
@@ -30,42 +30,42 @@
 - Anforderung: Befehl ('M1?')
 - Daten Senden: Parallel
 - Gesamtzeit: 40ms 
-![image](C1202_USBcyclic/C1202_USB_ein_meas.png)
+![image](ein_meas.png)
 ### 3.3. Zyklischeanforderung für alle Merkmale:
 - 1000ms
-  ![image](C1202_USBcyclic/1000ms.png)
+  ![image](1000ms.png)
 - 500ms
-  ![image](C1202_USBcyclic/500ms.png)
+  ![image](500ms.png)
 - 200ms
-  ![image](C1202_USBcyclic/200ms.png)
+  ![image](200ms.png)
 - 100ms
-  ![image](C1202_USBcyclic/100ms.png)
+  ![image](100ms.png)
 - 80ms
-  ![image](C1202_USBcyclic/80ms.png)
+  ![image](80ms.png)
 - 50ms
-  ![image](C1202_USBcyclic/50ms.png)
-  ![image](C1202_USBcyclic/50ms_zoom.png)
+  ![image](50ms.png)
+  ![image](50ms_zoom.png)
 - 20ms
-  ![image](C1202_USBcyclic/20ms.png)
-  ![image](C1202_USBcyclic/20ms_zoom.png)
+  ![image](20ms.png)
+  ![image](20ms_zoom.png)
 - 10ms
-  ![image](C1202_USBcyclic/20ms.png)
+  ![image](20ms.png)
 ### 3.4. Zyklischeanforderung für Einzelmerkmal: ('M1')
 - 200ms:
-  ![image](C1202_USBcyclic/200ms_s.png)
-  ![image](C1202_USBcyclic/200ms_s_zoom.png)
+  ![image](200ms_s.png)
+  ![image](200ms_s_zoom.png)
 - 100ms:
-  ![image](C1202_USBcyclic/100ms_s.png)
+  ![image](100ms_s.png)
 - 50ms:
-  ![image](C1202_USBcyclic/50ms_s.png)
+  ![image](50ms_s.png)
 - 20ms:
-  ![image](C1202_USBcyclic/20ms_s.png)
+  ![image](20ms_s.png)
 - 10ms:
-  ![image](C1202_USBcyclic/10ms_s.png)
+  ![image](10ms_s.png)
 ### 3.5. Automatische senden für Zeit gesteuerte Messung
 - Schnellste Einstellung ist: 200ms (Messdauer=0,1 sek, Pausendauer=0,1 sek):
-  ![image](C1202_USBcyclic/autom_senden.png)
-  ![image](C1202_USBcyclic/autom_senden_zoom.png)
+  ![image](autom_senden.png)
+  ![image](autom_senden_zoom.png)
   Nachrichtlänge: ca. 40ms
 ## 4. Ergebnis:
 - Ausgabewerte sind plausiebel mit aktuellem Werten.
@@ -77,7 +77,7 @@
   - Nachricht ca 15-40ms
   - Frage-Antwort: 40-60ms
   - Maxmimale Anforederungsrate: 100ms (10 Werte pro sekunde)
-  - <br><br><br><br>
+  <br><br><br><br>
 ## 5. Zeitverkürzungs möglichkeiten (Mehr Data Anfordern):
 - Einzelwert Anfragen: 'Mx?'
 - Baudrate erhühren, (Antwortzeit ca. 30ms)

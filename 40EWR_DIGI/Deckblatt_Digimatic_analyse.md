@@ -44,9 +44,11 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 | max        |          | 200     | 0,3     | 0,3     | 0,3     | -       | -       |            |
 | **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     | [doku][20] |
 
-### 3.1. Vergleich zum C1202 USB-schnittstelle
-[doku](Millimar_C1202_USB/C1202_USB_analyse.md)
+### 3.1. [Vergleich zum C1202 USB-schnittstelle](Millimar_C1202_USB/C1202_USB_analyse.md)
 
+| **Geraet** | img      | T1 [ms] | T2 [ms] | T3 [ms] | T4 [ms] | T6 [ms] | T7 [ms] | doku       |
+| ---------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
+| **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     | [doku][21] |
 
 <br><br>
 ## 4. Resourcen:
@@ -73,6 +75,7 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 [18]: Millimess_2001W/M2001W_Digimatic_analyse.pdf
 [19]: Millimar_C1200/C1200_Digimatic_analyse.pdf
 [20]: Millimar_C1202/C1202_Digimatic_analyse.pdf
+[21]: Millimar_C1202_USB/C1202_USB_analyse.pdf
 
 todo:
 - [x] dokumnety przenisc
