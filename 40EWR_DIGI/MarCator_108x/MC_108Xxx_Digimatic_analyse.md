@@ -1,13 +1,12 @@
 # MarCator 108x Digimatic schnittstelle prüfung
-![image](img/MC_1086.png)
 <img src="device.png" width="300px"><br>
+
 ## 1. Messaufbau:
 ### 1.1. MarCator **1087R** (Art.: 4337665, sn.: 22050001), **1087BR** (Art.: 4337662, sn.: 22060031), **1086R** (Art.: 4337625, sn.: 22070042), **1086R** (Art.: 4337697, sn.: 22020002)
 ### 1.2. Digimatic Kabel: Digimatic, Art No. 4102411
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
-![image](img/MC_108x_setup.png)<br><br>
-<img src="setup.png" width="400px">
+<img src="setup.png" width="600px">
 <div style="page-break-after: always;"></div><br>
 
 ## 2. Interface Beschreibung
@@ -17,7 +16,7 @@
 
 ## 3. Messungen:
 ### 3.1. Einzelmessung:
-![image](img/MC_1086_meas.png)<br><br><br>
+![image](meas.png)<br>
 ### 3.1. Zyklischeanforderung:
 - 1000ms
   ![image](MC_1086Rcyclic/1000ms.png)
@@ -52,4 +51,4 @@ Alle Zeiten in toleranzen, T6 ist manuel betätigt.
   ![image](MC_1086Rcyclic/100ms.png)
 
 - Anderes Efekt: CLOCK Frequenz ändert sich bisschen im Nachricht:
-  ![image](img/MC_1086_meas_zoom.png)
+  ![image](meas_zoom.png)
