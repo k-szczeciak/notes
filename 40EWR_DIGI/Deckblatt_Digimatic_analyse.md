@@ -56,6 +56,8 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 <br><br>
 ## 5. Resourcen:
 - [excel-Tabelle](res/Digimatic_Tabelle.xlsx)
+- [ordner](./)
+- [zip unterladen]
 
 [1]: Micromar_40EWR/device_r.png
 [2]: Micromar_40EWR-L/device_r.png
@@ -79,9 +81,3 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 [19]: Millimar_C1200/C1200_Digimatic_analyse.pdf
 [20]: Millimar_C1202/C1202_Digimatic_analyse.pdf
 [21]: Millimar_C1202_USB/C1202_USB_analyse.pdf
-
-todo:
-
-- [ ] doadac jak produkowac dokumenty
-- [ ] przeczytac i korekta
-- [ ] linki - download all
