@@ -6,7 +6,7 @@
 ### 1.2. Digimatic Kabel: DK-D1
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
-<img src="setup.png" width="400px">
+<img src="setup.png" width="600px">
 <div style="page-break-after: always;"></div><br>
 
 ## 2. Interface Beschreibung

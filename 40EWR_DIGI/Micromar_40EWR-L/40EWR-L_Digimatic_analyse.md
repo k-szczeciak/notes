@@ -11,7 +11,8 @@
 
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
-<img src="digi_def_6.png" width="400px">
+<img src="digi_def_6.png" width="600px">
+<div style="page-break-after: always;"></div><br>
 
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
@@ -50,7 +51,6 @@
 ![image](100ms.png)
 - Requesttakt: 100ms Zoom
 ![image](100ms_zoom.png)
-<div style="page-break-after: always;"></div><br>
 
 ## 4. Ergebnis:
 Zeiten T1, T6 und T7 sind auser Toleranz

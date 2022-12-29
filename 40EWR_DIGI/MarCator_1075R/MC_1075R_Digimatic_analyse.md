@@ -6,16 +6,17 @@
 ### 1.2. Digimatic Kabel: Digimatic, Art No. 4102411
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
-<img src="setup.png" width="600px"><br>
+<img src="setup.png" width="600px">
 <div style="page-break-after: always;"></div>
 
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
-<img src="digi_def_6.png" width="600px">
+<img src="digi_def_6.png" width="800px">
+<div style="page-break-after: always;"></div>
+
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
-<div style="page-break-after: always;"></div><br>
 
 ### 3.1. Zeitaufnahme mit Multi-Anforderung:
 - 1000ms:
