@@ -46,7 +46,7 @@ Interface: kabel DK-D1, ..., ...
 [1]: Micromar_40EWR/device_r.png
 [2]: Micromar_40EWR-L/device_r.png
 [3]: 25EWR/device_r.png
-[4]: Micromar_40EWR/device_r.png
+[4]: MarCator_1075R/device_r.png
 [5]: MarCator_108x/device_r.png
 [6]: Micromar_40EWR/device_r.png
 [7]: Micromar_40EWR/device_r.png

@@ -1,4 +1,4 @@
-[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](25EWR_Digimatic_analyse.pdf)
+[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](MC_1075R_Digimatic_analyse.pdf)
 # MarCator 1075R digimatic schnittstelle pruefung
 <img src="device.png" height="300px"><br>
 ## 1. Messaufbau:
@@ -7,11 +7,11 @@
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
 <img src="setup.png" width="600px"><br>
-<div style="page-break-after: always;"></div><br>
+<div style="page-break-after: always;"></div>
 
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
-<img src="digi_def_6.png" width="500px">
+<img src="digi_def_6.png" width="600px">
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
