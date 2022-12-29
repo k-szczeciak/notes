@@ -5,7 +5,7 @@ Schnittstelle: Digimatic
 Interface: kabel DK-D1, ..., ...
 
 
-## Getestete Geraete:
+## 1. Getestete Geraete:
 1. [Mikromar 40EWR](Micromar_40EWR/40EWR_Digimatic_analyse.md) 
 2. [Micromar 40EWR-L](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.md)
 3. [25EWR (18EWR/E)](25EWR/25EWR_Digimatic_analyse.md)
@@ -17,7 +17,7 @@ Interface: kabel DK-D1, ..., ...
 9. [C1200](Millimar_C1200/C1200_Digimatic_analyse.md)
 10. C1202
 
-## Ergebnis, 6-stellige Digimatic Uebertragung
+## 2. Ergebnis, 6-stellige Digimatic Uebertragung
 | **Geraet**                | img     | T1 [ms] | T2 [ms] | T3 [ms] | T4 [us] | T6 [us] | T7 [us] | doku       |
 | ------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
 | min                       |         | 2       | -       | -       | -       | -       | -       |            |
@@ -34,12 +34,13 @@ Interface: kabel DK-D1, ..., ...
 | **C1200**                 | ![i][9] | 35      | 71      | 105     | 97      | 70      | 49      | [doku][19] |
 
 
-## Ergebnis, 8-stellige Digimatic Uebertragung
+<br><br>
+## 3. Ergebnis, 8-stellige Digimatic Uebertragung
 | **Geraet** | img      | T1 [ms] | T2 [ms] | T3 [ms] | T4 [ms] | T6 [ms] | T7 [ms] | doku       |
 | ---------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
-| **min**    |          | 0       | 0,1     | 0,1     | 0,1     | -       | -       |            |
-| **typ**    |          | -       | -       | -       | -       | -       | -       |            |
-| **max**    |          | 200     | 0,3     | 0,3     | 0,3     | -       | -       |            |
+| min        |          | 0       | 0,1     | 0,1     | 0,1     | -       | -       |            |
+| typ        |          | -       | -       | -       | -       | -       | -       |            |
+| max        |          | 200     | 0,3     | 0,3     | 0,3     | -       | -       |            |
 | **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     | [doku][20] |
 
 [1]: Micromar_40EWR/device_r.png
