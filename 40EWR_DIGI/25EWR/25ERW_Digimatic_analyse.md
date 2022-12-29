@@ -1,4 +1,4 @@
-[HOME](../Deckblatt_Digimatic_analyse.md)
+[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](25EWR_Digimatic_analyse.pdf)
 # 25EWR digimatic schnittstelle pruefung
 <img src="device.png" width="300px"><br>
 ## 1. Messaufbau:
