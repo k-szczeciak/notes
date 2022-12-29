@@ -15,10 +15,42 @@
 
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
-![image](img/40EWR_meas_cor.png)
+![image](meas.png)
+- Requesttakt: 2000ms
+![image](2000ms.png)
+- Requesttakt: 1200ms
+![image](1200ms.png)
+- Requesttakt: 1100ms
+![image](1100ms.png)
+- Requesttakt: 1000ms
+![image](1000ms.png)
+- Requesttakt: 900ms
+![image](900ms.png)
+- Requesttakt: 800ms
+![image](800ms.png)
+- Requesttakt: 700ms
+![image](700ms.png)
+- Requesttakt: 600ms
+![image](600ms.png)
+- Requesttakt: 500ms
+![image](500ms.png)
+- Requesttakt: 250ms
+![image](250ms.png)
+- Requesttakt: 250ms Zoom
+![image](250ms_zoom.png)
+- Requesttakt: 150ms
+![image](150ms.png)
+- Requesttakt: 150ms Zoom
+![image](150ms_zoom.png)
+- Requesttakt: 100ms
+![image](100ms.png)
+- Requesttakt: 100ms Zoom
+![image](100ms_zoom.png)
+
 ### 3.1. Zeitaufnahme mit Multi-Anforderung:
-![image](img/40EWR_multi.png)
-<br><br>
+![image](multi.png)
+<div style="page-break-after: always;"></div><br>
+
 ## 4. Ergebnis:
 Zeiten T1, T6 und T7 sind auser Toleranz
 | Zeit  |  Typ   |  Min  |  Max  |   Ist    |
