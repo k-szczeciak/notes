@@ -20,11 +20,11 @@
 ### 3.2. Zeitaufnahme mit Mehrfache Anforderung:
 ![image](multi.png)
 - Requesttakt: 100ms
-![image](other/MC_100ms.png)
+![image](100ms.png)
 - Requesttakt: 80ms
-![image](other/MC_80ms.png)
+![image](80ms.png)
 - Requesttakt: 80ms Zoom
-![image](other/MC_80ms_zoom.png)
+![image](80ms_zoom.png)
 <div style="page-break-after: always;"></div><br>
 
 ## 4. Ergebnis:
@@ -41,3 +41,6 @@ Alle Zeiten in toleranzen, T6 ist manuel betaetigt.
 Alle datei sind plausiebel.
 Antwortzeit für Tastendruck ist auch ohne Verzögerung.
 Antwort Zeit kann ca 60ms sein aber <80ms Anforderungszeit ist nicht Stabil.
+
+Variable Frequentz:
+![image](freq.png)
