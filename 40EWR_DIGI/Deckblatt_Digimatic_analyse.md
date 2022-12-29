@@ -44,5 +44,5 @@ Interface: kabel DK-D1, ..., ...
 | **max**    | 200     | 0,3     | 0,3     | 0,3     | -       | -       |
 | **C1202**  | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     |
 
-[1]: ![image](Micromar_40EWR/device.png)
-[1]: Micromar_40EWR/device.png
+![image](Micromar_40EWR/device.png)
+[1]: (Micromar_40EWR/device.png)
