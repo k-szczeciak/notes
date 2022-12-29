@@ -25,7 +25,6 @@
 ![image](80ms.png)
 - Requesttakt: 80ms Zoom
 ![image](80ms_zoom.png)
-<div style="page-break-after: always;"></div><br>
 
 ## 4. Ergebnis:
 Alle Zeiten in toleranzen, T6 ist manuel betaetigt.
@@ -41,6 +40,5 @@ Alle Zeiten in toleranzen, T6 ist manuel betaetigt.
 Alle datei sind plausiebel.
 Antwortzeit für Tastendruck ist auch ohne Verzögerung.
 Antwort Zeit kann ca 60ms sein aber <80ms Anforderungszeit ist nicht Stabil.
-
 Variable Frequentz:
 ![image](freq.png)

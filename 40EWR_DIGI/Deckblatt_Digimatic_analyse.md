@@ -28,7 +28,7 @@ Interface: kabel DK-D1, ..., ...
 | **25EWR (18EWR/E)**       | ![i][3] | 200     | 112     | 104     | 136     | 450     | 216     | [doku][13]  |
 | **MarCator 1075R**        | ![i][4] | 166     | 112     | 104     | 136     | 150     | 183     | [doku][14]  |
 | **MarCator 108x**         | ![i][5] | 165     | 112     | 104     | 119     | 150     | 181     | [doku][15]  |
-| **MarCator Proto**        | ![i][6] | 20      | 19      | 106     | 105     | 90      | 32      | stabil      |
+| **MarCator Proto**        | ![i][6] | 20      | 19      | 106     | 105     | 90      | 32      | [doku][16]  |
 | **C1200**                 | ![i][7] | 35      | 71      | 105     | 97      | 70      | 49      | stabil      |
 | **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      | stabil      |
 | **Millimess Touch 2000W** | ![i][9] | 4       | 19      | 106     | 104     | 100     | 16      | stabil      |
@@ -48,7 +48,7 @@ Interface: kabel DK-D1, ..., ...
 [3]: 25EWR/device_r.png
 [4]: MarCator_1075R/device_r.png
 [5]: MarCator_108x/device_r.png
-[6]: Micromar_40EWR/device_r.png
+[6]: MarCator_touch/device_r.png
 [7]: Micromar_40EWR/device_r.png
 [8]: Micromar_40EWR/device_r.png
 [9]: Micromar_40EWR/device_r.png
@@ -59,6 +59,7 @@ Interface: kabel DK-D1, ..., ...
 [13]: 25EWR/25EWR_Digimatic_analyse.pdf
 [14]: MarCator_1075R/MC_1075R_Digimatic_analyse.pdf
 [15]: MarCator_108x/MC_108x_Digimatic_analyse.pdf
+[16]: Marcator_touch/MC_touch_Digimatic_analyse.pdf
 
 todo:
 - [ ] dokumnety przenisc
