@@ -29,9 +29,9 @@ Interface: kabel DK-D1, ..., ...
 | **MarCator Proto**        | ![i][4] | 20      | 19      | 106     | 105     | 90      | 32      | stabil       |
 | **Micromar 40EWR**        | ![i][5] | 0,6     | 21      | 105     | 110     | 1200    | 13      | <1s unstabil |
 | **Micromar 40EWR-L**      | ![i][6] | 0,8     | 21      | 104     | 108     | 1200    | 13      | <1s unstabil |
-| **C1200**                 | ![i][7] | 35      | 71      | 105     | 97      | 70      | 49      |              |
-| **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      |              |
-| **Millimess Touch 2000W** | ![i][9] | 4       | 19      | 106     | 104     | 100     | 16      |              |
+| **C1200**                 | ![i][7] | 35      | 71      | 105     | 97      | 70      | 49      | stabil       |
+| **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      | stabil       |
+| **Millimess Touch 2000W** | ![i][9] | 4       | 19      | 106     | 104     | 100     | 16      | stabil       |
 
 
 ## Ergebnis, 8-stellige Digimatic Uebertragung
