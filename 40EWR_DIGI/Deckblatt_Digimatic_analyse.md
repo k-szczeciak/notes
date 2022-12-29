@@ -35,21 +35,21 @@ Interface: kabel DK-D1, ..., ...
 
 
 ## Ergebnis, 8-stellige Digimatic Uebertragung
-| **Geraet** |img| T1 [ms] | T2 [ms] | T3 [ms] | T4 [ms] | T6 [ms] | T7 [ms] |
-| ---------- || ------- | ------- | ------- | ------- | ------- | ------- |
-| **min**    | 0       | 0,1     | 0,1     | 0,1     | -       | -       |
-| **typ**    | -       | -       | -       | -       | -       | -       |
-| **max**    | 200     | 0,3     | 0,3     | 0,3     | -       | -       |
-| **C1202**  | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     |
+| **Geraet** | img      | T1 [ms] | T2 [ms] | T3 [ms] | T4 [ms] | T6 [ms] | T7 [ms] |
+| ---------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **min**    |          | 0       | 0,1     | 0,1     | 0,1     | -       | -       |
+| **typ**    |          | -       | -       | -       | -       | -       | -       |
+| **max**    |          | 200     | 0,3     | 0,3     | 0,3     | -       | -       |
+| **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     |
 
 
-[1]: Micromar_40EWR/device.png
-[2]: Micromar_40EWR-L/device.png
-[3]: Micromar_40EWR/device.png
-[4]: Micromar_40EWR/device.png
-[5]: MarCator_108x/device.png
-[6]: Micromar_40EWR/device.png
-[7]: Micromar_40EWR/device.png
-[8]: Micromar_40EWR/device.png
-[9]: Micromar_40EWR/device.png
-[10]: Micromar_40EWR/device.png
+[1]: Micromar_40EWR/device_r.png
+[2]: Micromar_40EWR-L/device_r.png
+[3]: Micromar_40EWR/device_r.png
+[4]: Micromar_40EWR/device_r.png
+[5]: MarCator_108x/device_r.png
+[6]: Micromar_40EWR/device_r.png
+[7]: Micromar_40EWR/device_r.png
+[8]: Micromar_40EWR/device_r.png
+[9]: Micromar_40EWR/device_r.png
+[10]: Micromar_40EWR/device_r.png
