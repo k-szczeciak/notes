@@ -11,11 +11,12 @@
 
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
-<img src="digi_def_6.png" width="400px">
-
+<img src="digi_def_6.png" width="500px">
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
+<div style="page-break-after: always;"></div><br>
+
 ### 3.1. Zeitaufnahme mit Multi-Anforderung:
 - 1000ms:
   ![image](1000ms.png)
@@ -31,8 +32,6 @@
 - 120ms (Antwortsperiode: 240ms):
   ![image](120ms.png)
   ![image](120ms_zoom.png)
-  <div style="page-break-after: always;"></div><br>
-
 ## 4. Ergebnis:
 | Zeit  |  Typ   |  Min  |  Max  |  Ist   |
 | :---: | :----: | :---: | :---: | :----: |
@@ -42,5 +41,6 @@
 |  T4   | 100 us |   -   |   -   | 136 us |
 |  T6   |   -    |   -   | 77 ms | 150 ms |
 |  T7   |   -    | 19 ms | 57 ms | 183 ms |
+
 Datei sind plausiebel.
 Antwortzeit für Tastendruck ist auch ohne Verzögerung.
