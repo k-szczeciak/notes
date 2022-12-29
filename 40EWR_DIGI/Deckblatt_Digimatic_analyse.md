@@ -68,3 +68,4 @@ todo:
 - [ ] ktory 8-cyfrowy
 - [ ] dodac excela link
 - [ ] doadac jak produkowac dokumenty
+- [ ] slowa i znaki niemieckie

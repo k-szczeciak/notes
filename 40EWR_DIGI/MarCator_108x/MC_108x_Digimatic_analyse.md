@@ -18,8 +18,6 @@
 ## 3. Messungen:
 ### 3.1. Einzelmessung:
 ![image](meas.png)<br>
-<div style="page-break-after: always;"></div><br>
-
 ### 3.2. Zyklischeanforderung:
 - 1000ms
   ![image](1000ms.png)
@@ -47,6 +45,7 @@ Alle Zeiten in toleranzen, T6 ist manuel betätigt.
 |  T4   | 100 us |   -   |   -   |  119 us  |
 |  T6   |   -    |   -   | 77 ms | 150 ms*) |
 |  T7   |   -    | 19 ms | 57 ms |  181 ms  |
+
 *) Wenn Zyklisch Gefragt. Zeit ist kürzer als bei Enzelanfrage.<br><br>
 - Gesendete Datei sind plausibel.
 - Zyklisch Anforderung bis 150ms stabil, keiene Datei ist verloren.
