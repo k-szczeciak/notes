@@ -46,12 +46,15 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 
 ### 3.1. [Vergleich zum C1202 USB-schnittstelle](Millimar_C1202_USB/C1202_USB_analyse.md)
 
-| **Geraet** | img      | T1 [ms] | T2 [ms] | T3 [ms] | T4 [ms] | T6 [ms] | T7 [ms] | doku       |
-| ---------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
-| **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     | [doku][21] |
+| **Geraet** | img      | AnfragePeriode [ms] | doku       |
+| ---------- | -------- | :-----------------: | ---------- |
+| **C1202**  | ![i][10] |         100         | [doku][21] |
 
 <br><br>
-## 4. Resourcen:
+## 4. Grafishce Darstellung
+
+<br><br>
+## 5. Resourcen:
 - [excel-Tabelle](res/Digimatic_Tabelle.xlsx)
 
 [1]: Micromar_40EWR/device_r.png
@@ -78,11 +81,7 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 [21]: Millimar_C1202_USB/C1202_USB_analyse.pdf
 
 todo:
-- [x] dokumnety przenisc
-- [ ] wykres
-- [ ] linki - download all
-- [x] ikony
-- [x] ktory 8-cyfrowy
-- [ ] dodac excela link
+
 - [ ] doadac jak produkowac dokumenty
 - [ ] przeczytac i korekta
+- [ ] linki - download all

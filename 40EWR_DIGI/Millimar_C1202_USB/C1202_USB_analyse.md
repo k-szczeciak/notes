@@ -82,7 +82,8 @@
 - Einzelwert Anfragen: 'Mx?'
 - Baudrate erhühren, (Antwortzeit ca. 30ms)
 - digimatic Schnittstelle nutzen
-<br><br><br><br>
+<div style="page-break-after: always;"></div><br>
+
 ## Source code for testing <br>
 > Python / Jupyter Notebook
 ``` python
