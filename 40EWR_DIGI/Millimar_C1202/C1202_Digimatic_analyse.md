@@ -11,48 +11,50 @@
 <div style="page-break-after: always;"></div><br>
 
 ## 2. Interface Beschreibung
-***(Datenblatt: Mitutoyo Digimatic Micrometer Manual MDH-MB No. 99MAB045A: "99MAB045A.pdf"):***
+***(Datenblatt: Mitutoyo Digimatic Micrometer Manual MDH-MB No. 99MAB045A: "99MAB045A.pdf"):***<br>
 <img src="digimatic_20.png" width="600px">
 <div style="page-break-after: always;"></div><br>
 
 ## 3. Messungen:
 ### 3.1. Einzelmessung:
-![image](img/C1202_meas.png)
+![image](meas.png)
 ### 3.1. Zyklischeanforderung:
 - 1000ms
-  ![image](C1202cyclic/1000ms.png)
+  ![image](1000ms.png)
 - 500ms
-  ![image](C1202cyclic/500ms.png)
+  ![image](500ms.png)
 - 250ms
-  ![image](C1202cyclic/250ms.png)
+  ![image](250ms.png)
 - 100ms
-  ![image](C1202cyclic/100ms.png)
+  ![image](100ms.png)
 - 50ms
-  ![image](C1202cyclic/50ms.png)
+  ![image](50ms.png)
 - 20ms
-  ![image](C1202cyclic/20ms.png)
+  ![image](20ms.png)
 - 10ms
-  ![image](C1202cyclic/10ms.png)
+  ![image](10ms.png)
   Zoom in:
-  ![image](C1202cyclic/10ms_zoom_in.png)<br><br><br><br><br><br><br><br>
+  ![image](10ms_zoom_in.png)
+  <div style="page-break-after: always;"></div><br>
+
   Zoom out:
-  ![image](C1202cyclic/10ms_zoom_out.png)
+  ![image](10ms_zoom_out.png)
 <br><br>
 ## 4. Ergebnis:
 Alle Zeiten in toleranzen, T6 ist manuel betätigt.
-|Zeit|Typ|Min|Max|Ist|
-|:-:|:-:|:-:|:-:|:-:|
-|T1|-|0 ms|200 ms|52 us|
-|T2|-|0,1 ms|0,3 ms|0,006 ms|
-|T3|-|0,1 ms|0,3 ms|0,070 ms|
-|T4|-|0,1 ms|0,3 ms|0,062 ms|
-|T6|-|-|-|<10 ms|
-|T7|-|-|-|7,4 ms|
+| Zeit  |  Typ  |  Min   |  Max   |   Ist    |
+| :---: | :---: | :----: | :----: | :------: |
+|  T1   |   -   |  0 ms  | 200 ms |  52 us   |
+|  T2   |   -   | 0,1 ms | 0,3 ms | 0,006 ms |
+|  T3   |   -   | 0,1 ms | 0,3 ms | 0,070 ms |
+|  T4   |   -   | 0,1 ms | 0,3 ms | 0,062 ms |
+|  T6   |   -   |   -    |   -    |  <10 ms  |
+|  T7   |   -   |   -    |   -    |  7,4 ms  |
 
 Datei sind plausibel in jede bereich, im allen Zykluszeiten stabil bis 10ms! Keine Datei ist verloren.
 Andere wirkungen:<br>
-Bei 10ms, Anzeigebild an C1202 ist bisschen langsam, aber funktionier Vollständig und mit giltigen Datei:
-![image](C1202cyclic/10ms.bmp)<br>
+Bei 10ms, Anzeigebild an C1202 ist bisschen langsam, aber funktionier Vollständig und mit giltigen Datei:<br>
+![image](10ms.bmp)<br>
 Bei 100ms Anzeigebild Influss ist gering.
 
 Atwort Zeit ist konstant im allen bereichen.

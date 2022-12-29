@@ -66,10 +66,10 @@ Interface: kabel DK-D1, ..., ...
 [20]: Millimar_C1202/C1202_Digimatic_analyse.pdf
 
 todo:
-- [ ] dokumnety przenisc
+- [x] dokumnety przenisc
 - [ ] wykres
 - [ ] linki - download all
-- [ ] ikony
+- [x] ikony
 - [x] ktory 8-cyfrowy
 - [ ] dodac excela link
 - [ ] doadac jak produkowac dokumenty
