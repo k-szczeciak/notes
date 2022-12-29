@@ -1,12 +1,14 @@
-[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](MC2000W_Digimatic_analyse.pdf)
+[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](M2000W_Digimatic_analyse.pdf)
 # Millimess 2000W digimatic schnittstelle pruefung
-<img src="device.png" height="300px"><br>
+<img src="device.png" height="200px"><br>
 ## 1. Messaufbau:
 ### 1.1. Millimess **2000W** Entwicklungsmuster
 ### 1.2. Digimatic Kabel: DK-D1, Art.: 4102606
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
-<img src="setup.png" width="600px"><br>
+<img src="setup.png" width="550px"><br>
+<div style="page-break-after: always;"></div><br>
+
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
 <img src="digi_def_6.png" width="600px">

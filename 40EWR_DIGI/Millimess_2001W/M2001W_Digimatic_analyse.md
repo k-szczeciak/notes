@@ -1,11 +1,12 @@
+[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](M2001W_Digimatic_analyse.pdf)
 # Millimess 2001W digimatic schnittstelle pruefung
-<img src="M2001W/M2001W.png" height="400px"><br>
+<img src="device.png" height="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. Millimess **2001W** Entwicklungsmuster
 ### 1.2. Digimatic Kabel: DK-D1, Art.: 4102606
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
-<img src="M2001W/M2001W_setup.png" width="400px"><br>
+<img src="setup.png" width="500px"><br>
 <br><br>
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***
