@@ -15,7 +15,7 @@
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](C1200/C1200_meas.png)
-### 3.1. Zeitaufnahme mit Zycklische-Anforderung:
+### 3.2. Zeitaufnahme mit Zycklische-Anforderung:
 - 1000ms:
   ![image](C1200/1000ms.png)
 - 500ms

@@ -11,11 +11,15 @@
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
 <img src="digi_def_6.png" width="400px">
-<div style="page-break-after: always;"></div><br>
 
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
+<div style="page-break-after: always;"></div><br>
+
+### 3.2. Zeitaufnahme mit Zycklische-Anforderung:
+- Digital und Analog:
+    ![image](multi.png)
 - Requesttakt: 2000ms
 ![image](2000ms.png)
 - Requesttakt: 1200ms
@@ -46,9 +50,6 @@
 ![image](100ms.png)
 - Requesttakt: 100ms Zoom
 ![image](100ms_zoom.png)
-
-### 3.1. Zeitaufnahme mit Multi-Anforderung:
-![image](multi.png)
 <div style="page-break-after: always;"></div><br>
 
 ## 4. Ergebnis:
@@ -62,5 +63,7 @@ Zeiten T1, T6 und T7 sind auser Toleranz
 |  T6   |   -    |   -   | 77 ms | 1200 ms  |
 |  T7   |   -    | 19 ms | 57 ms | 12,8 ms  |
 
+- 40EWR-L erst bei 1200ms stabil
+- 40EWR-L, wenn Anforderungsrate ist schneller ( <250ms) antwort stabilisiert sich ca 700ms jede Antwort
 Sonst datei sind plausiebel.
 Antwortzeit für Tastendruck ist auch ohne Verzögerung.
