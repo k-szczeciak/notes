@@ -7,8 +7,8 @@ Interface: kabel DK-D1, ..., ...
 
 ## Getestete Geraete:
 1. Mikromar 40EWR [Dokument](Micromar_40EWR/40EWR_Digimatic_analyse.md)
-2. Micromar 40EWR-L
-3. 
+2. Micromar 40EWR-L [Dokument](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.md)
+3. MarCator 108x [Dokument](MarCator_108x/MC_108x_Digimatic_analyse.md)
 
 
 ## Ergebnis, 6-stellige Digimatic Uebertragung

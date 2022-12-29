@@ -15,7 +15,6 @@
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
-<div style="page-break-after: always;"></div><br>
 
 ### 3.2. Zeitaufnahme mit Zycklische-Anforderung:
 - Digital und Analog:
@@ -65,5 +64,5 @@ Zeiten T1, T6 und T7 sind auser Toleranz
 
 - 40EWR-L erst bei 1200ms stabil
 - 40EWR-L, wenn Anforderungsrate ist schneller ( <250ms) antwort stabilisiert sich ca 700ms jede Antwort
-Sonst datei sind plausiebel.
-Antwortzeit für Tastendruck ist auch ohne Verzögerung.
+- Sonst datei sind plausiebel.
+- Antwortzeit für Tastendruck ist auch ohne Verzögerung.
