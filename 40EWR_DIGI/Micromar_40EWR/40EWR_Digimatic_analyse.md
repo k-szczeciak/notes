@@ -1,5 +1,5 @@
+[HOME](../Deckblatt_Digimatic_analyse.md)
 # Micromar 40EWR digimatic schnittstelle analyse
-[HOME](../)
 <img src="device.png" width="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. 40EWR, 75-100mm (art.: 4157003, kein Seriennummer)

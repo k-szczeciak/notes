@@ -1,3 +1,4 @@
+[HOME](../Deckblatt_Digimatic_analyse.md)
 # 40EWR-L digimatic schnittstelle pruefung - korrektur
 <img src="device.png" width="400px"><br>
 ## 1. Messaufbau:

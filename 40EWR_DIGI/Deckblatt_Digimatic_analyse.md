@@ -7,10 +7,10 @@ Interface: kabel DK-D1, ..., ...
 
 ## Getestete Geraete:
 1. [Mikromar 40EWR](Micromar_40EWR/40EWR_Digimatic_analyse.md) ([open pdf](Micromar_40EWR/40EWR_Digimatic_analyse.pdf))
-2. Micromar 40EWR-L [Dokument](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.md)
+2. [Micromar 40EWR-L](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.md) ([open pdf](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.pdf))
 3. 25EWR (18EWR/E)
 4. MarCator 1075R
-5. MarCator 108x [Dokument](MarCator_108x/MC_108x_Digimatic_analyse.md)
+5. [MarCator 108x](MarCator_108x/MC_108x_Digimatic_analyse.md) ([open pdf](MarCator_108x/MC_108x_Digimatic_analyse.pdf))
 6. MarCator Touch (Prototyp)
 7. Millimess Touch 2001W
 8. Millimess Touch 2000W
