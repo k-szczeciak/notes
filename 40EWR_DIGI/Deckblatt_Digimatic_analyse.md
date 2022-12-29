@@ -13,7 +13,7 @@ Interface: kabel DK-D1, ..., ...
 5. [MarCator 108x](MarCator_108x/MC_108x_Digimatic_analyse.md)
 6. [MarCator Touch (Prototyp)](MarCator_Touch/MC_touch_Digimatic_analyse.md)
 7. [Millimess Touch 2000W](Millimess_2000W/M2000W_Digimatic_analyse.md)
-8. Millimess Touch 2001W
+8. [Millimess Touch 2001W](Millimess_2001W/M2001W_Digimatic_analyse.md)
 9. C1200
 10. C1202
 
@@ -30,7 +30,7 @@ Interface: kabel DK-D1, ..., ...
 | **MarCator 108x**         | ![i][5] | 165     | 112     | 104     | 119     | 150     | 181     | [doku][15]  |
 | **MarCator Proto**        | ![i][6] | 20      | 19      | 106     | 105     | 90      | 32      | [doku][16]  |
 | **Millimess Touch 2000W** | ![i][7] | 4       | 19      | 106     | 104     | 100     | 16      | [doku][17]  |
-| **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      | stabil      |
+| **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      | [doku][18]      |
 | **C1200**                 | ![i][9] | 35      | 71      | 105     | 97      | 70      | 49      | stabil      |
 
 
@@ -49,7 +49,7 @@ Interface: kabel DK-D1, ..., ...
 [5]: MarCator_108x/device_r.png
 [6]: MarCator_touch/device_r.png
 [7]: Millimess_2000W/device_r.png
-[8]: Micromar_40EWR/device_r.png
+[8]: Millimess_2001W/device_r.png
 [9]: Micromar_40EWR/device_r.png
 [10]: Micromar_40EWR/device_r.png
 
@@ -60,6 +60,7 @@ Interface: kabel DK-D1, ..., ...
 [15]: MarCator_108x/MC_108x_Digimatic_analyse.pdf
 [16]: Marcator_touch/MC_touch_Digimatic_analyse.pdf
 [17]: Millimess_2000W/M2000W_Digimatic_analyse.pdf
+[18]: Millimess_2001W/M2001W_Digimatic_analyse.pdf
 
 todo:
 - [ ] dokumnety przenisc
