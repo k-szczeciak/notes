@@ -1,8 +1,9 @@
 # Digimatic Schnittstelle analyse
 
-Datum: 29.12.2022
-Schnittstelle: Digimatic
-Interface: kabel DK-D1, ..., ...
+Datum: **29.12.2022**<br>
+Schnittstelle: **Digimatic**<br>
+Interface: **kabel DK-D1,** <br>
+kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 
 
 ## 1. Getestete Geraete:
@@ -43,6 +44,14 @@ Interface: kabel DK-D1, ..., ...
 | max        |          | 200     | 0,3     | 0,3     | 0,3     | -       | -       |            |
 | **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     | [doku][20] |
 
+### 3.1. Vergleich zum C1202 USB-schnittstelle
+
+
+
+<br><br>
+## 4. Resourcen:
+- excel-Tabelle: 
+
 [1]: Micromar_40EWR/device_r.png
 [2]: Micromar_40EWR-L/device_r.png
 [3]: 25EWR/device_r.png
@@ -73,4 +82,4 @@ todo:
 - [x] ktory 8-cyfrowy
 - [ ] dodac excela link
 - [ ] doadac jak produkowac dokumenty
-- [ ] slowa i znaki niemieckie
+- [ ] przeczytac i korekta
