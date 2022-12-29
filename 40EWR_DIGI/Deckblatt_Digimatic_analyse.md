@@ -8,8 +8,14 @@ Interface: kabel DK-D1, ..., ...
 ## Getestete Geraete:
 1. Mikromar 40EWR [Dokument](Micromar_40EWR/40EWR_Digimatic_analyse.md)
 2. Micromar 40EWR-L [Dokument](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.md)
-3. MarCator 108x [Dokument](MarCator_108x/MC_108x_Digimatic_analyse.md)
-4. 
+3. 25EWR (18EWR/E)
+4. MarCator 1075R
+5. MarCator 108x [Dokument](MarCator_108x/MC_108x_Digimatic_analyse.md)
+6. MarCator Touch (Prototyp)
+7. Millimess Touch 2001W
+8. Millimess Touch 2000W
+9. C1200
+10. C1202
 
 ## Ergebnis, 6-stellige Digimatic Uebertragung
 | **Geraet**                | T1 [ms] | T2 [ms] | T3 [ms] | T4 [us] | T6 [us] | T7 [us] | bemerkung                |
