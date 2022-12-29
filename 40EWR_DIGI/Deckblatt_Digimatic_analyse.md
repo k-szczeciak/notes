@@ -6,7 +6,7 @@ Interface: kabel DK-D1, ..., ...
 
 
 ## Getestete Geraete:
-1. Mikromar 40EWR [Dokument](40EWR_Digimatic_analyse_raport.md)
+1. Mikromar 40EWR [Dokument](Micromar_40EWR/40EWR_Digimatic_analyse.md)
 2. Micromar 40EWR-L
 3. 
 
