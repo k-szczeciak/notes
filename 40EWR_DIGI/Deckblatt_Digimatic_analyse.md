@@ -6,7 +6,7 @@ Interface: kabel DK-D1, ..., ...
 
 
 ## Getestete Geraete:
-1. Mikromar 40EWR [Dokument](Micromar_40EWR/40EWR_Digimatic_analyse.md)
+1. [Mikromar 40EWR](Micromar_40EWR/40EWR_Digimatic_analyse.md) ([open pdf](Micromar_40EWR/40EWR_Digimatic_analyse.pdf))
 2. Micromar 40EWR-L [Dokument](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.md)
 3. 25EWR (18EWR/E)
 4. MarCator 1075R
