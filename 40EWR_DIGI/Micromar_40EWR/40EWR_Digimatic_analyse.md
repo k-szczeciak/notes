@@ -1,4 +1,4 @@
-[HOME](../Deckblatt_Digimatic_analyse.md)
+[HOME](../Deckblatt_Digimatic_analyse.md) [PDF](40EWR_Digimatic_analyse.pdf)
 # Micromar 40EWR digimatic schnittstelle analyse
 <img src="device.png" width="300px"><br>
 ## 1. Messaufbau:
