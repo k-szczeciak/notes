@@ -53,3 +53,8 @@ Interface: kabel DK-D1, ..., ...
 [8]: Micromar_40EWR/device_r.png
 [9]: Micromar_40EWR/device_r.png
 [10]: Micromar_40EWR/device_r.png
+
+todo:
+- [ ] dokumnety przenisc
+- [ ] wykres
+- [ ] 
