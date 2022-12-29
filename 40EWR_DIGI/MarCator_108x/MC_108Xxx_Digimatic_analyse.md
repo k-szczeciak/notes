@@ -1,15 +1,20 @@
 # MarCator 108x Digimatic schnittstelle prüfung
 ![image](img/MC_1086.png)
+<img src="device.png" width="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. MarCator **1087R** (Art.: 4337665, sn.: 22050001), **1087BR** (Art.: 4337662, sn.: 22060031), **1086R** (Art.: 4337625, sn.: 22070042), **1086R** (Art.: 4337697, sn.: 22020002)
 ### 1.2. Digimatic Kabel: Digimatic, Art No. 4102411
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
 ![image](img/MC_108x_setup.png)<br><br>
+<img src="setup.png" width="400px">
+<div style="page-break-after: always;"></div><br>
+
 ## 2. Interface Beschreibung
-***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***
-![image](img/digi_def.png)
-<br><br>
+***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
+<img src="digi_def_6.png" width="600px">
+<div style="page-break-after: always;"></div><br>
+
 ## 3. Messungen:
 ### 3.1. Einzelmessung:
 ![image](img/MC_1086_meas.png)<br><br><br>
