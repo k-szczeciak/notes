@@ -1,3 +1,4 @@
+[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](MC2000W_Digimatic_analyse.pdf)
 # Millimess 2000W digimatic schnittstelle pruefung
 <img src="M2000W/M2000W.png" height="400px"><br>
 ## 1. Messaufbau:

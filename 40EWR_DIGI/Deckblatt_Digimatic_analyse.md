@@ -12,8 +12,8 @@ Interface: kabel DK-D1, ..., ...
 4. [MarCator 1075R](Marcator_1075R/MC_1075R_Digimatic_analyse.md)
 5. [MarCator 108x](MarCator_108x/MC_108x_Digimatic_analyse.md)
 6. [MarCator Touch (Prototyp)](MarCator_Touch/MC_touch_Digimatic_analyse.md)
-7. Millimess Touch 2001W
-8. Millimess Touch 2000W
+7. Millimess Touch 2000W
+8. Millimess Touch 2001W
 9. C1200
 10. C1202
 
@@ -29,9 +29,9 @@ Interface: kabel DK-D1, ..., ...
 | **MarCator 1075R**        | ![i][4] | 166     | 112     | 104     | 136     | 150     | 183     | [doku][14]  |
 | **MarCator 108x**         | ![i][5] | 165     | 112     | 104     | 119     | 150     | 181     | [doku][15]  |
 | **MarCator Proto**        | ![i][6] | 20      | 19      | 106     | 105     | 90      | 32      | [doku][16]  |
-| **C1200**                 | ![i][7] | 35      | 71      | 105     | 97      | 70      | 49      | stabil      |
-| **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      | stabil      |
 | **Millimess Touch 2000W** | ![i][9] | 4       | 19      | 106     | 104     | 100     | 16      | stabil      |
+| **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      | stabil      |
+| **C1200**                 | ![i][7] | 35      | 71      | 105     | 97      | 70      | 49      | stabil      |
 
 
 ## Ergebnis, 8-stellige Digimatic Uebertragung
