@@ -57,4 +57,8 @@ Interface: kabel DK-D1, ..., ...
 todo:
 - [ ] dokumnety przenisc
 - [ ] wykres
-- [ ] 
+- [ ] linki
+- [ ] ikony
+- [ ] ktory 8-cyfrowy
+- [ ] dodac excela
+- [ ] doadac jak produkowac dokumenty
