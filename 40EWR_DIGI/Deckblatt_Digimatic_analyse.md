@@ -45,12 +45,12 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 | **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     | [doku][20] |
 
 ### 3.1. Vergleich zum C1202 USB-schnittstelle
-
+[doku](Millimar_C1202_USB/C1202_USB_analyse.md)
 
 
 <br><br>
 ## 4. Resourcen:
-- excel-Tabelle: 
+- [excel-Tabelle](res/Digimatic_Tabelle.xlsx)
 
 [1]: Micromar_40EWR/device_r.png
 [2]: Micromar_40EWR-L/device_r.png

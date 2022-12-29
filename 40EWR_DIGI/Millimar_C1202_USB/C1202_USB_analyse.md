@@ -1,5 +1,6 @@
+[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](C1202_USB_analyse.pdf)
 # C1202 USB Datenanfrage Analyse
-<img src="img/C1202t.png" height=200px/><br>
+<img src="device.png" height=200px/><br>
 
 ## 1. Messaufbau:
 ### 1.1. C1202 mit FW 1.1.0.0
@@ -10,6 +11,8 @@
 - interfcae: 9600 7E2<br>
 <a href="file://essfs01/Abteilungen/Benutzergruppen/Firmware_Software/Interface%20Beschreibung%20Datenkabel%20DK-U1/Release/20220926_DK-U1 Instruction%20Set.xlsm">20220926_DK-U1 Instruction Set.xlsm</a>
 > **\\essfs01\Abteilungen\Benutzergruppen\Firmware_Software\Interface Beschreibung Datenkabel DK-U1\Release\20220926_DK-U1 Instruction Set.xlsm**
+<div style="page-break-after: always;"></div><br>
+
 ## 3. Messungen:
 ### 3.1. Einzelantwort für '?':
 - Anzahl Merkmale: 1, 2 oder 3
@@ -18,7 +21,7 @@
 - Anforderung: Befehl ('?')
 - Daten Senden: Parallel
 - Gesamtzeit: 60ms 
-- ![image](C1202_USBcyclic/C1202_USB_meas.png)
+- ![image](meas.png)
 <br><br><br>
 ### 3.2. Einzelantwort für 'M1?':
 - Anzahl Merkmale: 1, 2 oder 3
