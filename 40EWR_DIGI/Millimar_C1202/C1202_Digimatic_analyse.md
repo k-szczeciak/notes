@@ -1,16 +1,20 @@
+[HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](C1202_Digimatic_analyse.pdf)
 # C1202 Digimatic schnittstelle prüfung
-<img src="img/C1202t.png" height=200px/><br>
+<img src="device.png" height=300px/><br>
 
 ## 1. Messaufbau:
 ### 1.1. C1202 mit FW 1.1.0.0 (Enwicklungsmuster), **Digimatic: 8-stellige Format implementiert**
 ### 1.2. Digimatic Kabel: DK-D1
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
-![image](img/C1202_setup.png)<br><br><br><br><br>
+<img src="setup.png" width=600px/><br>
+<div style="page-break-after: always;"></div><br>
+
 ## 2. Interface Beschreibung
 ***(Datenblatt: Mitutoyo Digimatic Micrometer Manual MDH-MB No. 99MAB045A: "99MAB045A.pdf"):***
-![image](img/digimatic_20.png)
-<br><br><br><br><br><br><br><br><br><br>
+<img src="digimatic_20.png" width="600px">
+<div style="page-break-after: always;"></div><br>
+
 ## 3. Messungen:
 ### 3.1. Einzelmessung:
 ![image](img/C1202_meas.png)

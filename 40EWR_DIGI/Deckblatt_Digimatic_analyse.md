@@ -15,7 +15,7 @@ Interface: kabel DK-D1, ..., ...
 7. [Millimess Touch 2000W](Millimess_2000W/M2000W_Digimatic_analyse.md)
 8. [Millimess Touch 2001W](Millimess_2001W/M2001W_Digimatic_analyse.md)
 9. [C1200](Millimar_C1200/C1200_Digimatic_analyse.md)
-10. C1202
+10. [C1202](Millimar_C1202/C1202_Digimatic_analyse.md)
 
 ## 2. Ergebnis, 6-stellige Digimatic Uebertragung
 | **Geraet**                | img     | T1 [ms] | T2 [ms] | T3 [ms] | T4 [us] | T6 [us] | T7 [us] | doku       |
@@ -70,7 +70,7 @@ todo:
 - [ ] wykres
 - [ ] linki - download all
 - [ ] ikony
-- [ ] ktory 8-cyfrowy
+- [x] ktory 8-cyfrowy
 - [ ] dodac excela link
 - [ ] doadac jak produkowac dokumenty
 - [ ] slowa i znaki niemieckie
