@@ -33,6 +33,8 @@ Interface: kabel DK-D1, ..., ...
 | **Millimess Touch 2001W** | 10      | 19      | 106     | 104     | 100     | 22      |                          |
 | **Millimess Touch 2000W** | 4       | 19      | 106     | 104     | 100     | 16      |                          |
 
+![img](1)
+
 
 ## Ergebnis, 8-stellige Digimatic Uebertragung
 | **Geraet** | T1 [ms] | T2 [ms] | T3 [ms] | T4 [ms] | T6 [ms] | T7 [ms] |
@@ -41,3 +43,6 @@ Interface: kabel DK-D1, ..., ...
 | **typ**    | -       | -       | -       | -       | -       | -       |
 | **max**    | 200     | 0,3     | 0,3     | 0,3     | -       | -       |
 | **C1202**  | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     |
+
+[1]: ![image](Micromar_40EWR/device.png)
+[1]: Micromar_40EWR/device.png
