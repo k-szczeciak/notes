@@ -5,16 +5,17 @@
 ### 1.2. Digimatic Kabel: DK-D1
 ### 1.3. Messung/Empfänger: Saleae logic Pro 8
 ### 1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST
-![image](setup.png)
-<br><br>
+<img src="setup.png" width="400px">
+<div style="page-break-after: always;"></div><br>
+
 ## 2. Interface Beschreibung
 ***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***
-![image](img/digi_def.png)
+![image](digi_def_6.png)
 <div style="page-break-after: always;"></div><br>
 
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
-![image](img/40EWR__meas.png)
+![image](40EWR_eas.png)
 ### 3.1. Zeitaufnahme mit Multi-Anforderung:
 ![image](img/40EWR__multi.png)
 <br><br>
