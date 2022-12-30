@@ -19,45 +19,58 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 10. [C1202](Millimar_C1202/C1202_Digimatic_analyse.md)
 
 ## 2. Ergebnis, 6-stellige Digimatic Uebertragung
-| **Geraet**                | img     | T1 [ms] | T2 [ms] | T3 [ms] | T4 [us] | T6 [us] | T7 [us] | doku       |
+### 2.1. Definition
+<img src="res/digi_def_6.png" width="600px"><br>
+### 2.2. Tabelle
+| **Geraet**                | img     | T1 [ms] | T2 [µs] | T3 [µs] | T4 [µs] | T6 [ms] | T7 [ms] | doku       |
 | ------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
-| min                       |         | 2       | -       | -       | -       | -       | -       |            |
-| typ                       |         | -       | 21      | 100     | 100     | 77      | 57      |            |
-| max                       |         | 40      | -       | -       | -       | -       | -       |            |
+| min                       |         | 2       | -       | -       | -       | -       | 19      |            |
+| typ                       |         | -       | 21      | 100     | 100     | -       | -       |            |
+| max                       |         | 40      | -       | -       | -       | 77      | 57      |            |
 | **Micromar 40EWR**        | ![i][1] | 0,6     | 21      | 105     | 110     | 1200    | 13      | [doku][11] |
 | **Micromar 40EWR-L**      | ![i][2] | 0,8     | 21      | 104     | 108     | 1200    | 13      | [doku][12] |
 | **25EWR (18EWR/E)**       | ![i][3] | 200     | 112     | 104     | 136     | 450     | 216     | [doku][13] |
 | **MarCator 1075R**        | ![i][4] | 166     | 112     | 104     | 136     | 150     | 183     | [doku][14] |
 | **MarCator 108x**         | ![i][5] | 165     | 112     | 104     | 119     | 150     | 181     | [doku][15] |
-| **MarCator Proto**        | ![i][6] | 20      | 19      | 106     | 105     | 90      | 32      | [doku][16] |
+| **MarCator Touch**        | ![i][6] | 20      | 19      | 106     | 105     | 90      | 32      | [doku][16] |
 | **Millimess Touch 2000W** | ![i][7] | 4       | 19      | 106     | 104     | 100     | 16      | [doku][17] |
 | **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      | [doku][18] |
 | **C1200**                 | ![i][9] | 35      | 71      | 105     | 97      | 70      | 49      | [doku][19] |
 
+### 2.3. Diagramme
 
-<br><br>
-## 3. Ergebnis, 8-stellige Digimatic Uebertragung
+![img](res/T1.png)
+![img](res/T2.png)
+![img](res/T3.png)
+![img](res/T4.png)
+![img](res/T6.png)
+![img](res/T7.png)
+
+## 3. Digimatic 8-Stellige dateiuebertragung
+### 3.1. Definition
+<img src="res/digimatic_20.png" width="600px"><br>
+### 3.2. Tabelle
 | **Geraet** | img      | T1 [ms] | T2 [ms] | T3 [ms] | T4 [ms] | T6 [ms] | T7 [ms] | doku       |
 | ---------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
 | min        |          | 0       | 0,1     | 0,1     | 0,1     | -       | -       |            |
 | typ        |          | -       | -       | -       | -       | -       | -       |            |
 | max        |          | 200     | 0,3     | 0,3     | 0,3     | -       | -       |            |
 | **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     | [doku][20] |
+### 3.3. Diagramm
+![img](res/C1202_chart.png)
 
-### 3.1. [Vergleich zum C1202 USB-schnittstelle](Millimar_C1202_USB/C1202_USB_analyse.md)
+### 4. [Vergleich zum C1202 USB-schnittstelle](Millimar_C1202_USB/C1202_USB_analyse.md)
 
-| **Geraet** | img      | AnfragePeriode [ms] | doku       |
-| ---------- | -------- | :-----------------: | ---------- |
-| **C1202**  | ![i][10] |         100         | [doku][21] |
+| **Geraet** |                         img                          | AnfragePeriode [ms] | doku       |
+| ---------- | :--------------------------------------------------: | :-----------------: | ---------- |
+| **C1202**  | ![i][10] + <img src="res/USBlogo.png" width="120px"> |         100         | [doku][21] |
+
 
 <br><br>
-## 4. Grafishce Darstellung
-
-<br><br>
-## 5. Resourcen:
+## 5. Ressourcen:
 - [excel-Tabelle](res/Digimatic_Tabelle.xlsx)
 - [ordner](./)
-- [zip unterladen]
+- [alle Dokumente untelraden](res/Digimatic_analyse.zip)
 
 [1]: Micromar_40EWR/device_r.png
 [2]: Micromar_40EWR-L/device_r.png

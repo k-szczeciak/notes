@@ -40,9 +40,9 @@ Alle Zeiten in toleranzen, T6 ist manuel betätigt.
 | Zeit  |  Typ   |  Min  |  Max  |   Ist    |
 | :---: | :----: | :---: | :---: | :------: |
 |  T1   |   -    | 2 ms  | 40 ms |  165 ms  |
-|  T2   | 21 us  |   -   |   -   |  112 us  |
-|  T3   | 100 us |   -   |   -   |  105 us  |
-|  T4   | 100 us |   -   |   -   |  119 us  |
+|  T2   | 21 µs  |   -   |   -   |  112 µs  |
+|  T3   | 100 µs |   -   |   -   |  105 µs  |
+|  T4   | 100 µs |   -   |   -   |  119 µs  |
 |  T6   |   -    |   -   | 77 ms | 150 ms*) |
 |  T7   |   -    | 19 ms | 57 ms |  181 ms  |
 
