@@ -21,6 +21,9 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 ## 2. Ergebnis, 6-stellige Digimatic Dateiübertragung
 ### 2.1. Definition
 <img src="res/digi_def_6.png" width="600px"><br>
+
+<div style="page-break-after: always;"></div><br>
+
 ### 2.2. Tabelle
 | **Geraet**                | Bild    | T1 [ms] | T2 [µs] | T3 [µs] | T4 [µs] | T6 [ms] | T7 [ms] | doku       |
 | ------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
@@ -37,8 +40,9 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 | **Millimess Touch 2001W** | ![i][8] | 10      | 19      | 106     | 104     | 100     | 22      | [doku][18] |
 | **C1200**                 | ![i][9] | 35      | 71      | 105     | 97      | 70      | 49      | [doku][19] |
 
-### 2.3. Diagramme
+<div style="page-break-after: always;"></div><br>
 
+### 2.3. Diagramme
 ![img](res/T1.png)
 ![img](res/T2.png)
 ![img](res/T3.png)
@@ -46,9 +50,14 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 ![img](res/T6.png)
 ![img](res/T7.png)
 
+<div style="page-break-after: always;"></div><br>
+
 ## 3. Digimatic 8-Stellige Dateiübertragung
 ### 3.1. Definition
 <img src="res/digimatic_20.png" width="600px"><br>
+
+<div style="page-break-after: always;"></div><br>
+
 ### 3.2. Tabelle
 | **Geraet** | img      | T1 [ms] | T2 [ms] | T3 [ms] | T4 [ms] | T6 [ms] | T7 [ms] | doku       |
 | ---------- | -------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
@@ -58,6 +67,8 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 | **C1202**  | ![i][10] | 0,005   | 0,006   | 0,07    | 0,06    | 10      | 7,4     | [doku][20] |
 ### 3.3. Diagramm
 ![img](res/C1202_chart.png)
+
+<div style="page-break-after: always;"></div><br>
 
 ### 4. [Vergleich zum C1202 USB-schnittstelle](Millimar_C1202_USB/C1202_USB_analyse.md)
 
