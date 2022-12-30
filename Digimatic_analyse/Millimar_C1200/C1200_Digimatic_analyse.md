@@ -10,7 +10,8 @@
 <div style="page-break-after: always;"></div><br>
 
 ## 2. Interface Beschreibung
-***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***
+***(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):***<br>
+
 <img src="digi_def_6.png" width="600px">
 <div style="page-break-after: always;"></div><br>
 
