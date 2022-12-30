@@ -1,8 +1,8 @@
-# Digimatic Schnittstelle analyse
+# Digimatic Schnittstelle analyse für Handmessgeräte
 
 Datum: **29.12.2022**<br>
 Schnittstelle: **Digimatic**<br>
-Interface: **kabel DK-D1, Digimatic, Art No. 4102411** <br>
+Interface: **kabel DK-D1, Art No. 4102411, Art No. 4346021** <br>
 kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 
 
@@ -18,11 +18,11 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 9. [C1200](Millimar_C1200/C1200_Digimatic_analyse.md)
 10. [C1202](Millimar_C1202/C1202_Digimatic_analyse.md)
 
-## 2. Ergebnis, 6-stellige Digimatic Uebertragung
+## 2. Ergebnis, 6-stellige Digimatic Dateiübertragung
 ### 2.1. Definition
 <img src="res/digi_def_6.png" width="600px"><br>
 ### 2.2. Tabelle
-| **Geraet**                | img     | T1 [ms] | T2 [µs] | T3 [µs] | T4 [µs] | T6 [ms] | T7 [ms] | doku       |
+| **Geraet**                | Bild    | T1 [ms] | T2 [µs] | T3 [µs] | T4 [µs] | T6 [ms] | T7 [ms] | doku       |
 | ------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ---------- |
 | min                       |         | 2       | -       | -       | -       | -       | 19      |            |
 | typ                       |         | -       | 21      | 100     | 100     | -       | -       |            |
@@ -46,7 +46,7 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 ![img](res/T6.png)
 ![img](res/T7.png)
 
-## 3. Digimatic 8-Stellige dateiuebertragung
+## 3. Digimatic 8-Stellige Dateiübertragung
 ### 3.1. Definition
 <img src="res/digimatic_20.png" width="600px"><br>
 ### 3.2. Tabelle
