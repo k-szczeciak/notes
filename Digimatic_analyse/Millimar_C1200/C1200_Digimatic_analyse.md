@@ -1,5 +1,5 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](C1200_Digimatic_analyse.pdf)
-# Millimar C1200 digimatic schnittstelle pruefung
+# Millimar C1200 digimatic schnittstelle Analyse
 <img src="device.png" width="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. Millimar **C1200** (Art.: 5212010, sn.: 61080018), 
@@ -17,7 +17,7 @@
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
-### 3.2. Zeitaufnahme mit Zycklische-Anforderung:
+### 3.2. Zeitaufnahme mit Zyklische-Anforderung:
 - 1000ms:
   ![image](1000ms.png)
 - 500ms

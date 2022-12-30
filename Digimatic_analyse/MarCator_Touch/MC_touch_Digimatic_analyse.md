@@ -1,5 +1,5 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](MC_touch_Digimatic_analyse.pdf)
-# MarCator Touch digimatic schnittstelle pruefung
+# MarCator Touch digimatic schnittstelle Analyze
 <img src="device.png" width="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. MarCator Prototyp
@@ -27,7 +27,7 @@
 ![image](80ms_zoom.png)
 
 ## 4. Ergebnis:
-Alle Zeiten in toleranzen, T6 ist manuel betaetigt.
+Alle Zeiten in toleranzen, T6 ist manuel betätigt.
 | Zeit  |  Typ   |  Min  |  Max  |   Ist    |
 | :---: | :----: | :---: | :---: | :------: |
 |  T1   |   -    | 2 ms  | 40 ms |  20 ms   |
@@ -40,5 +40,5 @@ Alle Zeiten in toleranzen, T6 ist manuel betaetigt.
 Alle datei sind plausiebel.
 Antwortzeit für Tastendruck ist auch ohne Verzögerung.
 Antwort Zeit kann ca 60ms sein aber <80ms Anforderungszeit ist nicht Stabil.
-Variable Frequentz:
+Variable Clock-Frequentz:
 ![image](freq.png)

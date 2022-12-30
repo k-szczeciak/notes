@@ -1,5 +1,5 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](C1202_Digimatic_analyse.pdf)
-# C1202 Digimatic schnittstelle prüfung
+# C1202 Digimatic schnittstelle Analyse
 <img src="device.png" height=300px/><br>
 
 ## 1. Messaufbau:
@@ -18,7 +18,7 @@
 ## 3. Messungen:
 ### 3.1. Einzelmessung:
 ![image](meas.png)
-### 3.1. Zyklischeanforderung:
+### 3.1. Zyklische-Anforderung:
 - 1000ms
   ![image](1000ms.png)
 - 500ms

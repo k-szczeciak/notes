@@ -1,5 +1,5 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](M2001W_Digimatic_analyse.pdf)
-# Millimess 2001W digimatic schnittstelle pruefung
+# Millimess 2001W digimatic schnittstelle Analyse
 <img src="device.png" height="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. Millimess **2001W** Entwicklungsmuster
@@ -17,7 +17,7 @@
 ## 3. Messungen:
 ### 3.1. Zeitaufnahme:
 ![image](meas.png)
-### 3.1. Zeitaufnahme mit Zycklische-Anforderung:
+### 3.1. Zeitaufnahme mit Zyklische-Anforderung:
 - 1000ms:
   ![image](1000ms.png)
 - 500ms

@@ -2,7 +2,7 @@
 
 Datum: **29.12.2022**<br>
 Schnittstelle: **Digimatic**<br>
-Interface: **kabel DK-D1,** <br>
+Interface: **kabel DK-D1, Digimatic, Art No. 4102411** <br>
 kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 
 
