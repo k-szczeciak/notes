@@ -1,5 +1,5 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](25EWR_Digimatic_analyse.pdf)
-# 25EWR digimatic schnittstelle pruefung
+# 25EWR digimatic schnittstelle Analyse
 <img src="device.png" height="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. **18EWR/E** 500mm (Art.: 4112713, sn.: 12040130), 

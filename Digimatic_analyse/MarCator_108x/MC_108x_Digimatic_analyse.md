@@ -1,5 +1,5 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](MC_108x_Digimatic_analyse.pdf)
-# MarCator 108x Digimatic schnittstelle prüfung
+# MarCator 108x Digimatic schnittstelle Analyse
 <img src="device.png" width="300px"><br>
 
 ## 1. Messaufbau:

@@ -1,5 +1,5 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](40EWR-L_Digimatic_analyse.pdf)
-# 40EWR-L digimatic schnittstelle pruefung - korrektur
+# 40EWR-L digimatic schnittstelle Analyse
 <img src="device.png" width="400px"><br>
 ## 1. Messaufbau:
 ### 1.1. 40EWR-L, 25-50mm (art.: 4157021, sn.: 22100002)

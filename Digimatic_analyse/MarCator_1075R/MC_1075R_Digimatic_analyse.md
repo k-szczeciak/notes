@@ -1,5 +1,5 @@
 [HOME](../Deckblatt_Digimatic_analyse.md)<--->[PDF](MC_1075R_Digimatic_analyse.pdf)
-# MarCator 1075R digimatic schnittstelle pruefung
+# MarCator 1075R digimatic schnittstelle Analyse
 <img src="device.png" height="300px"><br>
 ## 1. Messaufbau:
 ### 1.1. MarCator **1075R** (Art.: 4336010, sn.: 22070356), 
