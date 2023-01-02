@@ -62,7 +62,10 @@ Learn Now:
 - [azure devops](https://www.youtube.com/watch?v=4BibQ69MD8c)
 - [CUnit in CSS](https://www.youtube.com/watch?v=3Ri4SZCnzQo)
 - [C code docs](https://www.slant.co/topics/4160/~open-source-documentation-generators-for-c-c)
-- 
+
+git rebase: [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more - Bing video](https://www.bing.com/videos/search?q=git+rebase&docid=608020906962937973&mid=0A5188AD3FBE4C4AC1980A5188AD3FBE4C4AC198&view=detail&FORM=VIRE)
+follow up: [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git - Bing video](https://www.bing.com/videos/search?&q=git+rebase&docid=608020906962937973&mid=93EBC11C1009B38E659E93EBC11C1009B38E659E&view=detail&FORM=VIRE&form=VDRVRV&ajaxhist=0)
+
 
 IDEA:
 - make courses for udemy, free or paied, four your own record, e.g. tworzenie pliku jezykowego do C1202
