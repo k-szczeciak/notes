@@ -7,16 +7,16 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 
 
 ## 1. Getestete Geraete:
-1. [Mikromar 40EWR](Micromar_40EWR/40EWR_Digimatic_analyse.md) 
-2. [Micromar 40EWR-L](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.md)
-3. [25EWR (18EWR/E)](25EWR/25EWR_Digimatic_analyse.md)
-4. [MarCator 1075R](Marcator_1075R/MC_1075R_Digimatic_analyse.md)
-5. [MarCator 108x](MarCator_108x/MC_108x_Digimatic_analyse.md)
-6. [MarCator Touch (Prototyp)](MarCator_Touch/MC_touch_Digimatic_analyse.md)
-7. [Millimess Touch 2000W](Millimess_2000W/M2000W_Digimatic_analyse.md)
-8. [Millimess Touch 2001W](Millimess_2001W/M2001W_Digimatic_analyse.md)
-9. [C1200](Millimar_C1200/C1200_Digimatic_analyse.md)
-10. [C1202](Millimar_C1202/C1202_Digimatic_analyse.md)
+1. [Mikromar 40EWR](Micromar_40EWR/40EWR_Digimatic_analyse.html) 
+2. [Micromar 40EWR-L](Micromar_40EWR-L/40EWR-L_Digimatic_analyse.html)
+3. [25EWR (18EWR/E)](25EWR/25EWR_Digimatic_analyse.html)
+4. [MarCator 1075R](Marcator_1075R/MC_1075R_Digimatic_analyse.html)
+5. [MarCator 108x](MarCator_108x/MC_108x_Digimatic_analyse.html)
+6. [MarCator Touch (Prototyp)](MarCator_Touch/MC_touch_Digimati_analyse.html)
+7. [Millimess Touch 2000W](Millimess_2000W/M2000W_Digimatic_analyse.html)
+8. [Millimess Touch 2001W](Millimess_2001W/M2001W_Digimatic_analyse.html)
+9. [C1200](Millimar_C1200/C1200_Digimatic_analyse.html)
+10. [C1202](Millimar_C1202/C1202_Digimatic_analyse.html)
 
 ## 2. Ergebnis, 6-stellige Digimatic Dateiübertragung
 ### 2.1. Definition
@@ -79,9 +79,9 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 
 <br><br>
 ## 5. Ressourcen:
-- [excel-Tabelle](res/Digimatic_Tabelle.xlsx)
-- [ordner](./)
-- [alle Dokumente untelraden](res/Digimatic_analyse.zip)
+- [Excel-Tabelle mit Grafik](res/Digimatic_Tabelle.xlsx)
+- [Ordner Pfad](./)
+- [Alle Dokumente unterladen](res/Digimatic_analyse.zip)
 
 [1]: Micromar_40EWR/device_r.png
 [2]: Micromar_40EWR-L/device_r.png
@@ -94,14 +94,14 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 [9]: Millimar_C1200/device_r.png
 [10]: Millimar_C1202/device_r.png
 
-[11]: Micromar_40EWR/40EWR_Digimatic_analyse.pdf
-[12]: Micromar_40EWR-L/40EWR-L_Digimatic_analyse.pdf
-[13]: 25EWR/25EWR_Digimatic_analyse.pdf
-[14]: MarCator_1075R/MC_1075R_Digimatic_analyse.pdf
-[15]: MarCator_108x/MC_108x_Digimatic_analyse.pdf
-[16]: Marcator_touch/MC_touch_Digimatic_analyse.pdf
-[17]: Millimess_2000W/M2000W_Digimatic_analyse.pdf
-[18]: Millimess_2001W/M2001W_Digimatic_analyse.pdf
-[19]: Millimar_C1200/C1200_Digimatic_analyse.pdf
-[20]: Millimar_C1202/C1202_Digimatic_analyse.pdf
-[21]: Millimar_C1202_USB/C1202_USB_analyse.pdf
+[11]: ./Micromar_40EWR/40EWR_Digimatic_analyse.pdf
+[12]: ./Micromar_40EWR-L/40EWR-L_Digimatic_analyse.pdf
+[13]: ./25EWR/25EWR_Digimatic_analyse.pdf
+[14]: ./MarCator_1075R/MC_1075R_Digimatic_analyse.pdf
+[15]: ./MarCator_108x/MC_108x_Digimatic_analyse.pdf
+[16]: ./Marcator_touch/MC_touch_Digimatic_analyse.pdf
+[17]: ./Millimess_2000W/M2000W_Digimatic_analyse.pdf
+[18]: ./Millimess_2001W/M2001W_Digimatic_analyse.pdf
+[19]: ./Millimar_C1200/C1200_Digimatic_analyse.pdf
+[20]: ./Millimar_C1202/C1202_Digimatic_analyse.pdf
+[21]: ./Millimar_C1202_USB/C1202_USB_analyse.pdf
