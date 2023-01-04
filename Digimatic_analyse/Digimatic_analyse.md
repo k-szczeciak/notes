@@ -79,9 +79,10 @@ kontakt: *Krzysztof Szczeciak (krzysztof.szczeciak@mahr.com)*
 
 <br><br>
 ## 5. Ressourcen:
+- [Digimatic 6- und 8- stellig Mitutoyo, 99MAB045A.pdf](res/99MAB045A.pdf)
+- [Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf](res/Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf)
 - [Excel-Tabelle mit Grafik](res/Digimatic_Tabelle.xlsx)
-- [Ordner Pfad](./)
-- [Alle Dokumente unterladen](res/Digimatic_analyse.zip)
+- [Dateipfad](./)
 
 [1]: Micromar_40EWR/device_r.png
 [2]: Micromar_40EWR-L/device_r.png
