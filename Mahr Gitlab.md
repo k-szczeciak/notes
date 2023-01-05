@@ -151,4 +151,9 @@ new remote
 remove remote:
 > git remote remove old-origin
 
-> git remote https://Szczeciak:nBXwCrZfxxZiyPUyBNLF@gitlab.mahr.com/precision-gages/marcator/marcator-firmware-main-mcu.git
+> git remote add origin https://Szczeciak:<token>@gitlab.mahr.com/precision-gages/marcator/marcator-firmware-main-mcu.git
+> git push --set-upstream origin master
+
+
+lub wszystkie origin-y:
+> 
