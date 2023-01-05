@@ -150,3 +150,5 @@ new remote
 
 remove remote:
 > git remote remove old-origin
+
+> git remote https://Szczeciak:nBXwCrZfxxZiyPUyBNLF@gitlab.mahr.com/precision-gages/marcator/marcator-firmware-main-mcu.git
