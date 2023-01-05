@@ -145,3 +145,8 @@ inne:
 - deployments apps
 
 new remote
+
+
+
+remove remote:
+> git remote remove old-origin
