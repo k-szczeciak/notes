@@ -143,3 +143,5 @@ mirroring repos
 inne:
 - CI/CD (unit testing, automation tetsing)
 - deployments apps
+
+new remote
