@@ -157,3 +157,9 @@ remove remote:
 
 lub wszystkie origin-y:
 > git push -u origin all
+
+
+inne:
+[]
+> `git remote show origin`
+
