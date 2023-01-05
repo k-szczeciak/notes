@@ -224,3 +224,10 @@ https://www.youtube.com/watch?v=1S1XydtDgo8
 
 Misra C
 ChatGPT
+
+volantile (rowniez dla const): https://ucgosu.pl/2017/06/uzywac-modyfikatora-volatile/
+-   Błędne działanie programu po włączeniu optymalizacji.
+-   Błędne działanie programów wykorzystujących przerwania lub współbieżność.
+-   Problemy z obsługą sterowników sprzętu.
+-   Problemy z wydajnością programu.
+Modyfikator volatile dodany do zmiennej jest informacją dla kompilatora, że jej zawartość może się zmienić w nieznanych momentach nawet jeśli kod danej funkcji jej nie zmienia. Konsekwencją jest niestosowanie optymalizacji dla zmiennej volatile. Oznacza to, że kompilator przy każdym użyciu odczytuje jej wartość z pamięci zamiast przechowywać ją w rejestrze jeśli wykonuje na niej kilka operacji. Poza tym kompilator nie zmienia kolejności działań wykonywanych przy użyciu tej zmiennej. Skutek zastosowania modyfikatora volatile został fajnie przedstawiony na anglojęzycznej wikipedii, gdzie porównano wynikowy kod asemblerowy dla tego samego programu z wykorzystaniem volatile i bez
