@@ -5,7 +5,7 @@
 |#|item|score|notes|
 |:-:|:-|:-|:-|
 |1|AI, ML, Nvidia Tensor flow||[[google Tensor Flow]]|
-|2|Edge computing, big data|||
+|2|Edge computing, big data, data analyst|||
 |3| jenkins, CD/CI, Devops, Azure, AWS, GC...|||
 |4|CMake|||
 |5|Linux|||
@@ -146,7 +146,7 @@ przygotowania do interview: online, udemy
 
 
 topiki:
-- volantile
+- volantile (rowniaz const)
 - pragma mem optimali, pragma gcc [1](https://codeforces.com/blog/entry/96344?f0a28=1) [2](https://gcc.gnu.org/onlinedocs/cpp/Pragmas.html) [3](https://www.cprogramming.com/reference/preprocessor/pragma.html) [4](https://www.cprogramming.com/tutorial/cpreprocessor.html) 
 
 
