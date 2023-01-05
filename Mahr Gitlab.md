@@ -160,6 +160,7 @@ lub wszystkie origin-y:
 
 
 inne:
-[]
+- [resetowanie origin-a](https://www.freecodecamp.org/news/git-reset-to-remote-head-how-to-reset-a-remote-branch-to-origin/)
+
 > `git remote show origin`
 
