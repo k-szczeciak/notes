@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"|#|projekt|status|office PC|home PC|laptop|image,other||:-:|:-:|:-:|:-:|:-:|:-:|:-:||1|MarCator|ported folder only|-|-|-|-||2|C1202|cloned with history|-|-|-|-||3|MillimarTool|cloned with history|-|-|-|-||4|A1701|ported from svn|-|-|-|-|\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6367080c59b7692",
+  "active": "088a1e1caf8d85e2",
   "lastOpenFiles": [
     "2023-01-05.md",
     "Mahr Gitlab.md",
