@@ -156,4 +156,4 @@ remove remote:
 
 
 lub wszystkie origin-y:
-> 
+> git push -u origin all
