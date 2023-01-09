@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "2023-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "2023-01-04.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6367080c59b7692",
+  "active": "540cad718079e528",
   "lastOpenFiles": [
+    "Learn.md",
     "2023-01-09.md",
     "MarCator/notes.md",
     "MarCator/MSP430m07_LPM.pdf",
@@ -169,7 +169,6 @@
     "2023-01-04.md",
     "2022-12-30.md",
     "2022-12-29.md",
-    "2022-12-28.md",
-    "2022-12-27.md"
+    "2022-12-28.md"
   ]
 }
