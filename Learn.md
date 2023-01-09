@@ -236,7 +236,7 @@ Modyfikator volatile dodany do zmiennej jest informacją dla kompilatora, że je
 
 
 przygotowanie: (notatki)
-	1. [pytania](https://microgeek.eu/viewtopic.php?t=1853)
+	1. [pytania](https://microgeek.eu/viewtopic.php?t=1853) [rekrutacja emb](https://www.youtube.com/watch?v=EjxO3wl_cmM)
 	2. udemy 101
 	3. keywords
 	4. dzialanie przerwania
