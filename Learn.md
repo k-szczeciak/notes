@@ -235,7 +235,12 @@ Modyfikator volatile dodany do zmiennej jest informacją dla kompilatora, że je
 [inny po polsku z listingiem asm](http://mirekk36.blogspot.com/2011/08/test.html)
 
 
-przygotowanie:
-[pytania](https://microgeek.eu/viewtopic.php?t=1853)
-udemy 101
-k
+przygotowanie: (notatki)
+	1. [pytania](https://microgeek.eu/viewtopic.php?t=1853)
+	2. udemy 101
+	3. keywords
+	4. dzialanie przerwania
+	5. dzialanie startu programu
+	6. rejestry
+	7. kodowanie (ze stringiem, z drzewem od googla, drzewo RB)
+	8. kryptografia
