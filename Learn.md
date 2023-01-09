@@ -235,7 +235,7 @@ Modyfikator volatile dodany do zmiennej jest informacją dla kompilatora, że je
 [inny po polsku z listingiem asm](http://mirekk36.blogspot.com/2011/08/test.html)
 
 
-przygotowanie: (notatki)
+przygotowanie: (notatki) [pytania](https://www.startpage.com/sp/search)
 	1. [pytania](https://microgeek.eu/viewtopic.php?t=1853) [rekrutacja emb](https://www.youtube.com/watch?v=EjxO3wl_cmM)
 	2. udemy 101
 	3. keywords
@@ -244,3 +244,7 @@ przygotowanie: (notatki)
 	6. rejestry
 	7. kodowanie (ze stringiem, z drzewem od googla, drzewo RB)
 	8. kryptografia
+
+
+inne:
+BLE/ethernet
