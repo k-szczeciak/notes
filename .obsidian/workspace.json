@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-01-11.md",
+                "file": "Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-01-11.md",
+                "file": "Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-01-11.md",
+                "file": "Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-01-11.md"
+                "file": "Learn.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5ac13fec1babf184",
   "lastOpenFiles": [
+    "2023-01-11.md",
     "2023-01-10.md",
     "Learn.md",
     "usefull URLs.md",
@@ -156,7 +157,6 @@
     "MarCator/notes.md",
     "MarCator/MSP430m07_LPM.pdf",
     "2023-01-03.md",
-    "2023-01-02.md",
-    "2022-12-30.md"
+    "2023-01-02.md"
   ]
 }
