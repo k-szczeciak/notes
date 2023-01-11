@@ -248,3 +248,8 @@ przygotowanie: (notatki) [pytania](https://www.startpage.com/sp/search)
 
 inne:
 BLE/ethernet
+
+
+WDT:
+https://www.eeweb.com/using-the-microcontrollers-watchdog-timer-wdt-effectively/
+https://www.youtube.com/watch?v=QVyH1tyjwA0

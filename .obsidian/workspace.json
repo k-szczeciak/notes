@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn.md",
+                "file": "2023-01-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn.md",
+                "file": "2023-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn.md",
+                "file": "2023-01-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn.md"
+                "file": "2023-01-11.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "5ac13fec1babf184",
   "lastOpenFiles": [
+    "Learn.md",
     "2023-01-11.md",
     "2023-01-10.md",
-    "Learn.md",
     "usefull URLs.md",
     "2023-01-04.md",
     "2023-01-09.md",
