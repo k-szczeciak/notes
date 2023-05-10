@@ -1,0 +1,3 @@
+- frendly ELEC:
+	- [NanoPi NEO](https://botland.com.pl/moduly-nanopi/9477-zestaw-complete-starter-kit-z-nanopi-neo-512mb-5904422313432.html)
+	- 

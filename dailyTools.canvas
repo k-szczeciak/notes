@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"link","url":"https://www.deepl.com/translator","id":"a1ef41e72d6e2a1f","x":-600,"y":-380,"width":880,"height":500},
+		{"type":"link","url":"https://translate.google.de/","id":"42460894e9fbbab9","x":-600,"y":180,"width":880,"height":400}
+	],
+	"edges":[]
+}

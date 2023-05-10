@@ -1,0 +1,5 @@
+Greene
+wzorce projektowe
+kryptografia
+ai
+algorytmy marketingowe

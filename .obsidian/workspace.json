@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "614042888f9337f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "066db9c0a7afd1b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4412484bd2df6b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Learn_/MEMO CARDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a512240e25f005b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HolidaysDB.canvas",
+                "viewState": {
+                  "x": -75,
+                  "y": 29,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "49731226742ed162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab6ca630aee8d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b079801fd8822fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "4246adb876b6ca6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e88f86a184ade1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb9d085954e04a61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "C1202",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "919a0aab6ecbc3bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7aa5f3c03fb33739",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5147cbeb35329d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f00e7b2a5b38ec80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e7e9d0195aa87a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8707219fbe7e3a0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef60e6eca0a79a25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b565baa84e30c58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+              }
+            }
+          },
+          {
+            "id": "86657b3a80225da3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ab6ca630aee8d6f",
+  "lastOpenFiles": [
+    "2023-05-10.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "HolidaysDB.canvas",
+    "_Learn_/MEMO CARDS.md",
+    "2023-05-09.md",
+    "2023-05-09_14h00_06.png",
+    "UI designs.md",
+    "Urlopy.md",
+    "orderDB ideas.md",
+    "ToDo.md",
+    "OrderDB.canvas",
+    "Navbar.canvas",
+    "MEMO_CARDS.canvas",
+    "MarCator_HAL.canvas",
+    "664zjpul.bmp",
+    "_cheatsheet_/usefull URLs.md",
+    "aboutCanvas.canvas",
+    "dailyTools.canvas",
+    "_Projekte_/C1202/C1202_notes.md",
+    "_LogBook_/2023/2023.01/2023-01-26.md",
+    "_Private_/orderDB.md",
+    "_LogBook_/LogBook_sum.md",
+    "MarCator_Touch/MC_touch_Digimati_analyse.html.md",
+    "MarCator_Touch",
+    "_Private_/zakupy.md",
+    "2023-05-08.md",
+    "_LogBook_/2023/sum_2023.md",
+    "__START__.md",
+    "_Private_/~Private_sum.md",
+    "_Private_/finanse.md",
+    "_Docs_/General notes Mahr.md",
+    "_Projekte_/Projekte_sum.md",
+    "_Projekte_/Alfa/Pasted image 20221108130901.png",
+    "_Private_/Must be done.md",
+    "_Projekte_/Alfa/interface.md",
+    "_Projekte_/Alfa/Alfa.md",
+    "_Projekte_/Alfa",
+    "_Projekte_/MarCator/touch buttons mapping.pdf",
+    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
+    "_cheatsheet_",
+    "_Private_/zakupy",
+    "_Private_/job-search",
+    "_Learn_",
+    "_Docs_/GW_analisys/Gateway Computers Hardware Analyse.pdf",
+    "_Docs_/GW_analisys",
+    "_Docs_/GW_analisys/img/NEO_LTS_1.png",
+    "_Docs_/GW_analisys/img/fujitsu.png",
+    "_Docs_/GW_analisys/img/din-rail_pc.png",
+    "_Projekte_/MarCator/oldMarCator/photos/bot_MC1087BR.jpg",
+    "_Projekte_/MarCator/oldMarCator/photos/bot_MC1087BR_cut.png",
+    "_Projekte_/MarCator/img/MC_img_300.png",
+    "_Projekte_/MarCator/img/BR_Front_Start.png"
+  ]
+}

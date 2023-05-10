@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>MarCator 1075R digimatic schnittstelle Analyse</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+/* From extension ms-toolsai.jupyter */
+/* These classnames are inherited from bootstrap, but are present in most notebook renderers */
+
+.alert {
+    width: auto;
+    padding: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.alert > *:last-child {
+    margin-bottom: 0;
+}
+#preview > .alert:last-child {
+    /* Prevent this being set to zero by the default notebook stylesheet */
+    padding-bottom: 1em;
+}
+
+.alert-success {
+    /* Note there is no suitable color available, so we just copy "info" */
+    background-color: var(--theme-info-background);
+    color: var(--theme-info-foreground);
+}
+.alert-info {
+    background-color: var(--theme-info-background);
+    color: var(--theme-info-foreground);
+}
+.alert-warning {
+    background-color: var(--theme-warning-background);
+    color: var(--theme-warning-foreground);
+}
+.alert-danger {
+    background-color: var(--theme-error-background);
+    color: var(--theme-error-foreground);
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <p><a href="../Digimatic_analyse.html">HOME</a>&lt;---&gt;<a href="MC_1075R_Digimatic_analyse.pdf">PDF</a></p>
+<h1 id="marcator-1075r-digimatic-schnittstelle-analyse">MarCator 1075R digimatic schnittstelle Analyse</h1>
+<p><img src="device.png" height="300px"><br></p>
+<h2 id="1-messaufbau">1. Messaufbau:</h2>
+<h3 id="11-marcator-1075r-art-4336010-sn-22070356">1.1. MarCator <strong>1075R</strong> (Art.: 4336010, sn.: 22070356),</h3>
+<h3 id="12-digimatic-kabel-digimatic-art-no-4102411">1.2. Digimatic Kabel: Digimatic, Art No. 4102411</h3>
+<h3 id="13-messungempfänger-saleae-logic-pro-8">1.3. Messung/Empfänger: Saleae logic Pro 8</h3>
+<h3 id="14-signalkonditionierung-3vdc-an-data-clock-und-request">1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST</h3>
+<img src="setup.png" width="600px">
+<div style="page-break-after: always;"></div>
+<h2 id="2-interface-beschreibung">2. Interface Beschreibung</h2>
+<p><em><strong>(Datenblatt: Ba_3723295_DK-U-D_de_en_fr_es_it_zh_0322-1.pdf):</strong></em><br>
+<img src="digi_def_6.png" width="800px"></p>
+<div style="page-break-after: always;"></div>
+<h2 id="3-messungen">3. Messungen:</h2>
+<h3 id="31-zeitaufnahme">3.1. Zeitaufnahme:</h3>
+<p><img src="meas.png" alt="image"></p>
+<h3 id="32-zeitaufnahme-mit-multi-anforderung">3.2. Zeitaufnahme mit Multi-Anforderung:</h3>
+<ul>
+<li>1000ms:
+<img src="1000ms.png" alt="image"></li>
+<li>500ms
+<img src="500ms.png" alt="image"></li>
+<li>250ms:
+<img src="250ms.png" alt="image"></li>
+<li>200ms:
+<img src="200ms.png" alt="image"></li>
+<li>150ms (Antwortsperiode: 150ms):
+<img src="150ms.png" alt="image">
+<img src="150ms_zoom.png" alt="image"></li>
+<li>120ms (Antwortsperiode: 240ms):
+<img src="120ms.png" alt="image">
+<img src="120ms_zoom.png" alt="image"></li>
+</ul>
+<h2 id="4-ergebnis">4. Ergebnis:</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Zeit</th>
+<th style="text-align:center">Typ</th>
+<th style="text-align:center">Min</th>
+<th style="text-align:center">Max</th>
+<th style="text-align:center">Ist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">T1</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">2 ms</td>
+<td style="text-align:center">40 ms</td>
+<td style="text-align:center">166 ms</td>
+</tr>
+<tr>
+<td style="text-align:center">T2</td>
+<td style="text-align:center">21 µs</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">112 µs</td>
+</tr>
+<tr>
+<td style="text-align:center">T3</td>
+<td style="text-align:center">100 µs</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">104 µs</td>
+</tr>
+<tr>
+<td style="text-align:center">T4</td>
+<td style="text-align:center">100 µs</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">136 µs</td>
+</tr>
+<tr>
+<td style="text-align:center">T6</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">77 ms</td>
+<td style="text-align:center">150 ms</td>
+</tr>
+<tr>
+<td style="text-align:center">T7</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">19 ms</td>
+<td style="text-align:center">57 ms</td>
+<td style="text-align:center">183 ms</td>
+</tr>
+</tbody>
+</table>
+<p>Datei sind plausiebel.
+Antwortzeit für Tastendruck ist auch ohne Verzögerung.</p>
+
+        
+        
+    </body>
+    </html>

@@ -1,0 +1,2 @@
+- [kartofelsalat](https://www.przepisy.pl/przepis/kartoffelsalat-czyli-niemiecka-salatka-ziemniaczana)
+- 

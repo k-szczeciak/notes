@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","text":"Timers","id":"194f9bfbbb28ed21","x":-1000,"y":-320,"width":250,"height":60},
+		{"type":"text","text":"Parameters Handlling\n- resolution\n\t- increase\n\t- setNew","id":"b910e50ab404e011","x":-1000,"y":-520,"width":250,"height":160,"color":"4"},
+		{"type":"text","text":"GPIOs","id":"c8c56f225ca525a9","x":-700,"y":-320,"width":250,"height":60}
+	],
+	"edges":[]
+}

@@ -1,0 +1,1 @@
+pozadki z danymi (NAS or Nvme with USB-c)

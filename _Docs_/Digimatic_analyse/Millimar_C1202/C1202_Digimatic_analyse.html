@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>C1202 Digimatic schnittstelle Analyse</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+/* From extension ms-toolsai.jupyter */
+/* These classnames are inherited from bootstrap, but are present in most notebook renderers */
+
+.alert {
+    width: auto;
+    padding: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.alert > *:last-child {
+    margin-bottom: 0;
+}
+#preview > .alert:last-child {
+    /* Prevent this being set to zero by the default notebook stylesheet */
+    padding-bottom: 1em;
+}
+
+.alert-success {
+    /* Note there is no suitable color available, so we just copy "info" */
+    background-color: var(--theme-info-background);
+    color: var(--theme-info-foreground);
+}
+.alert-info {
+    background-color: var(--theme-info-background);
+    color: var(--theme-info-foreground);
+}
+.alert-warning {
+    background-color: var(--theme-warning-background);
+    color: var(--theme-warning-foreground);
+}
+.alert-danger {
+    background-color: var(--theme-error-background);
+    color: var(--theme-error-foreground);
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <p><a href="../Digimatic_analyse.html">HOME</a>&lt;---&gt;<a href="C1202_Digimatic_analyse.pdf">PDF</a></p>
+<h1 id="c1202-digimatic-schnittstelle-analyse">C1202 Digimatic schnittstelle Analyse</h1>
+<p><img src="device.png" height=300px/><br></p>
+<h2 id="1-messaufbau">1. Messaufbau:</h2>
+<h3 id="11-c1202-mit-fw-1100-enwicklungsmuster-digimatic-8-stellige-format-implementiert">1.1. C1202 mit FW 1.1.0.0 (Enwicklungsmuster), <strong>Digimatic: 8-stellige Format implementiert</strong></h3>
+<h3 id="12-digimatic-kabel-dk-d1">1.2. Digimatic Kabel: DK-D1</h3>
+<h3 id="13-messungempfänger-saleae-logic-pro-8">1.3. Messung/Empfänger: Saleae logic Pro 8</h3>
+<h3 id="14-signalkonditionierung-3vdc-an-data-clock-und-request">1.4. Signalkonditionierung: 3VDC an DATA, CLOCK und REQUEST</h3>
+<p><img src="setup.png" width=600px/><br></p>
+<div style="page-break-after: always;"></div><br>
+<h2 id="2-interface-beschreibung">2. Interface Beschreibung</h2>
+<p><em><strong>(Datenblatt: Mitutoyo Digimatic Micrometer Manual MDH-MB No. 99MAB045A: &quot;99MAB045A.pdf&quot;):</strong></em><br>
+<img src="digimatic_20.png" width="600px"></p>
+<div style="page-break-after: always;"></div><br>
+<h2 id="3-messungen">3. Messungen:</h2>
+<h3 id="31-einzelmessung">3.1. Einzelmessung:</h3>
+<p><img src="meas.png" alt="image"></p>
+<h3 id="31-zyklische-anforderung">3.1. Zyklische-Anforderung:</h3>
+<ul>
+<li>
+<p>1000ms
+<img src="1000ms.png" alt="image"></p>
+</li>
+<li>
+<p>500ms
+<img src="500ms.png" alt="image"></p>
+</li>
+<li>
+<p>250ms
+<img src="250ms.png" alt="image"></p>
+</li>
+<li>
+<p>100ms
+<img src="100ms.png" alt="image"></p>
+</li>
+<li>
+<p>50ms
+<img src="50ms.png" alt="image"></p>
+</li>
+<li>
+<p>20ms
+<img src="20ms.png" alt="image"></p>
+</li>
+<li>
+<p>10ms
+<img src="10ms.png" alt="image">
+Zoom in:
+<img src="10ms_zoom_in.png" alt="image"></p>
+<div style="page-break-after: always;"></div><br>
+<p>Zoom out:
+<img src="10ms_zoom_out.png" alt="image">
+<br><br></p>
+</li>
+</ul>
+<h2 id="4-ergebnis">4. Ergebnis:</h2>
+<p>Alle Zeiten in toleranzen, T6 ist manuel betätigt.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Zeit</th>
+<th style="text-align:center">Typ</th>
+<th style="text-align:center">Min</th>
+<th style="text-align:center">Max</th>
+<th style="text-align:center">Ist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">T1</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">0 ms</td>
+<td style="text-align:center">200 ms</td>
+<td style="text-align:center">52 us</td>
+</tr>
+<tr>
+<td style="text-align:center">T2</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">0,1 ms</td>
+<td style="text-align:center">0,3 ms</td>
+<td style="text-align:center">0,006 ms</td>
+</tr>
+<tr>
+<td style="text-align:center">T3</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">0,1 ms</td>
+<td style="text-align:center">0,3 ms</td>
+<td style="text-align:center">0,070 ms</td>
+</tr>
+<tr>
+<td style="text-align:center">T4</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">0,1 ms</td>
+<td style="text-align:center">0,3 ms</td>
+<td style="text-align:center">0,062 ms</td>
+</tr>
+<tr>
+<td style="text-align:center">T6</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">&lt;10 ms</td>
+</tr>
+<tr>
+<td style="text-align:center">T7</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">7,4 ms</td>
+</tr>
+</tbody>
+</table>
+<p>Datei sind plausibel in jede bereich, im allen Zykluszeiten stabil bis 10ms! Keine Datei ist verloren.
+Andere wirkungen:<br>
+Bei 10ms, Anzeigebild an C1202 ist bisschen langsam, aber funktionier Vollständig und mit giltigen Datei:<br>
+<img src="10ms.bmp" alt="image"><br>
+Bei 100ms Anzeigebild Influss ist gering.</p>
+<p>Atwort Zeit ist konstant im allen bereichen.</p>
+
+        
+        
+    </body>
+    </html>

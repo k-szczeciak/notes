@@ -1,0 +1,54 @@
+[[/barcodeGen/]]
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+    <script src="JsBarcode.all.min.js"></script>
+
+    <script>
+
+        function genBarcode(value){
+
+            JsBarcode('#barcode', value, {
+
+                format: 'code128',
+
+                displayValue: true,
+
+            })
+
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+    <a href="https://lindell.me/JsBarcode/">sources</a>
+
+    <div>
+
+        <label>Barcode: </label>
+
+        <input name="barcode" type="text" onchange="genBarcode(this.value)"/>
+
+    </div>
+
+    <svg id="barcode"/>
+
+</body>
+
+</html>
+
