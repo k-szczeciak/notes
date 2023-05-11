@@ -69,19 +69,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "174a6dc4b4156d30",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +215,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "174a6dc4b4156d30",
+  "active": "3b6a3b109d229c42",
   "lastOpenFiles": [
     "2023-05-10.md",
     "GIT_cheatsheet.md",
