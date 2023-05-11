@@ -8,70 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4412484bd2df6b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Learn_/MEMO CARDS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a512240e25f005b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "HolidaysDB.canvas",
-                "viewState": {
-                  "x": -75,
-                  "y": 29,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "49731226742ed162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ab6ca630aee8d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-05-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b6a3b109d229c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT_cheatsheet.md",
+                "file": "2023-05-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT_cheatsheet.md",
+                "file": "2023-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT_cheatsheet.md",
+                "file": "2023-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT_cheatsheet.md"
+                "file": "2023-05-11.md"
               }
             }
           },
@@ -215,14 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b6a3b109d229c42",
+  "active": "49731226742ed162",
   "lastOpenFiles": [
     "2023-05-10.md",
+    "2023-05-11.md",
+    "_Learn_/MEMO CARDS.md",
     "GIT_cheatsheet.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "Git.md",
     "HolidaysDB.canvas",
-    "_Learn_/MEMO CARDS.md",
     "2023-05-09.md",
     "2023-05-09_14h00_06.png",
     "UI designs.md",
@@ -253,7 +202,6 @@
     "_Projekte_/Projekte_sum.md",
     "_Projekte_/Alfa/Pasted image 20221108130901.png",
     "_Private_/Must be done.md",
-    "_Projekte_/Alfa/interface.md",
     "_Projekte_/Alfa",
     "_Projekte_/MarCator/touch buttons mapping.pdf",
     "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
