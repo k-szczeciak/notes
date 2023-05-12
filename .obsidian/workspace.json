@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f381e4c7bf0dc5ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-17.md",
+                "file": "_LogBook_/2023/2023.04/2023-04-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-14.md",
+                "file": "_LogBook_/2023/2023.04/2023-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-14.md",
+                "file": "_LogBook_/2023/2023.04/2023-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-14.md"
+                "file": "_LogBook_/2023/2023.04/2023-04-28.md"
               }
             }
           },
@@ -202,9 +190,19 @@
   "active": "49731226742ed162",
   "lastOpenFiles": [
     "_LogBook_/2023/2023.04/2023.04_log.md",
-    "_LogBook_/2023/2023.04/2023-04-13.md",
-    "_LogBook_/2023/2023.04/2023-04-17.md",
+    "_LogBook_/2023/2023.04/2023-04-28.md",
+    "_LogBook_/2023/2023.04/2023-04-27.md",
+    "_LogBook_/2023/2023.04/2023-04-26.md",
+    "_LogBook_/2023/2023.04/2023-04-25.md",
+    "_LogBook_/2023/2023.04/2023-04-24.md",
+    "_LogBook_/2023/2023.04/2023-04-21.md",
+    "_LogBook_/2023/2023.04/2023-04-20.md",
     "_LogBook_/2023/sum_2023.md",
+    "_LogBook_/2023/2023.04/2023-04-19.md",
+    "_LogBook_/2023/2023.04/2023-04-18.md",
+    "_LogBook_/2023/2023.04/2023-04-17.md",
+    "_LogBook_/2023/2023.04/2023-04-14.md",
+    "_LogBook_/2023/2023.04/2023-04-13.md",
     "_LogBook_/LogBook_sum.md",
     "2023-05-12.md",
     "2023-05-11.md",
@@ -219,24 +217,14 @@
     "2023-05-09.md",
     "2023-05-09_14h00_06.png",
     "UI designs.md",
-    "Urlopy.md",
-    "orderDB ideas.md",
-    "ToDo.md",
     "OrderDB.canvas",
     "Navbar.canvas",
     "MEMO_CARDS.canvas",
     "MarCator_HAL.canvas",
     "664zjpul.bmp",
-    "_cheatsheet_/usefull URLs.md",
     "aboutCanvas.canvas",
     "dailyTools.canvas",
-    "_Projekte_/C1202/C1202_notes.md",
-    "_LogBook_/2023/2023.01/2023-01-26.md",
-    "_Private_/orderDB.md",
-    "MarCator_Touch/MC_touch_Digimati_analyse.html.md",
     "MarCator_Touch",
-    "_Private_/zakupy.md",
-    "2023-05-08.md",
     "_Projekte_/Alfa/Pasted image 20221108130901.png",
     "_Projekte_/Alfa",
     "_Projekte_/MarCator/touch buttons mapping.pdf",
