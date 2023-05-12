@@ -295,3 +295,9 @@ __Main features:__
   - timeout 
   - hold function
 ```
+
+
+maybe:
+- parameter handling (hints at the end of "Library.c")
+- - dokonczyc MC bedien i dku1 - pomyslec jak to zrobic generycznie
+- pomyslec o embos?
