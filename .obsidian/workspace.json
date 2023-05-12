@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-11.md",
+                "file": "2023-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "2023-05-12.md"
               }
             }
           },
@@ -188,10 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93748b6a09c28665",
+  "active": "49731226742ed162",
   "lastOpenFiles": [
-    "Komunia.md",
     "2023-05-11.md",
+    "2023-05-12.md",
+    "Komunia.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/MarCator.md",
     "2023-05-10.md",
@@ -225,7 +225,6 @@
     "__START__.md",
     "_Private_/~Private_sum.md",
     "_Private_/finanse.md",
-    "_Docs_/General notes Mahr.md",
     "_Projekte_/Alfa/Pasted image 20221108130901.png",
     "_Projekte_/Alfa",
     "_Projekte_/MarCator/touch buttons mapping.pdf",
