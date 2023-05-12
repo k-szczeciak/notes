@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-28.md",
+                "file": "_LogBook_/2023/2023.05/2023-05-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-28.md",
+                "file": "_LogBook_/2023/2023.05/2023-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-28.md",
+                "file": "_LogBook_/2023/2023.05/2023-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_LogBook_/2023/2023.04/2023-04-28.md"
+                "file": "_LogBook_/2023/2023.05/2023-05-09.md"
               }
             }
           },
@@ -189,6 +189,16 @@
   },
   "active": "49731226742ed162",
   "lastOpenFiles": [
+    "_LogBook_/2023/2023.05/2023-05-08.md",
+    "_LogBook_/2023/2023.05/2023-05-05.md",
+    "_LogBook_/2023/2023.05/2023-05-04.md",
+    "_LogBook_/2023/2023.05/2023-05-02.md",
+    "_LogBook_/2023/2023.05/2023-05-03.md",
+    "_LogBook_/2023/2023.05/2023-05-12.md",
+    "_LogBook_/2023/2023.05/2023-05-10.md",
+    "_LogBook_/2023/2023.05/2023.05_log.md",
+    "_LogBook_/2023/sum_2023.md",
+    "_LogBook_/2023/2023.05",
     "_LogBook_/2023/2023.04/2023.04_log.md",
     "_LogBook_/2023/2023.04/2023-04-28.md",
     "_LogBook_/2023/2023.04/2023-04-27.md",
@@ -197,26 +207,17 @@
     "_LogBook_/2023/2023.04/2023-04-24.md",
     "_LogBook_/2023/2023.04/2023-04-21.md",
     "_LogBook_/2023/2023.04/2023-04-20.md",
-    "_LogBook_/2023/sum_2023.md",
     "_LogBook_/2023/2023.04/2023-04-19.md",
     "_LogBook_/2023/2023.04/2023-04-18.md",
     "_LogBook_/2023/2023.04/2023-04-17.md",
     "_LogBook_/2023/2023.04/2023-04-14.md",
     "_LogBook_/2023/2023.04/2023-04-13.md",
     "_LogBook_/LogBook_sum.md",
-    "2023-05-12.md",
-    "2023-05-11.md",
+    "_LogBook_/2023/2023.05/2023-05-11.md",
     "Komunia.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/MarCator/MarCator.md",
-    "2023-05-10.md",
-    "_Learn_/MEMO CARDS.md",
-    "GIT_cheatsheet.md",
-    "Git.md",
     "HolidaysDB.canvas",
-    "2023-05-09.md",
     "2023-05-09_14h00_06.png",
-    "UI designs.md",
     "OrderDB.canvas",
     "Navbar.canvas",
     "MEMO_CARDS.canvas",
@@ -234,7 +235,6 @@
     "_Private_/job-search",
     "_Learn_",
     "_Docs_/GW_analisys/Gateway Computers Hardware Analyse.pdf",
-    "_Docs_/GW_analisys",
     "_Docs_/GW_analisys/img/NEO_LTS_1.png",
     "_Docs_/GW_analisys/img/fujitsu.png",
     "_Docs_/GW_analisys/img/din-rail_pc.png",
