@@ -301,3 +301,8 @@ maybe:
 - parameter handling (hints at the end of "Library.c")
 - - dokonczyc MC bedien i dku1 - pomyslec jak to zrobic generycznie
 - pomyslec o embos?
+
+
+
+Questions:
+- DKU1: TOL1 
