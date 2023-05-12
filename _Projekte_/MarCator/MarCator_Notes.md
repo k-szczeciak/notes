@@ -1,3 +1,5 @@
+
+
 - [MarCator Project](#marcator-project)
   - [1. Questions for meeting 08.11.2022:](#1-questions-for-meeting-08112022)
   - [2. next tasks:](#2-next-tasks)
@@ -266,3 +268,30 @@ moze dodac do opisu dlaczego error
 czy rozszerzyc protokol o zmiane rozdzielczosci w trybie Tolerancji
 
 czy zawsze poszerzac jezeli granice tol beda poza???
+
+
+```
+New User Interface concept impelmented.
+
+__Main features:__
+- New Min Max functions proceeding:
+  - Start and Stop with separate button
+  - First calibration run for setting up Preset value
+  - Sending data after measurement
+- new tolerances concetp:
+  - 3x Tolerance, each fixed for Preset
+  - Tolerance can be called only with Preset active
+- Menue operation update:
+  - Editing Tolerances (selection and edit)
+  - New order in menue: First Preset then Tolerance
+  - activation after leaving menue
+- new DK-U1 commands and updates
+- new scales for larger tolerances
+- Dynamic Resolution adjustment for larger lenghts
+
+- Bug fixes
+- other improvements:
+  - autostart
+  - timeout 
+  - hold function
+```

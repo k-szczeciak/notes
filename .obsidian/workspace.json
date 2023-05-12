@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-11.md",
+                "file": "_LogBook_/2023/2023.05/2023-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-11.md",
+                "file": "_LogBook_/2023/2023.05/2023-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-11.md",
+                "file": "_LogBook_/2023/2023.05/2023-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-11.md"
+                "file": "_LogBook_/2023/2023.05/2023-05-12.md"
               }
             }
           },
@@ -187,9 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49731226742ed162",
+  "active": "3e88f86a184ade1c",
   "lastOpenFiles": [
     "_LogBook_/2023/2023.05/2023-05-10.md",
+    "_LogBook_/2023/2023.05/2023-05-11.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "Komunia.md",
     "_LogBook_/2023/2023.05/2023-05-09.md",
     "_LogBook_/2023/2023.05/2023-05-08.md",
     "_LogBook_/2023/2023.05/2023-05-05.md",
@@ -213,9 +216,6 @@
     "_LogBook_/2023/2023.04/2023-04-17.md",
     "_LogBook_/2023/2023.04/2023-04-14.md",
     "_LogBook_/2023/2023.04/2023-04-13.md",
-    "_LogBook_/LogBook_sum.md",
-    "_LogBook_/2023/2023.05/2023-05-11.md",
-    "Komunia.md",
     "HolidaysDB.canvas",
     "2023-05-09_14h00_06.png",
     "OrderDB.canvas",
