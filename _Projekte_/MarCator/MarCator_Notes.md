@@ -305,4 +305,4 @@ maybe:
 
 
 Questions:
-- DKU1: TOL1 
+- DKU1: TOL1 aktywacja tylko gdy jest PRE czy zapamietac ze zostalo aktywowane?
