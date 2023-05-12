@@ -306,4 +306,4 @@ maybe:
 
 Questions:
 - DKU1: TOL1 aktywacja tylko gdy jest PRE czy zapamietac ze zostalo aktywowane?
-- czy ustawienia przez DKU1 wartosci TOL nie zalacza Preset
+- czy ustawienia przez DKU1 wartosci TOL nie zalacza Preset, czy TOL1 ma aktywowac odrazu PREx
