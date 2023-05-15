@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-12.md",
+                "file": "2023-05-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-12.md",
+                "file": "2023-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-12.md",
+                "file": "2023-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-12.md"
+                "file": "2023-05-15.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "49731226742ed162",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_Notes.md",
+    "2023-05-09_14h00_06.png",
     "_LogBook_/2023/2023.05/2023-05-12.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "Komunia.md",
     "2023-05-15.md",
     "Urlopy.md",
@@ -203,9 +204,7 @@
     "_LogBook_/2023/2023.04/2023-04-20.md",
     "_LogBook_/2023/2023.04/2023-04-19.md",
     "_LogBook_/2023/2023.04/2023-04-18.md",
-    "_LogBook_/2023/2023.04/2023-04-17.md",
     "HolidaysDB.canvas",
-    "2023-05-09_14h00_06.png",
     "OrderDB.canvas",
     "Navbar.canvas",
     "MEMO_CARDS.canvas",
