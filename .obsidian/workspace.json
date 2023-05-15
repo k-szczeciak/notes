@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "_LogBook_/2023/2023.05/2023-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "_LogBook_/2023/2023.05/2023-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "_LogBook_/2023/2023.05/2023-05-12.md"
               }
             }
           },
@@ -176,11 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93748b6a09c28665",
+  "active": "49731226742ed162",
   "lastOpenFiles": [
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "_LogBook_/2023/2023.05/2023-05-12.md",
     "Komunia.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-05-15.md",
     "Urlopy.md",
     "_LogBook_/2023/2023.05/2023-05-05.md",
