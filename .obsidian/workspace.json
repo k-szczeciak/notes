@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "9bec2478a67a075c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Komunia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "93748b6a09c28665",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,14 +179,16 @@
   "active": "93748b6a09c28665",
   "lastOpenFiles": [
     "_LogBook_/2023/2023.05/2023-05-12.md",
+    "Komunia.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
+    "2023-05-15.md",
+    "Urlopy.md",
     "_LogBook_/2023/2023.05/2023-05-05.md",
     "_LogBook_/2023/2023.05/2023-05-04.md",
     "_LogBook_/2023/2023.05/2023-05-03.md",
     "_LogBook_/2023/2023.05/2023-05-02.md",
     "_LogBook_/2023/2023.05/2023-05-11.md",
     "_LogBook_/2023/2023.05/2023-05-10.md",
-    "Komunia.md",
     "_LogBook_/2023/2023.05/2023-05-09.md",
     "_LogBook_/2023/2023.05/2023-05-08.md",
     "_LogBook_/2023/2023.05/2023.05_log.md",
@@ -215,8 +205,6 @@
     "_LogBook_/2023/2023.04/2023-04-19.md",
     "_LogBook_/2023/2023.04/2023-04-18.md",
     "_LogBook_/2023/2023.04/2023-04-17.md",
-    "_LogBook_/2023/2023.04/2023-04-14.md",
-    "_LogBook_/2023/2023.04/2023-04-13.md",
     "HolidaysDB.canvas",
     "2023-05-09_14h00_06.png",
     "OrderDB.canvas",
