@@ -309,3 +309,33 @@ Questions:
 - DKU1: TOL1 aktywacja tylko gdy jest PRE czy zapamietac ze zostalo aktywowane?
 - czy ustawienia przez DKU1 wartosci TOL nie zalacza Preset, czy TOL1 ma aktywowac odrazu PREx
 - MW? - wartosc - pre
+- ABS czy ma byc zawsze w stosunku do PRE czy moze byc tez tryb osobny, tak chyba mowil engler
+- Should be wake up on DKU1
+- delay 200ms ?
+- CLEAN??? do czego to sluzy:
+```
+uChar _Ev = 0;
+uChar _End = 0;
+
+SaveAndClrLCD();
+TextAnz(32);                                     // ' CLEAn ' anzeigen
+do {
+	_Ev = GetEvent();
+	if (_Ev) {
+		if (_Ev == T_OnOff) MenueEvent = E_Off;
+		else if ((_Ev < S_START) && (_Ev != T_Clean)) _End = 1;
+		DataReq = 0;
+		P4IFG &= ~BIT4;                          // Interrupt Flag für P4.4 löschen (Req Duplex)
+		P4IE |= BIT4;                            // Enable interrupt für P4.4 (Req Duplex)
+		DuplexRXD[0] = '\0';
+	}
+	else EnterLPM;
+} while (!_End && (MenueEvent != E_Off) && (MenueEvent != E_AutoOff));
+RestoreLCD();
+break;
+```
+
+
+od Jacka:
+- asymetrycznie tol, lub wywalic  '0'
+- wysylanie cont CDT1 z poziomu menu
