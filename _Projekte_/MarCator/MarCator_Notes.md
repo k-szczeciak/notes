@@ -339,3 +339,77 @@ break;
 od Jacka:
 - asymetrycznie tol, lub wywalic  '0'
 - wysylanie cont CDT1 z poziomu menu
+
+
+void InitParam(void) {
+
+//  Einst.Variante;             // Geräte-Variante: 1086R(i) oder 1087R(i) --> wird nicht verändert!
+    Einst.Einheit     = 1;      // Maßeinheit  1: mm    2: inch
+//  Einst.FixAufl;              // Fixe Auflösung der Ziffernanzeige  --> wird nicht verändert!
+    if (Einst.FixAufl == 0) {
+        Einst.Aufloesung = 3;   // Auflösung der Ziffernanzeige (3: 000.0005 mm oder 00.00002 inch)
+        Einst.SkTeilung  = 3;   // Skalenteilung 1..8 (entspricht der Auflösung)
+    }
+    else {
+        Einst.Aufloesung = Einst.FixAufl;
+        Einst.SkTeilung  = Einst.FixAufl;
+    }
+    Einst.Richtung    = 0;      // Zählrichtung (hineingehend -> +)
+    Einst.FilterIx    = 2;      // Filtereinstellung 0..4 -> Ringbuffergröße 1..16 Werte (Default: 4 Werte)
+    Einst.MessModus   = 1;      // 1: Absolut-, 2: Relativ- oder 3: Preset-Modus
+    Einst.MaxModus    = 0;      // Normal-, Max-, Min-, Max-Min-Modus
+    Einst.TolModus    = 0;      // Normal-, Toleranz-Modus
+    Einst.TolWG[0]    = 10;      // Toleranz-Warngrenzen 0: ohne WG   10, 20, 30: WG 10%..30%
+    Einst.TolWG[1]    = 20;      // Toleranz-Warngrenzen 0: ohne WG   10, 20, 30: WG 10%..30%
+    Einst.TolWG[2]    = 30;      // Toleranz-Warngrenzen 0: ohne WG   10, 20, 30: WG 10%..30%
+    Einst.TolAnz2000  = 0;      // Anzeigeart der Tol-Überschr. bei 2000:  0: mit Pfeil  1: mit Digitalanz.
+    Einst.TaDelay     = 1;      // Tastenverzögerung für Data, Reset, Preset ...
+    Einst.TouchSens   = 0;      // Touchempfindlichkeit 0: ohne Handschuh, 1: mit Handschuh
+    Einst.GeraeteNr   = 0;      // Geräte-Nr. für Funkverbindung
+    if (Einst.RFMode == 2) {    // wenn Funk eingeschaltet, Funk ausschalten
+        CloseChannel();
+        Einst.RFMode = 1;
+        RFStatus = 0;
+        Funk_Anz(RFStatus, 1);
+    }
+    Einst.RFFreqIx    = 0;      // Index für RFFreq-Array
+    Einst.RFEcoMode   = 0;      // Funk-Eco-Mode: 0: aus (Msg-Freq. 4Hz)   1: ein (Msg-Freq. 2Hz)
+//  Einst.NoInch;               // 1: ohne Inch-Einstell-Menü      --> wird nicht verändert!
+    Einst.Lock        = 0;      // Tastensperre aus
+    Einst.Digimatic   = 0;      // Digimatic: 0: deaktiviert 1: Format 1 mit 6 Stellen  2: Format 2 mit 8 Stellen aktiviert
+//  Einst.TeileNr[10];          // Teile-Nr.                       --> wird nicht verändert!
+//  Einst.SerienNr[10];         // Serien-Nr.                      --> wird nicht verändert!
+//  Einst.KalDatum[8];          // Datum der letzten Kalibrierung  --> wird nicht verändert!
+//  Einst.NextKalDatum[8];      // Datum der nächsten Kalibrierung --> wird nicht verändert!
+    Einst.AnzFaktor   = 1.0;    // Faktor für angezeigten Wert
+//  Einst.KorrFaktor;           // Faktor für Maßstabskorrektur    --> wird nicht verändert!
+    Einst.MR_Offset   = 0;      // Offset für Messrichtungswechsel in 10 nm
+    Einst.AnaResetAnzWert = 0;  // Anzeigewert bei Reset Analoganzeige in 10 nm
+    Einst.PresetWert  = 0;      // aktueller Presetwert in 10 nm
+    Einst.Preset[0]  = 100000;  // eingegebene Presetwerte in 10 nm
+    Einst.Preset[1]  = 200000;
+    Einst.Preset[2]  = 300000;
+    Einst.ObereTol[0]  =  60000; // obere Toleranzgrenze    in 10 nm
+    Einst.ObereTol[1]  =  60000; // obere Toleranzgrenze    in 10 nm
+    Einst.ObereTol[2]  =  60000; // obere Toleranzgrenze    in 10 nm
+    Einst.UntereTol[0] = -60000; // untere Toleranzgrenze   in 10 nm
+    Einst.UntereTol[1] = -60000; // untere Toleranzgrenze   in 10 nm
+    Einst.UntereTol[2] = -60000; // untere Toleranzgrenze   in 10 nm
+    Einst.ObereTolWG[0]  =  60000; // obere Tol-Warngrenze    in 10 nm
+    Einst.ObereTolWG[1]  =  60000; // obere Tol-Warngrenze    in 10 nm
+    Einst.ObereTolWG[2]  =  60000; // obere Tol-Warngrenze    in 10 nm
+    Einst.UntereTolWG[0] = -60000; // untere Tol-Warngrenze   in 10 nm
+    Einst.UntereTolWG[1] = -60000; // untere Tol-Warngrenze   in 10 nm
+    Einst.UntereTolWG[2] = -60000; // untere Tol-Warngrenze   in 10 nm
+    Einst.AutoOffTime = 0;      // Auto-Off Zeit in Min. (0..999 Minuten, 0: Auto-Off deaktiviert)
+//  Einst.KundenPW;             // Kunden-Passwort (default: 0)
+    Einst.RFTestMenu  = 0;      // 1: mit Funk-Test-Menü
+    Einst.TolAussen[0] = 0;      // Toleranz-Innen/Aussen-Messung 0: Innen, 1: Außen
+    Einst.TolAussen[1] = 0;      // Toleranz-Innen/Aussen-Messung 0: Innen, 1: Außen
+    Einst.TolAussen[2] = 0;      // Toleranz-Innen/Aussen-Messung 0: Innen, 1: Außen
+    Einst.FctLock[0]  = 0;      // Funktionssperre
+    Einst.FctLock[1]  = 0;
+    Einst.FctLock[2]  = 0;
+    Einst.FctLock[3]  = 0;
+    Einst.Clean       = 0;      // CLEAN-Funktion
+    Einst.PrIx        = 0;      // Index für Preset-Array
