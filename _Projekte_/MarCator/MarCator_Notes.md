@@ -334,7 +334,8 @@ do {
 RestoreLCD();
 break;
 ```
-
+- poprawa wyjscia z menue z PRE
+- 
 
 od Jacka:
 - asymetrycznie tol, lub wywalic  '0'

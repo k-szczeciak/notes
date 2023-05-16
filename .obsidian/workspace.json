@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-16.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-16.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-16.md"
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
               }
             }
           },
@@ -176,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7d0fdab60ebbe8e",
+  "active": "a44b5b623d3c3140",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-05-16.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "conflict-files-obsidian-git.md",
     "Wniosek_HO_tydzien_15.05.2023.md",
     "2023-05-15.md",
