@@ -312,6 +312,7 @@ Questions:
 - ABS czy ma byc zawsze w stosunku do PRE czy moze byc tez tryb osobny, tak chyba mowil engler
 - Should be wake up on DKU1
 - delay 200ms ?
+- CLEAN???
 
 
 od Jacka:
