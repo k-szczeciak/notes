@@ -1,5 +1,5 @@
 
-<div style="text-align: right"> Warszawa 20.06.2022r.  </div>
+<div style="text-align: right"> Warszawa 16.05.2023r.  </div>
 
 <div style="text-align: left"> Krzysztof Szczeciak</div>
 <div style="text-align: left">ul. Krańcowa 17/16</div>
@@ -12,11 +12,11 @@
 	</div>
 </div>
 
-
+<br><br><br><br><br>
 <div>
-Strony na zasadzie porozumienia stron ustalają że dniami pracy w trybie Home Office w miejscu zamieszkania w tygodniu 20.06.2022 – 24.06.2022 będą dni 21.06.2022 (wtorek), 22.06.2022 (środa) oraz 23.06.2022 (czwartek).
+Strony na zasadzie porozumienia stron ustalają że dniami pracy w trybie Home Office w miejscu zamieszkania w tygodniu 15.05.2023 – 19.05.2023 będą dni 17.05.2023 (sroda), 18.05.2023 (czwartek).
 </div>
-
+<br>
 
 <div style="text-align: left">Wyrażam zgodę</div>
 <div style="float: right">
