@@ -455,3 +455,7 @@ https://stackoverflow.com/questions/35507446/what-are-weak-functions-and-what-ar
 unions in c as inheritance
 solid principle
 universal modeling langage
+
+
+string cat using sprintf in c:
+https://stackoverflow.com/questions/2674312/how-to-append-strings-using-sprintf
