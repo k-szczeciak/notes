@@ -12,6 +12,7 @@
 	</div>
 </div>
 
+
 <div>
 Strony na zasadzie porozumienia stron ustalają że dniami pracy w trybie Home Office w miejscu zamieszkania w tygodniu 20.06.2022 – 24.06.2022 będą dni 21.06.2022 (wtorek), 22.06.2022 (środa) oraz 23.06.2022 (czwartek).
 </div>
