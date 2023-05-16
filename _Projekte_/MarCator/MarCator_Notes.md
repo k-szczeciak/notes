@@ -303,7 +303,7 @@ maybe:
 - pomyslec o embos?
 - 
 
-
+asymetrycznie tol, lub wywalic 
 
 Questions:
 - DKU1: TOL1 aktywacja tylko gdy jest PRE czy zapamietac ze zostalo aktywowane?
