@@ -18,3 +18,8 @@
 - sprawdzic RES0..RES7
 
 sprawdzic komunikacje w trybie pomiaru i trybie 
+
+
+propozycje:
+- status klawiszy 
+- 
