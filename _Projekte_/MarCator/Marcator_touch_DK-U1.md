@@ -22,4 +22,4 @@ sprawdzic komunikacje w trybie pomiaru i trybie
 
 propozycje:
 - status klawiszy 
-- 
+- jakies KEY dLock
