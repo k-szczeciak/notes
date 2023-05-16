@@ -303,8 +303,7 @@ maybe:
 - pomyslec o embos?
 - 
 
-asymetrycznie tol, lub wywalic  '0'
-wysylanie cont z poziomu menu
+
 
 Questions:
 - DKU1: TOL1 aktywacja tylko gdy jest PRE czy zapamietac ze zostalo aktywowane?
@@ -312,3 +311,9 @@ Questions:
 - MW? - wartosc - pre
 - ABS czy ma byc zawsze w stosunku do PRE czy moze byc tez tryb osobny, tak chyba mowil engler
 - Should be wake up on DKU1
+- delay 200ms ?
+
+
+od Jacka:
+- asymetrycznie tol, lub wywalic  '0'
+- wysylanie cont CDT1 z poziomu menu
