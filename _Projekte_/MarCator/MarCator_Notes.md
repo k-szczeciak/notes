@@ -310,3 +310,4 @@ Questions:
 - czy ustawienia przez DKU1 wartosci TOL nie zalacza Preset, czy TOL1 ma aktywowac odrazu PREx
 - MW? - wartosc - pre
 - ABS czy ma byc zawsze w stosunku do PRE czy moze byc tez tryb osobny, tak chyba mowil engler
+- Should be wake up on DKU1
