@@ -459,3 +459,6 @@ universal modeling langage
 
 string cat using sprintf in c:
 https://stackoverflow.com/questions/2674312/how-to-append-strings-using-sprintf
+assertions:
+https://www.proggen.org/doku.php?id=c:lib:assert:assert
+https://pl.wikibooks.org/wiki/C/assert
