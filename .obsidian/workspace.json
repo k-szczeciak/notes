@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/Params.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,11 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a44b5b623d3c3140",
+  "active": "a7d0fdab60ebbe8e",
   "lastOpenFiles": [
     "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
     "_Projekte_/MarCator/Params.md",
+    "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-05-16.md",
     "conflict-files-obsidian-git.md",
