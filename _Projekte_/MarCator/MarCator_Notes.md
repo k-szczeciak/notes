@@ -303,6 +303,8 @@ maybe:
 - pomyslec o embos?
 - 
 
+new:
+- tolerance scale switching 1+ and 1-
 
 
 Questions:
