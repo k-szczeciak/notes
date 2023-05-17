@@ -336,6 +336,7 @@ break;
 ```
 - poprawa wyjscia z menue z PRE
 - W startup - wersja: STD BR HR 844
+- excel to c parms
 
 od Jacka:
 - asymetrycznie tol, lub wywalic  '0'
