@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "_Projekte_/MarCator/Params.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "_Projekte_/MarCator/Params.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "_Projekte_/MarCator/Params.md"
               }
             }
           },
@@ -199,13 +200,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a44b5b623d3c3140",
+  "active": "a7d0fdab60ebbe8e",
   "lastOpenFiles": [
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-05-17.md",
     "Untitled.md",
     "_cheatsheet_/usefull URLs.md",
     "_Projekte_/MarCator/Params.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
     "2023-05-16.md",
     "conflict-files-obsidian-git.md",
