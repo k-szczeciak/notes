@@ -65,7 +65,7 @@
 |:---:|:--------------- |:--------:|:----------:|:---------------------------------------------------------------------------------------- |
 |  1  | Variante        | no value |     2      | Geräte-Variante: 1086R(i) oder 1087R(i) --> wird nicht verändert!                        |
 |  2  | Einheit         |    1     |     1      | Maßeinheit  1: mm    2: inch                                                             |
-|  3  | FixAufl         | no value |  no value  | Fixe Auflösung der Ziffernanzeige  --> wird nicht verändert!                             |
+|  3  | FixAufl         | no value |     0      | Fixe Auflösung der Ziffernanzeige  --> wird nicht verändert!                             |
 |  4  | Aufloesung      |    3     |     3      | Auflösung der Ziffernanzeige (3: 000.0005 mm oder 00.00002 inch)                         |
 |  5  | SkTeilung       |    3     |     3      | Skalenteilung 1..8 (entspricht der Auflösung)                                            |
 |  6  | Richtung        |    0     |     0      | Zählrichtung (hineingehend -> +)                                                         |
@@ -122,3 +122,4 @@
 | 57  | FctLock[3]      |    0     |     0      |                                                                                          |
 | 58  | Clean           |    0     |     0      | CLEAN-Funktion                                                                           |
 | 59  | PrIx            |    0     |     0      | Index für Preset-Array                                                                   |
+
