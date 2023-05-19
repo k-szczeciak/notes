@@ -1,5 +1,6 @@
 printed e-paper:
 https://www.ynvisible.com/?gclid=CjwKCAjwvJyjBhApEiwAWz2nLRLsAM-sCOjJdIoh4-VLeyvgtCycUuYJA3lK0Cg4z3lHVD7gFnCjSRoCgbAQAvD_BwE
+https://www.ynvisible.com/segment-displays
 
 
 https://www.youtube.com/watch?v=KdrMjnYAap4&t=3s
