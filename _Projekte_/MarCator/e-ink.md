@@ -11,5 +11,9 @@ https://microtech.ua/index.php?id_cms=141&controller=cms&id_lang=1
 M5Stack:
 https://shop.m5stack.com/products/m5paper-esp32-development-kit-v1-1-960x540-4-7-eink-display-235-ppi?variant=39966887903404
 
-volo projects
+volo projects M5Paper
 https://www.youtube.com/watch?v=v9sNzmtMSXo
+
+
+m5paper:
+https://www.youtube.com/watch?v=OrMkgMTiJ_I
