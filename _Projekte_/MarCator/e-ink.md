@@ -1,3 +1,7 @@
+printed e-paper:
+https://www.ynvisible.com/?gclid=CjwKCAjwvJyjBhApEiwAWz2nLRLsAM-sCOjJdIoh4-VLeyvgtCycUuYJA3lK0Cg4z3lHVD7gFnCjSRoCgbAQAvD_BwE
+
+
 https://www.youtube.com/watch?v=KdrMjnYAap4&t=3s
 firma microtech:
 https://twitter.com/MicrotechUA/status/1651817089424826370?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3AMicrotechUA%7Ctwcon%5Es1
