@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49731226742ed162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rowery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "93748b6a09c28665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-05-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rowery.md",
+                "file": "2023-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rowery.md",
+                "file": "2023-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rowery.md"
+                "file": "2023-05-19.md"
               }
             }
           },
@@ -175,16 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49731226742ed162",
+  "active": "93748b6a09c28665",
   "lastOpenFiles": [
-    "UI designs.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "2023-05-19.md",
     "Rowery.md",
+    "UI designs.md",
     "Urlopy.md",
     "2023-05-16.md",
     "_Projekte_/MarCator/Params.md",
     "2023-05-18.md",
     "2023-05-17.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "Wniosek_HO_tydzien_15.05.2023.md",
     "_Learn_/Learn.md",
     "2023-05-15.md",
@@ -204,7 +193,6 @@
     "_LogBook_/2023/2023.05",
     "_LogBook_/2023/2023.04/2023.04_log.md",
     "_LogBook_/2023/2023.04/2023-04-28.md",
-    "_LogBook_/2023/2023.04/2023-04-27.md",
     "HolidaysDB.canvas",
     "OrderDB.canvas",
     "Navbar.canvas",
