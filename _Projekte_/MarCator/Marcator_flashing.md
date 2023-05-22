@@ -53,8 +53,12 @@
 ![[radio_chip_connection.png]]
 7.3. Open nRF-Studio go (3.2.)
 ![[nrfstudio.png]]
-7.3. Select nRF5x Programming
-7.4. Select `Program application` and application FW: nrf52832_xxaa_2000wi.hex (4.3.). Press Programm:
+7.4. Select nRF5x Programming
+7.5. Select `Program application` and application FW: nrf52832_xxaa_2000wi.hex (4.3.). Press Programm:
+![[nrfgo_select_app.png]]
+7.6. Select `Program SoftDevice` and select `ANT_s212_nrf52_4.0.2.hex`. Press Programm:
+![[nrfgo_program_softdev.png]]
 
-6.4. Select Microcontroller type: `MSP430FR2633`
-6.5. Press `AUTO PROG.`:
+
+7.7. Toubleshooting:
+- If radio chip cannot be found: reset Main Chip in FET-Pro430: `Power ON/OFF`
