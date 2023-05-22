@@ -2,7 +2,7 @@
 
 ![[open_cover_mark_r.png]]
 # 2. Programming tools:
-2. 1. MSP430 programmer: MSP-FETFlash
+2.1. MSP430 programmer: MSP-FETFlash
 
 ![[programmer_r.png]]
 2.2. MSP430 Flashing cable: Tag-connector MSP430:
@@ -26,9 +26,9 @@
 ---
 # 5. Flashing Main chip:
 5.1. Connect MSP-FETFlash (2.1) with cable (2.2).
-5.2. Open FET-Pro430
+5.2. Open FET-Pro430 (3.1.)
 ![[FET-Pro430.png]]
-5.3. Select FW file: `DigMC_05.hex`
+5.3. Select FW file: `DigMC_05.hex` (4.1.)
 5.4. Select Microcontroller type: `MSP430FR6989`
 5.5. Press `AUTO PROG.`:
 ![[main_flash_prep.png]]
@@ -37,10 +37,19 @@
 ---
 # 6. Flashing Touch chip:
 6.1. Connect MSP-FETFlash (2.1) with cable (2.2).
-6.2. Open FET-Pro430
+6.2. Open FET-Pro430 (3.1.)
 ![[FET-Pro430.png]]
-5.3. Select FW file: `Touch_MarCator_01.hex`
-5.4. Select Microcontroller type: `MSP430FR2633`
-5.5. Press `AUTO PROG.`:
+6.3. Select FW file: `Touch_MarCator_01.hex` (4.2.)
+6.4. Select Microcontroller type: `MSP430FR2633`
+6.5. Press `AUTO PROG.`:
 ![[touch_flash_prep.png]]
 ![[touch_flash_prep_fin.png]]
+
+---
+# 7. Flashing Radio chip
+7.1. Connect Segger J-Link (2.3) with cable (2.4).
+6.2. Open nRF-Studio go (3.2.)
+![[FET-Pro430.png]]
+6.3. Select FW file: `Touch_MarCator_01.hex` (4.2.)
+6.4. Select Microcontroller type: `MSP430FR2633`
+6.5. Press `AUTO PROG.`:
