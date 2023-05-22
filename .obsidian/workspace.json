@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-05-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/Marcator_flashing.md",
+                "file": "2023-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/Marcator_flashing.md",
+                "file": "2023-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/Marcator_flashing.md"
+                "file": "2023-05-22.md"
               }
             }
           },
@@ -188,8 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22c7840ef039ae5d",
+  "active": "be380edb982c07bf",
   "lastOpenFiles": [
+    "_cheatsheet_/usefull URLs.md",
+    "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/img/touch_flash_prep_fin.png",
     "_Projekte_/MarCator/img/touch_flash_prep.png",
     "_Projekte_/MarCator/img/main_flash_prep_fin.png",
@@ -197,7 +199,6 @@
     "ideas.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming/FET-Pro430-3v43-Setup.md",
-    "_Projekte_/MarCator/Marcator_flashing.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
@@ -205,7 +206,6 @@
     "essfs01/Abteilungen",
     "essfs01",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "_cheatsheet_/usefull URLs.md",
     "2023-05-22.md",
     "_Projekte_/MarCator/img/nRFgo-studio.png",
     "_Projekte_/MarCator/img/FET-Pro430.png",
@@ -213,7 +213,6 @@
     "_Projekte_/MarCator/img/Tag-connect-msp_r.png",
     "_Projekte_/MarCator/img/segger-j-link_r.png",
     "_Projekte_/MarCator/img/init/segger-j-link.png",
-    "_Projekte_/MarCator/img/init/Tag-connect-nrf.png",
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/img/Neuer Ordner",
     "2023-05-19.md",
