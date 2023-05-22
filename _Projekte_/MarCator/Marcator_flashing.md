@@ -19,4 +19,6 @@
 ![[nRFgo-studio.png]]
 ---
 # Firmware
-## 1. Main chip FW: 
+1. Main chip FW:  `\\essfs01\Abteilungen\Benutzergruppen\Firmware_Software\Firmware\MarCator Touch 1087BR\Main`
+2. Touch Chip FW: `\\essfs01\Abteilungen\Benutzergruppen\Firmware_Software\Firmware\MarCator Touch 1087BR\Touch`
+3. Radio
