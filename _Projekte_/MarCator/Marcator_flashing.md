@@ -50,8 +50,11 @@
 7.1. Connect MSP-FETFlash (2.1) with cable (2.2). with main chip and keep connected (for power supply only)
 ![[FETPro430_power.png]]
 7.2. Connect Segger J-Link (2.3) with cable (2.4).
+![[radio_chip_connection.png]]
 7.3. Open nRF-Studio go (3.2.)
 ![[nrfstudio.png]]
-6.3. Select FW file: `Touch_MarCator_01.hex` (4.2.)
+7.3. Select nRF5x Programming
+7.4. Select `Program application` and application FW: nrf52832_xxaa_2000wi.hex (4.3.). Press Programm:
+
 6.4. Select Microcontroller type: `MSP430FR2633`
 6.5. Press `AUTO PROG.`:
