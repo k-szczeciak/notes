@@ -26,4 +26,19 @@
 ---
 # 5. Flashing Main chip:
 5.1. Connect MSP-FETFlash (2.1) with cable (2.2).
-5.2. Open FET-Pro430.
+5.2. Open FET-Pro430
+![[FET-Pro430.png]]
+5.3. Select FW file: `DigMC_05.hex`
+5.4. Select Microcontroller type: `MSP430FR6989`
+5.5. Press `AUTO PROG.`:
+![[main_flash_prep.png]]
+
+---
+# 6. Flashing Main chip:
+5.1. Connect MSP-FETFlash (2.1) with cable (2.2).
+5.2. Open FET-Pro430
+![[FET-Pro430.png]]
+5.3. Select FW file: `DigMC_05.hex`
+5.4. Select Microcontroller type: `MSP430FR6989`
+5.5. Press `AUTO PROG.`:
+![[main_flash_prep.png]]
