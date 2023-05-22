@@ -13,9 +13,8 @@
 ![[Tag-connect-nrf_r.png]]
 ---
 # programming software:
-1. FET-Pro430 ´\\essfs01\Abteilungen\Entwicklung\Elektronik\Software\Programming\FET-Pro430-3v43-Setup
-2. 
+1. FET-Pro430 `\\essfs01\Abteilungen\Entwicklung\Elektronik\Software\Programming\FET-Pro430-3v43-Setup`
 
 ![[FET-Pro430.png]]
 3. nRFgo Studio ()
-![[nRFgo-studio.png]]
+![[nRFgo-studio.png]] ` `
