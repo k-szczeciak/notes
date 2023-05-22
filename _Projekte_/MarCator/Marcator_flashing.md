@@ -1,1 +1,1 @@
-![[open_cover_mark_r.png]]
+![[open_cover_mark_r.jpg]]
