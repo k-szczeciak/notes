@@ -14,7 +14,9 @@
 ---
 # programming software:
 1. FET-Pro430 `\\essfs01\Abteilungen\Entwicklung\Elektronik\Software\Programming\FET-Pro430-3v43-Setup`
-
 ![[FET-Pro430.png]]
-3. nRFgo Studio ()
-![[nRFgo-studio.png]] ` `
+2. nRFgo Studio `\\essfs01\Abteilungen\Entwicklung\Elektronik\Software\nrfgostudio_win-64_1.21.2_installer.msi`
+![[nRFgo-studio.png]]
+---
+# Firmware
+## 1. Main chip FW: 
