@@ -25,33 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9abb5586b3dc5410",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "_Projekte_/MarCator/MarCator_flashing.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "7c70e14d492be593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "_Projekte_/MarCator/Marcator_flashing.md",
                 "mode": "source",
                 "source": false
@@ -71,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "_Projekte_/MarCator/Marcator_flashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "_Projekte_/MarCator/Marcator_flashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md"
+                "file": "_Projekte_/MarCator/Marcator_flashing.md"
               }
             }
           },
@@ -215,10 +188,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be380edb982c07bf",
+  "active": "22c7840ef039ae5d",
   "lastOpenFiles": [
-    "2023-05-22.md",
+    "ideas.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming/FET-Pro430-3v43-Setup.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
+    "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
+    "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
+    "essfs01/Abteilungen/Entwicklung/Elektronik",
+    "essfs01/Abteilungen/Entwicklung",
+    "essfs01/Abteilungen",
+    "essfs01",
+    "_Projekte_/MarCator/MarCator_flashing.canvas",
+    "_cheatsheet_/usefull URLs.md",
+    "2023-05-22.md",
     "_Projekte_/MarCator/img/nRFgo-studio.png",
     "_Projekte_/MarCator/img/FET-Pro430.png",
     "_Projekte_/MarCator/img/Tag-connect-nrf_r.png",
@@ -231,11 +215,8 @@
     "_Projekte_/MarCator/img/init/open_cover_mark.png",
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/img/Neuer Ordner",
-    "_Projekte_/MarCator/MarCator_flashing.canvas",
     "2023-05-19.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/e-ink.md",
-    "ideas.md",
     "Rowery.md",
     "UI designs.md",
     "Urlopy.md",
@@ -254,8 +235,6 @@
     "_LogBook_/2023/2023.05/2023-05-02.md",
     "_LogBook_/2023/2023.05/2023-05-11.md",
     "_LogBook_/2023/2023.05/2023-05-10.md",
-    "_LogBook_/2023/2023.05/2023-05-09.md",
-    "_LogBook_/2023/2023.05/2023-05-08.md",
     "_LogBook_/2023/2023.05",
     "HolidaysDB.canvas",
     "OrderDB.canvas",
@@ -264,12 +243,6 @@
     "MarCator_HAL.canvas",
     "aboutCanvas.canvas",
     "dailyTools.canvas",
-    "MarCator_Touch",
-    "_Projekte_/Alfa",
-    "_Projekte_/MarCator/touch buttons mapping.pdf",
-    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
-    "_cheatsheet_",
-    "_Private_/zakupy",
-    "_Private_/job-search"
+    "MarCator_Touch"
   ]
 }
