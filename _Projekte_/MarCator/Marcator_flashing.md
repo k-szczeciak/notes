@@ -5,3 +5,4 @@
 ### 1. MSP430 programmer: MSP-FETFlash
 
 ![[programmer_r.png]]
+2. 
