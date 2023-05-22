@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-22.md",
+                "file": "_Projekte_/MarCator/Marcator_flashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-22.md",
+                "file": "_Projekte_/MarCator/Marcator_flashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-22.md"
+                "file": "_Projekte_/MarCator/Marcator_flashing.md"
               }
             }
           },
@@ -188,8 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be380edb982c07bf",
+  "active": "22c7840ef039ae5d",
   "lastOpenFiles": [
+    "_Projekte_/MarCator/img/nrfstudio.png",
+    "2023-05-22.md",
     "_cheatsheet_/usefull URLs.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/img/touch_flash_prep_fin.png",
@@ -206,7 +208,6 @@
     "essfs01/Abteilungen",
     "essfs01",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "2023-05-22.md",
     "_Projekte_/MarCator/img/nRFgo-studio.png",
     "_Projekte_/MarCator/img/FET-Pro430.png",
     "_Projekte_/MarCator/img/Tag-connect-nrf_r.png",

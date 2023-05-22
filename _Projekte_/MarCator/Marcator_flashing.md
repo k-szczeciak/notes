@@ -50,7 +50,7 @@
 7.1. Connect MSP-FETFlash (2.1) with cable (2.2). with main chip and keep connected (for power supply only)
 7.2. Connect Segger J-Link (2.3) with cable (2.4).
 7.3. Open nRF-Studio go (3.2.)
-![[FET-Pro430.png]]
+![[nrfstudio.png]]
 6.3. Select FW file: `Touch_MarCator_01.hex` (4.2.)
 6.4. Select Microcontroller type: `MSP430FR2633`
 6.5. Press `AUTO PROG.`:
