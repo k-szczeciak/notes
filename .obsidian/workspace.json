@@ -35,11 +35,14 @@
             "id": "9abb5586b3dc5410",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2023-05-19.md",
-                "mode": "source",
-                "source": false
+                "file": "MarCator_flashing.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -118,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-19.md",
+                "file": "MarCator_flashing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-19.md",
+                "file": "MarCator_flashing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-19.md"
+                "file": "MarCator_flashing.canvas"
               }
             }
           },
@@ -190,8 +193,13 @@
   },
   "active": "9abb5586b3dc5410",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/MarCator/img/closed_cover.png",
+    "_Projekte_/MarCator/img/open_cover.png",
+    "_Projekte_/MarCator/img/IMG_4286.JPG",
+    "_Projekte_/MarCator/img/IMG_4287.JPG",
     "2023-05-19.md",
+    "MarCator_flashing.canvas",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/e-ink.md",
     "ideas.md",
     "Rowery.md",
@@ -216,7 +224,6 @@
     "_LogBook_/2023/2023.05/2023-05-09.md",
     "_LogBook_/2023/2023.05/2023-05-08.md",
     "_LogBook_/2023/2023.05/2023.05_log.md",
-    "_LogBook_/2023/sum_2023.md",
     "_LogBook_/2023/2023.05",
     "HolidaysDB.canvas",
     "OrderDB.canvas",
@@ -239,9 +246,6 @@
     "_Docs_/GW_analisys/img/NEO_LTS_1.png",
     "_Docs_/GW_analisys/img/fujitsu.png",
     "_Docs_/GW_analisys/img/din-rail_pc.png",
-    "_Projekte_/MarCator/oldMarCator/photos/bot_MC1087BR.jpg",
-    "_Projekte_/MarCator/oldMarCator/photos/bot_MC1087BR_cut.png",
-    "_Projekte_/MarCator/img/MC_img_300.png",
-    "_Projekte_/MarCator/img/BR_Front_Start.png"
+    "_Projekte_/MarCator/oldMarCator/photos/bot_MC1087BR.jpg"
   ]
 }
