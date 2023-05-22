@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/Marcator_flashing.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/Marcator_flashing.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/Marcator_flashing.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/Marcator_flashing.md"
+                "file": "_cheatsheet_/usefull URLs.md"
               }
             }
           },
@@ -217,6 +217,8 @@
   },
   "active": "be380edb982c07bf",
   "lastOpenFiles": [
+    "2023-05-22.md",
+    "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/img/nRFgo-studio.png",
     "_Projekte_/MarCator/img/FET-Pro430.png",
     "_Projekte_/MarCator/img/Tag-connect-nrf_r.png",
@@ -227,11 +229,9 @@
     "_Projekte_/MarCator/img/init/Tag-connect-msp.png",
     "_Projekte_/MarCator/img/programmer_r.png",
     "_Projekte_/MarCator/img/init/open_cover_mark.png",
-    "_Projekte_/MarCator/img/open_cover_mark.png",
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/img/Neuer Ordner",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "_Projekte_/MarCator/Marcator_flashing.md",
     "2023-05-19.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/e-ink.md",
