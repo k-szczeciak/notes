@@ -1,1 +1,1 @@
-![img]()
+![[open_cover_mark.png]]

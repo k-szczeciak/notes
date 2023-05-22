@@ -62,14 +62,11 @@
             "id": "be380edb982c07bf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_flashing.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "_Projekte_/MarCator/Marcator_flashing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -148,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_flashing.canvas",
+                "file": "_Projekte_/MarCator/Marcator_flashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_flashing.canvas",
+                "file": "_Projekte_/MarCator/Marcator_flashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_flashing.canvas"
+                "file": "_Projekte_/MarCator/Marcator_flashing.md"
               }
             }
           },
@@ -218,10 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e88f86a184ade1c",
+  "active": "be380edb982c07bf",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/Marcator_flashing.md",
+    "_Projekte_/MarCator/img/programmer.png",
+    "_Projekte_/MarCator/img/open_cover_mark.png",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
+    "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/img/closed_cover.png",
     "_Projekte_/MarCator/img/open_cover.png",
     "_Projekte_/MarCator/img/IMG_4286.JPG",
@@ -271,7 +270,6 @@
     "_Learn_",
     "_Docs_/GW_analisys/Gateway Computers Hardware Analyse.pdf",
     "_Docs_/GW_analisys/img/NEO_LTS_1.png",
-    "_Docs_/GW_analisys/img/fujitsu.png",
-    "_Docs_/GW_analisys/img/din-rail_pc.png"
+    "_Docs_/GW_analisys/img/fujitsu.png"
   ]
 }
