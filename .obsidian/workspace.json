@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-23.md",
+                "file": "2023-05-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-23.md",
+                "file": "2023-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-23.md",
+                "file": "2023-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-23.md"
+                "file": "2023-05-19.md"
               }
             }
           },
@@ -190,10 +190,15 @@
   },
   "active": "be380edb982c07bf",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/MarCator/Marcator_flashing.md",
+    "2023-05-18.md",
+    "2023-05-19.md",
+    "2023-05-17.md",
+    "2023-05-16.md",
+    "2023-05-15.md",
     "2023-05-23.md",
     "2023-05-22.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
     "_Projekte_/MarCator/img/nrfgo_program_app.png",
     "_Projekte_/MarCator/img/nrfgo_select_app.png",
@@ -216,18 +221,13 @@
     "_Projekte_/MarCator/MarCator_flashing.canvas",
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/img/Neuer Ordner",
-    "2023-05-19.md",
     "_Projekte_/MarCator/e-ink.md",
     "Rowery.md",
     "UI designs.md",
     "Urlopy.md",
-    "2023-05-16.md",
     "_Projekte_/MarCator/Params.md",
-    "2023-05-18.md",
-    "2023-05-17.md",
     "Wniosek_HO_tydzien_15.05.2023.md",
     "_Learn_/Learn.md",
-    "2023-05-15.md",
     "_LogBook_/2023/2023.05/2023-05-12.md",
     "Komunia.md",
     "_LogBook_/2023/2023.05/2023-05-05.md",
