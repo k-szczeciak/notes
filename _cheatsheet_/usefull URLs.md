@@ -35,3 +35,10 @@ https://www.istqb.org/
 
 kompilator online C/C++
 [GDB online Debugger | Compiler - Code, Compile, Run, Debug online C, C++ (onlinegdb.com)](https://www.onlinegdb.com/)
+
+
+drukarka lokalna:
+nowa, sharp: 192.168.1.7 (admin admin)
+stary sharp: 192.168.1.50
+nas: 192.168.1.17 SzczeciakK plocka53
+
