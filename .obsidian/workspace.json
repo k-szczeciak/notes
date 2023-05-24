@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Private_/zakupy/Rowery.md",
+                "file": "2023-05-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Private_/zakupy/Rowery.md",
+                "file": "2023-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Private_/zakupy/Rowery.md",
+                "file": "2023-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Private_/zakupy/Rowery.md"
+                "file": "2023-05-24.md"
               }
             }
           },
@@ -190,8 +190,10 @@
   },
   "active": "22c7840ef039ae5d",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/Marcator_flashing.md",
     "_Private_/zakupy/zakupy.md",
+    "2023-05-24.md",
+    "_Private_/zakupy/Rowery.md",
+    "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-05-23.md",
     "_cheatsheet_/usefull URLs.md",
@@ -223,7 +225,6 @@
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/img/Neuer Ordner",
     "_Projekte_/MarCator/e-ink.md",
-    "_Private_/zakupy/Rowery.md",
     "UI designs.md",
     "Urlopy.md",
     "_Projekte_/MarCator/Params.md",
@@ -234,7 +235,6 @@
     "_LogBook_/2023/2023.05/2023-05-05.md",
     "_LogBook_/2023/2023.05/2023-05-04.md",
     "_LogBook_/2023/2023.05/2023-05-03.md",
-    "_LogBook_/2023/2023.05/2023-05-02.md",
     "_LogBook_/2023/2023.05",
     "HolidaysDB.canvas",
     "OrderDB.canvas",
