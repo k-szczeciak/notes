@@ -16,6 +16,8 @@ ela
 wieden
 
 
+kone, lodki
+
 
 kolonia hani:
 https://sportteam.pl/
