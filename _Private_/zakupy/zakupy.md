@@ -45,7 +45,5 @@ drukarka multifunction:
 - [HP Color LaserJet Pro MFP M283fdw Duplex ADF WiFi](https://www.komputronik.pl/product/727414/hp-color-laserjet-pro-mfp-m283fdw-duplex-adf-wifi.html) 2300pln
 - 
 
-
-
 markizy:
-https://markizytarasy.pl/kontakt/
+https://markizytarasy.pl/
