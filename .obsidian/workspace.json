@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "be380edb982c07bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-05-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-23.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-23.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-23.md"
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
               }
             }
           },
@@ -188,9 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be380edb982c07bf",
+  "active": "93748b6a09c28665",
   "lastOpenFiles": [
     "_Projekte_/MarCator/Marcator_flashing.md",
+    "_Private_/zakupy/zakupy.md",
     "2023-05-23.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-05-19.md",
@@ -234,7 +222,6 @@
     "_LogBook_/2023/2023.05/2023-05-04.md",
     "_LogBook_/2023/2023.05/2023-05-03.md",
     "_LogBook_/2023/2023.05/2023-05-02.md",
-    "_LogBook_/2023/2023.05/2023-05-11.md",
     "_LogBook_/2023/2023.05",
     "HolidaysDB.canvas",
     "OrderDB.canvas",
