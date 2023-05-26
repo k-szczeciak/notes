@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-26.md",
+                "file": "_Learn_/Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-26.md",
+                "file": "_Learn_/Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-26.md",
+                "file": "_Learn_/Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-26.md"
+                "file": "_Learn_/Learn.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "37f421e4a638cb6d",
   "lastOpenFiles": [
-    "2023-05-25.md",
     "2023-05-26.md",
+    "2023-05-25.md",
     "2023-05-24.md",
     "2023-05-18.md",
     "ideas.md",

@@ -462,3 +462,11 @@ https://stackoverflow.com/questions/2674312/how-to-append-strings-using-sprintf
 assertions:
 https://www.proggen.org/doku.php?id=c:lib:assert:assert
 https://pl.wikibooks.org/wiki/C/assert
+
+
+python libs:
+https://www.youtube.com/watch?v=-29x_deQQus
+
+
+codewithmosh:
+udemy: 
