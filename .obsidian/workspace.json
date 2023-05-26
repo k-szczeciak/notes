@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pytania_goe.md",
+                "file": "2023-05-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pytania_goe.md",
+                "file": "2023-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pytania_goe.md",
+                "file": "2023-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pytania_goe.md"
+                "file": "2023-05-26.md"
               }
             }
           },
@@ -214,8 +214,9 @@
   },
   "active": "a42695d749c0289a",
   "lastOpenFiles": [
-    "_Learn_/Learn.md",
     "pytania_goe.md",
+    "_LogBook_/2023/2023.05/2023-05-05.md",
+    "_Learn_/Learn.md",
     "2023-05-26.md",
     "2023-05-25.md",
     "2023-05-24.md",
@@ -249,7 +250,6 @@
     "2023-05-19.md",
     "2023-05-17.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
-    "_LogBook_/2023/2023.05/2023-05-05.md",
     "2023-05-16.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-05-15.md",
