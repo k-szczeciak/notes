@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "pytania_goe.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-26.md",
+                "file": "pytania_goe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-26.md",
+                "file": "pytania_goe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-26.md"
+                "file": "pytania_goe.md"
               }
             }
           },
@@ -212,12 +212,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a42695d749c0289a",
+  "active": "37f421e4a638cb6d",
   "lastOpenFiles": [
-    "pytania_goe.md",
-    "_LogBook_/2023/2023.05/2023-05-05.md",
+    "orderDB ideas.md",
     "_Learn_/Learn.md",
     "2023-05-26.md",
+    "pytania_goe.md",
+    "_LogBook_/2023/2023.05/2023-05-05.md",
     "2023-05-25.md",
     "2023-05-24.md",
     "2023-05-18.md",
@@ -257,7 +258,6 @@
     "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
     "conflict-files-obsidian-git.md",
     "Wniosek_HO_tydzien_15.05.2023.md",
-    "_LogBook_/2023/2023.05/2023-05-12.md",
     "_LogBook_/2023/2023.05",
     "HolidaysDB.canvas",
     "OrderDB.canvas",
