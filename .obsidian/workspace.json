@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "617488f35e0eced2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_LogBook_/2023/2023.05/2023-05-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "37f421e4a638cb6d",
             "type": "leaf",
             "state": {
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pytania_goe.md",
+                "file": "2023-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pytania_goe.md",
+                "file": "2023-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pytania_goe.md"
+                "file": "2023-05-26.md"
               }
             }
           },
@@ -212,12 +200,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f421e4a638cb6d",
+  "active": "a42695d749c0289a",
   "lastOpenFiles": [
+    "pytania_goe.md",
     "orderDB ideas.md",
     "_Learn_/Learn.md",
     "2023-05-26.md",
-    "pytania_goe.md",
     "_LogBook_/2023/2023.05/2023-05-05.md",
     "2023-05-25.md",
     "2023-05-24.md",
