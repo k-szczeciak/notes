@@ -52,9 +52,21 @@
                 "currentVersion": "1.3.3"
               }
             }
+          },
+          {
+            "id": "a605539f754ba43c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Learn_/Learn.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -198,8 +210,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8852ac2f6bf90093",
+  "active": "a605539f754ba43c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "pytania_goe.md",
+    "2023-05-26.md",
+    "2023-05-25.md",
     "_Learn_/MEMO CARDS.md",
     "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
     "_Learn_/openajjaj.md",
@@ -239,8 +255,6 @@
     "_Projekte_/MarCator/img/touch_flash_prep.png",
     "_Projekte_/MarCator/img/main_flash_prep_fin.png",
     "_Projekte_/MarCator/img/main_flash_prep.png",
-    "ideas.md",
-    "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming/FET-Pro430-3v43-Setup.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
@@ -250,8 +264,6 @@
     "_Projekte_/MarCator/MarCator_flashing.canvas",
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/img/Neuer Ordner",
-    "_Projekte_/MarCator/e-ink.md",
-    "UI designs.md",
     "_LogBook_/2023/2023.05",
     "MEMO_CARDS.canvas"
   ]
