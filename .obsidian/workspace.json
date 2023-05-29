@@ -77,11 +77,14 @@
             "id": "4e60fc3f53c82310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_Private_/wakacje2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -93,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -160,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Private_/wakacje2023.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -232,12 +235,13 @@
   },
   "active": "4e60fc3f53c82310",
   "lastOpenFiles": [
+    "_Private_/wakacje2023.md",
+    "Untitled.canvas",
     "note-tools.md",
     "_Docs_/Wizyta w Goe.md",
     "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
     "_Private_/~Private_sum.md",
     "_Private_/pomiar dugosci pantograf.md",
-    "_Private_/wakacje2023.md",
     "_Private_/wakacje.md",
     "orderDB ideas.md",
     "OrderDB.canvas",
@@ -264,7 +268,6 @@
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_cheatsheet_/usefull URLs.md",
-    "2023-05-19.md",
     "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
     "_Projekte_/MarCator/img/nrfgo_program_app.png",
     "_Projekte_/MarCator/img/nrfgo_select_app.png",
