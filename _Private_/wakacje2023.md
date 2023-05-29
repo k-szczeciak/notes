@@ -21,3 +21,5 @@ kone, lodki
 
 kolonia hani:
 https://sportteam.pl/ przelom lipaca i sierpnia
+
+Malta

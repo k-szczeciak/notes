@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note-tools.md",
+                "file": "_Private_/wakacje2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note-tools.md",
+                "file": "_Private_/wakacje2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note-tools.md",
+                "file": "_Private_/wakacje2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note-tools.md"
+                "file": "_Private_/wakacje2023.md"
               }
             }
           },
@@ -232,8 +232,8 @@
   },
   "active": "4e60fc3f53c82310",
   "lastOpenFiles": [
-    "_Docs_/Wizyta w Goe.md",
     "note-tools.md",
+    "_Docs_/Wizyta w Goe.md",
     "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
     "_Private_/~Private_sum.md",
     "_Private_/pomiar dugosci pantograf.md",
