@@ -67,14 +67,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-26.md",
+                "file": "_Docs_/Wizyta w Goe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e60fc3f53c82310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note-tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-26.md",
+                "file": "note-tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-26.md",
+                "file": "note-tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-26.md"
+                "file": "note-tools.md"
               }
             }
           },
@@ -218,21 +230,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ef376b257950970",
+  "active": "4e60fc3f53c82310",
   "lastOpenFiles": [
+    "_Docs_/Wizyta w Goe.md",
+    "note-tools.md",
+    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
+    "_Private_/~Private_sum.md",
+    "_Private_/pomiar dugosci pantograf.md",
+    "_Private_/wakacje2023.md",
+    "_Private_/wakacje.md",
+    "orderDB ideas.md",
+    "OrderDB.canvas",
+    "2023-05-26.md",
     "conflict-files-obsidian-git.md",
     "pytania_goe.md",
-    "2023-05-26.md",
     "2023-05-25.md",
     "_Learn_/MEMO CARDS.md",
-    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
     "_Learn_/openajjaj.md",
     "_Learn_/google Tensor Flow.md",
     "_Learn_/ksiazki.md",
     "_Learn_/Learn.md",
     "aboutCanvas.canvas",
-    "OrderDB.canvas",
-    "orderDB ideas.md",
     "MarCator_HAL.canvas",
     "Navbar.canvas",
     "Urlopy.md",
@@ -240,7 +258,6 @@
     "dailyTools.canvas",
     "2023-05-23.md",
     "2023-05-24.md",
-    "_Private_/wakacje2023.md",
     "HolidaysDB.canvas",
     "_Private_/zakupy/zakupy.md",
     "_Private_/zakupy/Rowery.md",
@@ -248,11 +265,6 @@
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-05-19.md",
-    "2023-05-18.md",
-    "2023-05-17.md",
-    "2023-05-16.md",
-    "2023-05-15.md",
-    "2023-05-22.md",
     "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
     "_Projekte_/MarCator/img/nrfgo_program_app.png",
     "_Projekte_/MarCator/img/nrfgo_select_app.png",

@@ -20,4 +20,4 @@ kone, lodki
 
 
 kolonia hani:
-https://sportteam.pl/
+https://sportteam.pl/ przelom lipaca i sierpnia
