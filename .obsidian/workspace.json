@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "2023-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "2023-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "2023-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Private_/wakacje2023.md"
+                "file": "2023-05-29.md"
               }
             }
           },
@@ -232,11 +232,12 @@
   },
   "active": "4e60fc3f53c82310",
   "lastOpenFiles": [
+    "_Private_/wakacje2023.md",
+    "2023-05-29.md",
     "Wien.canvas",
     "Urlopy.md",
     "aboutCanvas.canvas",
     "dailyTools.canvas",
-    "_Private_/wakacje2023.md",
     "note-tools.md",
     "_Docs_/Wizyta w Goe.md",
     "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
