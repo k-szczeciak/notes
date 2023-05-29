@@ -37,14 +37,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-23.md",
+                "file": "_Learn_/Learn.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8852ac2f6bf90093",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-23.md",
+                "file": "_Learn_/Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-23.md",
+                "file": "_Learn_/Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-23.md"
+                "file": "_Learn_/Learn.md"
               }
             }
           },
@@ -188,8 +198,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c40e037eabec6ca",
+  "active": "8852ac2f6bf90093",
   "lastOpenFiles": [
+    "_Learn_/MEMO CARDS.md",
+    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
+    "_Learn_/openajjaj.md",
+    "_Learn_/google Tensor Flow.md",
+    "_Learn_/ksiazki.md",
+    "_Learn_/Learn.md",
+    "aboutCanvas.canvas",
+    "OrderDB.canvas",
+    "orderDB ideas.md",
+    "MarCator_HAL.canvas",
+    "Navbar.canvas",
+    "Urlopy.md",
+    "Wniosek_HO_tydzien_15.05.2023.md",
+    "dailyTools.canvas",
+    "2023-05-23.md",
     "2023-05-24.md",
     "_Private_/wakacje2023.md",
     "HolidaysDB.canvas",
@@ -197,7 +222,6 @@
     "_Private_/zakupy/Rowery.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
-    "2023-05-23.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-05-19.md",
     "2023-05-18.md",
@@ -228,21 +252,7 @@
     "_Projekte_/MarCator/img/Neuer Ordner",
     "_Projekte_/MarCator/e-ink.md",
     "UI designs.md",
-    "Urlopy.md",
-    "_Projekte_/MarCator/Params.md",
-    "Wniosek_HO_tydzien_15.05.2023.md",
-    "_Learn_/Learn.md",
-    "_LogBook_/2023/2023.05/2023-05-12.md",
-    "Komunia.md",
-    "_LogBook_/2023/2023.05/2023-05-05.md",
-    "_LogBook_/2023/2023.05/2023-05-04.md",
     "_LogBook_/2023/2023.05",
-    "OrderDB.canvas",
-    "Navbar.canvas",
-    "MEMO_CARDS.canvas",
-    "MarCator_HAL.canvas",
-    "aboutCanvas.canvas",
-    "dailyTools.canvas",
-    "MarCator_Touch"
+    "MEMO_CARDS.canvas"
   ]
 }

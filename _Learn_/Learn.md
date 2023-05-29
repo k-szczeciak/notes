@@ -422,7 +422,7 @@ https://en.cppreference.com/w/c/language/operator_precedence
 
 
 plan_ksztalecnia.xlsx
-oraz na trello:
+oraz na trello: https://trello.com/b/oYvNIjm1/rozwoj
 | Tools                      | Basic                  | Ground          | Always            | other                      | formy:              |
 | -------------------------- | ---------------------- | --------------- | ----------------- | -------------------------- | ------------------- |
 | git                        | ai                     | C               | typing            | blockchain                 | online              |
