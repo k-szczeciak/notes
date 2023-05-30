@@ -72,21 +72,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e60fc3f53c82310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -115,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sharp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "_Docs_/Wizyta w Goe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "_Docs_/Wizyta w Goe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md"
+                "file": "_Docs_/Wizyta w Goe.md"
               }
             }
           },
@@ -231,8 +218,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e60fc3f53c82310",
+  "active": "1ef376b257950970",
   "lastOpenFiles": [
+    "_cheatsheet_/usefull URLs.md",
     "_Docs_/Mahr Gitlab.md",
     "2023-05-29.md",
     "_Private_/wakacje2023.md",
@@ -266,7 +254,6 @@
     "_Private_/zakupy/zakupy.md",
     "_Private_/zakupy/Rowery.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
     "_Projekte_/MarCator/img/nrfgo_program_app.png",
     "_Projekte_/MarCator/img/nrfgo_select_app.png",
