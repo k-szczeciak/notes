@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-29.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "C1202",
+                "query": "sharp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-29.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-29.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-29.md"
+                "file": "_cheatsheet_/usefull URLs.md"
               }
             }
           },
@@ -232,8 +233,9 @@
   },
   "active": "4e60fc3f53c82310",
   "lastOpenFiles": [
-    "_Private_/wakacje2023.md",
+    "_Docs_/Mahr Gitlab.md",
     "2023-05-29.md",
+    "_Private_/wakacje2023.md",
     "Wien.canvas",
     "Urlopy.md",
     "aboutCanvas.canvas",
@@ -265,7 +267,6 @@
     "_Private_/zakupy/Rowery.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
-    "_cheatsheet_/usefull URLs.md",
     "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
     "_Projekte_/MarCator/img/nrfgo_program_app.png",
     "_Projekte_/MarCator/img/nrfgo_select_app.png",
