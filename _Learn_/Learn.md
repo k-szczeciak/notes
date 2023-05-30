@@ -470,3 +470,10 @@ https://www.youtube.com/watch?v=-29x_deQQus
 
 codewithmosh:
 udemy: 
+
+
+
+decibel:
+1dB
+3dB
+https://www.youtube.com/watch?v=Tn97U1HVtpo

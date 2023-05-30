@@ -67,14 +67,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "2023-05-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "_Learn_/Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "_Learn_/Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-30.md"
+                "file": "_Learn_/Learn.md"
               }
             }
           },
@@ -218,13 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ef376b257950970",
+  "active": "3c40e037eabec6ca",
   "lastOpenFiles": [
-    "_Docs_/Wizyta w Goe.md",
+    "2023-05-29.md",
     "2023-05-30.md",
+    "_Docs_/Wizyta w Goe.md",
     "_cheatsheet_/usefull URLs.md",
     "_Docs_/Mahr Gitlab.md",
-    "2023-05-29.md",
     "_Private_/wakacje2023.md",
     "Wien.canvas",
     "Urlopy.md",
