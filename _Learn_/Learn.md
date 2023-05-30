@@ -478,5 +478,8 @@ decibel:
 3dB
 
 https://www.youtube.com/watch?v=Tn97U1HVtpo
+tez ciekawy kanal, ten powyzej ^
 
-tez ciekawy kanal
+https://www.biancahoegel.de/technik/bmsr/pt1-glied.html
+https://en.wikipedia.org/wiki/Time_constant
+https://de.wikipedia.org/wiki/PT1-Glied
