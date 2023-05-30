@@ -44,37 +44,19 @@
             }
           },
           {
-            "id": "8852ac2f6bf90093",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
-              }
-            }
-          },
-          {
-            "id": "a605539f754ba43c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "1ef376b257950970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-29.md",
+                "file": "2023-05-30.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Learn_/Learn.md"
+                "file": "2023-05-30.md"
               }
             }
           },
@@ -218,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c40e037eabec6ca",
+  "active": "1ef376b257950970",
   "lastOpenFiles": [
     "2023-05-29.md",
     "_Learn_/Learn.md",
