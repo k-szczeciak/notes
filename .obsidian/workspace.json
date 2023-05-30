@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Docs_/Wizyta w Goe.md",
+                "file": "2023-05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Docs_/Wizyta w Goe.md",
+                "file": "2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Docs_/Wizyta w Goe.md",
+                "file": "2023-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Docs_/Wizyta w Goe.md"
+                "file": "2023-05-30.md"
               }
             }
           },
@@ -220,6 +220,8 @@
   },
   "active": "1ef376b257950970",
   "lastOpenFiles": [
+    "_Docs_/Wizyta w Goe.md",
+    "2023-05-30.md",
     "_cheatsheet_/usefull URLs.md",
     "_Docs_/Mahr Gitlab.md",
     "2023-05-29.md",
@@ -229,7 +231,6 @@
     "aboutCanvas.canvas",
     "dailyTools.canvas",
     "note-tools.md",
-    "_Docs_/Wizyta w Goe.md",
     "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
     "_Private_/~Private_sum.md",
     "_Private_/pomiar dugosci pantograf.md",
@@ -253,7 +254,6 @@
     "HolidaysDB.canvas",
     "_Private_/zakupy/zakupy.md",
     "_Private_/zakupy/Rowery.md",
-    "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
     "_Projekte_/MarCator/img/nrfgo_program_app.png",
     "_Projekte_/MarCator/img/nrfgo_select_app.png",
