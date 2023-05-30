@@ -42,3 +42,6 @@ nowa, sharp: 192.168.1.7 (admin admin)
 stary sharp: 192.168.1.50
 nas: 192.168.1.17 SzczeciakK plocka53
 
+\\192.168.1.17\homes\SzczeciakK
+
+
