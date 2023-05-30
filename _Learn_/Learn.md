@@ -483,3 +483,6 @@ tez ciekawy kanal, ten powyzej ^
 https://www.biancahoegel.de/technik/bmsr/pt1-glied.html
 https://en.wikipedia.org/wiki/Time_constant
 https://de.wikipedia.org/wiki/PT1-Glied
+
+kalkulator: http://www.sengpielaudio.com/calculator-db.htm
+https://en.wikipedia.org/wiki/Decibel
