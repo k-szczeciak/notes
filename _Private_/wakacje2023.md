@@ -15,6 +15,9 @@ tusy
 ela
 wieden
 
+chorwacja:
+https://www.airbnb.pl/rooms/863741259778386891?check_in=2023-06-26&check_out=2023-07-08&federated_search_id=52e04e41-6e25-4658-b04c-3bd0d658552b&source_impression_id=p3_1685521805_GFdTW8mewC1luJLD
+https://www.airbnb.pl/s/Zadar--Kroatien/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2023-06-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=5&channel=EXPLORE&query=Zadar%2C%20Kroatien&place_id=ChIJj7jA0mL6YUcRhAf0Exw-MhI&date_picker_type=calendar&checkin=2023-06-26&checkout=2023-07-08&source=structured_search_input_header&search_type=autocomplete_click
 
 kone, lodki
 
@@ -29,8 +32,6 @@ Malta
 wieden:
 [Vienna Living Apartments - Ottakring, Wien – Aktualisierte Preise für 2023 (booking.com)](https://www.booking.com/hotel/at/vienna-living-apartments-ottakring.de.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaLYBiAEBmAEHuAEXyAEP2AEB6AEB-AEMiAIBqAIDuAKNgdGjBsACAdICJGFkZGM4NmMzLWE3Y2YtNDk2Zi05ZDk5LTU4ZWNlMzQ2YTMzMdgCBuACAQ&sid=d4de0de8a04c69a55dd13bcca86af398&age=8&age=8&all_sr_blocks=936583803_365813828_0_0_0&checkin=2023-06-24&checkout=2023-06-26&dest_id=-1995499&dest_type=city&dist=0&group_adults=2&group_children=2&hapos=3&highlighted_blocks=936583803_365813828_0_0_0&hpos=3&matching_block_id=936583803_365813828_0_0_0&nflt=oos%3D1%3Bprice%3DPLN-500-700-1&no_rooms=1&req_adults=2&req_age=8&req_age=8&req_children=2&room1=A%2CA%2C8%2C8&sb_price_type=total&sr_order=bayesian_review_score&sr_pri_blocks=936583803_365813828_0_0_0__29250&srepoch=1685353833&srpvid=6dfb322b57a90294&type=total&ucfs=1&activeTab=main)
 https://www.airbnb.pl/rooms/52292494?adults=2&children=2&location=Wieden%2C%20Vienna%2C%20Austria&check_in=2023-06-24&check_out=2023-06-26&federated_search_id=2383a1cc-bb88-4f2a-8888-fa0be1ccbf23&source_impression_id=p3_1685517094_3GvGe4p3%2FFeVYEap&translate_ugc=false
-
-
 
 
 * [Booking.com : Hotels in Wien . Buchen Sie jetzt Ihr Hotel!](https://www.booking.com/searchresults.de.html?label=gen173nr-1BCAEoggI46AdIM1gEaLYBiAEBmAEHuAEXyAEP2AEB6AEBiAIBqAIDuAKNgdGjBsACAdICJGFkZGM4NmMzLWE3Y2YtNDk2Zi05ZDk5LTU4ZWNlMzQ2YTMzMdgCBeACAQ&sid=d4de0de8a04c69a55dd13bcca86af398&aid=304142&ss=Wien&ssne=Wien&ssne_untouched=Wien&efdco=1&lang=de&dest_id=-1995499&dest_type=city&checkin=2023-06-24&checkout=2023-06-26&group_adults=2&no_rooms=1&group_children=2&age=8&age=8&sb_travel_purpose=leisure&nflt=oos%3D1%3Bprice%3DPLN-500-700-1&order=bayesian_review_score#map_closed)
