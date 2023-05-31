@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-29.md",
+                "file": "2023-05-31.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "2023-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "2023-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Private_/wakacje2023.md"
+                "file": "2023-05-31.md"
               }
             }
           },
@@ -200,12 +200,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22c7840ef039ae5d",
+  "active": "1ef376b257950970",
   "lastOpenFiles": [
-    "_Learn_/Learn.md",
     "2023-05-29.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
+    "2023-05-31.md",
     "_Private_/wakacje2023.md",
+    "_Learn_/Learn.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-05-30.md",
     "_Docs_/Wizyta w Goe.md",
     "_cheatsheet_/usefull URLs.md",
@@ -235,7 +236,6 @@
     "2023-05-23.md",
     "2023-05-24.md",
     "HolidaysDB.canvas",
-    "_Private_/zakupy/zakupy.md",
     "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
     "_Projekte_/MarCator/img/nrfgo_program_app.png",
     "_Projekte_/MarCator/img/nrfgo_select_app.png",
