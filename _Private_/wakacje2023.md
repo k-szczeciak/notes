@@ -42,7 +42,11 @@ wieden:
 * [Stilvolle Wohnung am Yppenplatz - Condos zur Miete in Wien, Wien, Österreich - Airbnb](https://www.airbnb.de/rooms/773954262977645465?adults=2&children=2&location=Wien%2C%20Vienna%2C%20Austria&check_in=2023-06-24&check_out=2023-06-26&federated_search_id=336ec7d3-48d3-4ea9-bedf-8d0c187456d6&source_impression_id=p3_1685353793_96XcfhuJzdUusLlD)
 * [Belvedere Apartment 21 - Wohnungen zur Miete in Wien, Wien, Österreich - Airbnb](https://www.airbnb.de/rooms/898488745318179453?adults=2&children=2&location=Wien%2C%20Vienna%2C%20Austria&check_in=2023-06-24&check_out=2023-06-26&federated_search_id=426eaab4-08b9-4e41-8176-7075bb509849&source_impression_id=p3_1685352006_FSAKP1TZDzAyaVXm)
 * [Modernes & stilvolles Apartment - in der Nähe der Metro - Wohnungen zur Miete in Wien, Wien, Österreich - Airbnb](https://www.airbnb.de/rooms/763729983675495300?adults=2&children=2&location=Wien%2C%20Vienna%2C%20Austria&check_in=2023-06-24&check_out=2023-06-26&federated_search_id=710000c0-0480-4538-972e-d942665a0b60&source_impression_id=p3_1685351369_hixpZhtUF1P8ohWz)
-* [Startpage Suchergebnisse](https://www.startpage.com/sp/search)
+* 
 
 canvas
 [[Wien.canvas|Wien]]
+
+zamiana mieszkan:
+https://www.morizon.pl/blog/zamiana-domow-na-wakacje/
+https://www.theguardian.com/travel/2015/dec/07/10-best-home-swap-home-sharing-websites
