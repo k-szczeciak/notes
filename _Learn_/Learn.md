@@ -486,3 +486,6 @@ https://de.wikipedia.org/wiki/PT1-Glied
 
 kalkulator: http://www.sengpielaudio.com/calculator-db.htm
 https://en.wikipedia.org/wiki/Decibel
+
+
+napisac walsny microserwis z testami
