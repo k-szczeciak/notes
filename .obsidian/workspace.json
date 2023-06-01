@@ -54,6 +54,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "612b387a284e6c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -202,13 +214,14 @@
   },
   "active": "a42695d749c0289a",
   "lastOpenFiles": [
+    "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
+    "2023-06-01.md",
     "Pasted image 20230601155834.png",
     "Pasted image 20230601155536.png",
     "Pasted image 20230601155452.png",
     "Pasted image 20230601155450.png",
     "Pasted image 20230601155433.png",
     "_Learn_/Learn.md",
-    "2023-06-01.md",
     "2023-05-31.md",
     "2023-05-22.md",
     "2023-05-26.md",
@@ -236,7 +249,6 @@
     "_Projekte_/MarCator/img/segger-j-link_r.png",
     "_Projekte_/MarCator/img/radio_chip_connection.png",
     "_Projekte_/MarCator/img/programmer_r.png",
-    "_Projekte_/MarCator/img/open_cover_mark_r.png",
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/e-ink.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
