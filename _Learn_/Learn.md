@@ -422,7 +422,7 @@ https://en.cppreference.com/w/c/language/operator_precedence
 
 
 plan_ksztalecnia.xlsx
-oraz na trello:
+oraz na trello: https://trello.com/b/oYvNIjm1/rozwoj
 | Tools                      | Basic                  | Ground          | Always            | other                      | formy:              |
 | -------------------------- | ---------------------- | --------------- | ----------------- | -------------------------- | ------------------- |
 | git                        | ai                     | C               | typing            | blockchain                 | online              |
@@ -470,3 +470,19 @@ https://www.youtube.com/watch?v=-29x_deQQus
 
 codewithmosh:
 udemy: 
+
+
+
+decibel:
+1dB
+3dB
+
+https://www.youtube.com/watch?v=Tn97U1HVtpo
+tez ciekawy kanal, ten powyzej ^
+
+https://www.biancahoegel.de/technik/bmsr/pt1-glied.html
+https://en.wikipedia.org/wiki/Time_constant
+https://de.wikipedia.org/wiki/PT1-Glied
+
+kalkulator: http://www.sengpielaudio.com/calculator-db.htm
+https://en.wikipedia.org/wiki/Decibel

@@ -9,3 +9,6 @@
 do wizyty:
 MT - kafelki
 zadajnik BLE do MC na stm32
+
+
+[[pytania_goe]]
