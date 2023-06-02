@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
+                "file": "_Learn_/Learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "_Learn_/Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "_Learn_/Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-02.md"
+                "file": "_Learn_/Learn.md"
               }
             }
           },
@@ -187,10 +188,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a44b5b623d3c3140",
+  "active": "612b387a284e6c08",
   "lastOpenFiles": [
-    "2023-06-01.md",
+    "Wien.canvas",
+    "Wniosek_HO_tydzien_15.05.2023.md",
+    "Urlopy.md",
+    "_Learn_/Learn.md",
+    "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
     "2023-06-02.md",
+    "2023-06-01.md",
     "2023-05-17.md",
     "2023-05-18.md",
     "2023-05-19.md",
@@ -203,11 +209,9 @@
     "2023-05-30.md",
     "2023-05-31.md",
     "2023-05-16.md",
-    "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
     "_Projekte_/MarCator/Params.md",
     "pytania_goe.md",
     "_cheatsheet_/usefull URLs.md",
-    "_Learn_/Learn.md",
     "Pasted image 20230601155834.png",
     "Pasted image 20230601155536.png",
     "Pasted image 20230601155452.png",
@@ -215,11 +219,8 @@
     "Pasted image 20230601155433.png",
     "conflict-files-obsidian-git.md",
     "note-tools.md",
-    "Wien.canvas",
     "orderDB ideas.md",
     "_LogBook_/2023/2023.05/2023-05-05.md",
-    "ideas.md",
-    "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming/FET-Pro430-3v43-Setup.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
@@ -232,7 +233,6 @@
     "_Projekte_/MarCator/img/radio_chip_connection.png",
     "_Projekte_/MarCator/img/programmer_r.png",
     "_Projekte_/MarCator/img/init",
-    "_Projekte_/MarCator/e-ink.md",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
     "_LogBook_/2023/2023.05",
     "HolidaysDB.canvas",
