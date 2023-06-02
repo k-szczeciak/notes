@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "2023-06-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "2023-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-30.md",
+                "file": "2023-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-30.md"
+                "file": "2023-06-02.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "a44b5b623d3c3140",
   "lastOpenFiles": [
-    "2023-05-31.md",
+    "2023-05-26.md",
+    "2023-05-29.md",
     "2023-06-02.md",
+    "2023-05-30.md",
+    "2023-05-31.md",
     "2023-06-01.md",
     "2023-05-16.md",
     "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
@@ -204,12 +207,9 @@
     "Pasted image 20230601155450.png",
     "Pasted image 20230601155433.png",
     "2023-05-22.md",
-    "2023-05-26.md",
     "conflict-files-obsidian-git.md",
     "note-tools.md",
     "Wien.canvas",
-    "2023-05-30.md",
-    "2023-05-29.md",
     "orderDB ideas.md",
     "_LogBook_/2023/2023.05/2023-05-05.md",
     "2023-05-25.md",
