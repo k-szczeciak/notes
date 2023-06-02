@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-01.md",
+                "file": "_Learn_/Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-01.md",
+                "file": "_Learn_/Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-01.md",
+                "file": "_Learn_/Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-01.md"
+                "file": "_Learn_/Learn.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "a42695d749c0289a",
   "lastOpenFiles": [
-    "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
     "2023-06-01.md",
+    "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
     "Pasted image 20230601155834.png",
     "Pasted image 20230601155536.png",
     "Pasted image 20230601155452.png",
