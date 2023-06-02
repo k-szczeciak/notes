@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator.md"
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "3e88f86a184ade1c",
   "lastOpenFiles": [
+    "_Projekte_/MarCator/MarCator.md",
     "orderDB ideas.md",
     "2023-06-02.md",
     "_Projekte_/MarCator/Params.md",

@@ -347,3 +347,18 @@ od Jacka:
 [[Params]]
 
 
+Hr Ocker:
+Funk: jaki numer zarezerwowac na nowe marcatory
+
+teraz sa:
+Device Type Id (Bit0 .. Bit6): 
+1    MarCator 1087R
+2    MarCator 1087BR
+3    MarCator 1086R
+4    MarCal   16EWRi
+5    Micromar 40EWRi
+6    MarCal   18EWRi
+7    Millimess 2000Wi
+8    Millimess 2001Wi
+                                9    817 CLT
+                                 10  44EWRi
