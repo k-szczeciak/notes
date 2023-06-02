@@ -489,3 +489,6 @@ https://en.wikipedia.org/wiki/Decibel
 
 
 napisac walsny microserwis z testami
+
+https://www.youtube.com/watch?v=uku-G_COA7U
+
