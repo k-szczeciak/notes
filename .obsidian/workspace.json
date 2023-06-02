@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-06-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "2023-06-02.md"
               }
             }
           },
@@ -187,10 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e88f86a184ade1c",
+  "active": "a44b5b623d3c3140",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator.md",
     "orderDB ideas.md",
+    "_Projekte_/MarCator/MarCator.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-06-02.md",
     "_Projekte_/MarCator/Params.md",
     "_Learn_/Learn.md",
@@ -220,7 +221,6 @@
     "Pasted image 20230601155433.png",
     "conflict-files-obsidian-git.md",
     "note-tools.md",
-    "_LogBook_/2023/2023.05/2023-05-05.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
