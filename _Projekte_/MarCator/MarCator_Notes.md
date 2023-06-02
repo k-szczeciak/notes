@@ -360,5 +360,5 @@ Device Type Id (Bit0 .. Bit6): 
 6    MarCal   18EWRi
 7    Millimess 2000Wi
 8    Millimess 2001Wi
-                                9    817 CLT
-                                 10  44EWRi
+9    817 CLT
+10  44EWRi
