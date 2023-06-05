@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "2023-06-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "2023-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "2023-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-02.md"
+                "file": "2023-06-05.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "a44b5b623d3c3140",
   "lastOpenFiles": [
+    "2023-06-02.md",
+    "2023-06-05.md",
     "Pasted image 20230601155834.png",
     "Pasted image 20230601155536.png",
     "Pasted image 20230601155452.png",
@@ -197,7 +199,6 @@
     "orderDB ideas.md",
     "Wniosek_HO_tydzien_05.06.2023.md",
     "Wniosek_HO_tydzien_15.05.2023.md",
-    "2023-06-02.md",
     "2023-05-31.md",
     "_Projekte_/MarCator/Params.md",
     "2023-06-01.md",
