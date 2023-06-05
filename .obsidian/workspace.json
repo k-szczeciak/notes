@@ -11,11 +11,9 @@
             "id": "a44b5b623d3c3140",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Wniosek_HO_tydzien_05.06.2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230601155834.png"
               }
             }
           },
@@ -117,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wniosek_HO_tydzien_05.06.2023.md",
+                "file": "Pasted image 20230601155834.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wniosek_HO_tydzien_05.06.2023.md",
+                "file": "Pasted image 20230601155834.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wniosek_HO_tydzien_05.06.2023.md"
+                "file": "Pasted image 20230601155834.png"
               }
             }
           },
@@ -187,15 +185,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e88f86a184ade1c",
+  "active": "a44b5b623d3c3140",
   "lastOpenFiles": [
-    "Wniosek_HO_tydzien_15.05.2023.md",
+    "Pasted image 20230601155536.png",
+    "Pasted image 20230601155834.png",
+    "Pasted image 20230601155452.png",
+    "Pasted image 20230601155450.png",
+    "Pasted image 20230601155433.png",
+    "orderDB ideas.md",
     "Wniosek_HO_tydzien_05.06.2023.md",
+    "Wniosek_HO_tydzien_15.05.2023.md",
     "2023-06-02.md",
     "2023-05-31.md",
     "_Projekte_/MarCator/Params.md",
     "2023-06-01.md",
-    "orderDB ideas.md",
     "_Projekte_/MarCator/MarCator.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Learn_/Learn.md",
@@ -215,12 +218,6 @@
     "2023-05-16.md",
     "pytania_goe.md",
     "_cheatsheet_/usefull URLs.md",
-    "Pasted image 20230601155834.png",
-    "Pasted image 20230601155536.png",
-    "Pasted image 20230601155452.png",
-    "Pasted image 20230601155450.png",
-    "Pasted image 20230601155433.png",
-    "conflict-files-obsidian-git.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
