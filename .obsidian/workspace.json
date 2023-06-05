@@ -11,9 +11,11 @@
             "id": "a44b5b623d3c3140",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230601155834.png"
+                "file": "2023-06-02.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230601155834.png",
+                "file": "2023-06-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230601155834.png",
+                "file": "2023-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230601155834.png"
+                "file": "2023-06-02.md"
               }
             }
           },
@@ -187,8 +189,8 @@
   },
   "active": "a44b5b623d3c3140",
   "lastOpenFiles": [
-    "Pasted image 20230601155536.png",
     "Pasted image 20230601155834.png",
+    "Pasted image 20230601155536.png",
     "Pasted image 20230601155452.png",
     "Pasted image 20230601155450.png",
     "Pasted image 20230601155433.png",
