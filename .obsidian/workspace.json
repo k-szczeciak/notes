@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "Wniosek_HO_tydzien_05.06.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "Wniosek_HO_tydzien_05.06.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-02.md",
+                "file": "Wniosek_HO_tydzien_05.06.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-02.md"
+                "file": "Wniosek_HO_tydzien_05.06.2023.md"
               }
             }
           },
@@ -187,18 +187,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a44b5b623d3c3140",
+  "active": "3e88f86a184ade1c",
   "lastOpenFiles": [
+    "Wniosek_HO_tydzien_15.05.2023.md",
+    "Wniosek_HO_tydzien_05.06.2023.md",
+    "2023-06-02.md",
     "2023-05-31.md",
     "_Projekte_/MarCator/Params.md",
     "2023-06-01.md",
-    "2023-06-02.md",
     "orderDB ideas.md",
     "_Projekte_/MarCator/MarCator.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Learn_/Learn.md",
     "Wien.canvas",
-    "Wniosek_HO_tydzien_15.05.2023.md",
     "Urlopy.md",
     "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
     "2023-05-17.md",
@@ -220,7 +221,6 @@
     "Pasted image 20230601155450.png",
     "Pasted image 20230601155433.png",
     "conflict-files-obsidian-git.md",
-    "note-tools.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
