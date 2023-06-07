@@ -525,4 +525,6 @@ frontend hosting: apka macka: [FreshCart - eCommerce HTML Template (super-store-
 
 embedded GUI:
 - Embedded wizard: https://www.embedded-wizard.de/
-- 
+
+
+Wlasne Wiki lub docs jak python lub wikiüpedia
