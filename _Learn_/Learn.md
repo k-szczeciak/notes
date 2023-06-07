@@ -521,3 +521,8 @@ topics:
 JS datda base 
 backend mocki lub ...
 frontend hosting: apka macka: [FreshCart - eCommerce HTML Template (super-store-front.netlify.app)](https://super-store-front.netlify.app/)
+
+
+embedded GUI:
+- Embedded wizard: https://www.embedded-wizard.de/
+- 
