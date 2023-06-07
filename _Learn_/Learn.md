@@ -492,6 +492,11 @@ napisac walsny microserwis z testami
 
 https://www.youtube.com/watch?v=uku-G_COA7U
 
-UW informatyka:
+UW informatyka: (informacja o progrmamie)
 http://informatorects.uw.edu.pl/pl/programmes-all/IN/S1-INF/
 http://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-225bJNP3
+
+
+
+threadsafe:
+https://www.thegeekstuff.com/2012/07/c-thread-safe-and-reentrant/
