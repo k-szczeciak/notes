@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "_Learn_/google Tensor Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4de35210dc1ca387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "watch_later.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "watch_later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "watch_later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Learn_/Learn.md"
+                "file": "watch_later.md"
               }
             }
           },
@@ -212,8 +224,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6f2618a6ed0a46d",
+  "active": "4de35210dc1ca387",
   "lastOpenFiles": [
+    "_Learn_/google Tensor Flow.md",
+    "watch_later.md",
+    "_Learn_/Learn.md",
     "2023-06-07.md",
     "2023-06-06.md",
     "2023-05-31.md",
@@ -228,7 +243,6 @@
     "2023-06-01.md",
     "2023-05-29.md",
     "_Private_/wakacje2023.md",
-    "_Learn_/Learn.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-05-30.md",
     "_Docs_/Wizyta w Goe.md",
@@ -247,8 +261,6 @@
     "OrderDB.canvas",
     "2023-05-26.md",
     "conflict-files-obsidian-git.md",
-    "pytania_goe.md",
-    "2023-05-25.md",
     "MarCator_HAL.canvas",
     "Navbar.canvas",
     "HolidaysDB.canvas",
