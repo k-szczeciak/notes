@@ -51,3 +51,6 @@ ChatGPT to display over MT
 wyswietlanie komunikatow z netu np temp innych urzadzen
 
 python do programowania
+
+emWin performance:
+https://www.segger.com/products/user-interface/emwin/technology/emwin-performance/
