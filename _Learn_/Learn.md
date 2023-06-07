@@ -500,3 +500,11 @@ http://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-225bJNP3
 
 threadsafe:
 https://www.thegeekstuff.com/2012/07/c-thread-safe-and-reentrant/
+
+
+wiringpi : debugging:
+https://www.youtube.com/watch?v=QAliMv5_DWI
+
+
+setup lilygo:
+https://www.youtube.com/watch?v=wbf24XywM10
