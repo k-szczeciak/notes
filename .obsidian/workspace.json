@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08dfc74af974156d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,7 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ef376b257950970",
+  "active": "08dfc74af974156d",
   "lastOpenFiles": [
     "2023-05-31.md",
     "2023-06-06.md",
