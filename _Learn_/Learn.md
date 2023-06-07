@@ -311,7 +311,7 @@ https://www.youtube.com/watch?v=-12T83gEos0
 
 
 https://blogs.nvidia.com/blog/2023/03/13/what-are-foundation-models/?nvid=nv-int-bnr-463583
-stanford alpaca
+stanford alpaca - AI
 https://www.analyticsinsight.net/top-20-artificial-intelligence-research-labs-in-the-world-in-2021/
 
 https://www.livechat.com/typing-speed-test/#/
@@ -516,3 +516,8 @@ topics:
 - lambda calulus
 - functional programming
 - rtos thread safe and reentrant..
+
+
+JS datda base 
+backend mocki lub ...
+frontend hosting: 
