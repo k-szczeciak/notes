@@ -507,4 +507,5 @@ https://www.youtube.com/watch?v=QAliMv5_DWI
 
 
 setup lilygo:
+https://www.youtube.com/watch?v=57JWlSQ6-v4
 https://www.youtube.com/watch?v=wbf24XywM10
