@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-06-05.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,6 +196,11 @@
   },
   "active": "070262c7d4f73176",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "watch_later.md",
+    "code_style.md",
+    "2023-06-07.md",
+    "2023-06-06.md",
     "Pasted image 20230605101924.png",
     "Pasted image 20230605101854.png",
     "Pasted image 20230605101619.png",
@@ -230,10 +231,6 @@
     "2023-05-24.md",
     "2023-05-25.md",
     "2023-05-26.md",
-    "2023-05-29.md",
-    "2023-05-30.md",
-    "2023-05-16.md",
-    "pytania_goe.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
@@ -242,7 +239,6 @@
     "essfs01",
     "_Projekte_/MarCator/img/touch_flash_prep_fin.png",
     "_Projekte_/MarCator/img/touch_flash_prep.png",
-    "_Projekte_/MarCator/img/segger-j-link_r.png",
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
     "_LogBook_/2023/2023.05",

@@ -311,7 +311,7 @@ https://www.youtube.com/watch?v=-12T83gEos0
 
 
 https://blogs.nvidia.com/blog/2023/03/13/what-are-foundation-models/?nvid=nv-int-bnr-463583
-stanford alpaca
+stanford alpaca - AI
 https://www.analyticsinsight.net/top-20-artificial-intelligence-research-labs-in-the-world-in-2021/
 
 https://www.livechat.com/typing-speed-test/#/
@@ -492,6 +492,39 @@ napisac walsny microserwis z testami
 
 https://www.youtube.com/watch?v=uku-G_COA7U
 
-UW informatyka:
+UW informatyka: (informacja o progrmamie)
 http://informatorects.uw.edu.pl/pl/programmes-all/IN/S1-INF/
 http://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-225bJNP3
+
+
+
+threadsafe:
+https://www.thegeekstuff.com/2012/07/c-thread-safe-and-reentrant/
+
+
+wiringpi : debugging:
+https://www.youtube.com/watch?v=QAliMv5_DWI
+
+
+setup lilygo:
+https://www.youtube.com/watch?v=57JWlSQ6-v4
+https://www.youtube.com/watch?v=wbf24XywM10
+
+
+topics:
+- interface
+- lambda calulus
+- functional programming
+- rtos thread safe and reentrant..
+
+
+JS datda base 
+backend mocki lub ...
+frontend hosting: apka macka: [FreshCart - eCommerce HTML Template (super-store-front.netlify.app)](https://super-store-front.netlify.app/)
+
+
+embedded GUI:
+- Embedded wizard: https://www.embedded-wizard.de/
+
+
+Wlasne Wiki lub docs jak python lub wikiüpedia
