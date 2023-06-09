@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "070262c7d4f73176",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "a7d0fdab60ebbe8e",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a44b5b623d3c3140",
+  "active": "070262c7d4f73176",
   "lastOpenFiles": [
     "Pasted image 20230605101924.png",
     "Pasted image 20230605101854.png",
