@@ -1,5 +1,4 @@
-popowice:
+popowice: legnicka 59
 https://www.morizon.pl/oferta/sprzedaz-garaz-wroclaw-fabryczna-12m2-mzn2039020337
-fabryczna
-https://adresowo.pl/o/g0b9j8
+https://adresowo.pl/nieruchomosci-komercyjne/wroclaw/fgm
 
