@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52f4321f7b46f396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "garaz_wroclaw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-13.md",
+                "file": "garaz_wroclaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-13.md",
+                "file": "garaz_wroclaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-13.md"
+                "file": "garaz_wroclaw.md"
               }
             }
           },
@@ -200,10 +212,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01578fef877172b2",
+  "active": "52f4321f7b46f396",
   "lastOpenFiles": [
-    "2023-06-12.md",
     "2023-06-13.md",
+    "garaz_wroclaw.md",
+    "2023-06-12.md",
     "2023-06-09.md",
     "_Private_/zakupy/Rowery.md",
     "domeny.md",
@@ -232,7 +245,6 @@
     "2023-05-30.md",
     "_Docs_/Wizyta w Goe.md",
     "_cheatsheet_/usefull URLs.md",
-    "_Docs_/Mahr Gitlab.md",
     "Wien.canvas",
     "aboutCanvas.canvas",
     "dailyTools.canvas",
