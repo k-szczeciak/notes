@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code_style.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,14 +52,14 @@
                 "file": "Wien.canvas",
                 "viewState": {
                   "x": -97,
-                  "y": -93,
+                  "y": 93,
                   "zoom": 0
                 }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-14.md",
+                "file": "Wien.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-14.md",
+                "file": "Wien.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-14.md"
+                "file": "Wien.canvas"
               }
             }
           },
@@ -203,9 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22c7840ef039ae5d",
+  "active": "01578fef877172b2",
   "lastOpenFiles": [
     "_cheatsheet_/usefull URLs.md",
+    "code_style.md",
     "2023-06-14.md",
     "Wien.canvas",
     "2023-06-13.md",
@@ -218,7 +219,6 @@
     "conflict-files-obsidian-git.md",
     "2023-06-07.md",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
-    "code_style.md",
     "_Learn_/Learn.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-06-06.md",
