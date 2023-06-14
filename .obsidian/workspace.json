@@ -52,14 +52,14 @@
                 "file": "Wien.canvas",
                 "viewState": {
                   "x": -97,
-                  "y": 279,
+                  "y": 93,
                   "zoom": 0
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md"
+                "file": "2023-06-14.md"
               }
             }
           },
@@ -203,11 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aa116075050b0dd",
+  "active": "22c7840ef039ae5d",
   "lastOpenFiles": [
+    "_cheatsheet_/usefull URLs.md",
     "2023-06-14.md",
     "Wien.canvas",
-    "_cheatsheet_/usefull URLs.md",
     "code_style.md",
     "2023-06-13.md",
     "_Private_/wakacje2023.md",
