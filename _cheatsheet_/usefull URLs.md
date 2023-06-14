@@ -45,3 +45,5 @@ nas: 192.168.1.17 SzczeciakK plocka53
 \\192.168.1.17\homes\SzczeciakK
 
 
+
+https://bossa.pl/notowania/wykresy?symbol=FEURM23&interval=1S

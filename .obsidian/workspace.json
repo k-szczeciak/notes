@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "2023-06-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,16 +47,19 @@
             "id": "01578fef877172b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2023-06-13.md",
-                "mode": "source",
-                "source": false
+                "file": "Wien.canvas",
+                "viewState": {
+                  "x": -97,
+                  "y": -93,
+                  "zoom": 0
+                }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-13.md",
+                "file": "2023-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-13.md",
+                "file": "2023-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-13.md"
+                "file": "2023-06-14.md"
               }
             }
           },
@@ -200,10 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01578fef877172b2",
+  "active": "22c7840ef039ae5d",
   "lastOpenFiles": [
-    "_Private_/wakacje2023.md",
     "2023-06-13.md",
+    "2023-06-14.md",
+    "_Private_/wakacje2023.md",
+    "Wien.canvas",
     "_cheatsheet_/usefull URLs.md",
     "garaz_wroclaw.md",
     "2023-06-12.md",
@@ -232,8 +237,6 @@
     "2023-06-01.md",
     "2023-05-29.md",
     "2023-05-30.md",
-    "_Docs_/Wizyta w Goe.md",
-    "Wien.canvas",
     "aboutCanvas.canvas",
     "dailyTools.canvas",
     "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
