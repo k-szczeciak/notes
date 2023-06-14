@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "2023-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Private_/wakacje2023.md",
+                "file": "2023-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Private_/wakacje2023.md"
+                "file": "2023-06-13.md"
               }
             }
           },
@@ -200,8 +200,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22c7840ef039ae5d",
+  "active": "01578fef877172b2",
   "lastOpenFiles": [
+    "_Private_/wakacje2023.md",
     "2023-06-13.md",
     "_cheatsheet_/usefull URLs.md",
     "garaz_wroclaw.md",
@@ -218,7 +219,6 @@
     "2023-06-06.md",
     "watch_later.md",
     "_Learn_/google Tensor Flow.md",
-    "_Private_/wakacje2023.md",
     "_Projekte_/C1202/C1202_notes.md",
     "2023-05-31.md",
     "Wniosek_HO_tydzien_05.06.2023.md",
