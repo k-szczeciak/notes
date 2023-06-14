@@ -8,7 +8,20 @@
 - [https://www.keybr.com/login/2dfGAiWz6a](https://www.keybr.com/login/2dfGAiWz6a)
 - [konwersja excel md](https://tableconvert.com/)
 - [Develop and deploy websites and apps in record time | Netlify](https://www.netlify.com/)
-- 
+- [citrix](https://citrix.mahr.com)
+- [cloud](https://cloud.mahr.com/default.aspx)
+- [IMS](http://ims.mahr.lan/)
+- [mail archive](https://mailarchive.europe.mahr.lan)
+
+
+temp: [docs](http://ims.mahr.lan/MahrGmbH/Processes/DienstreisePlanenBeantragenUndAbrechnen)
+
+  
+  
+
+### disks:
+
+- [goe-ENTW-transf]( \\goefs01\Mahr-Gruppe\Benutzergruppen\Transfer ENTW\Esslingen )
 
 [[szkoly_podstawowe]]
 
