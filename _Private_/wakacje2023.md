@@ -62,6 +62,12 @@ https://www.morizon.pl/blog/zamiana-domow-na-wakacje/
 https://www.theguardian.com/travel/2015/dec/07/10-best-home-swap-home-sharing-websites
 
 
+kayaki:
+liwiec: https://web.archive.org/web/20120625025925/http://www.ciekawe-miejsca.net/przewodnik/polska/splyw_liwcem_z_wyszkowa_do_wegrowa
+krutynia
+wkra
+kuligow
+
 
 
 zakupy:
