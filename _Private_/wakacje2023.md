@@ -60,3 +60,10 @@ canvas
 zamiana mieszkan:
 https://www.morizon.pl/blog/zamiana-domow-na-wakacje/
 https://www.theguardian.com/travel/2015/dec/07/10-best-home-swap-home-sharing-websites
+
+
+
+
+zakupy:
+haki do toyoty:
+https://www.onet.pl/?utm_source=www.startpage.com_viasg_auto-swiat&utm_medium=referal&utm_campaign=leo_automatic&pid=4abf8140-0cd0-555b-b807-fa74cccde8c6&sid=b9b33d49-b4b1-42af-a1ec-7e65a89beb8d&utm_v=2
