@@ -376,6 +376,7 @@ done:
 	- 2 Wiederstaende muss abgeloettet sein um 500uA verbrauch zu vermeiden
 	- ein zustand: 100 - 75uA
 	- auszustand: 30uA
+	![[Pasted image 20230615132820.png]]
 - funk verbindung verbessert: unplausieble initialisierung [[2023-05-31]]
 	- problem mit kein funk chip erkennung [[2023-06-05]]
 - funk verbindung logic:
