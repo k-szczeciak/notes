@@ -344,7 +344,7 @@ od Jacka:
 - asymetrycznie tol, lub wywalic  '0'
 - wysylanie cont CDT1 z poziomu menu
 
-[[Params]]
+[[ParamsMarCator]]
 
 
 Hr Ocker:
