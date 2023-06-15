@@ -372,5 +372,16 @@ ab version v0.6 [[Marcator_flashing]]
 done:
 - Neu HW vorbereitung. verbindungen, segment war nicht richtig geluetet, 
 	- 2 Wiederstaende muss abgeloettet sein um 500uA verbrauch zu vermeiden
-- funk verbindung verbessert: unplausieble initialisierung - problem mit kein funk chip erkennung
+	- ein zustand: 100 - 75uA
+	- auszustand: 30uA
+- funk verbindung verbessert: unplausieble initialisierung
+	- problem mit kein funk chip erkennung
+- funk verbindung logic:
+	- immer wenn gleies numer angegeben ist
+	- timeout, weil der chip micht immer verbindungstrennung sendet
+	- 
 
+
+Fragen:
+- neu baterie einstellung?
+- MarCom  Kabel und ANT verbindung: ekentbar als 1087br zusammen mit alte 
