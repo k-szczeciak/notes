@@ -391,3 +391,7 @@ Fragen:
 - neu baterie einstellung?
 - MarCom  Kabel und ANT verbindung: ekentbar als 1087br zusammen mit alte Verisonen - MarCmo muss nach Teilnummer Fragen?
 - can Kabel und Funk un aphaengig arbeiten?
+
+
+podsumowanei spodkania:
+- 
