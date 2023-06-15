@@ -374,14 +374,14 @@ done:
 	- 2 Wiederstaende muss abgeloettet sein um 500uA verbrauch zu vermeiden
 	- ein zustand: 100 - 75uA
 	- auszustand: 30uA
-- funk verbindung verbessert: unplausieble initialisierung
-	- problem mit kein funk chip erkennung
+- funk verbindung verbessert: unplausieble initialisierung [[2023-05-31]]
+	- problem mit kein funk chip erkennung [[2023-06-05]]
 - funk verbindung logic:
 	- immer wenn gleies numer angegeben ist
 	- timeout, weil der chip micht immer verbindungstrennung sendet
-	- 
+	- zusammen arbeitung kabel und ANT - unapha
 
 
 Fragen:
 - neu baterie einstellung?
-- MarCom  Kabel und ANT verbindung: ekentbar als 1087br zusammen mit alte 
+- MarCom  Kabel und ANT verbindung: ekentbar als 1087br zusammen mit alte Verisonen - MarCmo muss nach Teilnummer Fragen
