@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-09.md",
+                "file": "2023-06-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/Params.md",
+                "file": "2023-06-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-09.md",
+                "file": "2023-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-09.md",
+                "file": "2023-06-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-09.md"
+                "file": "2023-06-15.md"
               }
             }
           },
@@ -187,17 +187,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86657b3a80225da3",
+  "active": "a44b5b623d3c3140",
   "lastOpenFiles": [
+    "2023-06-14.md",
+    "2023-06-15.md",
+    "_Projekte_/MarCator/Params.md",
+    "2023-06-09.md",
     "garaz_wroclaw.md",
     "domeny.md",
-    "2023-06-14.md",
     "2023-06-13.md",
     "2023-06-12.md",
     "2023-06-07.md",
     "_cheatsheet_/usefull URLs.md",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
-    "2023-06-09.md",
     "2023-06-05.md",
     "conflict-files-obsidian-git.md",
     "watch_later.md",
@@ -216,7 +218,6 @@
     "Wniosek_HO_tydzien_05.06.2023.md",
     "Wniosek_HO_tydzien_15.05.2023.md",
     "2023-05-31.md",
-    "_Projekte_/MarCator/Params.md",
     "2023-06-01.md",
     "_Projekte_/MarCator/MarCator.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
@@ -224,7 +225,6 @@
     "Wien.canvas",
     "Urlopy.md",
     "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
-    "2023-05-17.md",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
