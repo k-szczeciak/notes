@@ -379,9 +379,12 @@ done:
 - funk verbindung logic:
 	- immer wenn gleies numer angegeben ist
 	- timeout, weil der chip micht immer verbindungstrennung sendet
-	- zusammen arbeitung kabel und ANT - unapha
+	- zusammen arbeitung kabel und ANT - unaphangig
+	- verbindung zuverlaessigkeit und vorhersagbarkeit verbesserung (neu funk uartschnitstelle)
+	- 
 
 
 Fragen:
 - neu baterie einstellung?
-- MarCom  Kabel und ANT verbindung: ekentbar als 1087br zusammen mit alte Verisonen - MarCmo muss nach Teilnummer Fragen
+- MarCom  Kabel und ANT verbindung: ekentbar als 1087br zusammen mit alte Verisonen - MarCmo muss nach Teilnummer Fragen?
+- can Kabel und Funk un aphaengig arbeiten?
