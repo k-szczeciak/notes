@@ -371,4 +371,4 @@ ab version v0.6 [[Marcator_flashing]]
 
 done:
 - Neu HW vorbereitung. verbindungen, segment war nicht richtig geluetet, 
-	- 2 Wiederstaende muss abgeloettet sein
+	- 2 Wiederstaende muss abgeloettet sein um 500uA verbrauch zu vermeiden
