@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-15.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "2023-06-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-15.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-15.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-15.md"
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "a44b5b623d3c3140",
   "lastOpenFiles": [
-    "2023-06-14.md",
     "2023-06-15.md",
+    "_Learn_/Learn.md",
+    "2023-06-14.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/MarCator/MarCator.md",
     "_Projekte_/MarCator/Params.md",
     "2023-06-09.md",
     "garaz_wroclaw.md",
@@ -219,9 +222,6 @@
     "Wniosek_HO_tydzien_15.05.2023.md",
     "2023-05-31.md",
     "2023-06-01.md",
-    "_Projekte_/MarCator/MarCator.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Learn_/Learn.md",
     "Wien.canvas",
     "Urlopy.md",
     "Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",

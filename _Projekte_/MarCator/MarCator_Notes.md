@@ -362,3 +362,9 @@ Device Type Id (Bit0 .. Bit6): 
 8    Millimess 2001Wi
 9    817 CLT
 10  44EWRi
+
+
+
+
+2023.06.15:
+od wersji 0.6
