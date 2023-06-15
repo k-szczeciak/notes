@@ -367,7 +367,9 @@ Device Type Id (Bit0 .. Bit6): 
 
 
 2023.06.15:
-ab version v0.6 [[Marcator_flashing]]
+version v0.6 [[Marcator_flashing]]
+`V:\Benutzergruppen\Firmware_Software\Firmware\MarCator Touch 1087BR`
+`V:\Entwicklung\Elektronik\Projekte\Digitaler MarCator 30377 Teil 2\15_Firmware`
 
 done:
 - Neu HW vorbereitung. verbindungen, segment war nicht richtig geluetet, 
