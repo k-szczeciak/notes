@@ -367,4 +367,7 @@ Device Type Id (Bit0 .. Bit6): 
 
 
 2023.06.15:
-od wersji 0.6
+ab version v0.6
+done:
+- Neu HW vorbereitung. verbindungen, segment war nicht richtig geluetet, 
+	- 2 Wiederstaende muss abgeloettet sein
