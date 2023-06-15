@@ -394,4 +394,7 @@ Fragen:
 
 
 podsumowanei spodkania:
+- fixed aufloesung - poprzez Artnummer
+- daten format - sprawdzic jak w sylvaku jest
+- Ocker - numery ANT
 - 
