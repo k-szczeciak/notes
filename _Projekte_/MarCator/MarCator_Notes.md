@@ -381,7 +381,7 @@ done:
 	- timeout, weil der chip micht immer verbindungstrennung sendet
 	- zusammen arbeitung kabel und ANT - unaphangig
 	- verbindung zuverlaessigkeit und vorhersagbarkeit verbesserung (neu funk uartschnitstelle)
-	- 
+- neue ANT befahle
 
 
 Fragen:
