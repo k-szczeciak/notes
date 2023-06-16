@@ -78,3 +78,11 @@ https://unitrailer.pl/search.php?text=rav4
 
 bagaznik:
 https://dobrehaki.pl/bagazniki-rowerowe-na-hak-c-1964.html
+
+
+dome, szwecja:
+https://www.airbnb.pl/rooms/807997252988813015?adults=1&category_tag=Tag%3A789&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-06-24&check_out=2023-07-01&source_impression_id=p3_1686903698_%2BmAyAMVQhiETXZjq&previous_page_section_name=1000&federated_search_id=788fc216-a9f6-4913-8863-f44f322a1700
+
+
+dom na sprzedaz szwecja: 410 000 pln
+https://szwecja.realigro.pl/sprzeda%c5%bc/dom/harnosand/42612.html
