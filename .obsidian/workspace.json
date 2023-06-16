@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zdrowie.md",
+                "file": "2023-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zdrowie.md",
+                "file": "2023-06-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zdrowie.md"
+                "file": "2023-06-16.md"
               }
             }
           },
@@ -188,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c9b7257cf1cdc18",
+  "active": "a7d0fdab60ebbe8e",
   "lastOpenFiles": [
     "2023-06-15.md",
     "zdrowie.md",
