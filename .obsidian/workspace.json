@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-16.md",
+                "file": "_LogBook_/2023/2023.05/2023.05_log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1e8b3b02a097806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_LogBook_/2023/2023.05/2023.05_log.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-16.md",
+                "file": "_LogBook_/2023/2023.05/2023.05_log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-16.md",
+                "file": "_LogBook_/2023/2023.05/2023.05_log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-16.md"
+                "file": "_LogBook_/2023/2023.05/2023.05_log.md"
               }
             }
           },
@@ -187,8 +200,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e88f86a184ade1c",
+  "active": "f1e8b3b02a097806",
   "lastOpenFiles": [
+    "_LogBook_/2023/2023.05/2023-05-08.md",
+    "_LogBook_/2023/2023.05/2023.05_log.md",
+    "_LogBook_/2023/sum_2023.md",
+    "_LogBook_/LogBook_sum.md",
+    "_LogBook_/2023/2023.05/2023-05-15.md",
+    "_LogBook_/2023/2023.06",
+    "2023-05-09_14h00_06.png",
+    "2023-06-16.md",
     "2023-06-15.md",
     "2023-06-14.md",
     "2023-06-13.md",
@@ -199,22 +220,16 @@
     "2023-06-05.md",
     "2023-06-02.md",
     "2023-06-01.md",
-    "2023-05-31.md",
-    "2023-05-30.md",
-    "2023-05-29.md",
-    "2023-05-26.md",
-    "2023-05-25.md",
-    "2023-05-24.md",
-    "2023-05-23.md",
-    "2023-05-22.md",
-    "2023-05-19.md",
-    "2023-05-18.md",
-    "2023-05-17.md",
-    "2023-05-16.md",
-    "2023-05-15.md",
-    "_LogBook_/2023/2023.05/2023-05-12.md",
-    "_LogBook_/2023/2023.05/2023-05-11.md",
-    "_LogBook_/2023/2023.05/2023-05-10.md",
+    "_LogBook_/2023/2023.05/2023-05-31.md",
+    "_LogBook_/2023/2023.05/2023-05-30.md",
+    "_LogBook_/2023/2023.05/2023-05-29.md",
+    "_LogBook_/2023/2023.05/2023-05-26.md",
+    "_LogBook_/2023/2023.05/2023-05-25.md",
+    "_LogBook_/2023/2023.05/2023-05-24.md",
+    "_LogBook_/2023/2023.05/2023-05-23.md",
+    "_LogBook_/2023/2023.05/2023-05-22.md",
+    "_LogBook_/2023/2023.05/2023-05-19.md",
+    "_LogBook_/2023/2023.05/2023-05-18.md",
     "Pasted image 20230615132820.png",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "Pasted image 20230605101924.png",
@@ -232,7 +247,6 @@
     "essfs01/Abteilungen/Entwicklung",
     "essfs01/Abteilungen",
     "essfs01",
-    "_Projekte_/MarCator/img/touch_flash_prep_fin.png",
     "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
     "_LogBook_/2023/2023.05",
@@ -242,7 +256,6 @@
     "MEMO_CARDS.canvas",
     "MarCator_HAL.canvas",
     "aboutCanvas.canvas",
-    "dailyTools.canvas",
-    "MarCator_Touch"
+    "dailyTools.canvas"
   ]
 }
