@@ -54,3 +54,4 @@ python do programowania
 
 emWin performance:
 https://www.segger.com/products/user-interface/emwin/technology/emwin-performance/
+![[2021-08-30_10h24_14.png]]
