@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-01.md",
+                "file": "2023-06-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-01.md",
+                "file": "2023-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-01.md",
+                "file": "2023-06-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-01.md"
+                "file": "2023-06-16.md"
               }
             }
           },
@@ -187,8 +187,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7d0fdab60ebbe8e",
+  "active": "3e88f86a184ade1c",
   "lastOpenFiles": [
+    "2023-06-15.md",
+    "2023-06-14.md",
+    "2023-06-13.md",
+    "2023-06-12.md",
+    "2023-06-09.md",
+    "2023-06-07.md",
+    "2023-06-06.md",
+    "2023-06-05.md",
+    "2023-06-02.md",
+    "2023-06-01.md",
     "2023-05-31.md",
     "2023-05-30.md",
     "2023-05-29.md",
@@ -205,16 +215,6 @@
     "_LogBook_/2023/2023.05/2023-05-12.md",
     "_LogBook_/2023/2023.05/2023-05-11.md",
     "_LogBook_/2023/2023.05/2023-05-10.md",
-    "2023-06-16.md",
-    "2023-06-15.md",
-    "2023-06-14.md",
-    "2023-06-13.md",
-    "2023-06-12.md",
-    "2023-06-09.md",
-    "2023-06-07.md",
-    "2023-06-06.md",
-    "2023-06-05.md",
-    "2023-06-02.md",
     "Pasted image 20230615132820.png",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "Pasted image 20230605101924.png",
