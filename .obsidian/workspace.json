@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-21.md",
+                "file": "2023-06-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-21.md",
+                "file": "2023-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-21.md",
+                "file": "2023-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-21.md"
+                "file": "2023-06-14.md"
               }
             }
           },
@@ -192,12 +192,13 @@
   },
   "active": "93748b6a09c28665",
   "lastOpenFiles": [
+    "2023-06-15.md",
+    "2023-06-16.md",
+    "2023-06-19.md",
+    "2023-06-20.md",
+    "2023-06-21.md",
     "lapatopy_4k.md",
     "_cheatsheet_/usefull URLs.md",
-    "2023-06-21.md",
-    "2023-06-19.md",
-    "2023-06-16.md",
-    "2023-06-20.md",
     "_Learn_/Learn.md",
     "2023-06-14.md",
     "Wien.canvas",
@@ -219,7 +220,6 @@
     "_LogBook_/2023/2023.05/2023-05-16.md",
     "_LogBook_/2023/2023.05/2023-05-15.md",
     "Pasted image 20230615132820.png",
-    "2023-06-15.md",
     "2021-08-30_10h24_14.png",
     "2021-08-30_10h24_14 1.png",
     "code_style.md",
