@@ -4,35 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "523aae1f715aeb13",
+        "id": "066db9c0a7afd1b4",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9b7257cf1cdc18",
+            "id": "93748b6a09c28665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/C1202/C1202_notes.md",
+                "file": "_Learn_/Learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c3adeef77ca178d",
+            "id": "1aa116075050b0dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes_MillimarTool.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "22c7840ef039ae5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6364e730aa025a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lapatopy_4k.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01578fef877172b2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Wien.canvas",
+                "viewState": {
+                  "x": -97,
+                  "y": 93,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "C1202",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes_MillimarTool.md",
+                "file": "lapatopy_4k.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes_MillimarTool.md",
+                "file": "lapatopy_4k.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes_MillimarTool.md"
+                "file": "lapatopy_4k.md"
               }
             }
           },
@@ -176,62 +215,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c3adeef77ca178d",
+  "active": "d6364e730aa025a1",
   "lastOpenFiles": [
-    "2021-08-30_10h24_14 1.png",
-    "_Projekte_/C1202/C1202_notes.md",
-    "notes_MillimarTool.md",
-    "2021-08-30_10h24_14.png",
-    "2023-06-16.md",
-    "_Projekte_/MilimarTool",
-    "zdrowie.md",
-    "_LogBook_/2023/2023.05/2023.05_log.md",
-    "2023-06-15.md",
-    "_LogBook_/2023/sum_2023.md",
-    "_LogBook_/2023/2023.05/2023-05-08.md",
-    "_LogBook_/LogBook_sum.md",
-    "_LogBook_/2023/2023.05/2023-05-15.md",
-    "_LogBook_/2023/2023.06",
-    "2023-05-09_14h00_06.png",
     "2023-06-14.md",
-    "2023-06-13.md",
-    "2023-06-12.md",
-    "2023-06-09.md",
-    "2023-06-07.md",
-    "2023-06-06.md",
-    "2023-06-05.md",
-    "2023-06-02.md",
-    "2023-06-01.md",
+    "lapatopy_4k.md",
+    "zdrowie.md",
+    "notes_MillimarTool.md",
+    "_Projekte_/MarCator/ParamsMarCator.md",
     "_LogBook_/2023/2023.05/2023-05-31.md",
     "_LogBook_/2023/2023.05/2023-05-30.md",
     "_LogBook_/2023/2023.05/2023-05-29.md",
     "_LogBook_/2023/2023.05/2023-05-26.md",
     "_LogBook_/2023/2023.05/2023-05-25.md",
     "_LogBook_/2023/2023.05/2023-05-24.md",
+    "_LogBook_/2023/2023.05/2023-05-23.md",
+    "_LogBook_/2023/2023.05/2023-05-22.md",
+    "_LogBook_/2023/2023.05/2023-05-19.md",
+    "_LogBook_/2023/2023.05/2023-05-18.md",
+    "_LogBook_/2023/2023.05/2023-05-17.md",
+    "_LogBook_/2023/2023.05/2023-05-16.md",
+    "_LogBook_/2023/2023.05/2023-05-15.md",
     "Pasted image 20230615132820.png",
+    "2023-06-16.md",
+    "2023-06-15.md",
+    "2021-08-30_10h24_14.png",
+    "2021-08-30_10h24_14 1.png",
+    "Wien.canvas",
+    "_cheatsheet_/usefull URLs.md",
+    "code_style.md",
+    "2023-06-13.md",
+    "_Private_/wakacje2023.md",
+    "garaz_wroclaw.md",
+    "2023-06-12.md",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "Pasted image 20230605101924.png",
     "Pasted image 20230605101854.png",
     "Pasted image 20230605101619.png",
     "Pasted image 20230601155834.png",
-    "Pasted image 20230601155536.png",
-    "Pasted image 20230601155452.png",
-    "Pasted image 20230601155450.png",
-    "Wien.canvas",
+    "aboutCanvas.canvas",
+    "dailyTools.canvas",
+    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
+    "OrderDB.canvas",
+    "MarCator_HAL.canvas",
+    "Navbar.canvas",
+    "HolidaysDB.canvas",
+    "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
+    "_Projekte_/MarCator/img/nrfgo_program_app.png",
+    "_Projekte_/MarCator/img/nrfgo_select_app.png",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
     "essfs01/Abteilungen/Entwicklung",
     "essfs01/Abteilungen",
     "essfs01",
-    "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "HolidaysDB.canvas",
-    "OrderDB.canvas",
-    "Navbar.canvas",
-    "MEMO_CARDS.canvas",
-    "MarCator_HAL.canvas",
-    "aboutCanvas.canvas",
-    "dailyTools.canvas"
+    "_Projekte_/MarCator/img/init",
+    "_Projekte_/MarCator/img/Neuer Ordner",
+    "MEMO_CARDS.canvas"
   ]
 }
