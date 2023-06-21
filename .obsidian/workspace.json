@@ -64,7 +64,7 @@
                 "file": "Wien.canvas",
                 "viewState": {
                   "x": -97,
-                  "y": 93,
+                  "y": -372,
                   "zoom": 0
                 }
               }
@@ -217,8 +217,10 @@
   },
   "active": "d6364e730aa025a1",
   "lastOpenFiles": [
-    "2023-06-14.md",
+    "Wien.canvas",
     "lapatopy_4k.md",
+    "2023-06-21_08h11_11.png",
+    "2023-06-14.md",
     "zdrowie.md",
     "notes_MillimarTool.md",
     "_Projekte_/MarCator/ParamsMarCator.md",
@@ -240,13 +242,11 @@
     "2023-06-15.md",
     "2021-08-30_10h24_14.png",
     "2021-08-30_10h24_14 1.png",
-    "Wien.canvas",
     "_cheatsheet_/usefull URLs.md",
     "code_style.md",
     "2023-06-13.md",
     "_Private_/wakacje2023.md",
     "garaz_wroclaw.md",
-    "2023-06-12.md",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "Pasted image 20230605101924.png",
     "Pasted image 20230605101854.png",
@@ -261,7 +261,6 @@
     "HolidaysDB.canvas",
     "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
     "_Projekte_/MarCator/img/nrfgo_program_app.png",
-    "_Projekte_/MarCator/img/nrfgo_select_app.png",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",

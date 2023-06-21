@@ -6,3 +6,7 @@ https://mediamarkt.pl/komputery-i-tablety/laptop-apple-macbook-air-13-m1-8gb-256
 
 ideapad 2800:
 https://www.komputronik.pl/product/793975/lenovo-ideapad-3-15aba-82rn00chpb-.html
+ideapad: 1800:
+https://www.komputronik.pl/category/5022/laptopy.html?a%5B114272%5D%5B%5D=116508&a%5B1929%5D%5B%5D=14&a%5B1929%5D%5B%5D=16&filter=1&showBuyActiveOnly=0
+
+![[2023-06-21_08h11_11.png]]
