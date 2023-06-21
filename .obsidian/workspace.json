@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-14.md",
+                "file": "2023-06-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-14.md",
+                "file": "2023-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-14.md",
+                "file": "2023-06-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-14.md"
+                "file": "2023-06-21.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "93748b6a09c28665",
   "lastOpenFiles": [
+    "2023-06-14.md",
     "2023-06-15.md",
     "2023-06-16.md",
     "2023-06-19.md",
@@ -200,7 +201,6 @@
     "lapatopy_4k.md",
     "_cheatsheet_/usefull URLs.md",
     "_Learn_/Learn.md",
-    "2023-06-14.md",
     "Wien.canvas",
     "2023-06-21_08h11_11.png",
     "zdrowie.md",
