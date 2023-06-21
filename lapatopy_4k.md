@@ -9,4 +9,11 @@ https://www.komputronik.pl/product/793975/lenovo-ideapad-3-15aba-82rn00chpb-.htm
 ideapad: 1800:
 https://www.komputronik.pl/category/5022/laptopy.html?a%5B114272%5D%5B%5D=116508&a%5B1929%5D%5B%5D=14&a%5B1929%5D%5B%5D=16&filter=1&showBuyActiveOnly=0
 
+dell inspirion 2600:
+https://www.komputronik.pl/product/806678/dell-inspiron-15-ryzen-5-5625u-15-6-fhd-16gb-1tb-win-11-czarny.html
+
+dell vostro 3200:
+https://www.komputronik.pl/product/785172/dell-vostro-3510-n8803vn3510emea01-n1-500gb-m-2-pcie-16gb.html
+
+
 ![[2023-06-21_08h11_11.png]]
