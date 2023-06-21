@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Learn_/Learn.md",
+                "file": "2023-06-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md"
+                "file": "2023-06-20.md"
               }
             }
           },
@@ -191,8 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aa116075050b0dd",
+  "active": "93748b6a09c28665",
   "lastOpenFiles": [
+    "2023-06-19.md",
+    "2023-06-20.md",
+    "2023-06-16.md",
+    "_Learn_/Learn.md",
+    "_cheatsheet_/usefull URLs.md",
     "2023-06-14.md",
     "lapatopy_4k.md",
     "Wien.canvas",
@@ -214,15 +218,11 @@
     "_LogBook_/2023/2023.05/2023-05-16.md",
     "_LogBook_/2023/2023.05/2023-05-15.md",
     "Pasted image 20230615132820.png",
-    "2023-06-16.md",
     "2023-06-15.md",
     "2021-08-30_10h24_14.png",
     "2021-08-30_10h24_14 1.png",
-    "_cheatsheet_/usefull URLs.md",
     "code_style.md",
     "2023-06-13.md",
-    "_Private_/wakacje2023.md",
-    "garaz_wroclaw.md",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "Pasted image 20230605101924.png",
     "Pasted image 20230605101854.png",
