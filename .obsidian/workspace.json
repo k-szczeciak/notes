@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aa116075050b0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lapatopy_4k.md",
+                "file": "2023-06-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +28,7 @@
                 "file": "Wien.canvas",
                 "viewState": {
                   "x": -97,
-                  "y": -372,
+                  "y": -465,
                   "zoom": 0
                 }
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-21.md",
+                "file": "2023-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-21.md",
+                "file": "2023-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-21.md"
+                "file": "2023-06-14.md"
               }
             }
           },
@@ -192,16 +180,16 @@
   },
   "active": "93748b6a09c28665",
   "lastOpenFiles": [
-    "2023-06-14.md",
     "2023-06-15.md",
-    "2023-06-16.md",
-    "2023-06-19.md",
     "2023-06-20.md",
     "2023-06-21.md",
+    "Wien.canvas",
     "lapatopy_4k.md",
+    "2023-06-14.md",
+    "2023-06-16.md",
+    "2023-06-19.md",
     "_cheatsheet_/usefull URLs.md",
     "_Learn_/Learn.md",
-    "Wien.canvas",
     "2023-06-21_08h11_11.png",
     "zdrowie.md",
     "notes_MillimarTool.md",
@@ -222,7 +210,6 @@
     "Pasted image 20230615132820.png",
     "2021-08-30_10h24_14.png",
     "2021-08-30_10h24_14 1.png",
-    "code_style.md",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "Pasted image 20230605101924.png",
     "Pasted image 20230605101854.png",
