@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "523aae1f715aeb13",
+        "id": "066db9c0a7afd1b4",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9b7257cf1cdc18",
+            "id": "93748b6a09c28665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "_Projekte_/C1202/C1202_notes.md",
+=======
+                "file": "2023-06-22.md",
+>>>>>>> ccebda3ec036d5c9daf20e7dbe4576bff78f7690
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "C1202",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "_Projekte_/C1202/C1202_notes.md",
+=======
+                "file": "2023-06-22.md",
+>>>>>>> ccebda3ec036d5c9daf20e7dbe4576bff78f7690
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "_Projekte_/C1202/C1202_notes.md",
+=======
+                "file": "2023-06-22.md",
+>>>>>>> ccebda3ec036d5c9daf20e7dbe4576bff78f7690
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "_Projekte_/C1202/C1202_notes.md"
+=======
+                "file": "2023-06-22.md"
+>>>>>>> ccebda3ec036d5c9daf20e7dbe4576bff78f7690
               }
             }
           },
@@ -163,6 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "5c9b7257cf1cdc18",
   "lastOpenFiles": [
     "notes_MillimarTool.md",
@@ -180,44 +197,70 @@
     "_LogBook_/2023/2023.05/2023-05-15.md",
     "_LogBook_/2023/2023.06",
     "2023-05-09_14h00_06.png",
+=======
+  "active": "93748b6a09c28665",
+  "lastOpenFiles": [
+    "2023-06-21.md",
+    "2023-06-22.md",
+>>>>>>> ccebda3ec036d5c9daf20e7dbe4576bff78f7690
     "2023-06-14.md",
-    "2023-06-13.md",
-    "2023-06-12.md",
-    "2023-06-09.md",
-    "2023-06-07.md",
-    "2023-06-06.md",
-    "2023-06-05.md",
-    "2023-06-02.md",
-    "2023-06-01.md",
+    "2023-06-15.md",
+    "2023-06-20.md",
+    "Wien.canvas",
+    "lapatopy_4k.md",
+    "2023-06-16.md",
+    "2023-06-19.md",
+    "_cheatsheet_/usefull URLs.md",
+    "_Learn_/Learn.md",
+    "2023-06-21_08h11_11.png",
+    "zdrowie.md",
+    "notes_MillimarTool.md",
+    "_Projekte_/MarCator/ParamsMarCator.md",
     "_LogBook_/2023/2023.05/2023-05-31.md",
     "_LogBook_/2023/2023.05/2023-05-30.md",
     "_LogBook_/2023/2023.05/2023-05-29.md",
     "_LogBook_/2023/2023.05/2023-05-26.md",
     "_LogBook_/2023/2023.05/2023-05-25.md",
     "_LogBook_/2023/2023.05/2023-05-24.md",
+    "_LogBook_/2023/2023.05/2023-05-23.md",
+    "_LogBook_/2023/2023.05/2023-05-22.md",
+    "_LogBook_/2023/2023.05/2023-05-19.md",
+    "_LogBook_/2023/2023.05/2023-05-18.md",
+    "_LogBook_/2023/2023.05/2023-05-17.md",
+    "_LogBook_/2023/2023.05/2023-05-16.md",
+    "_LogBook_/2023/2023.05/2023-05-15.md",
     "Pasted image 20230615132820.png",
+    "2021-08-30_10h24_14.png",
+    "2021-08-30_10h24_14 1.png",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "Pasted image 20230605101924.png",
     "Pasted image 20230605101854.png",
     "Pasted image 20230605101619.png",
     "Pasted image 20230601155834.png",
+<<<<<<< HEAD
     "Pasted image 20230601155536.png",
     "Pasted image 20230601155452.png",
     "Wien.canvas",
+=======
+    "aboutCanvas.canvas",
+    "dailyTools.canvas",
+    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
+    "OrderDB.canvas",
+    "MarCator_HAL.canvas",
+    "Navbar.canvas",
+    "HolidaysDB.canvas",
+    "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
+    "_Projekte_/MarCator/img/nrfgo_program_app.png",
+>>>>>>> ccebda3ec036d5c9daf20e7dbe4576bff78f7690
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
     "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
     "essfs01/Abteilungen/Entwicklung/Elektronik",
     "essfs01/Abteilungen/Entwicklung",
     "essfs01/Abteilungen",
     "essfs01",
-    "_Projekte_/MarCator/img/init",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "HolidaysDB.canvas",
-    "OrderDB.canvas",
-    "Navbar.canvas",
-    "MEMO_CARDS.canvas",
-    "MarCator_HAL.canvas",
-    "aboutCanvas.canvas",
-    "dailyTools.canvas"
+    "_Projekte_/MarCator/img/init",
+    "_Projekte_/MarCator/img/Neuer Ordner",
+    "MEMO_CARDS.canvas"
   ]
 }
