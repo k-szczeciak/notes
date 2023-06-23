@@ -397,4 +397,28 @@ podsumowanei spodkania:
 - fixed aufloesung - poprzez Artnummer
 - daten format - sprawdzic jak w sylvaku jest
 - Ocker - numery ANT
-- 
+
+
+23.06.2023:
+- rozmowa z mario:
+	- prad: sprawdzic mosfet i Rezystor R405 (lub wysterowac ponizszy ranzystor) 1MOhm
+	- odlaczyc przetwornik DC/DC
+	- spr. rezystor R504: 1MOhm
+	- sprawdzic w programie czy sie cos nie zmienilo
+	- sprawdzic wszystkie komponenty czy sa wlasciwe
+- rozmowa o testach EMV
+- Opis Dzialania MarCatora, zauwazone niedociagniecia:
+	- jak jest hold i powroci sie z menue, to nie widac hold
+	- warunki startowe
+	- w menue wyswietla sie mm z delay
+	- sprawdzic wartosc offsetu przy starcie
+
+rozmowa dzisiaj z Englerem i Nieblingiem:
+- uaktualnic tabele dla BR (w zakladce) xls
+- zaznaczyc ktore rozkazy sa ANT (moze wlasna doku z lista tylko ant)
+- [ ] wlozenie baterii - reset ustawien (ma wskazywac zero)
+- [ ] opis menue (ew. symulacja)
+- [x] preset init na 0
+- [x] wylaczyc diody
+- [ ] iso format dla daty
+- [ ] 
