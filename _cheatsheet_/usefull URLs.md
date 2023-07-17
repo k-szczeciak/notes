@@ -12,6 +12,10 @@
 - [cloud](https://cloud.mahr.com/default.aspx)
 - [IMS](http://ims.mahr.lan/)
 - [mail archive](https://mailarchive.europe.mahr.lan)
+- dysk sieciowy - skaner: `\\192.168.1.17\homes\SzczeciakK\skaner`
+- haslo do dysku sieciowego: `SzczeciakK` `plocka53`
+- drukarka: `192.168.1.7`
+- 
 
 
 temp: [docs](http://ims.mahr.lan/MahrGmbH/Processes/DienstreisePlanenBeantragenUndAbrechnen)
