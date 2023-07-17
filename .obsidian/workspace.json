@@ -11,14 +11,11 @@
             "id": "93748b6a09c28665",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wien.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 130,
-                  "zoom": -0.4802758724301416
-                }
+                "file": "2023-07-17.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wien.canvas",
+                "file": "2023-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wien.canvas",
+                "file": "2023-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wien.canvas"
+                "file": "2023-07-17.md"
               }
             }
           },
@@ -168,6 +165,7 @@
   },
   "active": "93748b6a09c28665",
   "lastOpenFiles": [
+    "Wien.canvas",
     "2023-07-17.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-06-22.md",
@@ -176,7 +174,6 @@
     "2023-06-14.md",
     "2023-06-15.md",
     "2023-06-20.md",
-    "Wien.canvas",
     "lapatopy_4k.md",
     "2023-06-16.md",
     "2023-06-19.md",
@@ -195,7 +192,6 @@
     "_LogBook_/2023/2023.05/2023-05-22.md",
     "_LogBook_/2023/2023.05/2023-05-19.md",
     "_LogBook_/2023/2023.05/2023-05-18.md",
-    "_LogBook_/2023/2023.05/2023-05-17.md",
     "Pasted image 20230615132820.png",
     "2021-08-30_10h24_14.png",
     "2021-08-30_10h24_14 1.png",
