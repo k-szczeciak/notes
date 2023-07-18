@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-17.md",
+                "file": "2023-07-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-17.md",
+                "file": "2023-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-17.md",
+                "file": "2023-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-17.md"
+                "file": "2023-07-18.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "0b9a463672d358a8",
   "lastOpenFiles": [
+    "2023-07-17.md",
+    "2023-07-18.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
     "_Projekte_/MarCator/MarCator_Notes.md",
@@ -189,7 +191,6 @@
     "_Projekte_/MarCator/touch buttons mapping.md",
     "_Projekte_/MarCator/touch buttons mapping.pdf",
     "_Projekte_/C1202/Digimatic_diagram_C1202_FW1.1.0.0.png",
-    "2023-07-17.md",
     "Wien.canvas",
     "_cheatsheet_/usefull URLs.md",
     "2023-06-22.md",
