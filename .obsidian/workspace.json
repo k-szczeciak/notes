@@ -1,43 +1,31 @@
 {
   "main": {
-    "id": "614042888f9337f5",
+    "id": "beff68e45829e638",
     "type": "split",
     "children": [
       {
-        "id": "066db9c0a7afd1b4",
+        "id": "4c3262b7e752f243",
         "type": "tabs",
         "children": [
           {
-            "id": "93748b6a09c28665",
+            "id": "4ffbb27a6f55dbd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/Marcator_flashing.md",
+                "file": "2023-06-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b9a463672d358a8",
+            "id": "853678b3f0981379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc71868793016faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-07-17.md",
+                "file": "2023-07-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b079801fd8822fff",
+    "id": "95bacb7f198fce71",
     "type": "split",
     "children": [
       {
-        "id": "4246adb876b6ca6e",
+        "id": "6082cf5ddb248692",
         "type": "tabs",
         "children": [
           {
-            "id": "3e88f86a184ade1c",
+            "id": "d1457d7f81b9dbd1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +56,7 @@
             }
           },
           {
-            "id": "eb9d085954e04a61",
+            "id": "3c3860f3eaa6e6c7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,15 +71,7 @@
             }
           },
           {
-            "id": "919a0aab6ecbc3bd",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "7aa5f3c03fb33739",
+            "id": "dae9504b3f7cd966",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "c5147cbeb35329d4",
+    "id": "d0d138354741900d",
     "type": "split",
     "children": [
       {
-        "id": "f00e7b2a5b38ec80",
+        "id": "07551da8f434d684",
         "type": "tabs",
         "children": [
           {
-            "id": "c0e7e9d0195aa87a",
+            "id": "400c6f29c41e09c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-19.md",
+                "file": "2023-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +110,19 @@
             }
           },
           {
-            "id": "8707219fbe7e3a0c",
+            "id": "9ad85244d3fa4bee",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-19.md",
+                "file": "2023-07-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ef60e6eca0a79a25",
+            "id": "7b430611ca169137",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,29 +133,21 @@
             }
           },
           {
-            "id": "4b565baa84e30c58",
+            "id": "95bb201a8e60fc5d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-19.md"
+                "file": "2023-07-20.md"
               }
             }
-          },
-          {
-            "id": "86657b3a80225da3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,62 +160,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b9a463672d358a8",
+  "active": "853678b3f0981379",
   "lastOpenFiles": [
-    "2023-07-18.md",
-    "2023-07-19.md",
-    "2023-07-17.md",
-    "_Projekte_/MarCator/Marcator_flashing.md",
-    "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
-    "_Projekte_/MarCator/msp430fr6989.pdf",
-    "_Projekte_/MarCator/MSP430m07_LPM.pdf",
-    "_Projekte_/MarCator/ParamsMarCator.md",
-    "_Projekte_/MarCator/README.md",
-    "_Projekte_/MarCator/touch buttons mapping.md",
-    "_Projekte_/MarCator/touch buttons mapping.pdf",
-    "_Projekte_/C1202/Digimatic_diagram_C1202_FW1.1.0.0.png",
-    "Wien.canvas",
-    "_cheatsheet_/usefull URLs.md",
-    "2023-06-22.md",
     "2023-06-23.md",
+    "2023-07-20.md",
+    "2023-07-19.md",
+    "2023-07-18.md",
+    "2023-07-17.md",
+    "2023-06-22.md",
     "2023-06-21.md",
-    "2023-06-14.md",
-    "2023-06-15.md",
     "2023-06-20.md",
-    "lapatopy_4k.md",
-    "2023-06-16.md",
     "2023-06-19.md",
-    "_Learn_/Learn.md",
-    "2023-06-21_08h11_11.png",
-    "zdrowie.md",
-    "notes_MillimarTool.md",
-    "_LogBook_/2023/2023.05/2023-05-31.md",
-    "_LogBook_/2023/2023.05/2023-05-30.md",
-    "_LogBook_/2023/2023.05/2023-05-29.md",
-    "_LogBook_/2023/2023.05/2023-05-26.md",
-    "Pasted image 20230615132820.png",
-    "2021-08-30_10h24_14.png",
-    "2021-08-30_10h24_14 1.png",
-    "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
-    "Pasted image 20230605101924.png",
-    "Pasted image 20230605101854.png",
-    "Pasted image 20230605101619.png",
-    "Pasted image 20230601155834.png",
-    "aboutCanvas.canvas",
-    "dailyTools.canvas",
-    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
-    "OrderDB.canvas",
-    "MarCator_HAL.canvas",
-    "Navbar.canvas",
-    "HolidaysDB.canvas",
-    "_Projekte_/MarCator/img/nrfgo_program_softdev.png",
-    "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
-    "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
-    "essfs01/Abteilungen/Entwicklung/Elektronik",
-    "essfs01/Abteilungen/Entwicklung",
-    "essfs01/Abteilungen",
-    "MEMO_CARDS.canvas"
+    "2023-06-16.md",
+    "2023-06-15.md",
+    "2023-06-14.md",
+    "2023-06-13.md",
+    "2023-06-12.md",
+    "2023-06-09.md",
+    "2023-06-07.md",
+    "2023-06-06.md",
+    "2023-06-05.md",
+    "2023-06-01.md",
+    "_Projekte_/MarCator/MarCator_Notes.md"
   ]
 }
