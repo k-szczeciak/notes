@@ -155,3 +155,6 @@ STL
 ia 
 cloud and IoT
 security and crypto
+
+rozmowa sii crypto:
+[GDB online Debugger | Code, Compile, Run, Debug online C, C++ (onlinegdb.com)](https://www.onlinegdb.com/kJogws_N5)

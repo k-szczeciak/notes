@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-20.md",
+                "file": "_Private_/job-search/job search.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "praca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-20.md",
+                "file": "_Private_/job-search/job search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-20.md",
+                "file": "_Private_/job-search/job search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-20.md"
+                "file": "_Private_/job-search/job search.md"
               }
             }
           }
@@ -174,9 +175,11 @@
   },
   "active": "2368db8e5facdedc",
   "lastOpenFiles": [
+    "_LogBook_/2023/2023.04/2023-04-12.md",
+    "2023-07-21.md",
+    "2023-07-20.md",
     "2023-06-22.md",
     "_Projekte_/MarCator/ParamsMarCator.md",
-    "2023-07-20.md",
     "2023-07-19.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "MarCator_Touch/MC_touch_Digimati_analyse.html.md",
