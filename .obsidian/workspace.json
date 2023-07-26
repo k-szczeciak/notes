@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b31a43bba3c93c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-26.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-26.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-26.md"
+                "file": "_cheatsheet_/usefull URLs.md"
               }
             }
           },
@@ -177,12 +165,12 @@
   },
   "active": "0b9a463672d358a8",
   "lastOpenFiles": [
+    "2023-07-26.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/touch buttons mapping.md",
     "_Projekte_/MarCator/MarCator.md",
     "2023-07-25.md",
     "2023-07-24.md",
-    "2023-07-26.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-07-19.md",
