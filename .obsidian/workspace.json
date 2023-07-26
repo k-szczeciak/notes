@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-24.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-26.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-26.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-26.md"
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
               }
             }
           },
@@ -175,11 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b9a463672d358a8",
+  "active": "6b31a43bba3c93c1",
   "lastOpenFiles": [
+    "_Projekte_/MarCator/touch buttons mapping.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/MarCator/MarCator.md",
     "2023-07-25.md",
-    "2023-07-26.md",
     "2023-07-24.md",
+    "2023-07-26.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-07-19.md",
@@ -188,13 +192,11 @@
     "2023-07-18.md",
     "2023-07-17.md",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
     "_Projekte_/MarCator/msp430fr6989.pdf",
     "_Projekte_/MarCator/MSP430m07_LPM.pdf",
     "_Projekte_/MarCator/ParamsMarCator.md",
     "_Projekte_/MarCator/README.md",
-    "_Projekte_/MarCator/touch buttons mapping.md",
     "_Projekte_/MarCator/touch buttons mapping.pdf",
     "_Projekte_/C1202/Digimatic_diagram_C1202_FW1.1.0.0.png",
     "Wien.canvas",
@@ -209,7 +211,6 @@
     "2023-06-19.md",
     "_Learn_/Learn.md",
     "2023-06-21_08h11_11.png",
-    "zdrowie.md",
     "Pasted image 20230615132820.png",
     "2021-08-30_10h24_14.png",
     "2021-08-30_10h24_14 1.png",
