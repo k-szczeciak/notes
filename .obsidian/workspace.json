@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-25.md",
+                "file": "2023-07-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-25.md",
+                "file": "2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-25.md",
+                "file": "2023-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-25.md"
+                "file": "2023-07-26.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "0b9a463672d358a8",
   "lastOpenFiles": [
-    "2023-07-24.md",
     "2023-07-25.md",
+    "2023-07-26.md",
+    "2023-07-24.md",
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-07-19.md",
@@ -209,7 +210,6 @@
     "_Learn_/Learn.md",
     "2023-06-21_08h11_11.png",
     "zdrowie.md",
-    "notes_MillimarTool.md",
     "Pasted image 20230615132820.png",
     "2021-08-30_10h24_14.png",
     "2021-08-30_10h24_14 1.png",
