@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "2023-07-26.md"
               }
             }
           },
@@ -176,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b31a43bba3c93c1",
+  "active": "0b9a463672d358a8",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/touch buttons mapping.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/MarCator/touch buttons mapping.md",
     "_Projekte_/MarCator/MarCator.md",
     "2023-07-25.md",
     "2023-07-24.md",
