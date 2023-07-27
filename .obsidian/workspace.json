@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-22.md",
+                "file": "2023-07-27.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7a77e08775dc6780",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-07-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-07-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-07-27.md"
+              }
             }
           }
         ]
@@ -165,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a77e08775dc6780",
+  "active": "4ffbb27a6f55dbd7",
   "lastOpenFiles": [
     "2023-06-22.md",
+    "2023-07-27.md",
     "conflict-files-obsidian-git.md",
     "2023-07-26.md",
     "2023-07-25.md",
@@ -191,7 +186,6 @@
     "2023-06-14.md",
     "2023-06-13.md",
     "2023-06-12.md",
-    "2023-06-09.md",
-    "2023-06-07.md"
+    "2023-06-09.md"
   ]
 }
