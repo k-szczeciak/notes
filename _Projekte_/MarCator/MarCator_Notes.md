@@ -439,4 +439,8 @@ Gespraech  (27.07.2023):
 	
 - Batterie Anzeige: "BAt-Lo", wann? (in messschrabe es ist bei einschalten und wenn menu verlassen ist)
 - Batterie Anzeige signalquelle: Messsystem oder spannungsverteiler
-- 
+- GPIO - liste und konfig (pinMapping.xlsx)
+- "Press Start"
+- Error Preset Eingabe: entweder: "t-SpAn" oder" Hi Lo "
+- Standart AutoOff wert 8 minuten
+- editierung AutoOff: waerend editierung
