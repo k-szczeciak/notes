@@ -11,4 +11,13 @@
 - [ ] przy recznym wylaczaniu > 5mA
 - [ ] dokkonczyc obsluge ANT
 - [ ] iso format dla daty CAL: rrrr-mm-dd
-- [ ] zbudowac pomiar ciagly pradu z bocznikujac
+- [ ] zbudowac pomiar ciagly pradu z bocznikujacym i wzmacniaczem - zrobic opis przebiegu
+- [ ] 
+
+
+
+
+
+
+maybe:
+- [ ] symulacja

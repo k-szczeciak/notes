@@ -434,6 +434,9 @@ Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmodus) Standby: c
 
 
 Gespraech  (27.07.2023): 
+- Aktuel:
+	- spannung 3V
+	
 - Batterie Anzeige: "BAt-Lo", wann? (in messschrabe es ist bei einschalten und wenn menu verlassen ist)
 - Batterie Anzeige signalquelle: Messsystem oder spannungsverteiler
 - 
