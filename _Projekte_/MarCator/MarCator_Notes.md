@@ -432,4 +432,5 @@ rozmowa Niebling 20.07.2023:
 
 
 
-wersja 8
+wersja 008:
+- 
