@@ -4,3 +4,4 @@
 	- [ ] przy wylaczaniu
 	- [ ] zrodlo ???
 - [ ] laczenie  sie ANT
+- [ ] podluzszym czasie prad w stanie aktywnym jest 
