@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7a77e08775dc6780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "853678b3f0981379",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-22.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-22.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-22.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,13 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ffbb27a6f55dbd7",
+  "active": "7a77e08775dc6780",
   "lastOpenFiles": [
+    "2023-06-22.md",
+    "conflict-files-obsidian-git.md",
+    "2023-07-26.md",
+    "2023-07-25.md",
+    "2023-07-24.md",
     "_Private_/job-search/job search.md",
     "_LogBook_/2023/2023.04/2023-04-12.md",
     "2023-07-21.md",
     "2023-07-20.md",
-    "2023-06-22.md",
     "_Projekte_/MarCator/ParamsMarCator.md",
     "2023-07-19.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
@@ -183,9 +200,6 @@
     "2023-06-13.md",
     "2023-06-12.md",
     "2023-06-09.md",
-    "2023-06-07.md",
-    "2023-06-06.md",
-    "2023-06-05.md",
-    "2023-06-01.md"
+    "2023-06-07.md"
   ]
 }
