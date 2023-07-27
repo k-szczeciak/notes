@@ -4,4 +4,4 @@
 	- [ ] przy wylaczaniu
 	- [ ] zrodlo ???
 - [ ] laczenie  sie ANT
-- [ ] podluzszym czasie prad w stanie aktywnym jest 
+- [ ] podluzszym czasie prad w stanie aktywnym jest +10 uA, (85 zamiast 75), dlaczego
