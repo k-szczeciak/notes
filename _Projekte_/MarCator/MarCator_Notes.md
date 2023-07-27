@@ -443,4 +443,8 @@ Gespraech  (27.07.2023):
 - "Press Start"
 - Error Preset Eingabe: entweder: "t-SpAn" oder" Hi Lo "
 - Standart AutoOff wert 8 minuten
-- editierung AutoOff: waerend editierung
+- editierung AutoOff:
+	- waerend editierung 001, wen fest "1" ohne fuehrende "0"
+	- "0" statt "---" wenn "0" als endloss eingestellt
+- messsystem in meue deaktiviert (30uA sparung)
+- 
