@@ -430,7 +430,15 @@ rozmowa Niebling 20.07.2023:
 - delay time do wszytkiego: rowniez z kabel i radio
 - moje pytanie czy zmienic autooff time przy polaczeniu kablem?
 
-Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmodus) Standby: ca. 10µA
+
+
+
+
+
+
+
+---
+Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmodus) Standby: ca. 10µA
 
 
 Gespraech  (27.07.2023): 
@@ -446,10 +454,21 @@ Gespraech  (27.07.2023):
 | Messsytem - measurement |     25     |
 | **SUM**                 |   **80**   |
 
+| state                 | usage [uA] |
+|-----------------------|------------|
+| active                | 80         |
+| off                   | 13         |
+| in menue              | 50         |
+| taste betaetigt       | 105        |
+| messung (64Hz)        | 165        |
+| funk verbunden - idle | 150        |
+| funk - ContData       | 1800       |
+| funk - suchen         | 2300       |
 
 
 - Batterie Anzeige: "BAt-Lo", wann? (in messschrabe es ist bei einschalten und wenn menu verlassen ist)
 - Batterie Anzeige signalquelle: Messsystem oder spannungsverteiler (DC/DC leuft bis 1,7 V)
+![[2023-07-27_12h37_26.png]]
 - GPIO - liste und konfig (pinMapping.xlsx) (z.B. uart for radio chip pull up resistors)
 - "Press Start"
 - Error Preset Eingabe: entweder: "t-SpAn" oder" Hi Lo "
