@@ -12,8 +12,25 @@
 - [ ] dokkonczyc obsluge ANT
 - [ ] iso format dla daty CAL: rrrr-mm-dd
 - [ ] zbudowac pomiar ciagly pradu z bocznikujacym i wzmacniaczem - zrobic opis przebiegu
+
+| R=U/I |       |     |
+|-------|-------|-----|
+|       |       |     |
+| R     | 100   | Ohm |
+| I     | 20    | uA  |
+| U     | 2000  | uV  |
+|       | 2     | mV  |
+|       | 0,002 | V   |
+| opamp | 1000  |     |
+| Uampl | 2     |
+
+
+pomiar pradu:
+https://circuitdigest.com/calculators/op-amp-gain-calculator
+
 - [ ] zoptymalizowac messsystem pod wzgledem zuzycia pradu
-- [ ] po wylaczeniu radia zostaje 90 uA
+- [ ] po wylaczeniu radia zostaje 90 uA ???
+- [ ] pomiarzyc we wszystkich sytuacjach pomiar pradu na komponentach
 
 
 

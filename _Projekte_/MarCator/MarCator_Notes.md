@@ -440,8 +440,7 @@ rozmowa Niebling 20.07.2023:
 ---
 Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmodus) Standby: ca. 10µA
 
-
-Gespraech  (27.07.2023): 
+### Besprechung  (27.07.2023): 
 - Aktuel:
 	- spannung 3V
 
@@ -477,4 +476,4 @@ Gespraech  (27.07.2023):
 	- waerend editierung 001, wen fest "1" ohne fuehrende "0"
 	- "0" statt "---" wenn "0" als endloss eingestellt
 - messsystem in meue deaktiviert (30uA sparung)
-- 
+- radio start neu
