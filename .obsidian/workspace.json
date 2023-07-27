@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-07-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-07-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "2023-07-27.md"
               }
             }
           }
@@ -184,12 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "383678f54b18e29d",
+  "active": "4ffbb27a6f55dbd7",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_todo.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
-    "MarCator_Touch/MC_touch_Digimati_analyse.html.md",
     "2023-07-27.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
+    "MarCator_Touch/MC_touch_Digimati_analyse.html.md",
     "2023-06-22.md",
     "2023-06-07.md",
     "2023-06-06.md",

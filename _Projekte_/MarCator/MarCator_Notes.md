@@ -433,4 +433,6 @@ rozmowa Niebling 20.07.2023:
 
 
 Gespraech  (27.07.2023): 
-- Batterie anzeige: "BAt-Lo", wann? (in messschra)
+- Batterie Anzeige: "BAt-Lo", wann? (in messschrabe es ist bei einschalten und wenn menu verlassen ist)
+- Batterie Anzeige signalquelle: Messsystem oder spannungsverteiler
+- 

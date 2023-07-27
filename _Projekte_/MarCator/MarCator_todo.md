@@ -2,4 +2,5 @@
 	- [ ] przy wlaczaniu
 	- [ ] jezeli watorsc spadnie
 	- [ ] przy wylaczaniu
-	- [ ] 
+	- [ ] zrodlo ???
+- [ ] laczenie  sie ANT
