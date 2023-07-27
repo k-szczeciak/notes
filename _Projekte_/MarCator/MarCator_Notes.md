@@ -436,7 +436,17 @@ Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmodus) Standby: c
 Gespraech  (27.07.2023): 
 - Aktuel:
 	- spannung 3V
-	
+
+| component               | usage [uA] |
+|-------------------------|:-----------|
+| LCD                     | 30         |
+| read value and calc     | 15         |
+| Touch standby           | 2          |
+| Messsystem - idle       | 8          |
+| Messsytem - measurement | 25         |
+| **SUM**                   | **80**         |
+
+
 - Batterie Anzeige: "BAt-Lo", wann? (in messschrabe es ist bei einschalten und wenn menu verlassen ist)
 - Batterie Anzeige signalquelle: Messsystem oder spannungsverteiler
 - GPIO - liste und konfig (pinMapping.xlsx) (z.B. uart for radio chip pull up resistors)
