@@ -12,7 +12,7 @@
 - [ ] dokkonczyc obsluge ANT
 - [ ] iso format dla daty CAL: rrrr-mm-dd
 - [ ] zbudowac pomiar ciagly pradu z bocznikujacym i wzmacniaczem - zrobic opis przebiegu
-- [ ] 
+- [ ] zoptymalizowac messsystem pod wzgledem zuzycia pradu
 
 
 
