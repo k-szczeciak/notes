@@ -430,6 +430,7 @@ rozmowa Niebling 20.07.2023:
 - delay time do wszytkiego: rowniez z kabel i radio
 - moje pytanie czy zmienic autooff time przy polaczeniu kablem?
 
+Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmodus) Standby: ca. 10µA
 
 
 Gespraech  (27.07.2023): 
