@@ -1,0 +1,5 @@
+- [ ] battery Anzeige: "BAt-Lo":
+	- [ ] przy wlaczaniu
+	- [ ] jezeli watorsc spadnie
+	- [ ] przy wylaczaniu
+	- [ ] 

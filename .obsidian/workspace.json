@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "383678f54b18e29d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41d02504ba2d643d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-22.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-22.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-22.md"
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
               }
             }
           }
@@ -160,17 +184,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "853678b3f0981379",
+  "active": "383678f54b18e29d",
   "lastOpenFiles": [
+    "_Projekte_/MarCator/MarCator_todo.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "MarCator_Touch/MC_touch_Digimati_analyse.html.md",
+    "2023-07-27.md",
+    "2023-06-22.md",
     "2023-06-07.md",
     "2023-06-06.md",
     "2023-06-05.md",
     "2023-06-02.md",
     "2023-06-01.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/ParamsMarCator.md",
-    "2023-07-27.md",
-    "2023-06-22.md",
     "conflict-files-obsidian-git.md",
     "2023-07-26.md",
     "2023-07-25.md",
@@ -180,13 +206,11 @@
     "2023-07-21.md",
     "2023-07-20.md",
     "2023-07-19.md",
-    "MarCator_Touch/MC_touch_Digimati_analyse.html.md",
     "2023-06-23.md",
     "2023-07-18.md",
     "2023-07-17.md",
     "2023-06-21.md",
     "2023-06-20.md",
-    "2023-06-19.md",
-    "2023-06-16.md"
+    "2023-06-19.md"
   ]
 }

@@ -432,5 +432,5 @@ rozmowa Niebling 20.07.2023:
 
 
 
-wersja 008:
-- 
+Gespraech  (27.07.2023): 
+- Batterie anzeige: "BAt-Lo", wann? (in messschra)
