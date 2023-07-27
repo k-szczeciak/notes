@@ -429,4 +429,7 @@ rozmowa Niebling 20.07.2023:
 - tol eingabe: error: "Error - t-SPAn"
 - delay time do wszytkiego: rowniez z kabel i radio
 - moje pytanie czy zmienic autooff time przy polaczeniu kablem?
-- 
+
+
+
+wersja 8
