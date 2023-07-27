@@ -438,17 +438,18 @@ Gespraech  (27.07.2023):
 	- spannung 3V
 
 | component               | usage [uA] |
-|-------------------------|:-----------|
-| LCD                     | 30         |
-| read value and calc     | 15         |
-| Touch standby           | 2          |
-| Messsystem - idle       | 8          |
-| Messsytem - measurement | 25         |
-| **SUM**                   | **80**         |
+| ----------------------- |:----------:|
+| LCD                     |     30     |
+| read value and calc     |     15     |
+| Touch standby           |     2      |
+| Messsystem - idle       |     8      |
+| Messsytem - measurement |     25     |
+| **SUM**                 |   **80**   |
+
 
 
 - Batterie Anzeige: "BAt-Lo", wann? (in messschrabe es ist bei einschalten und wenn menu verlassen ist)
-- Batterie Anzeige signalquelle: Messsystem oder spannungsverteiler
+- Batterie Anzeige signalquelle: Messsystem oder spannungsverteiler (DC/DC leuft bis 1,7 V)
 - GPIO - liste und konfig (pinMapping.xlsx) (z.B. uart for radio chip pull up resistors)
 - "Press Start"
 - Error Preset Eingabe: entweder: "t-SpAn" oder" Hi Lo "
