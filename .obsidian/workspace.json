@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "2023-07-28.md"
               }
             }
           }
@@ -172,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "383678f54b18e29d",
+  "active": "4ffbb27a6f55dbd7",
   "lastOpenFiles": [
-    "2023-07-28.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
+    "2023-07-28.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "_Learn_/Learn.md",
     "_cheatsheet_/usefull URLs.md",
