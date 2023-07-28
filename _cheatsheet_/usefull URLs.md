@@ -64,3 +64,7 @@ nas: 192.168.1.17 SzczeciakK plocka53
 
 
 https://bossa.pl/notowania/wykresy?symbol=FEURM23&interval=1S
+
+
+pomiar malych pradow:
+https://www.eevblog.com/projects/ucurrent/
