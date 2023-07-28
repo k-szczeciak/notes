@@ -528,3 +528,16 @@ embedded GUI:
 
 
 Wlasne Wiki lub docs jak python lub wikiüpedia
+
+image processing
+data scientist
+
+do rozwazenia:
+https://www.udemy.com/course/embedded-c-programming-design-patterns/
+https://www.udemy.com/course/c-language-deep-learning-from-ground-uptm/
+https://www.udemy.com/course/image-processing-from-ground-uptm-in-c/
+https://www.udemy.com/course/digital-image-processing-from-ground-up-in-python/
+
+
+Patrick Wiebel:
+- phd i wykladanie na uni
