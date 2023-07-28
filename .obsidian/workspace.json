@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "853678b3f0981379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-07-26.md",
+                "file": "2023-07-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md"
+                "file": "2023-07-28.md"
               }
             }
           }
@@ -183,10 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1457d7f81b9dbd1",
+  "active": "4ffbb27a6f55dbd7",
   "lastOpenFiles": [
     "2023-07-27.md",
+    "2023-07-28.md",
+    "_Private_/zakupy/zakupy.md",
     "2023-07-26.md",
+    "_Projekte_/MarCator/MarCator.md",
+    "_cheatsheet_/usefull URLs.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Private_/2023-06-21_08h11_11.png",
     "2023-07-27_12h37_26.png",
@@ -208,9 +200,6 @@
     "2023-06-01.md",
     "_Projekte_/MarCator/ParamsMarCator.md",
     "conflict-files-obsidian-git.md",
-    "_Private_/job-search/job search.md",
-    "_LogBook_/2023/2023.04/2023-04-12.md",
-    "2023-06-21.md",
-    "2023-06-20.md"
+    "_Private_/job-search/job search.md"
   ]
 }
