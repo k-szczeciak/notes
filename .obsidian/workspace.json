@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "_Learn_/Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "_Learn_/Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "_Learn_/Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md"
+                "file": "_Learn_/Learn.md"
               }
             }
           }
@@ -186,11 +186,11 @@
   },
   "active": "efc0fd27f843bdc2",
   "lastOpenFiles": [
+    "_cheatsheet_/usefull URLs.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-07-28.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Learn_/Learn.md",
-    "_cheatsheet_/usefull URLs.md",
     "2023-07-27.md",
     "_Private_/zakupy/zakupy.md",
     "2023-07-26.md",
