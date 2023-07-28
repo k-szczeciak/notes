@@ -450,8 +450,8 @@ Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmo
 | read value and calc     |     15     |
 | Touch standby           |     2      |
 | Messsystem - idle       |     8      |
-| Messsytem - measurement |     25     |
-| **SUM**                 |   **80**   |
+| Messsytem - measurement |     20     |
+| **SUM**                 |   **75**   |
 
 | state                 | usage [uA] |
 |-----------------------|------------|
