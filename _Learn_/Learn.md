@@ -541,3 +541,4 @@ https://www.udemy.com/course/digital-image-processing-from-ground-up-in-python/
 
 Patrick Wiebel:
 - phd i wykladanie na uni
+phd na hda
