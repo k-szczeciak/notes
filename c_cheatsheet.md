@@ -1,0 +1,2 @@
+
+object dupmp: `objdump -t
