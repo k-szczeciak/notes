@@ -4,6 +4,8 @@
 	- [ ] przy wylaczaniu
 	- [ ] zrodlo ???
 	- [ ] pomiar napiecia
+- [ ] edycja wlasciwego presetu
+- [ ] entprellzeit
 - [ ] laczenie  sie ANT
 - [ ] podluzszym czasie prad w stanie aktywnym jest +10 uA, (85 zamiast 75), dlaczego
 - [ ] zmiezyc napiecie Vcc
