@@ -477,3 +477,8 @@ Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmo
 	- "0" statt "---" wenn "0" als endloss eingestellt
 - messsystem in meue deaktiviert (30uA sparung)
 - radio start neu
+
+
+
+pytania:
+czy ma byc timeout wyjscia z menue?
