@@ -482,3 +482,4 @@ Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmo
 
 pytania:
 czy ma byc timeout wyjscia z menue?
+delay time for buttons, only: reset, preset, analog reset i data, btn, ant and cable
