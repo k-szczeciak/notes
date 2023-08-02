@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Learn_/c_lean.md",
+                "file": "2023-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Learn_/c_lean.md",
+                "file": "2023-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Learn_/c_lean.md"
+                "file": "2023-08-02.md"
               }
             }
           }
@@ -196,11 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1457d7f81b9dbd1",
+  "active": "efc0fd27f843bdc2",
   "lastOpenFiles": [
+    "_Learn_/c_lean.md",
     "2023-08-02_13h54_09.png",
     "_Projekte_/MarCator/MarCator_todo.md",
-    "_Learn_/c_lean.md",
     "2023-08-02.md",
     "2023-07-28.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
