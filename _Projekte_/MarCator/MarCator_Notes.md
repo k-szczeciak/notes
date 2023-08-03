@@ -480,12 +480,19 @@ Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmo
 
 
 
-pytania:
-timeout from menue? (autooff)
-TasterVerzuegerung entprellzeit) soll wie ist gemeint zu funktioniern? doppelbetaetigung?
-Tate delay nur in:
-- Data Senden, Preset, reset und analog nullen
-- Tasten betaetigung, ANT anforderung, DKU1 , Digimatic
+03.08.2023 Fragen:
+1. timeout from menue? (autooff)
+2. TasterVerzuegerung entprellzeit) soll wie ist gemeint zu funktioniern? doppelbetaetigung?
+	Tate delay nur in:
+	- Data Senden, Preset, reset und analog nullen
+	- Tasten betaetigung, ANT anforderung, DKU1 , Digimatic
+3. BAt-Lo Anzeige:
+	1. messung
+	2. wann: ein und ausschalten, menue verlassen, wenn medung kommt
 
 
-- ANT optimi
+
+- ANT optimierung und Fehler
+- battery
+- delay fertigen (DKU1 und FUNK und DIGI)
+- 
