@@ -14,7 +14,8 @@
 - [ ] dokkonczyc obsluge ANT
 - [ ] iso format dla daty CAL: rrrr-mm-dd
 - [ ] zbudowac pomiar ciagly pradu z bocznikujacym i wzmacniaczem - zrobic opis przebiegu
-- [ ] Autooff w menue
+- [x] Autooff w menue
+- [ ] timedelay for ANT, DKU1 and Digimatic (data send, setting preset, reset, )
 
 | R=U/I |       |     |
 |-------|-------|-----|
