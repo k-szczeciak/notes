@@ -481,6 +481,11 @@ Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmo
 
 
 pytania:
-czy ma byc timeout wyjscia z menue?
-delay time for buttons, only: reset, preset, analog reset i data, btn, ant and cable:
-	double action?
+timeout from menue? (autooff)
+TasterVerzuegerung entprellzeit) soll wie ist gemeint zu funktioniern? doppelbetaetigung?
+Tate delay nur in:
+- Data Senden, Preset, reset und analog nullen
+- Tasten betaetigung, ANT anforderung, DKU1 , Digimatic
+
+
+- ANT optimi
