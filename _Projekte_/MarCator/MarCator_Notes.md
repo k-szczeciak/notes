@@ -479,7 +479,11 @@ Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmo
 - radio start neu
 
 
+radio u Gotfrieda
+jaki jest pomiar pradu
 
+
+---
 03.08.2023 Fragen:
 1. timeout from menue? (autooff)
 2. TasterVerzuegerung entprellzeit) soll wie ist gemeint zu funktioniern? doppelbetaetigung?
@@ -491,7 +495,7 @@ Pflichtenheft: Aktiv: ca. 80µA (ausgenommen: LEDs, Funk, HR und BR im Dynamikmo
 	2. wann: ein und ausschalten, menue verlassen, wenn medung kommt
 
 
-
+---
 - ANT optimierung und Fehler
 - battery
 - delay fertigen (DKU1 und FUNK und DIGI)
