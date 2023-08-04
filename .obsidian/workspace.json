@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +195,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "383678f54b18e29d",
+  "active": "400c6f29c41e09c8",
   "lastOpenFiles": [
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-08-04.md",
