@@ -499,4 +499,11 @@ jaki jest pomiar pradu
 - ANT optimierung und Fehler
 - battery
 - delay fertigen (DKU1 und FUNK und DIGI)
-- 
+
+
+
+summary:
+- po 20 sekundach brak szukania
+- sprawdzic co powoduje te wylaczanie sie
+- co oznaczaja bledy 255 i 111
+- przy wylaczaniu jakie sa prady
