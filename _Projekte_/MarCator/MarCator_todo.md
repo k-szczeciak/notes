@@ -36,7 +36,7 @@ https://circuitdigest.com/calculators/op-amp-gain-calculator
 - [ ] po wylaczeniu radia zostaje 90 uA ???
 - [ ] pomiarzyc we wszystkich sytuacjach pomiar pradu na komponentach
 
-
+- [ ] factory settings: tez funk nr - sprawdzic czy jest resetowany
 
 
 
