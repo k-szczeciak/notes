@@ -503,7 +503,7 @@ jaki jest pomiar pradu
 
 
 summary:
-- po 20 sekundach brak szukania
+- po 20 sekundach brak szukania (szybkie blink - potem wolne)
 - sprawdzic co powoduje te wylaczanie sie
 - co oznaczaja bledy 255 i 111
 - przy wylaczaniu jakie sa prady
