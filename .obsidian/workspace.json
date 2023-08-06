@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-04.md",
+                "file": "2023-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-04.md",
+                "file": "2023-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-04.md",
+                "file": "2023-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-04.md"
+                "file": "2023-08-06.md"
               }
             }
           }
@@ -197,8 +197,9 @@
   },
   "active": "383678f54b18e29d",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_todo.md",
     "2023-08-04.md",
+    "2023-08-06.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
     "2023-08-03.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-08-02.md",
@@ -227,7 +228,6 @@
     "2023-06-22.md",
     "MarCator_Touch/MC_touch_Digimati_analyse.html.md",
     "2023-06-07.md",
-    "2023-06-06.md",
-    "2023-06-05.md"
+    "2023-06-06.md"
   ]
 }
