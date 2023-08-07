@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "Komunia.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "Komunia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "Komunia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md"
+                "file": "Komunia.md"
               }
             }
           },
@@ -178,11 +178,21 @@
   },
   "active": "b4428511c39c4bbf",
   "lastOpenFiles": [
+    "_Private_/zakupy/allegrogo.md",
+    "2023-08-07_12h01_29.png",
+    "Komunia.md",
+    "lapatopy_4k.md",
+    "zdrowie.md",
+    "_Private_/DigialOcean.md",
+    "_Private_/daily_plan.md",
+    "_Private_/Cykliczne zadania.md",
+    "_Private_/balkon2023.md",
+    "_Private_/2023-06-21_08h11_11.png",
+    "_Private_/~Private_sum.md",
+    "_cheatsheet_/usefull URLs.md",
     "2023-08-06.md",
     "2023-08-07.md",
-    "_cheatsheet_/usefull URLs.md",
     "_Projekte_/MarCator/MarCator_todo.md",
-    "_Private_/2023-06-21_08h11_11.png",
     "_Learn_/c_lean.md",
     "2023-08-04.md",
     "2023-08-03.md",
@@ -200,25 +210,14 @@
     "_Projekte_/MarCator/MarCator.md",
     "2023-07-25.md",
     "2023-07-24.md",
-    "_Projekte_/MarCator/Marcator_flashing.md",
-    "2023-07-19.md",
-    "2023-07-21.md",
-    "2023-07-20.md",
-    "2023-07-18.md",
-    "2023-07-17.md",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
     "_Projekte_/MarCator/msp430fr6989.pdf",
     "_Projekte_/MarCator/MSP430m07_LPM.pdf",
-    "_Projekte_/MarCator/ParamsMarCator.md",
-    "_Projekte_/MarCator/README.md",
     "_Projekte_/MarCator/touch buttons mapping.pdf",
     "_Projekte_/C1202/Digimatic_diagram_C1202_FW1.1.0.0.png",
     "Wien.canvas",
-    "2023-06-22.md",
     "2023-06-21_08h11_11.png",
     "Pasted image 20230615132820.png",
-    "2021-08-30_10h24_14.png",
     "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "aboutCanvas.canvas",
     "dailyTools.canvas",
