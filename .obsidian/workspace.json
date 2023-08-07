@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-13.md",
+                "file": "2023-07-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-13.md",
+                "file": "2023-07-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-13.md",
+                "file": "2023-07-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-13.md"
+                "file": "2023-07-20.md"
               }
             }
           },
@@ -190,6 +190,16 @@
   },
   "active": "61a5ba29002c0ff8",
   "lastOpenFiles": [
+    "2023-07-19.md",
+    "2023-07-18.md",
+    "2023-07-17.md",
+    "2023-06-23.md",
+    "2023-06-22.md",
+    "2023-06-21.md",
+    "2023-06-20.md",
+    "2023-06-19.md",
+    "2023-06-14.md",
+    "2023-06-13.md",
     "2023-08-07.md",
     "2023-08-04.md",
     "2023-08-06.md",
@@ -209,19 +219,10 @@
     "_Learn_/c_lean.md",
     "2023-08-03.md",
     "2023-08-02_13h54_09.png",
-    "2023-08-02.md",
     "2023-07-28_16h53_19.png",
     "2023-07-28_16h30_17.png",
     "2023-07-28_16h30_05.png",
-    "2023-07-28.md",
     "2023-07-27_12h37_26.png",
-    "2023-07-27.md",
-    "2023-07-26.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/MarCator/touch buttons mapping.md",
-    "_Projekte_/MarCator/MarCator.md",
-    "2023-07-25.md",
-    "2023-07-24.md",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
     "_Projekte_/MarCator/msp430fr6989.pdf",
     "_Projekte_/MarCator/MSP430m07_LPM.pdf",
