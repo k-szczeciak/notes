@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-28.md",
+                "file": "2023-08-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-28.md",
+                "file": "2023-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-28.md",
+                "file": "2023-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-28.md"
+                "file": "2023-08-08.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "61a5ba29002c0ff8",
   "lastOpenFiles": [
+    "2023-07-28.md",
+    "2023-08-08.md",
     "2023-07-27.md",
     "2023-07-26.md",
     "2023-07-25.md",
@@ -215,8 +217,6 @@
     "lapatopy_4k.md",
     "zdrowie.md",
     "_Private_/DigialOcean.md",
-    "_Private_/daily_plan.md",
-    "_Private_/Cykliczne zadania.md",
     "_Private_/2023-06-21_08h11_11.png",
     "2023-08-02_13h54_09.png",
     "2023-07-28_16h53_19.png",
