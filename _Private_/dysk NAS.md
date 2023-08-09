@@ -13,3 +13,8 @@ middle lower: 2400 + 900 = 3300 (4GB) (ryzen, Nvme) more speed
 middle: 2600 + 1400 = 4000 pln (6GB) (celeron, Nvme) more storage
 najdroszy 4 dyski: 3000 + 1800 = 4800 (8GB 4 dsyki) (ryzen, Nvme, 2GB, )
 najdrozszy: 3000 + 2100 = ok 5000 (8GB)
+
+
+
+asustor nas nvme:
+2000 pln (celeron)
