@@ -61,4 +61,4 @@ https://snapmaker.com/
 na dzien 09.08.2023:
 - bateria do maca
 - NAS (500 asusstor polizingowy plus dysk 4TB za 500) lub kieszen do nvme na 40gb
-- rower
+- rower - kola ok 200 pln za obydwa (ew lancuch)
