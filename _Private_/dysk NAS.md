@@ -17,4 +17,4 @@ najdrozszy: 3000 + 2100 = ok 5000 (8GB)
 
 
 asustor nas nvme:
-2000 pln (celeron)
+2000 pln (celeron) 4x200pln 
