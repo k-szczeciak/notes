@@ -37,6 +37,7 @@ https://circuitdigest.com/calculators/op-amp-gain-calculator
 - [ ] pomiarzyc we wszystkich sytuacjach pomiar pradu na komponentach
 
 - [ ] factory settings: tez funk nr - sprawdzic czy jest resetowany
+- [ ] sprawdzic czy ustawieniami portu da sie zmniejszyc prad w stanie wylaczonym (np P4 REN config)
 
 
 
