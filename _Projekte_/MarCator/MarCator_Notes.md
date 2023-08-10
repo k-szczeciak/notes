@@ -507,3 +507,6 @@ summary:
 - sprawdzic co powoduje te wylaczanie sie
 - co oznaczaja bledy 255 i 111
 - przy wylaczaniu jakie sa prady
+
+
+czasami pojawia sie jeszcze 111 oraz duzy prad
