@@ -3,11 +3,12 @@ V11 (14.08.2023)
 - turning on - search/reconnect
 - corrected in menue reconnection and new connection: (additional timeout flags for no reply confirmation and connection time out)
 	- correct icon in menue showed
-	- 
-- poprawa przelacania stanow i statusow dla radia
+	- reconnection possible after timeout when nu
+- poprawa przelacania stanow i statusow dla radia:
+	- high current consumption in some sates
 - corrected current connsumption in modes:
 	- offset after first on - off (20 uA)
 	- offset when radio on and disabled (20uA) when blink slow, not in search mode, curren will remain +20uA duer to active connection
-- corrected port confi
+- corrected port config in switching on and off
 - switching off when searching and pairng peak current resolved after voltage drop measuring
 - powering on voltage drop resolved by delay time for stabilisation
