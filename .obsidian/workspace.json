@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator bateriespannung.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator bateriespannung.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator bateriespannung.md"
+                "file": "_Projekte_/MarCator/MarCator_todo.md"
               }
             }
           }
@@ -184,17 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c70fde48b6cdb3ed",
+  "active": "efc0fd27f843bdc2",
   "lastOpenFiles": [
+    "2023-08-14_13h24_59.png",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "MarCator bateriespannung.md",
     "2023-08-14_13h07_08 2.png",
     "2023-08-14_13h07_08 1.png",
     "2023-08-14_13h07_08.png",
     "2023-08-14.md",
-    "MarCator bateriespannung.md",
     "2023-08-11.md",
     "2023-08-10.md",
     "2023-07-20.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "_Learn_/Learn.md",
     "2023-07-19.md",
