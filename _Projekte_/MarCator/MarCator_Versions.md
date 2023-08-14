@@ -3,7 +3,7 @@ V11 (14.08.2023)
 - turning on - search/reconnect
 - corrected in menue reconnection and new connection: (additional timeout flags for no reply confirmation and connection time out)
 	- correct icon in menue showed
-	- reconnection possible after timeout when nu
+	- reconnection possible after timeout when number is given
 - poprawa przelacania stanow i statusow dla radia:
 	- high current consumption in some sates
 - corrected current connsumption in modes:
@@ -12,3 +12,4 @@ V11 (14.08.2023)
 - corrected port config in switching on and off
 - switching off when searching and pairng peak current resolved after voltage drop measuring
 - powering on voltage drop resolved by delay time for stabilisation
+- timeout in menue is active
