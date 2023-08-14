@@ -38,8 +38,9 @@ https://circuitdigest.com/calculators/op-amp-gain-calculator
 
 - [ ] factory settings: tez funk nr - sprawdzic czy jest resetowany
 - [ ] sprawdzic czy ustawieniami portu da sie zmniejszyc prad w stanie wylaczonym (np P4 REN config)
-- [ ] ograniczenie pradu dynamicznie w roznych trybach pracy (np pocztatek)
+- [x] ograniczenie pradu dynamicznie w roznych trybach pracy (np pocztatek)
 ![[2023-08-14_13h24_59.png]]
+done, new:
 
 
 maybe:
