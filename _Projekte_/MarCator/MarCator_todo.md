@@ -41,7 +41,7 @@ https://circuitdigest.com/calculators/op-amp-gain-calculator
 - [x] ograniczenie pradu dynamicznie w roznych trybach pracy (np pocztatek)
 ![[2023-08-14_13h24_59.png]]
 done, new:
-
+![[2023-08-14_15h22_36.png]]
 
 maybe:
 - [ ] symulacja
