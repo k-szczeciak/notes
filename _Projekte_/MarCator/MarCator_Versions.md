@@ -5,7 +5,9 @@ V11 (14.08.2023)
 	- correct icon in menue showed
 	- 
 - poprawa przelacania stanow i statusow dla radia
-- corrected currebt connsumption in modes:
-	- 
+- corrected current connsumption in modes:
+	- offset after first on - off (20 uA)
+	- offset when radio on and disabled (20uA) when blink slow, not in search mode, curren will remain +20uA duer to active connection
+- corrected port confi
 - switching off when searching and pairng peak current resolved after voltage drop measuring
 - powering on voltage drop resolved by delay time for stabilisation
