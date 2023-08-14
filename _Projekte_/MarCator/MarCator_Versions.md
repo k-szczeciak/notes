@@ -1,8 +1,11 @@
 V11 (14.08.2023)
 - pressing Data Btn search/reconnect
-- turning on - reconnect
-- corrected in menue reconnection and new connection:
+- turning on - search/reconnect
+- corrected in menue reconnection and new connection: (additional timeout flags for no reply confirmation and connection time out)
 	- correct icon in menue showed
+	- 
 - poprawa przelacania stanow i statusow dla radia
+- corrected currebt connsumption in modes:
+	- 
 - switching off when searching and pairng peak current resolved after voltage drop measuring
 - powering on voltage drop resolved by delay time for stabilisation
