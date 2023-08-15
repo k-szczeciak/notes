@@ -9,7 +9,7 @@ Messpunkt:
 
 ![[2023-08-14_13h07_08 2.png]]
 Messungen:
-1. Funk suchen
+1. Funk suchen und Verbunden:![[2023-08-14_13h42_52 1.png]]
 2. 
 3. Neue Batterie im Funksuchmodi:
 ![[2023-08-14_13h29_33.png]]
