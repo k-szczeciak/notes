@@ -16,4 +16,9 @@ Messungen:
 3. Schwache Batterie in Suchen/Paaren![[2023-08-14_13h31_58.png]]
 4. Schwache batterie mit Kapazitor:![[2023-08-14_13h36_17.png]]
 5. Messuhr auschalten waehrend Suschn/Paaaren:
-6. Messuhr asuschalten 
+![[2023-08-14_13h40_08.png]]
+![[2023-08-15_08h17_52.png]]
+!!! Das parriert NUR
+
+
+10. Messuhr asuschalten 
