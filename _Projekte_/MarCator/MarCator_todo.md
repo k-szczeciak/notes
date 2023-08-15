@@ -43,6 +43,6 @@ https://circuitdigest.com/calculators/op-amp-gain-calculator
 ![[2023-08-14_13h24_59.png]]
 done, new:
 ![[2023-08-14_15h22_36.png]]
-
+!!! nie zawsze dziala idealnie ponowne polaczenie po wylaczneniu jak nie bylo polaczone - dziala hold zamiast...
 maybe:
 - [ ] symulacja

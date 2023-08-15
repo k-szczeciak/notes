@@ -22,4 +22,4 @@ Messungen:
 ![[2023-08-15_08h23_46.png]]
 
 
-10. Messuhr asuschalten 
+10. Messuhr asuschalten waerend Suchen/Paaren: 
