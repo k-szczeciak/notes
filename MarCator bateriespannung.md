@@ -18,7 +18,8 @@ Messungen:
 5. Messuhr auschalten waehrend Suschn/Paaaren:
 ![[2023-08-14_13h40_08.png]]
 ![[2023-08-15_08h17_52.png]]
-!!! Das parriert NUR
+!!! Das passriert NUR im Ausschalten waerent suchmodi. sonnst es ist immer flache linie wie hier:
+![[2023-08-15_08h23_46.png]]
 
 
 10. Messuhr asuschalten 
