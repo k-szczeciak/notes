@@ -9,7 +9,7 @@ Messpunkt:
 
 ![[2023-08-14_13h07_08 2.png]]
 Messungen:
-1. Funk suchen und Verbunden:![[2023-08-14_13h42_52 1.png]]
+1. Funk suchen und Verbunden:![[2023-08-15_08h17_52 1.png]]
 2. Neue Batterie im Suchen/Paaren:
 ![[2023-08-14_13h29_33.png]]
 
@@ -22,4 +22,7 @@ Messungen:
 ![[2023-08-15_08h23_46.png]]
 
 
-10. Messuhr asuschalten waerend Suchen/Paaren: 
+10. Messuhr asuschalten waerend Suchen/Paaren nach optimierurng (Zeitverzuegerung und GPIO anpassung): 
+![[2023-08-15_08h29_25.png]]
+11. Startvorgang (Batterie anlegen):
+12. StartVorgang nach optimierung:
