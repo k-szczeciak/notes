@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarCator bateriespannung.md",
+                "file": "MarCator bateriespannung FW V0.10 and V0.11.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarCator bateriespannung.md",
+                "file": "MarCator bateriespannung FW V0.10 and V0.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarCator bateriespannung.md",
+                "file": "MarCator bateriespannung FW V0.10 and V0.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarCator bateriespannung.md"
+                "file": "MarCator bateriespannung FW V0.10 and V0.11.md"
               }
             }
           }
@@ -208,7 +208,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c70fde48b6cdb3ed",
+  "active": "d1457d7f81b9dbd1",
   "lastOpenFiles": [
     "Pasted image 20230815084740.png",
     "2023-08-14_13h07_08 3.png",
@@ -217,7 +217,7 @@
     "2023-08-15_08h17_52 1.png",
     "_Projekte_/MarCator/MarCator_Versions.md",
     "2023-08-14.md",
-    "MarCator bateriespannung.md",
+    "MarCator bateriespannung FW V0.10 and V0.11.md",
     "2023-08-15_08h29_25.png",
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-08-15_08h23_46.png",

@@ -4,7 +4,7 @@ Spannung messung in verschiedene Zustande , besonderes mit hohenstrommverbrauch 
 ***System:***
 Muster V2 mit Digitalregler insoliert und gebrückt.
 Strom verbrach in statische Zustende: **75uA** in Einzustand ohne funk, und **12uA** in Auszustand. Ohne Spannungsverteiler wiederstende (R500)
-Firmware Version: vor optimierung V
+***Firmware Version:*** vor optimierung **V0.10**, nach optimierung **V0.11**
 
 ***Messpunkt:***
 ![[2023-08-14_13h07_08 3.png]]
@@ -25,9 +25,12 @@ Messungen:
 ![[2023-08-15_08h23_46.png]]
 
 
-7. Messuhr asuschalten wärend Suchen/Paaren nach optimierurng (Zeitverzuegerung und GPIO anpassung): 
+
+
+
+6. Messuhr asuschalten wärend Suchen/Paaren nach optimierurng (Zeitverzuegerung und GPIO anpassung) Frimware **V0.11**: 
 ![[2023-08-15_08h29_25.png]]
-8. Startvorgang (Batterie anlegung):
+7. Startvorgang (Batterie anlegung):
 ![[2023-08-14_13h24_59 1.png]]
-9. Startvorgang nach optimierung:
+8. Startvorgang nach optimierung: (Firmware **V0.11**)
 ![[2023-08-14_15h22_36 1.png]]
