@@ -18,8 +18,6 @@
 
 ![[2023-08-16_15h05_01.png]]
 
-<div style="page-break-after: always;"></div>
-
 ![[5.png]]
 
 ![[6.png]]
