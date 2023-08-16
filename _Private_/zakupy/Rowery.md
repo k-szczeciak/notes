@@ -17,4 +17,4 @@ https://www.bike-skicenter.pl/trekkingowe/rower-sub-cross-40-men/201720526
 
 scott Aspect 950MTB 3800:
 https://www.scott.pl/produkt/1491/10952/Rower-Aspect-950-Grey
-aspect 940 
+aspect 940 4300: https://www.scott.pl/produkt/1491/10949/Rower-Aspect-940-Blue
