@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "beff68e45829e638",
+    "id": "614042888f9337f5",
     "type": "split",
     "children": [
       {
-        "id": "4c3262b7e752f243",
+        "id": "066db9c0a7afd1b4",
         "type": "tabs",
         "children": [
           {
-            "id": "383678f54b18e29d",
+            "id": "0b9a463672d358a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,15 @@
             }
           },
           {
-            "id": "c70fde48b6cdb3ed",
+            "id": "e4b04a201101dcfc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2a8991907fe4bc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,58 +38,23 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "41d02504ba2d643d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-08-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efc0fd27f843bdc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projekte_/MarCator/MarCator_todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7361e60377cc7d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projekte_/MarCator/MarCator_Versions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "95bacb7f198fce71",
+    "id": "b079801fd8822fff",
     "type": "split",
     "children": [
       {
-        "id": "6082cf5ddb248692",
+        "id": "4246adb876b6ca6e",
         "type": "tabs",
         "children": [
           {
-            "id": "d1457d7f81b9dbd1",
+            "id": "3e88f86a184ade1c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +64,7 @@
             }
           },
           {
-            "id": "3c3860f3eaa6e6c7",
+            "id": "eb9d085954e04a61",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -106,7 +79,15 @@
             }
           },
           {
-            "id": "dae9504b3f7cd966",
+            "id": "919a0aab6ecbc3bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7aa5f3c03fb33739",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,20 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "d0d138354741900d",
+    "id": "c5147cbeb35329d4",
     "type": "split",
     "children": [
       {
-        "id": "07551da8f434d684",
+        "id": "f00e7b2a5b38ec80",
         "type": "tabs",
         "children": [
           {
-            "id": "400c6f29c41e09c8",
+            "id": "c0e7e9d0195aa87a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "MarCator bateriespannung FW V0.10 and V0.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,19 +126,19 @@
             }
           },
           {
-            "id": "9ad85244d3fa4bee",
+            "id": "8707219fbe7e3a0c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "MarCator bateriespannung FW V0.10 and V0.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7b430611ca169137",
+            "id": "ef60e6eca0a79a25",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,21 +149,29 @@
             }
           },
           {
-            "id": "95bb201a8e60fc5d",
+            "id": "4b565baa84e30c58",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "MarCator bateriespannung FW V0.10 and V0.11.md"
               }
             }
+          },
+          {
+            "id": "86657b3a80225da3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,43 +184,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "383678f54b18e29d",
+  "active": "b2a8991907fe4bc8",
   "lastOpenFiles": [
     "MarCator_scale.md",
-    "2023-08-11.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/MarCator/MarCator.md",
+    "2023-08-09.md",
     "_Projekte_/MarCator/MarCator_Versions.md",
-    "MarCator bateriespannung FW V0.10 and V0.11.md",
     "Pasted image 20230815084740.png",
-    "2023-08-14_13h07_08 3.png",
-    "2023-08-14_15h22_36 1.png",
-    "2023-08-14_13h24_59 1.png",
-    "2023-08-15_08h17_52 1.png",
-    "2023-08-14.md",
+    "MarCator bateriespannung FW V0.10 and V0.11.md",
     "2023-08-15_08h29_25.png",
-    "_Projekte_/MarCator/MarCator_todo.md",
     "2023-08-15_08h23_46.png",
     "2023-08-15_08h17_52.png",
+    "2023-08-15_08h17_52 1.png",
+    "2023-08-14_15h22_36.png",
+    "2023-08-14_15h22_36 1.png",
+    "2023-08-14_13h42_52.png",
+    "2023-08-14_13h42_52 1.png",
     "2023-08-14_13h40_08.png",
-    "2023-08-14_13h36_17.png",
+    "2023-08-14.md",
+    "2023-08-11.md",
     "2023-08-10.md",
-    "2023-08-09.md",
     "2023-08-08.md",
+    "_Projekte_/C1202/C1202_notes.md",
+    "_Projekte_/C1202/analisis.md",
+    "_Projekte_/Projekte_sum.md",
     "2023-08-06.md",
-    "2023-08-07.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "2023-07-20.md",
-    "2023-06-07.md",
-    "_Projekte_/MarCator/README.md",
-    "_Learn_/Learn.md",
-    "2023-07-19.md",
-    "2023-07-18.md",
-    "2023-07-17.md",
-    "2023-06-23.md",
-    "2023-06-22.md",
-    "2023-06-21.md",
-    "2023-06-20.md",
-    "_Private_/zakupy/allegrogo.md",
+    "_Private_/wakacje_ogolnie.md",
+    "2023-08-04.md",
+    "_Private_/wakacje2023.md",
     "_Private_/zakupy/zakupy.md",
-    "2023-07-28.md"
+    "_Private_/dysk NAS.md",
+    "2023-07-28.md",
+    "2023-07-27.md",
+    "2023-07-26.md",
+    "2023-07-25.md",
+    "2023-07-24.md",
+    "2023-07-21.md",
+    "2023-07-20.md",
+    "_Projekte_/MarCator/MarCator_flashing.canvas",
+    "_Projekte_/MarCator/msp430fr6989.pdf",
+    "_Projekte_/MarCator/MSP430m07_LPM.pdf",
+    "_Projekte_/MarCator/touch buttons mapping.pdf",
+    "Wien.canvas",
+    "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
+    "aboutCanvas.canvas",
+    "dailyTools.canvas",
+    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
+    "OrderDB.canvas",
+    "MarCator_HAL.canvas",
+    "Navbar.canvas",
+    "HolidaysDB.canvas",
+    "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
+    "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
+    "essfs01/Abteilungen/Entwicklung/Elektronik",
+    "essfs01/Abteilungen/Entwicklung",
+    "essfs01/Abteilungen",
+    "MEMO_CARDS.canvas"
   ]
 }
