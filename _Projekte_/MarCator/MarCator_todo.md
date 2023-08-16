@@ -35,11 +35,14 @@ https://circuitdigest.com/calculators/op-amp-gain-calculator
 - [ ] zoptymalizowac messsystem pod wzgledem zuzycia pradu
 - [ ] po wylaczeniu radia zostaje 90 uA ???
 - [ ] pomiarzyc we wszystkich sytuacjach pomiar pradu na komponentach
+- [ ] ustawienie dokladnego czasu przesylu cnt
 
 - [ ] factory settings: tez funk nr - sprawdzic czy jest resetowany
-
-
-
-
+- [ ] sprawdzic czy ustawieniami portu da sie zmniejszyc prad w stanie wylaczonym (np P4 REN config)
+- [x] ograniczenie pradu dynamicznie w roznych trybach pracy (np pocztatek)
+![[2023-08-14_13h24_59.png]]
+done, new:
+![[2023-08-14_15h22_36.png]]
+!!! nie zawsze dziala idealnie ponowne polaczenie po wylaczneniu jak nie bylo polaczone - dziala hold zamiast...
 maybe:
 - [ ] symulacja
