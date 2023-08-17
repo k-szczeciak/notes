@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "mode": "source",
                 "source": false
@@ -62,13 +63,15 @@
               "type": "markdown",
               "state": {
                 "file": "_Projekte_/MarCator/MarCator_Versions.md",
+=======
+                "file": "2023-08-16.md",
+>>>>>>> 89af2b206a7962c5bdc08e479931a3a06a9430a3
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +137,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "2023-08-16.md",
+>>>>>>> 89af2b206a7962c5bdc08e479931a3a06a9430a3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +158,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md",
+=======
+                "file": "2023-08-16.md",
+>>>>>>> 89af2b206a7962c5bdc08e479931a3a06a9430a3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "conflict-files-obsidian-git.md"
+=======
+                "file": "2023-08-16.md"
+>>>>>>> 89af2b206a7962c5bdc08e479931a3a06a9430a3
               }
             }
           }
@@ -196,6 +211,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "bd32ee3884500316",
   "lastOpenFiles": [
     "_Projekte_/MarCator/MarCator_Notes.md",
@@ -212,6 +228,40 @@
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h07_08 3.png",
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs",
     "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md",
+=======
+  "active": "0b9a463672d358a8",
+  "lastOpenFiles": [
+    "A1701_UI_pcb.md",
+    "2023-08-16.md",
+    "_cheatsheet_/markdown cheatsheet.md",
+    "6.png",
+    "5.png",
+    "2023-08-16_15h05_01.png",
+    "2023-08-16_15h04_48.png",
+    "2023-08-16_15h04_04.png",
+    "2023-08-16_15h03_42.png",
+    "2023-08-16_15h01_45.png",
+    "2023-08-16_15h02_03.png",
+    "1.png",
+    "Untitled.canvas",
+    "Wien.canvas",
+    "_Projekte_/A1701/A1701.md",
+    "_Projekte_/MarCator/touch buttons mapping.md",
+    "_Projekte_/MarCator/README.md",
+    "_Projekte_/MarCator/touch buttons mapping.pdf",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/C1202/analisis.md",
+    "_Projekte_/C1202/C1202_notes.md",
+    "2021-08-30_10h24_14 1.png",
+    "aboutCanvas.canvas",
+    "orderDB ideas.md",
+    "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md",
+    "_cheatsheet_/usefull URLs.md",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs",
+    "lapatopy_4k.md",
+    "notes_MillimarTool.md",
+    "_Private_/zakupy/Rowery.md",
+>>>>>>> 89af2b206a7962c5bdc08e479931a3a06a9430a3
     "Untitled.md",
     "2023-08-16.md",
     "MarCator_scale.md",
@@ -223,6 +273,7 @@
     "2023-08-10.md",
     "2023-08-09.md",
     "2023-08-08.md",
+<<<<<<< HEAD
     "2023-08-06.md",
     "2023-08-07.md",
     "2023-07-20.md",
@@ -235,5 +286,24 @@
     "2023-06-23.md",
     "2023-06-22.md",
     "2023-06-21.md"
+=======
+    "_Projekte_/Projekte_sum.md",
+    "2023-08-06.md",
+    "_Projekte_/MarCator/MarCator_flashing.canvas",
+    "_Projekte_/MarCator/msp430fr6989.pdf",
+    "_Projekte_/MarCator/MSP430m07_LPM.pdf",
+    "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
+    "dailyTools.canvas",
+    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
+    "OrderDB.canvas",
+    "MarCator_HAL.canvas",
+    "Navbar.canvas",
+    "HolidaysDB.canvas",
+    "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
+    "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
+    "essfs01/Abteilungen/Entwicklung/Elektronik",
+    "essfs01/Abteilungen/Entwicklung",
+    "MEMO_CARDS.canvas"
+>>>>>>> 89af2b206a7962c5bdc08e479931a3a06a9430a3
   ]
 }
