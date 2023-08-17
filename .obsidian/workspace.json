@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "2023-08-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "2023-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "2023-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1701_UI_pcb.md"
+                "file": "2023-08-17.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "ffa754468a7eb229",
   "lastOpenFiles": [
+    "2023-08-16.md",
+    "2023-08-17.md",
+    "2023-08-16_15h01_45.png",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
+    "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
+    "A1701_UI_pcb.md",
     "_Projekte_/A1701/A1701.md"
   ]
 }
