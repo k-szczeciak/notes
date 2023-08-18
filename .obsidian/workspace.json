@@ -25,7 +25,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MarCator_HAL.canvas",
+                "file": "_Projekte_/MarCator/MarCator_HAL.canvas",
                 "viewState": {
                   "x": -725,
                   "y": -297,
@@ -86,14 +86,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pytania_goe.md",
+                "file": "_Projekte_/MarCator/MarCator_scale.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "01c5949a893d15d2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "dailyTools.canvas",
+                "viewState": {
+                  "x": -160,
+                  "y": 100,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -159,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pytania_goe.md",
+                "file": "dailyTools.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pytania_goe.md",
+                "file": "dailyTools.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pytania_goe.md"
+                "file": "dailyTools.canvas"
               }
             }
           },
@@ -229,19 +244,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2506ee5dadf64034",
+  "active": "01c5949a893d15d2",
   "lastOpenFiles": [
+    "aboutCanvas.canvas",
+    "2023-08-02_13h54_09.png",
+    "2023-07-28_16h30_17.png",
+    "2023-07-28_16h30_05.png",
+    "2021-08-30_10h24_14.png",
+    "_Projekte_/MarCator/2023-07-27_12h37_26.png",
+    "_Projekte_/MarCator/2023-07-28_16h53_19.png",
+    "dailyTools.canvas",
+    "domeny.md",
+    "garaz_wroclaw.md",
+    "GIT_cheatsheet.md",
+    "_Private_/zakupy/lapatopy_4k.md",
+    "_Private_/Komunia.md",
+    "MEMO_CARDS.canvas",
+    "Navbar.canvas",
+    "note-tools.md",
+    "notes_MillimarTool.md",
+    "orderDB ideas.md",
+    "pytania_goe.md",
+    "_Projekte_/MarCator/MarCator_HAL.canvas",
+    "_Projekte_/MarCator/MarCator_scale.md",
+    "OrderDB.canvas",
     "_Div_/UI designs.md",
     "_Projekte_/MarCator/Pasted image 20230605101619.png",
     "_Projekte_/MarCator/Pasted image 20230615132820.png",
     "_Projekte_/MarCator/Pasted image 20230605101924.png",
     "_Projekte_/MarCator/Pasted image 20230605101854.png",
-    "_Learn_/Pasted image 20230601155834.png",
-    "2023-08-02_13h54_09.png",
-    "2023-07-28_16h53_19.png",
-    "2023-07-28_16h30_05.png",
-    "2023-07-27_12h37_26.png",
-    "2023-05-09_14h00_06.png",
     "_Learn_/Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
     "ToDo.md",
     "_Private_/zdrowie.md",
@@ -250,7 +281,6 @@
     "Untitled.md",
     "_Learn_/watch_later.md",
     "_Org_/Urlopy.md",
-    "pytania_goe.md",
     "_Learn_/code_style.md",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
     "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
@@ -263,22 +293,12 @@
     "_Projekte_/A1701/A1701_UI_pcb_imgs",
     "Nowy folder",
     "_LogBook_/2023/2023.08/2023-08-log.md",
-    "_LogBook_/2023/2023.07/2023-07-log.md",
-    "_LogBook_/LogBook_sum.md",
-    "A1701_UI_pcb.md",
     "_LogBook_/2023/2023.07/start.bat",
     "_LogBook_/2023/2023.07/auto.py",
     "_LogBook_/2023/2023.09/start.bat",
     "_LogBook_/2023/2023.09/auto.py",
-    "_LogBook_/2023/2023.08/no_common_prefixlog.md",
     "_LogBook_/2023/2023.08/start.bat",
     "_LogBook_/2023/2023.08/Nowy dokument tekstowy.txt",
-    "_LogBook_/2023/2023.06/2023-06-log.md",
-    "_LogBook_/2023/2023.06/2023-06-01.md",
-    "_LogBook_/2023/2023.06/2023-06-_log.md",
-    "_LogBook_/2023/2023.08/2023-08-17.md",
-    "_LogBook_/2023/2023.08/2023-08-08.md",
-    "MarCator_HAL.canvas",
     "Wien.canvas"
   ]
 }
