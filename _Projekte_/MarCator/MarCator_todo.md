@@ -62,6 +62,7 @@ maybe:
 - [ ] optymalizacja zuzycia pradu w roznych trybach
 - [ ] kodkoncyzc DK-U1 jesli chodzi o numery art i ograniczenia
 - [ ] tryby continous dla dku1 i ant
+- [ ] posprawdzac opcje z numerami itd, jak sa kodowane numery - inne opcje
 
 
 
