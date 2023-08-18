@@ -59,3 +59,9 @@ maybe:
 - [ ] Bat-Lo - 1d
 - [ ] pomiar napiecia baterii z dzielnika napiecia
 - [ ] cal date wg normy
+
+
+
+
+- lcd mem send
+- sim klawisze
