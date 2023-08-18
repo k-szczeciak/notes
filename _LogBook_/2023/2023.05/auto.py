@@ -1,16 +1,18 @@
 import os
 
-def list_files_in_current_folder():
-    # Get the list of files in the current folder
+def list_files_in_current_folder(exclude_extensions=[]):
     files = os.listdir()
-    return files
+    filtered_files = [file for file in files if not any(file.endswith(ext) for ext in exclude_extensions)]
+    return filtered_files
 
 def create_text_file_with_list(file_list):
     with open('file_list.txt', 'w') as f:
         for filename in file_list:
+            
             f.write('- [[' + filename + ']]\n')
 
 if __name__ == "__main__":
-    file_list = list_files_in_current_folder()
+    excluded_extensions = ['.py']
+    file_list = list_files_in_current_folder(excluded_extensions)
     create_text_file_with_list(file_list)
-    print("File list has been saved to 'file_list.txt'")
+    print("File list (excluding Python files) has been saved to 'file_list.txt'")
