@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "_LogBook_/2023/sum_2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "_LogBook_/2023/sum_2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "_LogBook_/2023/sum_2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1701_UI_pcb.md"
+                "file": "_LogBook_/2023/sum_2023.md"
               }
             }
           },
@@ -207,28 +207,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2506ee5dadf64034",
+  "active": "2d555bce8aa55bd5",
   "lastOpenFiles": [
+    "_LogBook_/2023/2023.08/2023-08-log.md",
+    "_LogBook_/2023/sum_2023.md",
     "_LogBook_/2023/2023.07/2023-07-log.md",
+    "_LogBook_/LogBook_sum.md",
+    "A1701_UI_pcb.md",
     "_LogBook_/2023/2023.07/start.bat",
     "_LogBook_/2023/2023.07/auto.py",
     "_LogBook_/2023/2023.09/start.bat",
     "_LogBook_/2023/2023.09/auto.py",
-    "_LogBook_/2023/2023.08/2023-08-log.md",
     "_LogBook_/2023/2023.08/no_common_prefixlog.md",
     "_LogBook_/2023/2023.08/start.bat",
     "_LogBook_/2023/2023.08/Nowy dokument tekstowy.txt",
     "_LogBook_/2023/2023.06/2023-06-log.md",
     "_LogBook_/2023/2023.08/auto.py",
     "_LogBook_/2023/2023.06/2023-06-01.md",
-    "A1701_UI_pcb.md",
     "_LogBook_/2023/2023.06/2023-06-_log.md",
     "_LogBook_/2023/2023.06/2023-06-_file_list.txt",
     "_LogBook_/2023/2023.06/auto.py",
     "_LogBook_/2023/2023.05/file_list.txt",
     "1.png",
     "2021-08-30_10h24_14.png",
-    "_LogBook_/2023/sum_2023.md",
     "_LogBook_/2023/2023.08/2023-08-17.md",
     "_LogBook_/2023/2023.08/2023-08-08.md",
     "_LogBook_/2023/2023.08/2023-08-03.md",
