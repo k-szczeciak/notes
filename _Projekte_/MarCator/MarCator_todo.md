@@ -61,8 +61,12 @@ maybe:
 - [ ] cal date wg normy
 - [ ] optymalizacja zuzycia pradu w roznych trybach
 - [ ] kodkoncyzc DK-U1 jesli chodzi o numery art i ograniczenia
+- [ ] tryby continous dla dku1 i ant
 
 
 
 - lcd mem send
 - sim klawisze
+
+!!! dlaczego nie poprawnie na moim lapi excel wyswietla wartosci
+sprawdzic jak jest powiazanie kanal, numer, ...
