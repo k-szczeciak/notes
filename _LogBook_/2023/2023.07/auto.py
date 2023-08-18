@@ -14,7 +14,7 @@ def find_common_prefix(strings):
 
 def list_files_in_current_folder(exclude_extensions=[]):
     files = os.listdir()
-    filtered_files = [file for file in files if not any(file.endswith(ext) for ext in exclude_extensions)]
+    filtered_files = [file for file in files if any(file.endswith(ext) for ext in exclude_extensions)]
     return filtered_files
 
 def create_text_file_with_list(file_list, common_prefix):
@@ -25,7 +25,7 @@ def create_text_file_with_list(file_list, common_prefix):
         f.write(f"Number of days: {len(file_list)}\n")
 
 if __name__ == "__main__":
-    excluded_extensions = ['.py', '.txt']
+    excluded_extensions = ['.md']
     file_list = list_files_in_current_folder(excluded_extensions)
     common_prefix = find_common_prefix(file_list)
     create_text_file_with_list(file_list, common_prefix)
