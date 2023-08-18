@@ -46,3 +46,16 @@ done, new:
 !!! nie zawsze dziala idealnie ponowne polaczenie po wylaczneniu jak nie bylo polaczone - dziala hold zamiast...
 maybe:
 - [ ] symulacja
+
+
+
+
+
+
+---
+---
+- [ ] brakujace rozkazy ANT
+-  [] pomiar napiecia przy pradzie - problem resetu
+- Bat-Lo - 1d
+- pomiar napiecia baterii z dzielnika napiecia
+- cal date wg normy
