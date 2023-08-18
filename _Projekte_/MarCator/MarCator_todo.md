@@ -59,7 +59,8 @@ maybe:
 - [ ] Bat-Lo - 1d
 - [ ] pomiar napiecia baterii z dzielnika napiecia
 - [ ] cal date wg normy
-
+- [ ] optymalizacja zuzycia pradu w roznych trybach
+- [ ] kodkoncyzc DK-U1 jesli chodzi o numery art i ograniczenia
 
 
 
