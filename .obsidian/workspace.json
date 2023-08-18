@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffa754468a7eb229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-08-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "610ebb1f01887a21",
             "type": "leaf",
             "state": {
@@ -49,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-17.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,11 +181,11 @@
   },
   "active": "610ebb1f01887a21",
   "lastOpenFiles": [
-    "2023-08-17.md",
     "2023-08-14.md",
     "2023-08-18.md",
-    "_Projekte_/MarCator/MarCator_todo.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
+    "2023-08-17.md",
     "Untitled 1.canvas",
     "2023-08-16.md",
     "C1202 mailing list.md",

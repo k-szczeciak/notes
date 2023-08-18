@@ -512,15 +512,21 @@ summary:
 czasami pojawia sie jeszcze 111 oraz duzy prad
 
 
-Ziel: | Stromaufnahme                                        |  16EWRi      |  16EWRi      | 1087Ri    | 1087R       |  | 1087Ri-HR |
-|------------------------------------------------------|--------------|--------------|-----------|-------------|--|-----------|
-|                                                      | V1   2,45MHz | V2   5,96MHz | Version 5 | V5 ohne AP2 |  | Version 1 |
-|                                                      | 19200 Bit/s  | 50000 Bit/s  |           |             |  |           |
-|                                                      |              |              |           |             |  |           |
-| Ausgeschaltet                                        | 7,8 µA       | 8 µA         | 12,5 µA   | 8 µA        |  | 12 µA     |
-| Eingeschaltet, in Ruhe, ohne Funk                    | 40 µA        | 44 µA        | 82 µA     | 70 µA       |  | 160 µA    |
-| Eingeschaltet, in Bewegung, ohne Funk                | 51 µA        | 52 µA        | 120 µA    | 98 µA       |  | 190 µA    |
-| Eingeschaltet, in Ruhe, mit Funk (suchend)           | 3 mA         | 3 mA         | 3,1 mA    | ---         |  | 3,2 mA    |
-| Eingeschaltet, in Ruhe, mit Funk (verbunden)         | 230 µA       | 165 µA       | 230 µA    | ---         |  | 310 µA    |
-| Eingeschaltet, in Ruhe, mit Funk (1xMesswert senden) | 650 µA       | 650 µA       | 650 µA    | ---         |
+Ziel:
 
+| Stromaufnahme                                        | 16EWRi       | 16EWRi       | 1087Ri    | 1087R       | 1087Ri-HR |
+| ---------------------------------------------------- | ------------ | ------------ | --------- | ----------- | --------- |
+|                                                      | V1   2,45MHz | V2   5,96MHz | Version 5 | V5 ohne AP2 | Version 1 |
+|                                                      | 19200 Bit/s  | 50000 Bit/s  |           |             |           |
+| Ausgeschaltet                                        | 7,8 µA       | 8 µA         | 12,5 µA   | 8 µA        | 12 µA     |
+| Eingeschaltet, in Ruhe, ohne Funk                    | 40 µA        | 44 µA        | 82 µA     | 70 µA       | 160 µA    |
+| Eingeschaltet, in Bewegung, ohne Funk                | 51 µA        | 52 µA        | 120 µA    | 98 µA       | 190 µA    |
+| Eingeschaltet, in Ruhe, mit Funk (suchend)           | 3 mA         | 3 mA         | 3,1 mA    | ---         | 3,2 mA    |
+| Eingeschaltet, in Ruhe, mit Funk (verbunden)         | 230 µA       | 165 µA       | 230 µA    | ---         | 310 µA    |
+| Eingeschaltet, in Ruhe, mit Funk (1xMesswert senden) | 650 µA       | 650 µA       | 650 µA    | ---         |           |
+
+
+
+
+spotkanie 17.08.2023:
+- poszukac problem z pradem, co powoduje
