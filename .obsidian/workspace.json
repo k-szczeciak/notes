@@ -35,12 +35,8 @@
             "id": "324c48d70a47f0ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-08-18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-08-18.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,22 +174,22 @@
   },
   "active": "324c48d70a47f0ef",
   "lastOpenFiles": [
+    "Pasted image 20230605101854.png",
+    "Pasted image 20230605101619.png",
+    "Pasted image 20230601155834.png",
+    "2023-08-18.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "watch_later.md",
     "_Learn_/Learn.md",
     "Wniosek_HO_tydzien_15.05.2023.md",
     "Wien.canvas",
     "Wniosek_HO_tydzien_05.06.2023.md",
-    "Pasted image 20230605101619.png",
-    "Pasted image 20230601155834.png",
     "1.png",
     "5.png",
     "6.png",
     "orderDB ideas.md",
-    "Pasted image 20230605101854.png",
     "Pasted image 20230605101924.png",
     "Pasted image 20230615132820.png",
-    "2023-08-18.md",
     "2023-08-14.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-08-17.md",
