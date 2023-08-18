@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_LogBook_/2023/2023.07/2023-07-17.md",
+                "file": "A1701_UI_pcb.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_LogBook_/2023/2023.07/2023-07-17.md",
+                "file": "A1701_UI_pcb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_LogBook_/2023/2023.07/2023-07-17.md",
+                "file": "A1701_UI_pcb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_LogBook_/2023/2023.07/2023-07-17.md"
+                "file": "A1701_UI_pcb.md"
               }
             }
           },
@@ -207,10 +207,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2506ee5dadf64034",
+  "active": "2d555bce8aa55bd5",
   "lastOpenFiles": [
-    "_LogBook_/2023/2023.06/2023.06_log.md",
+    "_LogBook_/2023/2023.05/auto.py",
+    "_LogBook_/2023/2023.05/Nowy dokument tekstowy.txt",
+    "1.png",
+    "2021-08-30_10h24_14.png",
     "_LogBook_/2023/sum_2023.md",
+    "_LogBook_/2023/2023.08/2023-08-17.md",
+    "_LogBook_/2023/2023.08/2023-08-08.md",
+    "_LogBook_/2023/2023.08/2023-08-03.md",
+    "_LogBook_/2023/2023.08/2023-08-02.md",
+    "2023-07-28_16h53_19.png",
+    "2023-07-28_16h30_17.png",
+    "2023-07-28_16h30_05.png",
+    "2023-05-09_14h00_06.png",
+    "2021-08-30_10h24_14 1.png",
+    "_LogBook_/2023/2023.07/2023-07-28.md",
+    "_LogBook_/2023/2023.07/2023-07-17.md",
+    "_LogBook_/2023/2023.06/2023.06_log.md",
     "_LogBook_/2023/2023.05/2023.05_log.md",
     "_LogBook_/2023/2023.06/2023-06-01.md",
     "_LogBook_/2023/2023.06/2023-06-23.md",
@@ -224,30 +239,19 @@
     "Pasted image 20230605101854.png",
     "Pasted image 20230605101619.png",
     "Pasted image 20230601155834.png",
-    "2023-08-18.md",
+    "_LogBook_/2023/2023.08/2023-08-18.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "watch_later.md",
     "_Learn_/Learn.md",
     "Wniosek_HO_tydzien_15.05.2023.md",
     "Wien.canvas",
     "Wniosek_HO_tydzien_05.06.2023.md",
-    "1.png",
-    "5.png",
-    "6.png",
     "orderDB ideas.md",
-    "Pasted image 20230605101924.png",
-    "Pasted image 20230615132820.png",
-    "2023-08-14.md",
-    "2023-08-17.md",
+    "_LogBook_/2023/2023.08/2023-08-14.md",
     "Untitled 1.canvas",
-    "2023-08-16.md",
+    "_LogBook_/2023/2023.08/2023-08-16.md",
     "C1202 mailing list.md",
     "_Projekte_/MarCator/MarCator.md",
-    "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md",
-    "_Projekte_/MarCator/MarCator_Versions.md",
-    "2023-08-16_15h01_45.png",
-    "_Projekte_/MarCator/Marcator_touch_DK-U1.md",
-    "A1701_UI_pcb.md",
-    "_Projekte_/A1701/A1701.md"
+    "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md"
   ]
 }
