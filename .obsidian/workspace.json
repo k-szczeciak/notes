@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md",
+                "file": "2023-08-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C1202 mailing list.md",
+                "file": "2023-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C1202 mailing list.md",
+                "file": "2023-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C1202 mailing list.md"
+                "file": "2023-08-18.md"
               }
             }
           }
@@ -172,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "610ebb1f01887a21",
+  "active": "800e2838eab257d2",
   "lastOpenFiles": [
     "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md",
-    "C1202 mailing list.md",
+    "2023-08-18.md",
     "2023-08-17.md",
+    "C1202 mailing list.md",
     "_Projekte_/MarCator/MarCator_Versions.md",
     "2023-08-16.md",
     "2023-08-16_15h01_45.png",
