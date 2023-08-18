@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-18.md",
+                "file": "2023-08-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-18.md",
+                "file": "2023-08-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-18.md"
+                "file": "2023-08-17.md"
               }
             }
           },
@@ -192,12 +192,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "610ebb1f01887a21",
+  "active": "324c48d70a47f0ef",
   "lastOpenFiles": [
+    "2023-08-14.md",
+    "2023-08-18.md",
     "2023-08-17.md",
     "_Projekte_/MarCator/MarCator_todo.md",
-    "2023-08-18.md",
-    "2023-08-14.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "Untitled 1.canvas",
     "2023-08-16.md",
