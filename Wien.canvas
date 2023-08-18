@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"30c6840ef84f7816","x":-540,"y":-480,"width":1080,"height":587,"type":"link","url":"https://bossa.pl/notowania/wykresy?symbol=FEURM23&interval=1S"},
-		{"id":"10b21adaa8f768df","x":-540,"y":140,"width":1080,"height":600,"type":"link","url":"https://bossa.pl/notowania/wykresy?symbol=EURPLN.&interval=1D"}
-	],
-	"edges":[]
-}
