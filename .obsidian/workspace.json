@@ -23,24 +23,55 @@
             "id": "3432861f8dcd6dda",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MarCator_HAL.canvas",
+                "viewState": {
+                  "x": -725,
+                  "y": -297,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "bab45c68527978cb",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_todo.md",
+                "file": "_LogBook_/2023/2023.06/2023-06-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "324c48d70a47f0ef",
+            "id": "f184362769fc0277",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_LogBook_/2023/sum_2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d555bce8aa55bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_LogBook_/2023/2023.07/2023-07-17.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_LogBook_/2023/2023.07/2023-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_LogBook_/2023/2023.07/2023-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_LogBook_/2023/2023.07/2023-07-17.md"
+              }
             }
           },
           {
@@ -172,8 +207,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "324c48d70a47f0ef",
+  "active": "2506ee5dadf64034",
   "lastOpenFiles": [
+    "_LogBook_/2023/2023.06/2023.06_log.md",
+    "_LogBook_/2023/sum_2023.md",
+    "_LogBook_/2023/2023.05/2023.05_log.md",
+    "_LogBook_/2023/2023.06/2023-06-01.md",
+    "_LogBook_/2023/2023.06/2023-06-23.md",
+    "MarCator_scale.md",
+    "_LogBook_/2023/2023.09",
+    "_LogBook_/2023/2023.06 — kopia",
+    "_LogBook_/2023/2023.08",
+    "_LogBook_/2023/2023.07",
+    "MarCator_HAL.canvas",
+    "_Projekte_/MarCator/MarCator_todo.md",
     "Pasted image 20230605101854.png",
     "Pasted image 20230605101619.png",
     "Pasted image 20230601155834.png",
@@ -191,7 +238,6 @@
     "Pasted image 20230605101924.png",
     "Pasted image 20230615132820.png",
     "2023-08-14.md",
-    "_Projekte_/MarCator/MarCator_todo.md",
     "2023-08-17.md",
     "Untitled 1.canvas",
     "2023-08-16.md",
