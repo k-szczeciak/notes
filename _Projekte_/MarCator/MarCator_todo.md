@@ -55,7 +55,7 @@ maybe:
 ---
 ---
 - [ ] brakujace rozkazy ANT
--  [] pomiar napiecia przy pradzie - problem resetu
-- Bat-Lo - 1d
-- pomiar napiecia baterii z dzielnika napiecia
-- cal date wg normy
+- [ ] pomiar napiecia przy pradzie - problem resetu - spardzenie dokladniejsze
+- [ ] Bat-Lo - 1d
+- [ ] pomiar napiecia baterii z dzielnika napiecia
+- [ ] cal date wg normy
