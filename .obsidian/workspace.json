@@ -62,16 +62,26 @@
             "id": "2d555bce8aa55bd5",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "_Projekte_/A1701/A1701_UI_pcb_imgs/1.png"
+              }
+            }
+          },
+          {
+            "id": "3d9c87ae2b242a38",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_LogBook_/2023/sum_2023.md",
+                "file": "Urlopy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_LogBook_/2023/sum_2023.md",
+                "file": "Urlopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_LogBook_/2023/sum_2023.md",
+                "file": "Urlopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_LogBook_/2023/sum_2023.md"
+                "file": "Urlopy.md"
               }
             }
           },
@@ -207,10 +217,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d555bce8aa55bd5",
+  "active": "3d9c87ae2b242a38",
   "lastOpenFiles": [
-    "_LogBook_/2023/2023.08/2023-08-log.md",
+    "_Projekte_/C1202/C1202 mailing list.md",
+    "2021-08-30_10h24_14.png",
+    "_Projekte_/A1701/A1701_UI_pcb.md",
+    "_Projekte_/A1701/A1701.md",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h01_45.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/5.png",
+    "A1701_UI_pcb_imgs/Untitled",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h05_01.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h04_48.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h04_04.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h03_42.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h02_03.png",
+    "2023-08-07_12h01_29.png",
+    "2023-08-02_13h54_09.png",
     "_LogBook_/2023/sum_2023.md",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs",
+    "Nowy folder",
+    "_LogBook_/2023/2023.08/2023-08-log.md",
     "_LogBook_/2023/2023.07/2023-07-log.md",
     "_LogBook_/LogBook_sum.md",
     "A1701_UI_pcb.md",
@@ -225,20 +251,10 @@
     "_LogBook_/2023/2023.08/auto.py",
     "_LogBook_/2023/2023.06/2023-06-01.md",
     "_LogBook_/2023/2023.06/2023-06-_log.md",
-    "_LogBook_/2023/2023.06/2023-06-_file_list.txt",
-    "_LogBook_/2023/2023.06/auto.py",
-    "_LogBook_/2023/2023.05/file_list.txt",
-    "1.png",
-    "2021-08-30_10h24_14.png",
     "_LogBook_/2023/2023.08/2023-08-17.md",
     "_LogBook_/2023/2023.08/2023-08-08.md",
     "_LogBook_/2023/2023.08/2023-08-03.md",
     "_LogBook_/2023/2023.08/2023-08-02.md",
-    "2023-07-28_16h53_19.png",
-    "2023-07-28_16h30_17.png",
-    "2023-07-28_16h30_05.png",
-    "2023-05-09_14h00_06.png",
-    "2021-08-30_10h24_14 1.png",
     "_LogBook_/2023/2023.07/2023-07-28.md",
     "_LogBook_/2023/2023.07/2023-07-17.md",
     "_LogBook_/2023/2023.06/2023.06_log.md",
@@ -247,16 +263,10 @@
     "MarCator_scale.md",
     "MarCator_HAL.canvas",
     "_Projekte_/MarCator/MarCator_todo.md",
-    "Pasted image 20230605101854.png",
-    "Pasted image 20230605101619.png",
-    "Pasted image 20230601155834.png",
     "_LogBook_/2023/2023.08/2023-08-18.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "watch_later.md",
-    "_Learn_/Learn.md",
-    "Wniosek_HO_tydzien_15.05.2023.md",
     "Wien.canvas",
-    "Wniosek_HO_tydzien_05.06.2023.md",
     "Untitled 1.canvas"
   ]
 }
