@@ -54,6 +54,7 @@ maybe:
 
 ---
 ---
+- [ ] problem z ponownym polaczeniem przez przycisk w sytuacji gdy wylaczone zosatalo w czasie seak
 - [ ] brakujace rozkazy ANT
 - [ ] pomiar napiecia przy pradzie - problem resetu - spardzenie dokladniejsze
 - [ ] Bat-Lo - 1d
@@ -62,7 +63,8 @@ maybe:
 - [ ] optymalizacja zuzycia pradu w roznych trybach
 - [ ] kodkoncyzc DK-U1 jesli chodzi o numery art i ograniczenia
 - [ ] tryby continous dla dku1 i ant
-- [ ] posprawdzac opcje z numerami itd, jak sa kodowane numery - inne opcje
+- [ ] posprawdzac opcje z numerami itd, jak sa kodowane numery - funk - sprawdzic czy wszystko jest dobrze
+- [ ] opcja 844 i std
 
 
 
