@@ -96,14 +96,11 @@
             "id": "01c5949a893d15d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "dailyTools.canvas",
-                "viewState": {
-                  "x": -160,
-                  "y": 100,
-                  "zoom": 0
-                }
+                "file": "ToDo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -174,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyTools.canvas",
+                "file": "ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyTools.canvas",
+                "file": "ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyTools.canvas"
+                "file": "ToDo.md"
               }
             }
           },
@@ -246,6 +243,7 @@
   },
   "active": "01c5949a893d15d2",
   "lastOpenFiles": [
+    "dailyTools.canvas",
     "aboutCanvas.canvas",
     "2023-08-02_13h54_09.png",
     "2023-07-28_16h30_17.png",
@@ -253,7 +251,6 @@
     "2021-08-30_10h24_14.png",
     "_Projekte_/MarCator/2023-07-27_12h37_26.png",
     "_Projekte_/MarCator/2023-07-28_16h53_19.png",
-    "dailyTools.canvas",
     "domeny.md",
     "garaz_wroclaw.md",
     "GIT_cheatsheet.md",
