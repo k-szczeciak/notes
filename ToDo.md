@@ -24,3 +24,6 @@ OrderDB dokonczyc
 
 
 chatgpt i programy, uczenie sie 
+
+
+kontakty i aplikacje
