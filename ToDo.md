@@ -9,3 +9,21 @@
 
 
 using AI as a tool for helping with notes and other, search..
+
+
+PCBs:
+- digimatic/USB to RS232
+- current measurement
+
+Omega onion - router z hubem i obudowa
+
+peltier generator
+can box
+
+OrderDB dokonczyc
+
+
+chatgpt i programy, uczenie sie 
+
+
+kontakty i aplikacje

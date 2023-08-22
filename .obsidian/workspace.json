@@ -11,15 +11,24 @@
             "id": "0b9a463672d358a8",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebf8c55fc06f1bc9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A1701_UI_pcb.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A1701_UI_pcb.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -163,63 +172,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b9a463672d358a8",
+  "active": "ebf8c55fc06f1bc9",
   "lastOpenFiles": [
-    "2023-08-16.md",
+    "conflict-files-obsidian-git.md",
+    "_Projekte_/MarCator/Pasted image 20230615132820.png",
+    "_Projekte_/MarCator/Pasted image 20230605101924.png",
+    "_Projekte_/MarCator/Pasted image 20230605101854.png",
+    "_Projekte_/MarCator/Pasted image 20230605101619.png",
+    "_Projekte_/MarCator/MarCator_scale.md",
+    "_Projekte_/MarCator/MarCator_HAL.canvas",
+    "_Projekte_/MarCator/2023-07-28_16h53_19.png",
+    "_Projekte_/MarCator/2023-07-27_12h37_26.png",
+    "_Projekte_/C1202/C1202 mailing list.md",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/6.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/5.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h05_01.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h04_48.png",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs",
+    "_Projekte_/A1701/A1701_UI_pcb.md",
+    "_Private_/zdrowie.md",
+    "_Private_/zakupy/lapatopy_4k.md",
+    "_Private_/Komunia.md",
+    "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
+    "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
+    "_Org_/Urlopy.md",
+    "_Org_",
+    "_LogBook_/2023/2023.09/start.bat",
+    "_LogBook_/2023/2023.09/auto.py",
+    "_LogBook_/2023/2023.09",
+    "_LogBook_/2023/2023.08/start.bat",
+    "_LogBook_/2023/2023.08/auto.py",
+    "_LogBook_/2023/2023.08/2023-08-log.md",
+    "_LogBook_/2023/2023.08/2023-08-18.md",
+    "_LogBook_/2023/2023.08/2023-08-17.md",
+    "_LogBook_/2023/2023.08/2023-08-16.md",
+    "_LogBook_/2023/2023.08/2023-08-14.md",
+    "_LogBook_/2023/2023.08/2023-08-11.md",
+    "_LogBook_/2023/2023.08/2023-08-10.md",
+    "_LogBook_/2023/2023.08/2023-08-09.md",
+    "_LogBook_/2023/2023.08/2023-08-08.md",
+    "_LogBook_/2023/2023.08/2023-08-07.md",
+    "_LogBook_/2023/2023.08/2023-08-06.md",
+    "_LogBook_/2023/2023.08/2023-08-04.md",
+    "_LogBook_/2023/2023.08/2023-08-03.md",
+    "_LogBook_/2023/2023.08/2023-08-02.md",
+    "_LogBook_/2023/2023.08",
     "A1701_UI_pcb.md",
-    "_cheatsheet_/markdown cheatsheet.md",
-    "6.png",
-    "5.png",
-    "2023-08-16_15h05_01.png",
-    "2023-08-16_15h04_48.png",
-    "2023-08-16_15h04_04.png",
-    "2023-08-16_15h03_42.png",
-    "2023-08-16_15h01_45.png",
-    "2023-08-16_15h02_03.png",
-    "1.png",
+    "_LogBook_/2023/2023.07/auto.py",
+    "_LogBook_/2023/2023.07/2023-07-log.md",
+    "_LogBook_/2023/2023.07",
     "Untitled.canvas",
     "Wien.canvas",
-    "_Projekte_/A1701/A1701.md",
-    "_Projekte_/MarCator/touch buttons mapping.md",
-    "_Projekte_/MarCator/README.md",
-    "_Projekte_/MarCator/touch buttons mapping.pdf",
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/C1202/analisis.md",
-    "_Projekte_/C1202/C1202_notes.md",
-    "2021-08-30_10h24_14 1.png",
     "aboutCanvas.canvas",
-    "orderDB ideas.md",
-    "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md",
-    "_cheatsheet_/usefull URLs.md",
-    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs",
-    "lapatopy_4k.md",
-    "notes_MillimarTool.md",
-    "_Private_/zakupy/Rowery.md",
-    "Untitled.md",
-    "MarCator_scale.md",
-    "_Projekte_/MarCator/MarCator.md",
-    "2023-08-09.md",
-    "_Projekte_/MarCator/MarCator_Versions.md",
-    "2023-08-14.md",
-    "2023-08-11.md",
-    "2023-08-10.md",
-    "2023-08-08.md",
-    "_Projekte_/Projekte_sum.md",
-    "2023-08-06.md",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "_Projekte_/MarCator/msp430fr6989.pdf",
-    "_Projekte_/MarCator/MSP430m07_LPM.pdf",
-    "20230609T085702+0200_ExportTabsURLs_4_okna_nauka_inne.txt",
     "dailyTools.canvas",
-    "_Learn_/Modul_Electrical_Engineering_International_M.Sc.pdf",
     "OrderDB.canvas",
     "MarCator_HAL.canvas",
     "Navbar.canvas",
-    "HolidaysDB.canvas",
-    "essfs01/Abteilungen/Entwicklung/Elektronik/Software/Programming",
-    "essfs01/Abteilungen/Entwicklung/Elektronik/Software",
-    "essfs01/Abteilungen/Entwicklung/Elektronik",
-    "essfs01/Abteilungen/Entwicklung",
-    "MEMO_CARDS.canvas"
+    "HolidaysDB.canvas"
   ]
 }

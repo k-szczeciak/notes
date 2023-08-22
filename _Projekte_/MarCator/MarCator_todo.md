@@ -46,3 +46,30 @@ done, new:
 !!! nie zawsze dziala idealnie ponowne polaczenie po wylaczneniu jak nie bylo polaczone - dziala hold zamiast...
 maybe:
 - [ ] symulacja
+
+
+
+
+
+
+---
+---
+- [ ] problem z ponownym polaczeniem przez przycisk w sytuacji gdy wylaczone zosatalo w czasie seak
+- [ ] brakujace rozkazy ANT
+- [ ] pomiar napiecia przy pradzie - problem resetu - spardzenie dokladniejsze
+- [ ] Bat-Lo - 1d
+- [ ] pomiar napiecia baterii z dzielnika napiecia
+- [ ] cal date wg normy
+- [ ] optymalizacja zuzycia pradu w roznych trybach
+- [ ] kodkoncyzc DK-U1 jesli chodzi o numery art i ograniczenia
+- [ ] tryby continous dla dku1 i ant
+- [ ] posprawdzac opcje z numerami itd, jak sa kodowane numery - funk - sprawdzic czy wszystko jest dobrze
+- [ ] opcja 844 i std
+
+
+
+- lcd mem send
+- sim klawisze
+
+!!! dlaczego nie poprawnie na moim lapi excel wyswietla wartosci
+sprawdzic jak jest powiazanie kanal, numer, ...
