@@ -62,3 +62,10 @@ na dzien 09.08.2023:
 - bateria do maca (560)
 - NAS (580 asusstor polizingowy plus dysk 4TB za 500) lub kieszen do nvme na 40gb ()
 - rower - kola ok 200 pln za obydwa (ew lancuch)
+
+
+drukarka etykiet:
+https://allegro.pl/produkt/brother-ql-810wc-drukarka-etykiet-wifi-d9aeccaa-199c-46d3-b097-f37b96014acc
+
+lampka budzik
+https://allegro.pl/produkt/radio-sieciowe-fm-philips-hf3519-65ddf00d-b72d-4810-bff2-9c0d85f6b2a1

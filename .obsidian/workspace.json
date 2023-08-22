@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2511caa3b36e18a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Private_/zakupy/zakupy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-21.md",
+                "file": "_Private_/zakupy/zakupy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-21.md",
+                "file": "_Private_/zakupy/zakupy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-21.md"
+                "file": "_Private_/zakupy/zakupy.md"
               }
             }
           },
@@ -163,10 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b50558369b2658",
+  "active": "d2511caa3b36e18a",
   "lastOpenFiles": [
-    "_Private_/zakupy/Rowery.md",
+    "_Private_/zdrowie.md",
+    "_Private_/zakupy/zakupy.md",
+    "_Private_/wakacje2023.md",
+    "_Private_/balkon2023.md",
+    "_Private_/~Private_sum.md",
     "2023-08-21.md",
+    "_Private_/zakupy/Rowery.md",
     "conflict-files-obsidian-git.md",
     "_Projekte_/MarCator/Pasted image 20230615132820.png",
     "_Projekte_/MarCator/Pasted image 20230605101924.png",
@@ -183,7 +201,6 @@
     "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h04_48.png",
     "_Projekte_/A1701/A1701_UI_pcb_imgs",
     "_Projekte_/A1701/A1701_UI_pcb.md",
-    "_Private_/zdrowie.md",
     "_Private_/zakupy/lapatopy_4k.md",
     "_Private_/Komunia.md",
     "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
@@ -205,10 +222,6 @@
     "_LogBook_/2023/2023.08/2023-08-09.md",
     "_LogBook_/2023/2023.08/2023-08-08.md",
     "_LogBook_/2023/2023.08/2023-08-07.md",
-    "_LogBook_/2023/2023.08/2023-08-06.md",
-    "_LogBook_/2023/2023.08/2023-08-04.md",
-    "_LogBook_/2023/2023.08/2023-08-03.md",
-    "_LogBook_/2023/2023.08/2023-08-02.md",
     "_LogBook_/2023/2023.08",
     "_LogBook_/2023/2023.07/auto.py",
     "_LogBook_/2023/2023.07",
