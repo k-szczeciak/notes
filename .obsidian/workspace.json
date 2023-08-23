@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-22.md",
+                "file": "2023-08-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-21.md",
+                "file": "2023-08-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-21.md",
+                "file": "2023-08-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-21.md"
+                "file": "2023-08-23.md"
               }
             }
           },
@@ -176,9 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57f3b35bd3081b7d",
+  "active": "a0b50558369b2658",
   "lastOpenFiles": [
     "2023-08-22.md",
+    "2023-08-23.md",
     "2023-08-21.md",
     "_Private_/zakupy/zakupy.md",
     "_Private_/zdrowie.md",
@@ -221,7 +221,6 @@
     "_LogBook_/2023/2023.08/2023-08-11.md",
     "_LogBook_/2023/2023.08/2023-08-10.md",
     "_LogBook_/2023/2023.08/2023-08-09.md",
-    "_LogBook_/2023/2023.08/2023-08-08.md",
     "_LogBook_/2023/2023.08",
     "_LogBook_/2023/2023.07/auto.py",
     "_LogBook_/2023/2023.07",
