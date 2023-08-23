@@ -1,0 +1,2 @@
+- [ ] interface do symulacji zewnetrzny, np vcom
+- [ ] 
