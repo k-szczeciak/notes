@@ -10,3 +10,4 @@
 we wtyczce i pogo kontacts
 https://www.dmtl.co.uk/news/smd-emi-fingers-spring-emi-contacts
 2mm pogo contakt: https://www.cfeconn.com/connector/smt-smd-low-profile-spring-load-contact
+metalowa wtyczka: https://b2b.harting.com/ebusiness/de/D-SUB-GEHAEUSE-9-POL-GERADE-NICKEL/09670090343?newPDP=true#
