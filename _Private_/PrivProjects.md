@@ -8,3 +8,5 @@
 		2. https://www.tme.eu/pl/details/mhdm9-db9p-k/kompletne-wtyki-d-sub/mh-connectors/?brutto=1&currency=PLN&gclid=EAIaIQobChMIv5vI3Z_3gAMVRdftCh2Tzw5_EAQYASABEgLpYPD_BwE
 
 we wtyczce i pogo kontacts
+https://www.dmtl.co.uk/news/smd-emi-fingers-spring-emi-contacts
+2mm pogo contakt: https://www.cfeconn.com/connector/smt-smd-low-profile-spring-load-contact
