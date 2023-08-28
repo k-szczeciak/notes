@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_todo.md",
+                "file": "2023-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_todo.md",
+                "file": "2023-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_todo.md"
+                "file": "2023-08-28.md"
               }
             }
           },
@@ -176,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16871962427ef519",
+  "active": "a0b50558369b2658",
   "lastOpenFiles": [
-    "2023-08-28.md",
     "_Projekte_/MarCator/MarCator_todo.md",
+    "2023-08-28.md",
     "_Private_/finanse.md",
     "_Private_/garaz.md",
     "3dprinting.md",
