@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-25.md",
+                "file": "2023-08-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Private_/PrivProjects.md",
+                "file": "_Learn_/watch_later.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-25.md",
+                "file": "_Learn_/watch_later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-25.md",
+                "file": "_Learn_/watch_later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-25.md"
+                "file": "_Learn_/watch_later.md"
               }
             }
           },
@@ -175,10 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b50558369b2658",
+  "active": "16871962427ef519",
   "lastOpenFiles": [
-    "_Private_/PrivProjects.md",
     "2023-08-25.md",
+    "2023-08-28.md",
+    "_Private_/PrivProjects.md",
+    "Untitled.md",
     "_Private_/zakupy/Rowery.md",
     "2023-08-24.md",
     "2023-08-23.md",
@@ -219,8 +222,6 @@
     "_LogBook_/2023/2023.08/start.bat",
     "_LogBook_/2023/2023.08/auto.py",
     "_LogBook_/2023/2023.08/2023-08-log.md",
-    "_LogBook_/2023/2023.08/2023-08-18.md",
-    "_LogBook_/2023/2023.08/2023-08-17.md",
     "_LogBook_/2023/2023.08",
     "_LogBook_/2023/2023.07/auto.py",
     "_LogBook_/2023/2023.07",
