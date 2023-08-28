@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c56fa8ae25640f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Private_/garaz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e83ac565abf9186a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3dprinting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3dprinting.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3dprinting.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3dprinting.md"
+                "file": "_Projekte_/MarCator/MarCator_todo.md"
               }
             }
           },
@@ -200,11 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e83ac565abf9186a",
+  "active": "16871962427ef519",
   "lastOpenFiles": [
+    "_Private_/finanse.md",
     "_Private_/garaz.md",
     "3dprinting.md",
-    "_Private_/finanse.md",
     "_Private_/zdrowie.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-08-28.md",
