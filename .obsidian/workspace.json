@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Learn_/watch_later.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Learn_/watch_later.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Learn_/watch_later.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Learn_/watch_later.md"
+                "file": "_Projekte_/MarCator/MarCator_todo.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "16871962427ef519",
   "lastOpenFiles": [
+    "_Learn_/watch_later.md",
+    "_Learn_/Learn.md",
     "2023-08-25.md",
     "2023-08-28.md",
     "_Private_/PrivProjects.md",
@@ -214,14 +216,12 @@
     "_Private_/Komunia.md",
     "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
-    "_Org_/Urlopy.md",
     "_Org_",
     "_LogBook_/2023/2023.09/start.bat",
     "_LogBook_/2023/2023.09/auto.py",
     "_LogBook_/2023/2023.09",
     "_LogBook_/2023/2023.08/start.bat",
     "_LogBook_/2023/2023.08/auto.py",
-    "_LogBook_/2023/2023.08/2023-08-log.md",
     "_LogBook_/2023/2023.08",
     "_LogBook_/2023/2023.07/auto.py",
     "_LogBook_/2023/2023.07",
