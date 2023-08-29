@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-28.md",
+                "file": "2023-08-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_todo.md",
+                "file": "2023-08-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,9 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b50558369b2658",
+  "active": "16871962427ef519",
   "lastOpenFiles": [
     "_Projekte_/MarCator/MarCator_todo.md",
+    "2023-08-29.md",
     "2023-08-28.md",
     "_Private_/finanse.md",
     "_Private_/garaz.md",
@@ -214,7 +216,6 @@
     "_Projekte_/A1701/A1701_UI_pcb_imgs/2023-08-16_15h04_48.png",
     "_Projekte_/A1701/A1701_UI_pcb_imgs",
     "_Projekte_/A1701/A1701_UI_pcb.md",
-    "_Private_/zakupy/lapatopy_4k.md",
     "_Org_",
     "_LogBook_/2023/2023.09/start.bat",
     "_LogBook_/2023/2023.09/auto.py",
