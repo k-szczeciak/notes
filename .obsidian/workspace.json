@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-28.md",
+                "file": "_LogBook_/2023/2023.08/2023-08-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-28.md",
+                "file": "_LogBook_/2023/2023.08/2023-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-28.md",
+                "file": "_LogBook_/2023/2023.08/2023-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-28.md"
+                "file": "_LogBook_/2023/2023.08/2023-08-18.md"
               }
             }
           },
@@ -177,6 +177,21 @@
   },
   "active": "a0b50558369b2658",
   "lastOpenFiles": [
+    "_LogBook_/2023/2023.08/2023-08-17.md",
+    "_LogBook_/2023/2023.08/2023-08-16.md",
+    "_LogBook_/2023/2023.08/2023-08-14.md",
+    "_LogBook_/2023/2023.08/2023-08-11.md",
+    "_LogBook_/2023/2023.08/2023-08-10.md",
+    "_LogBook_/2023/2023.08/2023-08-08.md",
+    "_LogBook_/2023/2023.08/2023-08-07.md",
+    "_LogBook_/2023/2023.08/2023-08-06.md",
+    "_LogBook_/2023/2023.08/2023-08-03.md",
+    "_LogBook_/2023/2023.08/2023-08-04.md",
+    "_LogBook_/2023/2023.08/2023-08-02.md",
+    "dailyTools.canvas",
+    "aboutCanvas.canvas",
+    "2023-08-29.md",
+    "2023-08-28.md",
     "2023-08-25.md",
     "2023-08-24.md",
     "2023-08-23.md",
@@ -189,24 +204,11 @@
     "_Projekte_/MarCator/Marcator_flashing.md",
     "_Projekte_/MarCator/MarCator_flashing.canvas",
     "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md",
-    "2023-08-29.md",
-    "2023-08-28.md",
     "2023-08-29_13h14_08.png",
     "2023-08-29_13h13_42.png",
     "_Private_/finanse.md",
     "_Private_/garaz.md",
     "3dprinting.md",
-    "_Private_/zdrowie.md",
-    "_Learn_/watch_later.md",
-    "_Learn_/Learn.md",
-    "_Private_/PrivProjects.md",
-    "Untitled.md",
-    "_Private_/zakupy/Rowery.md",
-    "_Projekte_/A1701/A1701_todo.md",
-    "_Private_/zakupy/zakupy.md",
-    "_Private_/wakacje2023.md",
-    "_Private_/balkon2023.md",
-    "_Private_/~Private_sum.md",
     "_Projekte_/MarCator/Pasted image 20230615132820.png",
     "_Projekte_/MarCator/Pasted image 20230605101924.png",
     "_Projekte_/MarCator/Pasted image 20230605101854.png",
@@ -227,8 +229,6 @@
     "_LogBook_/2023/2023.07",
     "Untitled.canvas",
     "Wien.canvas",
-    "aboutCanvas.canvas",
-    "dailyTools.canvas",
     "OrderDB.canvas",
     "MarCator_HAL.canvas",
     "Navbar.canvas",
