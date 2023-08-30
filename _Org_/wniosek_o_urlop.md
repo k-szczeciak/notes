@@ -1,5 +1,5 @@
 
-<div style="text-align: right"> Warszawa 05.06.2023r.  </div>
+<div style="text-align: right"> Warszawa 29.08.2023r.  </div>
 
 <div style="text-align: left"> Krzysztof Szczeciak</div>
 <div style="text-align: left">ul. Krańcowa 17/16</div>
@@ -18,9 +18,9 @@
 </div>
 <br><br>
 <div>
-Prosze o udzielenie urlopu wypoczynkowego w dniu 30.08.2023r (poniedziałek)
+Prosze o udzielenie urlopu wypoczynkowego w dniu 30.08.2023r (Środa)
 </div>
-<br>
+<br><br><br>
 
 <div style="text-align: left">Wyrażam zgodę</div>
 <div style="float: right">
