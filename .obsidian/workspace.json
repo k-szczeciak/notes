@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd14ef1cfa798ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Learn_/c_lean.md",
+                "file": "_Org_/wniosek_o_urlop.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
+                "file": "_Org_/wniosek_o_urlop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
+                "file": "_Org_/wniosek_o_urlop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Org_/Wniosek_HO_tydzien_05.06.2023.md"
+                "file": "_Org_/wniosek_o_urlop.md"
               }
             }
           }
@@ -160,10 +148,12 @@
   },
   "active": "41d02504ba2d643d",
   "lastOpenFiles": [
-    "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
-    "_Org_/wniosek_o_urlop.md",
     "_Div_/Docs/2023.08.30_wnosek_o_urlop.pdf",
+    "_Org_/wniosek_o_urlop.md",
+    "_Org_/wniosek_o_urlop.pdf",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
+    "_Learn_/c_lean.md",
+    "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/Urlopy.md",
     "_Learn_/MEMO CARDS.md",
     "_Div_/Docs/funk/neuFunkBefehl.md",
@@ -205,9 +195,6 @@
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h29_33.png",
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h24_59 1.png",
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h07_08 3.png",
-    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs",
-    "_Projekte_/C1202/C1202 mailing list.md",
-    "_Projekte_/A1701/A1701_todo.md",
-    "_Projekte_/A1701/A1701_UI_pcb_imgs"
+    "_Projekte_/C1202/C1202 mailing list.md"
   ]
 }
