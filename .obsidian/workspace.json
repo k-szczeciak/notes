@@ -1,51 +1,64 @@
 {
   "main": {
-    "id": "614042888f9337f5",
+    "id": "beff68e45829e638",
     "type": "split",
     "children": [
       {
-        "id": "c73d035b1ec6585c",
+        "id": "4c3262b7e752f243",
         "type": "tabs",
         "children": [
           {
-            "id": "a0b50558369b2658",
+            "id": "41d02504ba2d643d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-29.md",
+                "file": "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "16871962427ef519",
+            "id": "73259ebd64a06fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-28.md",
+                "file": "wnosek o urlop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd14ef1cfa798ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Learn_/c_lean.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b079801fd8822fff",
+    "id": "95bacb7f198fce71",
     "type": "split",
     "children": [
       {
-        "id": "4246adb876b6ca6e",
+        "id": "6082cf5ddb248692",
         "type": "tabs",
         "children": [
           {
-            "id": "3e88f86a184ade1c",
+            "id": "d1457d7f81b9dbd1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +68,7 @@
             }
           },
           {
-            "id": "eb9d085954e04a61",
+            "id": "3c3860f3eaa6e6c7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,15 +83,7 @@
             }
           },
           {
-            "id": "919a0aab6ecbc3bd",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "7aa5f3c03fb33739",
+            "id": "dae9504b3f7cd966",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "c5147cbeb35329d4",
+    "id": "d0d138354741900d",
     "type": "split",
     "children": [
       {
-        "id": "f00e7b2a5b38ec80",
+        "id": "07551da8f434d684",
         "type": "tabs",
         "children": [
           {
-            "id": "c0e7e9d0195aa87a",
+            "id": "400c6f29c41e09c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-29.md",
+                "file": "wnosek o urlop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +122,19 @@
             }
           },
           {
-            "id": "8707219fbe7e3a0c",
+            "id": "9ad85244d3fa4bee",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-29.md",
+                "file": "wnosek o urlop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ef60e6eca0a79a25",
+            "id": "7b430611ca169137",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,25 +145,16 @@
             }
           },
           {
-            "id": "4b565baa84e30c58",
+            "id": "95bb201a8e60fc5d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-29.md"
+                "file": "wnosek o urlop.md"
               }
             }
-          },
-          {
-            "id": "86657b3a80225da3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,72 +162,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0b50558369b2658",
+  "active": "73259ebd64a06fdc",
   "lastOpenFiles": [
-    "_LogBook_/2023/2023.08/2023-08-18.md",
-    "_LogBook_/2023/2023.08/2023-08-17.md",
-    "_LogBook_/2023/2023.08/2023-08-16.md",
-    "_LogBook_/2023/2023.08/2023-08-14.md",
-    "_LogBook_/2023/2023.08/2023-08-11.md",
-    "_LogBook_/2023/2023.08/2023-08-10.md",
-    "_LogBook_/2023/2023.08/2023-08-08.md",
-    "_LogBook_/2023/2023.08/2023-08-07.md",
-    "_LogBook_/2023/2023.08/2023-08-06.md",
-    "_LogBook_/2023/2023.08/2023-08-03.md",
-    "_LogBook_/2023/2023.08/2023-08-04.md",
-    "_LogBook_/2023/2023.08/2023-08-02.md",
-    "dailyTools.canvas",
-    "aboutCanvas.canvas",
-    "2023-08-29.md",
-    "2023-08-28.md",
-    "2023-08-25.md",
-    "2023-08-24.md",
-    "2023-08-23.md",
-    "2023-08-22.md",
-    "2023-08-21.md",
+    "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
+    "wnosek o urlop.md",
+    "_Org_/Urlopy.md",
+    "_Learn_/MEMO CARDS.md",
+    "_Div_/Docs/funk/neuFunkBefehl.md",
+    "_Docs_/digimatic_docs/99MAB045A.pdf",
+    "_Docs_/Ausrüstung.md",
+    "note-tools.md",
+    "Navbar.canvas",
+    "MEMO_CARDS.canvas",
+    "ideas.md",
+    "HolidaysDB.canvas",
+    "GIT_cheatsheet.md",
+    "garaz_wroclaw.md",
     "_Projekte_/MarCator/MarCator_todo.md",
-    "_Projekte_/MarCator/MarCator_scale.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/MarCator/MarCator_HAL.canvas",
-    "_Projekte_/MarCator/Marcator_flashing.md",
-    "_Projekte_/MarCator/MarCator_flashing.canvas",
-    "_Projekte_/MarCator/MarCator bateriespannung FW V0.10 and V0.11.md",
-    "2023-08-29_13h14_08.png",
-    "2023-08-29_13h13_42.png",
-    "_Private_/finanse.md",
-    "_Private_/garaz.md",
-    "_Projekte_/MarCator/Pasted image 20230615132820.png",
-    "_Projekte_/MarCator/Pasted image 20230605101924.png",
-    "_Projekte_/MarCator/Pasted image 20230605101854.png",
-    "_Projekte_/MarCator/Pasted image 20230605101619.png",
-    "_Projekte_/MarCator/2023-07-28_16h53_19.png",
-    "_Projekte_/MarCator/2023-07-27_12h37_26.png",
-    "_Projekte_/A1701/A1701_UI_pcb_imgs/6.png",
-    "_Projekte_/A1701/A1701_UI_pcb_imgs/5.png",
-    "_Projekte_/A1701/A1701_UI_pcb_imgs",
+    "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
     "_Org_",
     "_LogBook_/2023/2023.09/start.bat",
     "_LogBook_/2023/2023.09/auto.py",
     "_LogBook_/2023/2023.09",
-    "_LogBook_/2023/2023.08/start.bat",
-    "_LogBook_/2023/2023.08/auto.py",
-    "_LogBook_/2023/2023.08",
     "_LogBook_/2023/2023.07/auto.py",
+    "_LogBook_/2023/2023.07/2023-07-log.md",
+    "_LogBook_/2023/2023.07/2023-07-28.md",
+    "_LogBook_/2023/2023.07/2023-07-27.md",
+    "_LogBook_/2023/2023.07/2023-07-26.md",
+    "_LogBook_/2023/2023.07/2023-07-25.md",
+    "_LogBook_/2023/2023.07/2023-07-24.md",
+    "_LogBook_/2023/2023.07/2023-07-21.md",
+    "_LogBook_/2023/2023.07/2023-07-20.md",
+    "_LogBook_/2023/2023.07/2023-07-19.md",
+    "_LogBook_/2023/2023.07/2023-07-18.md",
+    "_LogBook_/2023/2023.07/2023-07-17.md",
     "_LogBook_/2023/2023.07",
-    "Untitled.canvas",
-    "Wien.canvas",
-    "OrderDB.canvas",
-    "MarCator_HAL.canvas",
-    "Navbar.canvas",
-    "HolidaysDB.canvas"
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-15_08h29_25.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-15_08h23_46.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-15_08h17_52 1.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_15h22_36 1.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h40_08.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h36_17.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h31_58.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h29_33.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h24_59 1.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h07_08 3.png",
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs",
+    "_Projekte_/C1202/C1202 mailing list.md",
+    "_Projekte_/A1701/A1701_todo.md",
+    "_Projekte_/A1701/A1701_UI_pcb_imgs",
+    "_Projekte_/A1701/A1701_UI_pcb.md",
+    "_LogBook_/2023/2023.08/start.bat"
   ]
 }
