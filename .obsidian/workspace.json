@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Org_/wniosek_o_urlop.md",
+                "file": "2023-09-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "237cba4b48892e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Learn_/Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "557549af2454d6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-08-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Org_/wniosek_o_urlop.md",
+                "file": "2023-09-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Org_/wniosek_o_urlop.md",
+                "file": "2023-09-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Org_/wniosek_o_urlop.md"
+                "file": "2023-09-01.md"
               }
             }
           }
@@ -148,9 +172,17 @@
   },
   "active": "41d02504ba2d643d",
   "lastOpenFiles": [
+    "2023-08-31.md",
+    "2023-08-28.md",
+    "2023-08-29.md",
+    "2023-09-01.md",
+    "2023-08-30.md",
+    "_Learn_/Learn.md",
+    "_LogBook_/2023/2023.08/2023-08-17.md",
+    "2023-08-21.md",
+    "_Org_/wniosek_o_urlop.md",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "_Div_/Docs/2023.08.30_wnosek_o_urlop.pdf",
-    "_Org_/wniosek_o_urlop.md",
     "_Org_/wniosek_o_urlop.pdf",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
     "_Learn_/c_lean.md",
@@ -179,13 +211,6 @@
     "_LogBook_/2023/2023.07/2023-07-27.md",
     "_LogBook_/2023/2023.07/2023-07-26.md",
     "_LogBook_/2023/2023.07/2023-07-25.md",
-    "_LogBook_/2023/2023.07/2023-07-24.md",
-    "_LogBook_/2023/2023.07/2023-07-21.md",
-    "_LogBook_/2023/2023.07/2023-07-20.md",
-    "_LogBook_/2023/2023.07/2023-07-19.md",
-    "_LogBook_/2023/2023.07/2023-07-18.md",
-    "_LogBook_/2023/2023.07/2023-07-17.md",
-    "_LogBook_/2023/2023.07",
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-15_08h29_25.png",
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-15_08h23_46.png",
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-15_08h17_52 1.png",
@@ -195,7 +220,6 @@
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h31_58.png",
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h29_33.png",
     "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h24_59 1.png",
-    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h07_08 3.png",
-    "_Projekte_/C1202/C1202 mailing list.md"
+    "_Projekte_/MarCator/img/MarCator_batteriespannung_imgs/2023-08-14_13h07_08 3.png"
   ]
 }
