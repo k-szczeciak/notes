@@ -540,7 +540,7 @@ meeting 07.09.2023:
 - lo bat eval: 
 	- lo-bat nievo: 2,7V, wie in messystem
 	- am start (batterie anlegung und ein/aus)
-	- zyklish ? 60 sekunden? ausser Min/Max messmodi
+	- zyklish ? 60 minuten? ausser Min/Max messmodi
 	- im menue ein und aus
 	- ein-bit Flag: 
 ![[2023-09-07_13h11_19.png]]
