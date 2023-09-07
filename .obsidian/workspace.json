@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98e9cf791e1a85cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-07.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-07.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-07.md"
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
               }
             }
           },
@@ -155,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d5e9f67f2e92c60",
+  "active": "98e9cf791e1a85cb",
   "lastOpenFiles": [
-    "2023-09-06.md",
+    "_Projekte_/MarCator/MarCator.md",
     "2023-09-07.md",
+    "2023-09-06.md",
     "ToDo.md",
     "conflict-files-obsidian-git.md",
     "2023-08-25.md",
@@ -200,7 +214,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled.md",
-    "_Learn_/watch_later.md",
     "_Org_",
     "A1701_UI_pcb_imgs/Untitled",
     "_Projekte_/A1701/A1701_UI_pcb_imgs",
