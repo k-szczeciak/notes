@@ -70,6 +70,7 @@ maybe:
 
 - lcd mem send
 - sim klawisze
+do czego sluzy 'ANZ_RF_TEST'
 
 !!! dlaczego nie poprawnie na moim lapi excel wyswietla wartosci
 sprawdzic jak jest powiazanie kanal, numer, ...

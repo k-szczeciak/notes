@@ -542,3 +542,10 @@ https://www.udemy.com/course/digital-image-processing-from-ground-up-in-python/
 Patrick Wiebel:
 - phd i wykladanie na uni
 phd na hda
+
+
+plymorphism in c
+https://www.codeproject.com/Articles/108830/Inheritance-and-Polymorphism-in-C
+
+overrride in c
+https://linuxhint.com/function-overloading-c/
