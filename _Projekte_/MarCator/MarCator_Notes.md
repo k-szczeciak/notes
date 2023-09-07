@@ -534,7 +534,7 @@ spotkanie 17.08.2023:
 
 meeting 07.09.2023:
 - spannumg messung:
-	- wiederstand 470kOhm
+	- wiederstand R1, R2 = 470kOhm
 	- referenz spannung 2V (1,2V, 2V oder 2,5V sind moeglich)
 	- messung in menue
 - lo bat eval: 
@@ -545,8 +545,8 @@ meeting 07.09.2023:
 	- ein-bit Flag: 
 ![[2023-09-07_13h11_19.png]]
 - verbrauch be messung:
-	- auszustand < 1uA +
-	- ein zustand: < 1uA +
+	- messuUhr auszustand < 1uA + (trnasistor ist off)
+	- ein zustand: < 1uA + (transistor is off)
 	- messung mit Anzeige 16pfs in menue (75uA (+20uA))
 	- messung mit ANzeige und LEDs ein (3,5 mA)
 
