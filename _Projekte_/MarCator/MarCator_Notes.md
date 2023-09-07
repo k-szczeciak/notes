@@ -538,11 +538,17 @@ meeting 07.09.2023:
 	- referenz spannung 2V (1,2V, 2V oder 2,5V sind moeglich)
 	- messung in menue
 - lo bat eval: 
-	- am start
+	- lo-bat nievo: 2,7V, wie in messystem
+	- am start (batterie anlegung und ein/aus)
 	- zyklish ? 60 sekunden?
 	- im menue ein und aus
+	- ein-bit Flag: 
+![[2023-09-07_13h11_19.png]]
 - verbrauch be messung:
-	- 
+	- auszustand < 1uA +
+	- ein zustand: < 1uA +
+	- messung mit Anzeige 16pfs in menue (75uA (+20uA))
+	- messung mit ANzeige und LEDs ein (3,5 mA)
 
 - pomiar napiecia
 - pomiar napiecia w menue
