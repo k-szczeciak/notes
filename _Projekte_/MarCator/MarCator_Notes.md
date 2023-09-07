@@ -534,7 +534,7 @@ spotkanie 17.08.2023:
 
 meeting 07.09.2023:
 - spannumg messung:
-	- wiederstand
+	- wiederstand 470kOhm
 	- referenz spannung 2V (1,2V, 2V oder 2,5V sind moeglich)
 	- messung in menue
 - lo bat eval: 
