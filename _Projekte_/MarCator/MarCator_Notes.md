@@ -551,3 +551,7 @@ meeting 07.09.2023:
 	- messung mit ANzeige und LEDs ein (3,5 mA)
 
 
+sprawdzic ile pradu zezre z calej baetrii pomiar (ile ciagnie i ile trwa pomiar)
+urklopy
+phedit
+co z optymalizacja jeszcze funk???
