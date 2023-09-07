@@ -550,11 +550,4 @@ meeting 07.09.2023:
 	- messung mit Anzeige 16pfs in menue (75uA (+20uA))
 	- messung mit ANzeige und LEDs ein (3,5 mA)
 
-- pomiar napiecia
-- pomiar napiecia w menue
-- prad zuzywany
-- sprawdznaie:
-	- start
-	- menue in out
-	- cyklicznie
-- jaki poziom / poziomy (indicator i off) (pdf baterii) messystem: < 2,7V
+
