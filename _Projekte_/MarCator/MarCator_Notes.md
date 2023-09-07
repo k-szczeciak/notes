@@ -532,4 +532,4 @@ spotkanie 17.08.2023:
 - poszukac problem z pradem, co powoduje
 
 
-meeting 07.09.2023
+meeting 07.09.2023:
