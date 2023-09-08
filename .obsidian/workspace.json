@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Org_/wniosek_o_urlop.md",
+                "file": "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Org_/wniosek_o_urlop.md",
+                "file": "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Org_/wniosek_o_urlop.md",
+                "file": "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Org_/wniosek_o_urlop.md"
+                "file": "_Org_/Wniosek_HO_tydzien_15.05.2023.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "1d5e9f67f2e92c60",
   "lastOpenFiles": [
+    "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
+    "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
+    "_Org_/wniosek_o_urlop.md",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "_Org_/Urlopy.md",
     "2023-09-07.md",
@@ -204,8 +207,6 @@
     "MEMO_CARDS.canvas",
     "Navbar.canvas",
     "note-tools.md",
-    "notes_MillimarTool.md",
-    "orderDB ideas.md",
     "_Projekte_/MarCator/MarCator_HAL.canvas",
     "OrderDB.canvas",
     "_Projekte_/MarCator/Pasted image 20230605101619.png",
@@ -222,7 +223,6 @@
     "_LogBook_/2023/2023.09/start.bat",
     "_LogBook_/2023/2023.09/auto.py",
     "_LogBook_/2023/2023.08/start.bat",
-    "_LogBook_/2023/2023.08/Nowy dokument tekstowy.txt",
     "Wien.canvas"
   ]
 }
