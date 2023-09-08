@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Org_/Urlopy.md",
+                "file": "_Org_/wniosek_o_urlop.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Org_/Urlopy.md",
+                "file": "_Org_/wniosek_o_urlop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Org_/Urlopy.md",
+                "file": "_Org_/wniosek_o_urlop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Org_/Urlopy.md"
+                "file": "_Org_/wniosek_o_urlop.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "1d5e9f67f2e92c60",
   "lastOpenFiles": [
+    "_Org_/2023.08.30_wniosek_o_urlop.pdf",
+    "_Org_/Urlopy.md",
     "2023-09-07.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-09-08.md",
@@ -204,9 +206,7 @@
     "note-tools.md",
     "notes_MillimarTool.md",
     "orderDB ideas.md",
-    "pytania_goe.md",
     "_Projekte_/MarCator/MarCator_HAL.canvas",
-    "_Projekte_/MarCator/MarCator_scale.md",
     "OrderDB.canvas",
     "_Projekte_/MarCator/Pasted image 20230605101619.png",
     "_Projekte_/MarCator/Pasted image 20230615132820.png",
