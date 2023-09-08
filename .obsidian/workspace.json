@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-08.md",
+                "file": "_Org_/Urlopy.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-08.md",
+                "file": "_Org_/Urlopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-08.md",
+                "file": "_Org_/Urlopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-08.md"
+                "file": "_Org_/Urlopy.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "1d5e9f67f2e92c60",
   "lastOpenFiles": [
+    "2023-09-08.md",
     "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
@@ -177,7 +178,6 @@
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "_Org_/Urlopy.md",
     "2023-09-07.md",
-    "2023-09-08.md",
     "2023-09-05.md",
     "2023-09-04.md",
     "2023-09-06.md",
