@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-07.md",
+                "file": "2023-09-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "2023-09-08.md"
               }
             }
           },
@@ -168,13 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98e9cf791e1a85cb",
+  "active": "1d5e9f67f2e92c60",
   "lastOpenFiles": [
     "2023-09-07.md",
+    "2023-09-08.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-09-05.md",
     "2023-09-04.md",
     "2023-09-06.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-09-07_13h11_19.png",
     "_Projekte_/MarCator/MarCator.md",
     "ToDo.md",
@@ -208,7 +208,6 @@
     "_Projekte_/MarCator/MarCator_HAL.canvas",
     "_Projekte_/MarCator/MarCator_scale.md",
     "OrderDB.canvas",
-    "_Div_/UI designs.md",
     "_Projekte_/MarCator/Pasted image 20230605101619.png",
     "_Projekte_/MarCator/Pasted image 20230615132820.png",
     "_Projekte_/MarCator/Pasted image 20230605101924.png",
