@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Org_/Urlopy.md",
+                "file": "_Private_/zakupy/zakupy.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Org_/Urlopy.md",
+                "file": "_Private_/zakupy/zakupy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Org_/Urlopy.md",
+                "file": "_Private_/zakupy/zakupy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Org_/Urlopy.md"
+                "file": "_Private_/zakupy/zakupy.md"
               }
             }
           },
@@ -167,8 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2506ee5dadf64034",
+  "active": "1d5e9f67f2e92c60",
   "lastOpenFiles": [
+    "_Private_/zakupy/2023-08-07_12h01_29.png",
+    "_Private_/zakupy/allegrogo.md",
+    "_Private_/zakupy/kompy.md",
+    "_Private_/zakupy/lapatopy_4k.md",
+    "_Private_/zakupy/Rowery.md",
+    "_Private_/zakupy/zakupy.md",
+    "_Org_/Urlopy.md",
     "2023-09-08.md",
     "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
@@ -176,7 +183,6 @@
     "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
     "_Org_/wniosek_o_urlop.md",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
-    "_Org_/Urlopy.md",
     "2023-09-07.md",
     "2023-09-05.md",
     "2023-09-04.md",
@@ -200,14 +206,8 @@
     "2021-08-30_10h24_14.png",
     "_Projekte_/MarCator/2023-07-27_12h37_26.png",
     "_Projekte_/MarCator/2023-07-28_16h53_19.png",
-    "domeny.md",
-    "garaz_wroclaw.md",
-    "GIT_cheatsheet.md",
-    "_Private_/zakupy/lapatopy_4k.md",
-    "_Private_/Komunia.md",
     "MEMO_CARDS.canvas",
     "Navbar.canvas",
-    "note-tools.md",
     "_Projekte_/MarCator/MarCator_HAL.canvas",
     "OrderDB.canvas",
     "_Projekte_/MarCator/Pasted image 20230605101619.png",
