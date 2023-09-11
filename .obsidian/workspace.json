@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "81124baaf46013fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wniosek_HO_tydzien_11.09.2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "98e9cf791e1a85cb",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
+                "file": "Wniosek_HO_tydzien_11.09.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
+                "file": "Wniosek_HO_tydzien_11.09.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Org_/Wniosek_HO_tydzien_15.05.2023.md"
+                "file": "Wniosek_HO_tydzien_11.09.2023.md"
               }
             }
           },
@@ -167,10 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d5e9f67f2e92c60",
+  "active": "81124baaf46013fa",
   "lastOpenFiles": [
-    "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
+    "_Org_/Wniosek_HO_tydzien_11.09.2023.pdf",
     "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
+    "Wniosek_HO_tydzien_11.09.2023.md",
+    "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
+    "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
     "_LogBook_/2023/2023.08/2023-08-log.md",
     "_LogBook_/2023/2023.08/2023-08-21.md",
     "_LogBook_/2023/2023.08/2023-08-31.md",
@@ -194,9 +210,6 @@
     "_Private_/zakupy/2023-08-07_12h01_29.png",
     "_Private_/zakupy/allegrogo.md",
     "_Private_/zakupy/kompy.md",
-    "_Private_/zakupy/lapatopy_4k.md",
-    "_Private_/zakupy/Rowery.md",
-    "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "2023-09-07_13h11_19.png",
     "dailyTools.canvas",
