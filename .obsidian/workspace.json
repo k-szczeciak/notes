@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wniosek_HO_tydzien_11.09.2023.md",
+                "file": "2023-09-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wniosek_HO_tydzien_11.09.2023.md",
+                "file": "2023-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wniosek_HO_tydzien_11.09.2023.md",
+                "file": "2023-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wniosek_HO_tydzien_11.09.2023.md"
+                "file": "2023-09-11.md"
               }
             }
           },
@@ -182,10 +182,12 @@
   },
   "active": "81124baaf46013fa",
   "lastOpenFiles": [
+    "2023-05-09_14h00_06.png",
+    "2023-09-11.md",
+    "Wniosek_HO_tydzien_11.09.2023.md",
     "_Org_/Wniosek_HO_tydzien_11.09.2023_podpis.pdf",
     "_Org_/Wniosek_HO_tydzien_11.09.2023.pdf",
     "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
-    "Wniosek_HO_tydzien_11.09.2023.md",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
     "_LogBook_/2023/2023.08/2023-08-log.md",
@@ -210,7 +212,6 @@
     "_Private_/zakupy/zakupy.md",
     "_Private_/zakupy/2023-08-07_12h01_29.png",
     "_Private_/zakupy/allegrogo.md",
-    "_Private_/zakupy/kompy.md",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "2023-09-07_13h11_19.png",
     "dailyTools.canvas",
@@ -235,7 +236,6 @@
     "Nowy folder",
     "_LogBook_/2023/2023.07/start.bat",
     "_LogBook_/2023/2023.07/auto.py",
-    "_LogBook_/2023/2023.09/start.bat",
     "Wien.canvas"
   ]
 }
