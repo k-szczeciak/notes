@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_LogBook_/2023/2023.08/2023-08-17.md",
+                "file": "2023-08-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_LogBook_/2023/2023.08/2023-08-17.md",
+                "file": "2023-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_LogBook_/2023/2023.08/2023-08-17.md",
+                "file": "2023-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_LogBook_/2023/2023.08/2023-08-17.md"
+                "file": "2023-08-21.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "1d5e9f67f2e92c60",
   "lastOpenFiles": [
+    "_LogBook_/2023/2023.08/2023-08-18.md",
+    "_LogBook_/2023/2023.08/2023-08-17.md",
     "_LogBook_/2023/2023.08/2023-08-16.md",
     "_LogBook_/2023/2023.08/2023-08-14.md",
     "_LogBook_/2023/2023.08/2023-08-11.md",
@@ -197,8 +199,6 @@
     "_Projekte_/MarCator/MarCator.md",
     "ToDo.md",
     "conflict-files-obsidian-git.md",
-    "2023-08-25.md",
-    "_Private_/PrivProjects.md",
     "dailyTools.canvas",
     "aboutCanvas.canvas",
     "2023-08-02_13h54_09.png",
