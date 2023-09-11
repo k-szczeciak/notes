@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/A1701/A1701.md",
+                "file": "2023-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/A1701/A1701.md",
+                "file": "2023-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/A1701/A1701.md"
+                "file": "2023-09-11.md"
               }
             }
           },
@@ -179,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81124baaf46013fa",
+  "active": "c3907b92d3f0cfb3",
   "lastOpenFiles": [
-    "2023-09-11.md",
     "_Projekte_/A1701/A1701.md",
+    "2023-09-11.md",
     "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/A1701/A1701_todo.md",
