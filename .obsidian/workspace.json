@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-15.md",
+                "file": "2023-09-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-15.md",
+                "file": "2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-15.md",
+                "file": "2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-15.md"
+                "file": "2023-09-18.md"
               }
             }
           },
@@ -189,6 +189,8 @@
   },
   "active": "a0b50558369b2658",
   "lastOpenFiles": [
+    "2023-09-15.md",
+    "2023-09-18.md",
     "2023-09-06.md",
     "_Projekte_/MilimarTool/README.md",
     "_Projekte_/MilimarTool",
@@ -206,7 +208,6 @@
     "_LogBook_/2023/2023.08/2023-08-22.md",
     "_LogBook_/2023/2023.08/2023-08-21.md",
     "Wniosek_HO_tydzien_11.09.2023.md",
-    "2023-09-15.md",
     "2023-09-14.md",
     "2023-09-13.md",
     "2023-09-12.md",
@@ -220,7 +221,6 @@
     "2023-09-01.md",
     "2023-08-28.md",
     "2023-08-31.md",
-    "2023-08-29.md",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "dailyTools.canvas",
