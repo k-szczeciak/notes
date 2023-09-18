@@ -1,38 +1,14 @@
 {
   "main": {
-    "id": "902cea3aeb21ed3c",
+    "id": "614042888f9337f5",
     "type": "split",
     "children": [
       {
-        "id": "18c8548c91be6bfd",
+        "id": "c73d035b1ec6585c",
         "type": "tabs",
         "children": [
           {
-            "id": "81124baaf46013fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projekte_/MarCator/MarCator_todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98e9cf791e1a85cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3907b92d3f0cfb3",
+            "id": "a0b50558369b2658",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,33 +20,44 @@
             }
           },
           {
-            "id": "fdab49459afc077a",
+            "id": "16871962427ef519",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-14.md",
+                "file": "2023-09-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04fd6d9e2b1e0585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_cheatsheet_/usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5e57006a00c011f9",
+    "id": "b079801fd8822fff",
     "type": "split",
     "children": [
       {
-        "id": "cfd48b81a0a194fc",
+        "id": "4246adb876b6ca6e",
         "type": "tabs",
         "children": [
           {
-            "id": "2506ee5dadf64034",
+            "id": "3e88f86a184ade1c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +67,7 @@
             }
           },
           {
-            "id": "d905e5e97264a782",
+            "id": "eb9d085954e04a61",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +82,15 @@
             }
           },
           {
-            "id": "f898a5dc978a3a3a",
+            "id": "919a0aab6ecbc3bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7aa5f3c03fb33739",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,18 +101,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 300
   },
   "right": {
-    "id": "40094356e9f9a728",
+    "id": "c5147cbeb35329d4",
     "type": "split",
     "children": [
       {
-        "id": "8947f8504776ca31",
+        "id": "f00e7b2a5b38ec80",
         "type": "tabs",
         "children": [
           {
-            "id": "fc70264e92f835c2",
+            "id": "c0e7e9d0195aa87a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -134,7 +129,7 @@
             }
           },
           {
-            "id": "cdcae8d194c978b4",
+            "id": "8707219fbe7e3a0c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -146,7 +141,7 @@
             }
           },
           {
-            "id": "f79f0ccea54f74f6",
+            "id": "ef60e6eca0a79a25",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,7 +152,7 @@
             }
           },
           {
-            "id": "92af47a59f7de177",
+            "id": "4b565baa84e30c58",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -167,21 +162,11 @@
             }
           },
           {
-            "id": "e56602f7891dba97",
+            "id": "86657b3a80225da3",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
-            }
-          },
-          {
-            "id": "97d0e093c352f423",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
             }
           }
         ],
@@ -202,62 +187,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3907b92d3f0cfb3",
+  "active": "a0b50558369b2658",
   "lastOpenFiles": [
-    "2023-09-14.md",
-    "2023-09-15.md",
-    "_Projekte_/MarCator/MarCator_todo.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/A1701/A1701.md",
-    "2023-09-13.md",
-    "2023-09-12.md",
-    "2023-09-11.md",
-    "_cheatsheet_/usefull URLs.md",
-    "_Org_/Wniosek_HO_tydzien_15.05.2023.md",
-    "_Projekte_/A1701/A1701_todo.md",
-    "2023-05-09_14h00_06.png",
-    "Wniosek_HO_tydzien_11.09.2023.md",
+    "2023-09-06.md",
+    "_Projekte_/MilimarTool/README.md",
+    "_Projekte_/MilimarTool",
     "_Org_/Wniosek_HO_tydzien_11.09.2023_podpis.pdf",
     "_Org_/Wniosek_HO_tydzien_11.09.2023.pdf",
-    "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
-    "_Org_/Wniosek_HO_tydzien_05.06.2023.md",
-    "_LogBook_/2023/2023.08/2023-08-log.md",
-    "_LogBook_/2023/2023.08/2023-08-21.md",
     "_LogBook_/2023/2023.08/2023-08-31.md",
-    "2023-09-01.md",
     "_LogBook_/2023/2023.08/2023-08-30.md",
+    "_LogBook_/2023/2023.08/2023-08-29_13h14_08.png",
+    "_LogBook_/2023/2023.08/2023-08-29_13h13_42.png",
     "_LogBook_/2023/2023.08/2023-08-29.md",
     "_LogBook_/2023/2023.08/2023-08-28.md",
     "_LogBook_/2023/2023.08/2023-08-25.md",
     "_LogBook_/2023/2023.08/2023-08-24.md",
     "_LogBook_/2023/2023.08/2023-08-23.md",
     "_LogBook_/2023/2023.08/2023-08-22.md",
-    "_LogBook_/2023/2023.08/2023-08-18.md",
-    "_LogBook_/2023/2023.08/2023-08-17.md",
-    "_Private_/zakupy/2023-08-07_12h01_29.png",
-    "_Org_/2023.08.30_wniosek_o_urlop.pdf",
+    "_LogBook_/2023/2023.08/2023-08-21.md",
+    "Wniosek_HO_tydzien_11.09.2023.md",
+    "2023-09-15.md",
+    "2023-09-14.md",
+    "2023-09-13.md",
+    "2023-09-12.md",
+    "2023-09-11.md",
+    "2023-09-08.md",
     "2023-09-07_13h11_19.png",
+    "2023-09-07.md",
+    "_cheatsheet_/usefull URLs.md",
+    "2023-09-04.md",
+    "2023-09-05.md",
+    "2023-09-01.md",
+    "2023-08-28.md",
+    "2023-08-31.md",
+    "2023-08-29.md",
+    "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
+    "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "dailyTools.canvas",
     "aboutCanvas.canvas",
-    "2023-08-02_13h54_09.png",
-    "2023-07-28_16h30_17.png",
-    "2023-07-28_16h30_05.png",
-    "2021-08-30_10h24_14.png",
-    "_Projekte_/MarCator/2023-07-27_12h37_26.png",
-    "_Projekte_/MarCator/2023-07-28_16h53_19.png",
-    "MEMO_CARDS.canvas",
-    "Navbar.canvas",
     "_Projekte_/MarCator/MarCator_HAL.canvas",
-    "OrderDB.canvas",
+    "_Projekte_/MarCator/MarCator_flashing.canvas",
+    "2023-08-29_13h14_08.png",
+    "2023-08-29_13h13_42.png",
+    "_Projekte_/MarCator/Pasted image 20230615132820.png",
+    "_Projekte_/MarCator/Pasted image 20230605101924.png",
+    "_Projekte_/MarCator/Pasted image 20230605101854.png",
     "_Projekte_/MarCator/Pasted image 20230605101619.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "_Org_",
-    "A1701_UI_pcb_imgs/Untitled",
+    "_Projekte_/MarCator/2023-07-28_16h53_19.png",
     "_Projekte_/A1701/A1701_UI_pcb_imgs",
-    "Nowy folder",
-    "_LogBook_/2023/2023.07/start.bat",
-    "_LogBook_/2023/2023.07/auto.py",
-    "Wien.canvas"
+    "_Org_",
+    "_LogBook_/2023/2023.09/start.bat",
+    "_LogBook_/2023/2023.09/auto.py",
+    "_LogBook_/2023/2023.09",
+    "Untitled.canvas",
+    "Wien.canvas",
+    "OrderDB.canvas",
+    "MarCator_HAL.canvas",
+    "Navbar.canvas",
+    "HolidaysDB.canvas"
   ]
 }
