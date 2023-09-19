@@ -6,3 +6,8 @@ takaway: monogram keyboard, magnetometer TLU493D, circuit python for hid (changi
 keycaps:
 https://www.youtube.com/watch?v=jNZkzK4l0F8
 papier do sublimacji: https://www.etsy.com/de/listing/549370705/custom-sublimation-transfers-sizes-up-to?ref=yr_purchases
+
+
+monogram: 
+https://monogramcc.com/shop/
+https://www.youtube.com/watch?v=-X1-Sz-Hd1U
