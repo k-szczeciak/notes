@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-18.md",
+                "file": "_Learn_/watch_later.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d0bfd5a71fef8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "keybords HID.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-18.md",
+                "file": "keybords HID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-18.md",
+                "file": "keybords HID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-18.md"
+                "file": "keybords HID.md"
               }
             }
           },
@@ -167,6 +180,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "9347a84becfbb832",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -187,10 +210,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b50558369b2658",
+  "active": "4d0bfd5a71fef8e7",
   "lastOpenFiles": [
-    "2023-09-15.md",
+    "_Learn_/watch_later.md",
+    "keybords HID.md",
+    "_Private_/zakupy/allegrogo.md",
+    "2023-09-19_09h31_54.png",
+    "_Private_/zakupy/zakupy.md",
     "2023-09-18.md",
+    "2023-09-15.md",
     "2023-09-06.md",
     "_Projekte_/MilimarTool/README.md",
     "_Projekte_/MilimarTool",
@@ -217,10 +245,6 @@
     "2023-09-07.md",
     "_cheatsheet_/usefull URLs.md",
     "2023-09-04.md",
-    "2023-09-05.md",
-    "2023-09-01.md",
-    "2023-08-28.md",
-    "2023-08-31.md",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "dailyTools.canvas",
@@ -233,7 +257,6 @@
     "_Projekte_/MarCator/Pasted image 20230605101924.png",
     "_Projekte_/MarCator/Pasted image 20230605101854.png",
     "_Projekte_/MarCator/Pasted image 20230605101619.png",
-    "_Projekte_/MarCator/2023-07-28_16h53_19.png",
     "_Projekte_/A1701/A1701_UI_pcb_imgs",
     "_Org_",
     "_LogBook_/2023/2023.09/start.bat",
