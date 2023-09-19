@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "2023-09-19.md"
               }
             }
           },
@@ -186,8 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4615fa3b072b4b0c",
+  "active": "a0b50558369b2658",
   "lastOpenFiles": [
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-09-19.md",
     "2023-09-18.md",
     "_Learn_/watch_later.md",
@@ -220,7 +220,6 @@
     "2023-09-08.md",
     "2023-09-07_13h11_19.png",
     "2023-09-07.md",
-    "_cheatsheet_/usefull URLs.md",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "dailyTools.canvas",
