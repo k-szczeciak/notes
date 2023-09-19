@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Learn_/watch_later.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d0bfd5a71fef8e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "keybords HID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16871962427ef519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04fd6d9e2b1e0585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-09-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keybords HID.md",
+                "file": "2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "keybords HID.md",
+                "file": "2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "keybords HID.md"
+                "file": "2023-09-19.md"
               }
             }
           },
@@ -210,14 +173,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d0bfd5a71fef8e7",
+  "active": "a0b50558369b2658",
   "lastOpenFiles": [
+    "2023-09-18.md",
+    "2023-09-19.md",
     "_Learn_/watch_later.md",
     "keybords HID.md",
     "_Private_/zakupy/allegrogo.md",
-    "2023-09-19_09h31_54.png",
+    "_Private_/zakupy/2023-09-19_09h31_54.png",
     "_Private_/zakupy/zakupy.md",
-    "2023-09-18.md",
     "2023-09-15.md",
     "2023-09-06.md",
     "_Projekte_/MilimarTool/README.md",
@@ -244,7 +208,6 @@
     "2023-09-07_13h11_19.png",
     "2023-09-07.md",
     "_cheatsheet_/usefull URLs.md",
-    "2023-09-04.md",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
     "dailyTools.canvas",
