@@ -555,3 +555,7 @@ sprawdzic ile pradu zezre z calej baetrii pomiar (ile ciagnie i ile trwa pomiar)
 urklopy
 phedit
 co z optymalizacja jeszcze funk???
+
+
+dku1:
+- is setting PRE2 1.0 mm should activate current preset to 2 if prevouse was PRE1???
