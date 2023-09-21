@@ -559,3 +559,6 @@ co z optymalizacja jeszcze funk???
 
 dku1:
 - is setting PRE2 1.0 mm should activate current preset to 2 if prevouse was PRE1???
+
+meeting 21.09.2023:
+- 
