@@ -81,3 +81,4 @@ do dku1:
 - LCDMEM przeslanie
 - symulacja przyciskow
 - podlaczoiny kablem to permanentnie wlaczony ???
+- numery dla funk nowych urzadzen

@@ -560,6 +560,30 @@ co z optymalizacja jeszcze funk???
 dku1:
 - is setting PRE2 1.0 mm should activate current preset to 2 if prevouse was PRE1???
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 
@@ -580,4 +604,6 @@ dku1:
 		- Warngrenze
 		- Kalibrationsdatum (neu)
 		- ...
-		- start und stop ???
+	- Marcom - gespareach mit Hr Ocker:
+		- start und stop  fuer Funk
+		- Darstellung
