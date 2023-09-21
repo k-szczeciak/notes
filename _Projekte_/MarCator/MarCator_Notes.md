@@ -568,4 +568,16 @@ dku1:
 	- **Bat-lo** anpassung (nach Artickelnummer, entweder von **Messsystem** oder von **ADC**)
 	- Artikelnummer konfiguration:
 		- Display Typ (var1, oder var2)
-		- Geraet Typ ()
+		- Geraet Typ (std, br, hr, 844)
+		- Einheit limit (alle, inch, mm)
+		- Funk (ja/nein)
+	- Kalibrationsdatum nach ISO 8601
+		- dku1 und funk
+		- datum pruefung (schaltjahr)
+	- ANT befehle (ueberwachung und anpassung):
+		- Preset (nominal)
+		- Toleranz
+		- Warngrenze
+		- Kalibrationsdatum (neu)
+		- ...
+		- start und stop ???
