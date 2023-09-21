@@ -560,5 +560,12 @@ co z optymalizacja jeszcze funk???
 dku1:
 - is setting PRE2 1.0 mm should activate current preset to 2 if prevouse was PRE1???
 
-meeting 21.09.2023:
-- 
+---
+
+
+### Meeting 21.09.2023:
+- FW aenderungen:
+	- **Bat-lo** anpassung (nach Artickelnummer, entweder von **Messsystem** oder von **ADC**)
+	- Artikelnummer konfiguration:
+		- Display Typ (var1, oder var2)
+		- Geraet Typ ()
