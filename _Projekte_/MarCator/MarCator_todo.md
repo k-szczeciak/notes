@@ -74,3 +74,10 @@ do czego sluzy 'ANZ_RF_TEST'
 
 !!! dlaczego nie poprawnie na moim lapi excel wyswietla wartosci
 sprawdzic jak jest powiazanie kanal, numer, ...
+
+
+do dku1:
+- CAL date
+- LCDMEM przeslanie
+- symulacja przyciskow
+- podlaczoiny kablem to permanentnie wlaczony ???
