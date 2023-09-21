@@ -595,6 +595,8 @@ dku1:
 		- Geraet Typ (std, br, hr, 844)
 		- Einheit limit (alle, inch, mm)
 		- Funk (ja/nein)
+		- HP
+		- Aufloesung
 	- Kalibrationsdatum nach ISO 8601
 		- dku1 und funk
 		- datum pruefung (schaltjahr)
