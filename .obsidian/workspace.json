@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "2023-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md"
+                "file": "2023-09-25.md"
               }
             }
           },
@@ -186,8 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4615fa3b072b4b0c",
+  "active": "a0b50558369b2658",
   "lastOpenFiles": [
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-09-19.md",
     "2023-09-25.md",
     "2023-09-22.md",
@@ -196,7 +196,6 @@
     "2023-09-20.md",
     "2023-09-21.md",
     "_Learn_/watch_later.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Learn_/Testowanie kodu mikroserwisów to bajka. - Jacek Milewski.md",
     "_Learn_/Learn.md",
     "2023-09-18.md",
