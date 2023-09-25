@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1e30d02fb1c0a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dom_dzialka.md",
+                "file": "2023-09-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dom_dzialka.md",
+                "file": "2023-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dom_dzialka.md",
+                "file": "2023-09-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dom_dzialka.md"
+                "file": "2023-09-25.md"
               }
             }
           },
@@ -210,11 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1e30d02fb1c0a98",
+  "active": "a0b50558369b2658",
   "lastOpenFiles": [
-    "2023-09-25_12h01_57.png",
     "2023-09-22.md",
+    "2023-09-25.md",
     "dom_dzialka.md",
+    "2023-09-25_12h01_57.png",
     "2023-09-20.md",
     "2023-09-21.md",
     "2023-09-19.md",
@@ -256,7 +244,6 @@
     "_Projekte_/MarCator/Pasted image 20230615132820.png",
     "_Projekte_/MarCator/Pasted image 20230605101924.png",
     "_Projekte_/MarCator/Pasted image 20230605101854.png",
-    "_Projekte_/MarCator/Pasted image 20230605101619.png",
     "_Projekte_/A1701/A1701_UI_pcb_imgs",
     "_Org_",
     "_LogBook_/2023/2023.09/start.bat",
