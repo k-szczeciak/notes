@@ -92,3 +92,5 @@ opcjonalne:
 - interface do precimara do automatycznego testowania i ew. kalibracji
 - dalsze rozwiniecie do MillimarTool 
 - web service do tego
+- json parametry do dku1 do c120 i marcator family
+- istqb
