@@ -77,7 +77,7 @@ sprawdzic jak jest powiazanie kanal, numer, ...
 
 
 do dku1:
-- CAL date
+- [x] CAL date
 - LCDMEM przeslanie
 - symulacja przyciskow
 - podlaczoiny kablem to permanentnie wlaczony ???
