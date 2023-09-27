@@ -82,3 +82,7 @@ do dku1:
 - symulacja przyciskow
 - podlaczoiny kablem to permanentnie wlaczony ???
 - numery dla funk nowych urzadzen
+
+
+
+krzywa kalibracyjna na bazie precimara: 10 punktow (x,y) i aproksymacja liniowa

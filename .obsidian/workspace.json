@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-26.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-26.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-26.md"
+                "file": "_Projekte_/MarCator/MarCator_todo.md"
               }
             }
           },
@@ -185,12 +186,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b50558369b2658",
+  "active": "4615fa3b072b4b0c",
   "lastOpenFiles": [
-    "_Private_/zdrowie.md",
     "2023-09-26.md",
-    "2023-09-25.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
+    "_Private_/zdrowie.md",
+    "2023-09-25.md",
     "2023-09-19.md",
     "2023-09-22.md",
     "dom_dzialka.md",
@@ -219,7 +221,6 @@
     "_LogBook_/2023/2023.08/2023-08-28.md",
     "_LogBook_/2023/2023.08/2023-08-25.md",
     "_LogBook_/2023/2023.08/2023-08-24.md",
-    "_LogBook_/2023/2023.08/2023-08-23.md",
     "2023-09-07_13h11_19.png",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
