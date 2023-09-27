@@ -86,3 +86,9 @@ do dku1:
 
 
 krzywa kalibracyjna na bazie precimara: 10 punktow (x,y) i aproksymacja liniowa
+
+
+opcjonalne:
+- interface do precimara do automatycznego testowania i ew. kalibracji
+- dalsze rozwiniecie do MillimarTool 
+- web service do tego
