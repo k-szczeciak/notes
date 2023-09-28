@@ -615,11 +615,11 @@ dku1:
 
 ### Meeting 28.09.2023:
 - Funk optimierung und erweiterung:
-	- bestimmung fuer 
+	- bestimmung fuer Preset und Tol Nummer und Tol ablauf
 	- F_MOD (modi anfragen, anpassung)
 	- F_ST (neues befehl, START und STOP fuer BR)
 	- nummern auswahl fuer Funk einstellung
-- alle artikel nummer sammlung und evaluierung
+- alle Artikel Nummer sammlung und evaluierung
 - anpassung fuer typen:
 	- std angefangen
 - neues MarCom zum testen
@@ -628,4 +628,4 @@ dku1:
 zum Klaeren:
 - 4337731
 - keine HP mit Einheit limitierung
-- 
+- nennmass und preset
