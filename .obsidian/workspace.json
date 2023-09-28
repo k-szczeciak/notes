@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "a4f4cdb902f5d4ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "fdab49459afc077a",
             "type": "leaf",
             "state": {
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3907b92d3f0cfb3",
+  "active": "a4f4cdb902f5d4ab",
   "lastOpenFiles": [
     "2023-09-22.md",
     "dom_dzialka.md",
