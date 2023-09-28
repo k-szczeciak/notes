@@ -615,9 +615,17 @@ dku1:
 
 ### Meeting 28.09.2023:
 - Funk optimierung und erweiterung:
-	- 
-- alle artickel nummer sammlung und evaluierung
+	- bestimmung fuer 
+	- F_MOD (modi anfragen, anpassung)
+	- F_ST (neues befehl, START und STOP fuer BR)
+	- nummern auswahl fuer Funk einstellung
+- alle artikel nummer sammlung und evaluierung
 - anpassung fuer typen:
-	- std
-	- 844
-	- hr
+	- std angefangen
+- neues MarCom zum testen
+- refactoring
+
+zum Klaeren:
+- 4337731
+- keine HP mit Einheit limitierung
+- 
