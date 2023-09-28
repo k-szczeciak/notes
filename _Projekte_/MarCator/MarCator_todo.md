@@ -55,7 +55,7 @@ maybe:
 ---
 ---
 - [ ] problem z ponownym polaczeniem przez przycisk w sytuacji gdy wylaczone zosatalo w czasie seak
-- [ ] brakujace rozkazy ANT
+- [x] brakujace rozkazy ANT
 - [ ] pomiar napiecia przy pradzie - problem resetu - spardzenie dokladniejsze
 - [ ] Bat-Lo - 1d
 - [ ] pomiar napiecia baterii z dzielnika napiecia
@@ -85,7 +85,7 @@ do dku1:
 
 
 
-krzywa kalibracyjna na bazie precimara: 10 punktow (x,y) i aproksymacja liniowa
+??? krzywa kalibracyjna na bazie precimara: 10 punktow (x,y) i aproksymacja liniowa
 
 
 opcjonalne:
@@ -93,4 +93,11 @@ opcjonalne:
 - dalsze rozwiniecie do MillimarTool 
 - web service do tego
 - json parametry do dku1 do c120 i marcator family
-- istqb
+
+
+
+
+next:
+- [ ] display var eval
+- [ ] type var eval 
+- [ ] 
