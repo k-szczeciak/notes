@@ -609,3 +609,15 @@ dku1:
 	- Marcom - gespareach mit Hr Ocker:
 		- start und stop  fuer Funk
 		- Darstellung
+
+
+---
+
+### Meeting 28.09.2023:
+- Funk optimierung und erweiterung:
+	- 
+- alle artickel nummer sammlung und evaluierung
+- anpassung fuer typen:
+	- std
+	- 844
+	- hr

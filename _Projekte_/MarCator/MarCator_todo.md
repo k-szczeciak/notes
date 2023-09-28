@@ -99,5 +99,10 @@ opcjonalne:
 
 next:
 - [ ] display var eval
-- [ ] type var eval 
-- [ ] 
+- [ ] type var eval - biggest (std, br, 844, hr)
+- [ ] resolution eval
+- [ ] units eval
+- [ ] radio eval
+
+- [ ] new hw
+- [ ] power optimization
