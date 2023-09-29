@@ -107,4 +107,9 @@ next:
 - [ ] new hw
 - [ ] power optimization
 
-schnittstelle do precimar
+schnittstelle do precimar - i testy automatyczne - wraz z sterowaniem digital twin. 
+
+
+// schitstelle ogolne dokonczyc
+// poukladac - architektura - tak aby dalo sie funkcje latwo przelaczac i warstwy stworzyc - dokumentacja architektury
+// zrobic digital twin, symulacja
