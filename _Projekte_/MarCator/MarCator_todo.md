@@ -78,10 +78,10 @@ sprawdzic jak jest powiazanie kanal, numer, ...
 
 do dku1:
 - [x] CAL date
-- LCDMEM przeslanie
-- symulacja przyciskow
-- podlaczoiny kablem to permanentnie wlaczony ???
-- numery dla funk nowych urzadzen
+- [x] LCDMEM przeslanie
+- [x] symulacja przyciskow
+- [ ] podlaczoiny kablem to permanentnie wlaczony ???
+- [ ] numery dla funk nowych urzadzen
 
 
 
@@ -110,6 +110,18 @@ next:
 schnittstelle do precimar - i testy automatyczne - wraz z sterowaniem digital twin. 
 
 
+- [ ] sprawdzic czasy cyklicznego wysylania dla dku1 i ANT
+- [ ] dokonczyc art nummer
+- [ ] uzyc AI do przygotowania ekranu wizualizacji
+
+dokonczyc dokumentacje dla ant i dku1
+
 // schitstelle ogolne dokonczyc
 // poukladac - architektura - tak aby dalo sie funkcje latwo przelaczac i warstwy stworzyc - dokumentacja architektury
-// zrobic digital twin, symulacja
+// zrobic digital twin
+
+
+!!! sprawdzic przycisk req na kablu
+
+platforma do tworzenia MillimarTool
+JSON do befehlow, parametrow itp
