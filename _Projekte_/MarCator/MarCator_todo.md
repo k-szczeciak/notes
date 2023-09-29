@@ -106,3 +106,5 @@ next:
 
 - [ ] new hw
 - [ ] power optimization
+
+schnittstelle do precimar
