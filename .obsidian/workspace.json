@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a18c1897f8121ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eclipse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-02.md",
+                "file": "eclipse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-02.md",
+                "file": "eclipse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-02.md"
+                "file": "eclipse.md"
               }
             }
           },
@@ -202,11 +214,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a594a192a3aad27",
+  "active": "2a18c1897f8121ad",
   "lastOpenFiles": [
+    "2023-10-02.md",
+    "eclipse.md",
     "2023-09-29.md",
     "_Projekte_/MarCator/MarCator_todo.md",
-    "2023-10-02.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-09-26.md",
     "_Private_/job-search/job search.md",
@@ -230,7 +243,6 @@
     "2023-09-25_12h01_57.png",
     "2023-09-20.md",
     "2023-09-19.md",
-    "2023-09-18.md",
     "2023-09-07_13h11_19.png",
     "_Private_/zakupy/2023-09-19_09h31_54.png",
     "2023-05-09_14h00_06.png",
