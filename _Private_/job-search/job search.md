@@ -158,3 +158,8 @@ security and crypto
 
 rozmowa sii crypto:
 [GDB online Debugger | Code, Compile, Run, Debug online C, C++ (onlinegdb.com)](https://www.onlinegdb.com/kJogws_N5)
+
+
+2023-10-02:
+- [ ] https://www.bosch.de/karriere/job/REF164412R-research-engineer-tools-and-methods-for-embedded-ai-system-design-f-m-div/
+- [ ] 
