@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-02.md",
+                "file": "2023-09-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-02.md",
+                "file": "2023-09-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-02.md"
+                "file": "2023-09-29.md"
               }
             }
           },
@@ -202,12 +201,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a594a192a3aad27",
+  "active": "81124baaf46013fa",
   "lastOpenFiles": [
     "_Projekte_/MarCator/MarCator_todo.md",
+    "2023-10-02.md",
     "2023-09-29.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
-    "2023-10-02.md",
     "2023-09-26.md",
     "_Private_/job-search/job search.md",
     "_Private_/job-search/Software architect - embedded Devces.md",
