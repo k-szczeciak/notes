@@ -162,4 +162,7 @@ rozmowa sii crypto:
 
 2023-10-02:
 - [ ] https://www.bosch.de/karriere/job/REF164412R-research-engineer-tools-and-methods-for-embedded-ai-system-design-f-m-div/
+- [ ] https://www.bosch.de/karriere/job/REF203416B-algorithm-developer-for-smart-glasses-f-m-div/
+- [ ] https://www.bosch.de/karriere/job/REF209626F-praktikum-im-bereich-systementwicklung-schwerpunkt-software-und-simulation/
+- [ ] https://www.bosch.de/karriere/job/REF183880A-softwareentwickler-hardwarenahe-software-w-m-div/
 - [ ] 
