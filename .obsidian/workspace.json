@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/eclipse.md",
+                "file": "2023-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/eclipse.md",
+                "file": "2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/eclipse.md"
+                "file": "2023-10-02.md"
               }
             }
           },
@@ -214,10 +214,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2506ee5dadf64034",
+  "active": "2a594a192a3aad27",
   "lastOpenFiles": [
-    "2023-10-02.md",
     "_cheatsheet_/eclipse.md",
+    "2023-10-02.md",
     "2023-09-29.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
