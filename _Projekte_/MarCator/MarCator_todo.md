@@ -125,3 +125,6 @@ dokonczyc dokumentacje dla ant i dku1
 
 platforma do tworzenia MillimarTool
 JSON do befehlow, parametrow itp
+
+
+!!! - [ ] dopracowac logike radia
