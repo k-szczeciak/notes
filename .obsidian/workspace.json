@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2a594a192a3aad27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a18c1897f8121ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_cheatsheet_/eclipse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-04.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-04.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-04.md"
+                "file": "_Projekte_/MarCator/MarCator_todo.md"
               }
             }
           },
@@ -214,17 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdab49459afc077a",
+  "active": "98e9cf791e1a85cb",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "2023-09-29.md",
     "2023-10-04.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "2023-10-02.md",
+    "_cheatsheet_/eclipse.md",
+    "2023-09-29.md",
     "2023-10-03.md",
     "Millmess_issue_03.10.2023.md",
     "2023-10-03_12h41_37.png",
-    "_Projekte_/MarCator/MarCator_todo.md",
-    "2023-10-02.md",
-    "_cheatsheet_/eclipse.md",
     "2023-09-26.md",
     "_Private_/job-search/job search.md",
     "_Private_/job-search/Software architect - embedded Devces.md",

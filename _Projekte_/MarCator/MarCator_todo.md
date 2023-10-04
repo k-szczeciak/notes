@@ -128,3 +128,15 @@ JSON do befehlow, parametrow itp
 
 
 !!! - [ ] dopracowac logike radia
+
+
+
+## Milestones:
+- [ ] Funkcja std
+- [ ] Funkcja HR
+- [ ] Funkcja 844
+- [ ] pozostale opcje (vars)
+- [ ] optymalizacja pradu
+- [ ] cleanup
+- [ ] merge request
+- [ ] 
