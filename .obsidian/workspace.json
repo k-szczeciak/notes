@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-03.md",
+                "file": "2023-10-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-03.md",
+                "file": "2023-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-03.md",
+                "file": "2023-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-03.md"
+                "file": "2023-10-04.md"
               }
             }
           },
@@ -216,8 +216,9 @@
   },
   "active": "fdab49459afc077a",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-10-03.md",
+    "2023-10-04.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "Millmess_issue_03.10.2023.md",
     "2023-10-03_12h41_37.png",
     "_Projekte_/MarCator/MarCator_todo.md",
