@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-04.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-04.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-04.md",
+                "file": "_cheatsheet_/usefull URLs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-04.md"
+                "file": "_cheatsheet_/usefull URLs.md"
               }
             }
           },
@@ -192,9 +192,10 @@
   },
   "active": "fdab49459afc077a",
   "lastOpenFiles": [
+    "_cheatsheet_/services.md",
+    "2023-10-04.md",
     "2023-09-29.md",
     "_Projekte_/MarCator/MarCator_todo.md",
-    "2023-10-04.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-10-02.md",
     "_cheatsheet_/eclipse.md",
@@ -218,7 +219,6 @@
     "2023-09-25.md",
     "2023-09-22.md",
     "2023-09-21.md",
-    "2023-09-14.md",
     "2023-09-25_12h01_57.png",
     "2023-09-07_13h11_19.png",
     "_Private_/zakupy/2023-09-19_09h31_54.png",
