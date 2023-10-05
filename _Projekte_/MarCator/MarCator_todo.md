@@ -128,7 +128,8 @@ JSON do befehlow, parametrow itp
 
 
 !!! - [ ] dopracowac logike radia
-
+- [ ] sprawdzic ustawienia od Nico do  uart rasdia
+- [ ] 
 
 
 ## Milestones:
