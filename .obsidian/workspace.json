@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-05.md",
+                "file": "2023-10-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2023-10-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2023-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2023-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2023-10-04.md"
               }
             }
           },
@@ -214,9 +214,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5423cd1c420ab08c",
+  "active": "c3907b92d3f0cfb3",
   "lastOpenFiles": [
     "2023-10-05.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
     "conflict-files-obsidian-git.md",
     "_cheatsheet_/eclipse.md",
     "Millmess_issue_03.10.2023.md",
@@ -229,7 +230,6 @@
     "2023-09-27.md",
     "2023-09-28.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
-    "_Projekte_/MarCator/MarCator_todo.md",
     "2023-09-13.md",
     "2023-09-12.md",
     "2023-09-11.md",
