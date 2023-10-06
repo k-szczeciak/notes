@@ -130,6 +130,8 @@ JSON do befehlow, parametrow itp
 !!! - [ ] dopracowac logike radia
 - [ ] sprawdzic ustawienia od Nico do  uart rasdia
 - [ ] 
+dodac LCD1? i LCD0? wysylanie tylko zmian jezeli zaistnialy za kazdym cyklem (tez ledow) - tylko mozliwe jezeli kabel podlaczony
+LED? - status ledow
 
 
 ## Milestones:

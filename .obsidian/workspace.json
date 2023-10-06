@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-26.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-29.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-29.md",
+                "file": "_Projekte_/MarCator/MarCator_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-29.md"
+                "file": "_Projekte_/MarCator/MarCator_todo.md"
               }
             }
           },
@@ -214,11 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdab49459afc077a",
+  "active": "81124baaf46013fa",
   "lastOpenFiles": [
+    "2023-09-26.md",
+    "2023-09-29.md",
     "2023-10-03.md",
     "2023-10-02.md",
-    "2023-09-29.md",
     "2023-09-28.md",
     "2023-09-20.md",
     "2023-10-03_12h41_37.png",
@@ -230,7 +230,6 @@
     "conflict-files-obsidian-git.md",
     "_cheatsheet_/eclipse.md",
     "Millmess_issue_03.10.2023.md",
-    "2023-09-26.md",
     "2023-09-27.md",
     "2023-09-13.md",
     "2023-09-12.md",
