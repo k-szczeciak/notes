@@ -18,7 +18,7 @@
 </div>
 <br><br>
 <div>
-Prosze o udzielenie urlopu wypoczynkowego w dniach od 18.10.2023r (Środa) do 25.10.2023 (Środa): 5 dni roboczych.
+Prosze o udzielenie urlopu wypoczynkowego w dniach od 18.10.2023r (Środa) do 25.10.2023 (Środa): 6 dni roboczych.
 </div>
 <br><br><br>
 
