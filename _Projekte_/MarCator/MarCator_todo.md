@@ -132,7 +132,7 @@ JSON do befehlow, parametrow itp
 - [ ] 
 dodac LCD1? i LCD0? wysylanie tylko zmian jezeli zaistnialy za kazdym cyklem (tez ledow) - tylko mozliwe jezeli kabel podlaczony
 LED? - status ledow
-
+- [ ] usunac ze startu 1087, bo "1" jest odczytywna jako watrtosc moz ewiec: MC
 
 ## Milestones:
 - [ ] Funkcja std
