@@ -150,3 +150,4 @@ plan:
 pazdziernik - dokonczenie wariantow
 listopad - czyszczenie i debugging, dodatkowe fukcje jak LCD digital twin
 grudzien kontynuacja z MillimarTool i gateway i webservice
+testy jednostkowe i integracyjne automatczne (istqb) - precimar
