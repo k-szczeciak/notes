@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wniosek_HO_tydzien_11.09.2023.md",
+                "file": "_Org_/wniosek_o_urlop_2023-10-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wniosek_HO_tydzien_11.09.2023.md",
+                "file": "_Org_/wniosek_o_urlop_2023-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wniosek_HO_tydzien_11.09.2023.md",
+                "file": "_Org_/wniosek_o_urlop_2023-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wniosek_HO_tydzien_11.09.2023.md"
+                "file": "_Org_/wniosek_o_urlop_2023-10-18.md"
               }
             }
           },
@@ -167,7 +167,12 @@
   },
   "active": "81124baaf46013fa",
   "lastOpenFiles": [
-    "Wniosek_HO_tydzien_11.09.2023.md",
+    "_Org_/wniosek_o_urlop.md",
+    "_Org_/wniosek_o_urlop_2023-10-18.md",
+    "_Org_/Wniosek_HO_tydzien_11.09.2023_podpis.pdf",
+    "20230111_etraining-certificate.pdf",
+    "_Org_/Urlopy.md",
+    "_Org_/Wniosek_HO_tydzien_11.09.2023.md",
     "_Projekte_/MarCator/2023-07-28_16h53_19.png",
     "_Projekte_/MarCator/2023-07-27_12h37_26.png",
     "2023-10-06.md",
@@ -193,14 +198,10 @@
     "2023-09-11.md",
     "2023-09-08.md",
     "2023-09-07.md",
-    "2023-09-06.md",
-    "2023-09-05.md",
-    "2023-09-04.md",
     "2023-09-25_12h01_57.png",
     "2023-09-07_13h11_19.png",
     "_Private_/zakupy/2023-09-19_09h31_54.png",
     "2023-05-09_14h00_06.png",
-    "_Org_/Wniosek_HO_tydzien_11.09.2023_podpis.pdf",
     "_Org_/Wniosek_HO_tydzien_11.09.2023.pdf",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Private_/zakupy/2023-08-07_12h01_29.png",
@@ -220,7 +221,6 @@
     "_Projekte_/A1701/A1701_UI_pcb_imgs",
     "Nowy folder",
     "_LogBook_/2023/2023.07/start.bat",
-    "_LogBook_/2023/2023.07/auto.py",
     "Wien.canvas"
   ]
 }
