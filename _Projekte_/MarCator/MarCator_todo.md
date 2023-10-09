@@ -148,4 +148,5 @@ LED? - status ledow
 
 plan:
 pazdziernik - dokonczenie wariantow
-listopad - 
+listopad - czyszczenie i debugging, dodatkowe fukcje jak LCD digital twin
+grudzien kontynuacja z MillimarTool i gateway i webservice
