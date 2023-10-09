@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-10-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md",
+                "file": "2023-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_cheatsheet_/usefull URLs.md"
+                "file": "2023-10-09.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "81124baaf46013fa",
   "lastOpenFiles": [
+    "_cheatsheet_/usefull URLs.md",
+    "2023-10-09.md",
     "_Org_/2023-10-18_wniosek_o_urlop.md",
     "_Org_/2023-10-18_wniosek_o_urlop.pdf",
     "_Org_/wniosek_o_urlop.md",
@@ -181,7 +183,6 @@
     "2023-10-05.md",
     "2023-09-29.md",
     "_Projekte_/MarCator/MarCator_todo.md",
-    "_cheatsheet_/usefull URLs.md",
     "_cheatsheet_/services.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-10-02.md",
