@@ -143,4 +143,9 @@ LED? - status ledow
 - [ ] optymalizacja pradu
 - [ ] cleanup
 - [ ] merge request
-- [ ] 
+
+
+
+plan:
+pazdziernik - dokonczenie wariantow
+listopad - 
