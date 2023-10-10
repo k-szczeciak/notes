@@ -629,3 +629,9 @@ zum Klaeren:
 - 4337731
 - keine HP mit Einheit limitierung
 - nennmass und preset
+
+
+
+Quastions:
+??? czy switching off powinien byc niemozliwy gdy jest hold???
+??? dodanie tych befehli do ANT??? zapytac - do obslugi typu urzadzenia
