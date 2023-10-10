@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-10.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-10.md",
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-10.md"
+                "file": "_Projekte_/MarCator/MarCator_Notes.md"
               }
             }
           },
@@ -189,10 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81124baaf46013fa",
+  "active": "7fbb9e9a1f026408",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-10-10.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-10-09.md",
     "2023-10-04.md",

@@ -635,3 +635,4 @@ zum Klaeren:
 Quastions:
 ??? czy switching off powinien byc niemozliwy gdy jest hold???
 ??? dodanie tych befehli do ANT??? zapytac - do obslugi typu urzadzenia
+??? nacisniecie reset kiedy jest Hold - czy komunikat czy wylaczyc hold i zresetowac
