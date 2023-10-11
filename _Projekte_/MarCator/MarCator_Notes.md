@@ -637,3 +637,4 @@ Quastions:
 ??? dodanie tych befehli do ANT??? zapytac - do obslugi typu urzadzenia
 ??? nacisniecie reset kiedy jest Hold - czy komunikat czy wylaczyc hold i zresetowac
 ??? czy brak wlaczania dla min i max jezeli nie zmienia sie wartosc
+??? czy brand name Dla Helios-Preser moze byc krotsza???
