@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-03.md",
+                "file": "2023-10-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-11.md"
+                "file": "2023-10-06.md"
               }
             }
           },
@@ -202,22 +202,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fbb9e9a1f026408",
+  "active": "359d2ba98d3dbec7",
   "lastOpenFiles": [
-    "_Projekte_/MarCator/MarCator_todo.md",
-    "2023-10-11.md",
+    "2023-10-09.md",
     "2023-10-10.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
+    "2023-10-06.md",
+    "2023-10-05.md",
     "2023-10-03.md",
+    "2023-10-11.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
+    "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-10-02.md",
     "2023-09-29.md",
     "2023-09-28.md",
     "2023-09-27.md",
     "2023-09-26.md",
     "2023-10-04.md",
-    "2023-10-09.md",
-    "2023-10-05.md",
-    "2023-10-06.md",
     "_cheatsheet_/usefull URLs.md",
     "_Org_/2023-10-18_wniosek_o_urlop.md",
     "_Org_/2023-10-18_wniosek_o_urlop.pdf",
