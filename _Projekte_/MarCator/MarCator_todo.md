@@ -134,6 +134,7 @@ dodac LCD1? i LCD0? wysylanie tylko zmian jezeli zaistnialy za kazdym cyklem (te
 LED? - status ledow
 - [x] usunac ze startu 1087 do dku1, bo "1" jest odczytywna jako watrtosc moz ewiec: MC
 - [ ] co z radiem jezeli nie ma wg numeru
+- [ ] dodac do pliku wynikowego numer wersji
 
 ## Milestones:
 - [ ] Funkcja std
