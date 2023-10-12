@@ -135,7 +135,7 @@ LED? - status ledow
 - [x] usunac ze startu 1087 do dku1, bo "1" jest odczytywna jako watrtosc moz ewiec: MC
 - [ ] co z radiem jezeli nie ma wg numeru
 - [ ] dodac do pliku wynikowego numer wersji
-- [ ] Millimess polaczenie jest stablilnej
+- [ ] Millimess polaczenie jest stablilnejsze, sprawdzic ustawienia
 
 ## Milestones:
 - [ ] Funkcja std
@@ -163,4 +163,4 @@ dodac:
 17: 844 touch
 18: HP 844
 
-dodac do opisu W
+dodac do opisu W (wasserdicht, new var) w MC
