@@ -164,7 +164,7 @@ dodac:
 18: HP 844
 
 dodac do opisu W (wasserdicht, new var) w MC
-
+poprawic funk d
 
 Milimess - zalaczanie ...
 brak wysylania ERR0 z do funk
