@@ -164,7 +164,8 @@ dodac:
 18: HP 844
 
 dodac do opisu W (wasserdicht, new var) w MC
-poprawic funk d
+poprawic funk dir w MC (tak jak w MM)
 
 Milimess - zalaczanie ...
 brak wysylania ERR0 z do funk
+touch przestaje dzialac...
