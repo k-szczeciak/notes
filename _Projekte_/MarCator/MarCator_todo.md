@@ -135,6 +135,7 @@ LED? - status ledow
 - [x] usunac ze startu 1087 do dku1, bo "1" jest odczytywna jako watrtosc moz ewiec: MC
 - [ ] co z radiem jezeli nie ma wg numeru
 - [ ] dodac do pliku wynikowego numer wersji
+- [ ] Millimess polaczenie jest stablilnej
 
 ## Milestones:
 - [ ] Funkcja std
