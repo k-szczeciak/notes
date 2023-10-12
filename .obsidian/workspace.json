@@ -13,48 +13,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55fef29abfde4c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Projekte_/MarCator/MarCator_todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fbb9e9a1f026408",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2023-10-11_16h11_15.png"
-              }
-            }
-          },
-          {
-            "id": "359d2ba98d3dbec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2023-10-06.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "98e9cf791e1a85cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Projekte_/MarCator/MarCator_Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3907b92d3f0cfb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5423cd1c420ab08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdab49459afc077a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11_16h11_15.png",
+                "file": "2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11_16h11_15.png",
+                "file": "2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-11_16h11_15.png"
+                "file": "2023-10-06.md"
               }
             }
           },
@@ -200,46 +213,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fbb9e9a1f026408",
+  "active": "2506ee5dadf64034",
   "lastOpenFiles": [
+    "_Org_/Wniosek_HO_tydzien_11.09.2023.md",
+    "_Org_/2023-10-18_wniosek_o_urlop.pdf",
+    "_Org_/2023-10-18_wniosek_o_urlop.md",
+    "20230111_etraining-certificate.pdf",
+    "2023-10-11_16h11_49.png",
+    "2023-10-11_16h11_39.png",
+    "2023-10-11_16h11_15.png",
     "2023-10-11_16h10_59.png",
     "2023-10-11_16h10_23.png",
     "2023-10-11.md",
-    "2023-10-11_16h11_49.png",
-    "2023-10-11_16h11_39.png",
-    "_Projekte_/MarCator/Pasted image 20230605101619.png",
-    "2023-10-11_16h11_15.png",
-    "2023-10-06.md",
-    "2023-10-09.md",
     "2023-10-10.md",
+    "2023-10-09.md",
     "2023-10-05.md",
-    "2023-10-03.md",
-    "_Projekte_/MarCator/MarCator_todo.md",
-    "_Projekte_/MarCator/MarCator_Notes.md",
-    "2023-10-02.md",
-    "2023-09-29.md",
-    "2023-09-28.md",
-    "2023-09-27.md",
-    "2023-09-26.md",
+    "2023-10-06.md",
     "2023-10-04.md",
-    "_cheatsheet_/usefull URLs.md",
-    "_Org_/2023-10-18_wniosek_o_urlop.md",
-    "_Org_/2023-10-18_wniosek_o_urlop.pdf",
-    "_Org_/wniosek_o_urlop.md",
-    "_Org_/Wniosek_HO_tydzien_11.09.2023_podpis.pdf",
-    "20230111_etraining-certificate.pdf",
-    "_Org_/Urlopy.md",
-    "_Org_/Wniosek_HO_tydzien_11.09.2023.md",
-    "_Projekte_/MarCator/2023-07-28_16h53_19.png",
-    "_Projekte_/MarCator/2023-07-27_12h37_26.png",
-    "_cheatsheet_/services.md",
+    "_Projekte_/MarCator/MarCator_todo.md",
+    "2023-09-26.md",
+    "2023-09-29.md",
+    "2023-10-03.md",
+    "2023-10-02.md",
+    "2023-09-28.md",
+    "2023-09-20.md",
+    "2023-10-03_12h41_37.png",
+    "2023-09-25_12h01_57.png",
+    "_Projekte_/MarCator/MarCator_Notes.md",
+    "conflict-files-obsidian-git.md",
     "_cheatsheet_/eclipse.md",
     "Millmess_issue_03.10.2023.md",
-    "2023-10-03_12h41_37.png",
-    "_Private_/job-search/job search.md",
-    "_Private_/job-search/Software architect - embedded Devces.md",
+    "2023-09-27.md",
     "2023-09-13.md",
-    "2023-09-25_12h01_57.png",
+    "2023-09-12.md",
+    "2023-09-11.md",
+    "2023-09-08.md",
+    "2023-09-07.md",
+    "2023-09-06.md",
+    "2023-09-07_13h11_19.png",
+    "_Private_/zakupy/2023-09-19_09h31_54.png",
+    "2023-05-09_14h00_06.png",
+    "_Org_/Wniosek_HO_tydzien_11.09.2023_podpis.pdf",
     "_Org_/Wniosek_HO_tydzien_11.09.2023.pdf",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",
     "_Org_/2023.08.30_wniosek_o_urlop.pdf",
