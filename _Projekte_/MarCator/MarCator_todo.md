@@ -152,3 +152,14 @@ pazdziernik - dokonczenie wariantow
 listopad - czyszczenie i debugging, dodatkowe fukcje jak LCD digital twin
 grudzien kontynuacja z MillimarTool i gateway i webservice
 testy jednostkowe i integracyjne automatczne (istqb) - precimar
+
+
+
+funk nummer:
+dodac:
+15:HP 86
+16: HP 87
+17: 844 touch
+18: HP 844
+
+dodac do opisu W
