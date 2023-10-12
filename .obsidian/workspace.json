@@ -11,9 +11,11 @@
             "id": "81124baaf46013fa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2023-10-11_16h11_49.png"
+                "file": "2023-10-11.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -59,13 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-29.md",
+                "file": "2023-10-12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11_16h11_49.png",
+                "file": "2023-10-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11_16h11_49.png",
+                "file": "2023-10-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-11_16h11_49.png"
+                "file": "2023-10-12.md"
               }
             }
           },
@@ -211,27 +214,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81124baaf46013fa",
+  "active": "fdab49459afc077a",
   "lastOpenFiles": [
+    "2023-09-29.md",
+    "2023-10-11.md",
+    "2023-10-11_16h11_49.png",
     "2023-10-11_16h11_39.png",
     "2023-10-11_16h11_15.png",
     "2023-10-11_16h10_59.png",
     "2023-10-11_16h10_23.png",
     "2023-10-12.md",
-    "2023-10-11.md",
     "2023-10-06.md",
     "_Org_/Wniosek_HO_tydzien_11.09.2023.md",
     "_Org_/2023-10-18_wniosek_o_urlop.pdf",
     "_Org_/2023-10-18_wniosek_o_urlop.md",
     "20230111_etraining-certificate.pdf",
-    "2023-10-11_16h11_49.png",
     "2023-10-10.md",
     "2023-10-09.md",
     "2023-10-05.md",
     "2023-10-04.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-09-26.md",
-    "2023-09-29.md",
     "2023-10-03.md",
     "2023-10-02.md",
     "2023-09-28.md",
