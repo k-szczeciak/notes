@@ -11,11 +11,9 @@
             "id": "81124baaf46013fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2023-10-06.md",
-                "mode": "source",
-                "source": false
+                "file": "2023-10-11_16h11_15.png"
               }
             }
           },
@@ -133,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-06.md",
+                "file": "2023-10-11_16h11_15.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-06.md",
+                "file": "2023-10-11_16h11_15.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-06.md"
+                "file": "2023-10-11_16h11_15.png"
               }
             }
           },
@@ -213,8 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2506ee5dadf64034",
+  "active": "81124baaf46013fa",
   "lastOpenFiles": [
+    "2023-10-11_16h10_59.png",
+    "2023-10-11_16h10_23.png",
+    "2023-10-12.md",
+    "2023-10-11.md",
+    "2023-10-06.md",
     "_Org_/Wniosek_HO_tydzien_11.09.2023.md",
     "_Org_/2023-10-18_wniosek_o_urlop.pdf",
     "_Org_/2023-10-18_wniosek_o_urlop.md",
@@ -222,13 +225,9 @@
     "2023-10-11_16h11_49.png",
     "2023-10-11_16h11_39.png",
     "2023-10-11_16h11_15.png",
-    "2023-10-11_16h10_59.png",
-    "2023-10-11_16h10_23.png",
-    "2023-10-11.md",
     "2023-10-10.md",
     "2023-10-09.md",
     "2023-10-05.md",
-    "2023-10-06.md",
     "2023-10-04.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-09-26.md",
@@ -248,8 +247,6 @@
     "2023-09-12.md",
     "2023-09-11.md",
     "2023-09-08.md",
-    "2023-09-07.md",
-    "2023-09-06.md",
     "2023-09-07_13h11_19.png",
     "_Private_/zakupy/2023-09-19_09h31_54.png",
     "2023-05-09_14h00_06.png",
