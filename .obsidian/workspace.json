@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "2023-10-11_16h11_15.png"
+                "file": "2023-10-11_16h11_49.png"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11_16h11_15.png",
+                "file": "2023-10-11_16h11_49.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11_16h11_15.png",
+                "file": "2023-10-11_16h11_49.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-11_16h11_15.png"
+                "file": "2023-10-11_16h11_49.png"
               }
             }
           },
@@ -213,6 +213,8 @@
   },
   "active": "81124baaf46013fa",
   "lastOpenFiles": [
+    "2023-10-11_16h11_39.png",
+    "2023-10-11_16h11_15.png",
     "2023-10-11_16h10_59.png",
     "2023-10-11_16h10_23.png",
     "2023-10-12.md",
@@ -223,8 +225,6 @@
     "_Org_/2023-10-18_wniosek_o_urlop.md",
     "20230111_etraining-certificate.pdf",
     "2023-10-11_16h11_49.png",
-    "2023-10-11_16h11_39.png",
-    "2023-10-11_16h11_15.png",
     "2023-10-10.md",
     "2023-10-09.md",
     "2023-10-05.md",
