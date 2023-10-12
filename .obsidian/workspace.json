@@ -47,11 +47,9 @@
             "id": "5423cd1c420ab08c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2023-10-11.md",
-                "mode": "source",
-                "source": false
+                "file": "2023-10-11_16h10_23.png"
               }
             }
           },
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "2023-10-11_16h10_23.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "2023-10-11_16h10_23.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-11.md"
+                "file": "2023-10-11_16h10_23.png"
               }
             }
           },
@@ -216,21 +214,24 @@
   },
   "active": "5423cd1c420ab08c",
   "lastOpenFiles": [
+    "2023-10-11_16h10_59.png",
+    "2023-10-11_16h10_23.png",
+    "2023-10-11_16h11_39.png",
+    "2023-10-11_16h11_49.png",
+    "2023-09-07_13h11_19.png",
+    "2023-09-25_12h01_57.png",
+    "2023-10-03_12h41_37.png",
+    "2023-10-11.md",
     "2023-10-10.md",
     "2023-10-09.md",
     "2023-10-06.md",
     "2023-10-05.md",
     "2023-10-12.md",
-    "2023-10-11.md",
     "_Projekte_/MarCator/MarCator_todo.md",
     "2023-10-04.md",
     "_Projekte_/MarCator/MarCator_Notes.md",
     "2023-09-29.md",
-    "2023-10-11_16h11_49.png",
-    "2023-10-11_16h11_39.png",
     "2023-10-11_16h11_15.png",
-    "2023-10-11_16h10_59.png",
-    "2023-10-11_16h10_23.png",
     "_Org_/Wniosek_HO_tydzien_11.09.2023.md",
     "_Org_/2023-10-18_wniosek_o_urlop.pdf",
     "_Org_/2023-10-18_wniosek_o_urlop.md",
@@ -240,8 +241,6 @@
     "2023-10-02.md",
     "2023-09-28.md",
     "2023-09-20.md",
-    "2023-10-03_12h41_37.png",
-    "2023-09-25_12h01_57.png",
     "conflict-files-obsidian-git.md",
     "_cheatsheet_/eclipse.md",
     "Millmess_issue_03.10.2023.md",
@@ -250,7 +249,6 @@
     "2023-09-12.md",
     "2023-09-11.md",
     "2023-09-08.md",
-    "2023-09-07_13h11_19.png",
     "_Private_/zakupy/2023-09-19_09h31_54.png",
     "2023-05-09_14h00_06.png",
     "_Org_/Wniosek_HO_tydzien_11.09.2023_podpis.pdf",
