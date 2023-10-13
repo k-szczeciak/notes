@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "2163abce435f33d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "359d2ba98d3dbec7",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-11.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -202,12 +214,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fbb9e9a1f026408",
+  "active": "2163abce435f33d3",
   "lastOpenFiles": [
+    "2023-10-11.md",
+    "conflict-files-obsidian-git.md",
+    "2023-10-12.md",
     "2023-10-11_16h11_15.png",
     "2023-10-11_16h10_59.png",
     "2023-10-11_16h10_23.png",
-    "2023-10-11.md",
     "2023-10-11_16h11_49.png",
     "2023-10-11_16h11_39.png",
     "_Projekte_/MarCator/Pasted image 20230605101619.png",
@@ -240,7 +254,6 @@
     "2023-10-03_12h41_37.png",
     "_Private_/job-search/job search.md",
     "_Private_/job-search/Software architect - embedded Devces.md",
-    "2023-09-13.md",
     "2023-09-25_12h01_57.png",
     "_Org_/Wniosek_HO_tydzien_11.09.2023.pdf",
     "_Org_/Wniosek_HO_tydzien_05.06.2023.pdf",

@@ -135,6 +135,7 @@ LED? - status ledow
 - [x] usunac ze startu 1087 do dku1, bo "1" jest odczytywna jako watrtosc moz ewiec: MC
 - [ ] co z radiem jezeli nie ma wg numeru
 - [ ] dodac do pliku wynikowego numer wersji
+- [ ] Millimess polaczenie jest stablilnejsze, sprawdzic ustawienia
 
 ## Milestones:
 - [ ] Funkcja std
@@ -152,3 +153,19 @@ pazdziernik - dokonczenie wariantow
 listopad - czyszczenie i debugging, dodatkowe fukcje jak LCD digital twin
 grudzien kontynuacja z MillimarTool i gateway i webservice
 testy jednostkowe i integracyjne automatczne (istqb) - precimar
+
+
+
+funk nummer:
+dodac:
+15:HP 86
+16: HP 87
+17: 844 touch
+18: HP 844
+
+dodac do opisu W (wasserdicht, new var) w MC
+poprawic funk dir w MC (tak jak w MM)
+
+Milimess - zalaczanie ...
+brak wysylania ERR0 z do funk
+touch przestaje dzialac...
