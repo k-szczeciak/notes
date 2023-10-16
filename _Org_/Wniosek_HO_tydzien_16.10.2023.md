@@ -14,7 +14,7 @@
 
 <br><br><br><br><br>
 <div>
-Strony na zasadzie porozumienia stron ustalają że dniami pracy w trybie Home Office w miejscu zamieszkania w tygodniu 16.10.2023 – 19.05.2023 będą dni 17.05.2023 (sroda), 18.05.2023 (czwartek).
+Strony na zasadzie porozumienia stron ustalają że dniami pracy w trybie Home Office w miejscu zamieszkania w tygodniu 16.10.2023 – 20.10.2023 będą dni 16.10.2023 (poniedzialek), 17.10.2023 (wtorek).
 </div>
 <br>
 
