@@ -13,9 +13,9 @@
 ![[Tag-connect-nrf_r.png]]
 ---
 # 3. Programming software:
-3.1. FET-Pro430 `\\essfs01\Abteilungen\Entwicklung\Elektronik\Software\Programming\FET-Pro430-3v43-Setup`
+3.1. FET-Pro430 `https://www.elprotronic.com/products/fet-pro-430-std` licence needed
 ![[FET-Pro430.png]]
-3.2. nRFgo Studio `\\essfs01\Abteilungen\Entwicklung\Elektronik\Software\nrfgostudio_win-64_1.21.2_installer.msi`
+3.2. nRFgo Studio `https://nsscprodmedia.blob.core.windows.net/prod/software-and-other-downloads/desktop-software/nrf-go-studio/sw/nrfgostudiowin321212installer.msi`
 ![[nRFgo-studio.png]]
 ---
 # 4. Firmware
