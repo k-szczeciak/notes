@@ -19,9 +19,9 @@
 ![[nRFgo-studio.png]]
 ---
 # 4. Firmware
-4.1. Main chip FW:  `\\essfs01\Abteilungen\Benutzergruppen\Firmware_Software\Firmware\MarCator Touch 1087BR\Main`
-4.2. Touch Chip FW: `\\essfs01\Abteilungen\Benutzergruppen\Firmware_Software\Firmware\MarCator Touch 1087BR\Touch`
-4.3. Radio Chip FW: `\\essfs01\Abteilungen\Benutzergruppen\Firmware_Software\Firmware\MarCator Touch 1087BR\Radio`
+4.1. Main chip FW:  `DigMC_011.hex`
+4.2. Touch Chip FW: `Touch_MarCator_01.hex`
+4.3. Radio Chip FW: `ANT_s212_nrf52_4.0.2.hex` & `nrf52832_xxaa_2000wi.hex`
 
 ---
 # 5. Flashing Main chip:
