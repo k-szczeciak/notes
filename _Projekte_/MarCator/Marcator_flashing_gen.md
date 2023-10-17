@@ -51,11 +51,11 @@
 
 
 5.5. Press `AUTO PROG.`:
-<img src="img/main_flash_prep.png" width="300px"><br>
 ![[main_flash_prep.png]]
 ![[main_flash_prep_fin.png]]
 
----
+ <div style="page-break-after: always;"></div>
+
 # 6. Flashing Touch chip:
 6.1. Connect MSP-FETFlash (2.1) with cable (2.2).
 6.2. Open FET-Pro430 (3.1.)
@@ -66,12 +66,17 @@
 ![[touch_flash_prep.png]]
 ![[touch_flash_prep_fin.png]]
 
----
+ <div style="page-break-after: always;"></div>
+
 # 7. Flashing Radio chip
 7.1. Connect MSP-FETFlash (2.1) with cable (2.2). with main chip and keep connected (for power supply only)
 ![[FETPro430_power.png]]
+ <div style="page-break-after: always;"></div>
+
 7.2. Connect Segger J-Link (2.3) with cable (2.4).
 ![[radio_chip_connection.png]]
+ <div style="page-break-after: always;"></div>
+
 7.3. Open nRF-Studio go (3.2.)
 ![[nrfstudio.png]]
 7.4. Select nRF5x Programming
