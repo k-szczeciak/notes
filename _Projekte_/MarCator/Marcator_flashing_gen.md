@@ -24,22 +24,34 @@
 # 3. Programming software:
 3.1. FET-Pro430 `https://www.elprotronic.com/products/fet-pro-430-std` licence needed
 ![[FET-Pro430.png]]
+<div style="page-break-after: always;"></div>
+
+
 3.2. nRFgo Studio `https://nsscprodmedia.blob.core.windows.net/prod/software-and-other-downloads/desktop-software/nrf-go-studio/sw/nrfgostudiowin321212installer.msi`
 ![[nRFgo-studio.png]]
 ---
 # 4. Firmware
 4.1. Main chip FW:  `DigMC_011.hex`
 4.2. Touch Chip FW: `Touch_MarCator_01.hex`
-4.3. Radio Chip FW: `ANT_s212_nrf52_4.0.2.hex` & `nrf52832_xxaa_2000wi.hex`
+4.3. Radio Chip FW: 
+	- Software Device: `ANT_s212_nrf52_4.0.2.hex`
+	- Application: `nrf52832_xxaa_2000wi.hex`
 
 ---
+<div style="page-break-after: always;"></div>
+
+
 # 5. Flashing Main chip:
 5.1. Connect MSP-FETFlash (2.1) with cable (2.2).
 5.2. Open FET-Pro430 (3.1.)
 ![[FET-Pro430.png]]
 5.3. Select FW file: `DigMC_05.hex` (4.1.)
 5.4. Select Microcontroller type: `MSP430FR6989`
+<div style="page-break-after: always;"></div>
+
+
 5.5. Press `AUTO PROG.`:
+<img src="img/main_flash_prep.png" width="300px"><br>
 ![[main_flash_prep.png]]
 ![[main_flash_prep_fin.png]]
 
