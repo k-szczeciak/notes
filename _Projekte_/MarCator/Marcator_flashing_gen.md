@@ -1,6 +1,8 @@
 # 1. Programming interfaces:
 
 ![[open_cover_mark_r.png]]
+<div style="page-break-after: always;"></div>
+
 # 2. Programming tools:
 2.1. MSP430 programmer: MSP-FETFlash
 
@@ -9,8 +11,15 @@
 ![[Tag-connect-msp_r.png]]
 2.3. ISP1507 flashing tool: Segger J-link:
 ![[segger-j-link_r.png]]
+<div style="page-break-after: always;"></div>
+
+
 2.4. ISP1507 flashing cable with adapter:
 ![[Tag-connect-nrf_r.png]]
+2.5. Clips for convinience:
+![[6-pin_clips.png]]
+
+<div style="page-break-after: always;"></div>
 ---
 # 3. Programming software:
 3.1. FET-Pro430 `https://www.elprotronic.com/products/fet-pro-430-std` licence needed
