@@ -169,3 +169,8 @@ poprawic funk dir w MC (tak jak w MM)
 Milimess - zalaczanie ...
 brak wysylania ERR0 z do funk
 touch przestaje dzialac...
+
+
+
+rozmowa z nico:
+- rozwiniecie DK-U1
