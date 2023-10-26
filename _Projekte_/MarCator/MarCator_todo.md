@@ -174,3 +174,4 @@ touch przestaje dzialac...
 
 rozmowa z nico:
 - rozwiniecie DK-U1
+- rozwiniecie ANT Befehl
