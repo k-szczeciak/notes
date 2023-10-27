@@ -58,3 +58,7 @@ https://www.segger.com/products/user-interface/emwin/technology/emwin-performanc
 
 embed in MT and web 3d model viewer:
 https://gct.co/de/connector/mem2080
+
+
+- [ ] okno informacyjne gdy zmiana modulu
+- [ ] screenshot w chwili dynamicznej zrobic 
