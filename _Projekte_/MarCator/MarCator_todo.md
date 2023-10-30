@@ -82,6 +82,9 @@ do dku1:
 - [x] symulacja przyciskow
 - [ ] podlaczoiny kablem to permanentnie wlaczony ???
 - [ ] numery dla funk nowych urzadzen
+- [ ] ?? przesylanie  stanu pamieci LCD jezeli jest zmiana
+- [ ] ?? przeslanie stanu pamieci FRAM z parametrami
+- [ ] 
 
 
 
