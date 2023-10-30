@@ -146,6 +146,7 @@ LED? - status ledow
 - [ ] cleanup
 - [ ] merge request
 
+- [ ] dodanie do menue czasu trwania ledow
 
 
 plan:
