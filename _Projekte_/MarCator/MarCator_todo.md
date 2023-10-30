@@ -183,9 +183,9 @@ rozmowa z nico:
 	- `CLN1`, `CNL0`, `CLN?` - Clean function
 	- `LEDT?`, `LEDT <y>` - led delay time
 - rozwiniecie ANT Befehl:
-	 - actuial state: ``
+	 - actual state question
 	 ![[Pasted image 20231030131951.jpg]]
 	 - LED ctrl: 
 	 ![[Pasted image 20231030132300.jpg]]
-	 - state: 
+	 - state set: 
 	 ![[Pasted image 20231030132350.jpg]]
