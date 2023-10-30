@@ -174,4 +174,8 @@ touch przestaje dzialac...
 
 rozmowa z nico:
 - rozwiniecie DK-U1
-- rozwiniecie ANT Befehl
+- rozwiniecie ANT Befehl:
+	- `PRA<x>` - setting up preset
+	- `PRA?` - active preset
+	- `LCK?` - istate of keylock
+	- 
