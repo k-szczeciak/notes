@@ -173,9 +173,16 @@ touch przestaje dzialac...
 
 
 rozmowa z nico:
-- rozwiniecie DK-U1
-- rozwiniecie ANT Befehl:
+- rozwiniecie DK-U1:
 	- `PRA<x>` - setting up preset
 	- `PRA?` - active preset
 	- `LCK?` - istate of keylock
-	- 
+	- `FIL?` - activ efilter setting reply: `FIL<x>` x - 0..4 (2^x)
+	- `DEL1`, `DEL0` `DEL?` - delay
+	- `SEN0`, `SEN0`, `SEN?` - button sensitivity
+	- `CLN1`, `CNL0`, `CLN?` - Clean function
+	- LEDT?
+- rozwiniecie ANT Befehl:
+	 - actuial state
+	 ![[Pasted image 20231030131951.jpg]]
+	 
