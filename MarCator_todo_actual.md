@@ -12,8 +12,8 @@
 - [ ] ??? (parametry do excela i automatyzacja)
 - [ ] ??? symulacja zegara
 - [ ] ??? krzywa kalibracyjna
-- [ ] units evaluation
-- [ ] resolution evaluation
+- [ ] units evaluation + dku1
+- [ ] resolution evaluation + dku1
 - [ ] helios preiser evaluation
 - [ ] ??? testy automatyczne
 - [ ] ??? architektura
@@ -23,3 +23,4 @@
 - [ ] ??? dodac do pliku wynikowego numer wersji
 - [ ] testy jednostkowe i automatyczne z precimar
 - [ ] program do kalibracji rozszerzyc - marcheck
+- [ ] po resecie FA ma sie pojawic nawa i numer wersji
