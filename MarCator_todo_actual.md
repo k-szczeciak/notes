@@ -4,4 +4,8 @@
 - [ ] ??? dodac LCD1 and LCD0 - aktualizacja na bierzaco
 - [ ] ??? dodac LCDMEM do ANT oraz LCD1, i symulacja klawiszy
 - [ ] cykliczne wysylanie sprawdzic dla DKU1 i ANT
-- [ ] 
+- [ ] opcja HR
+- [ ] opcja 844
+- [ ] ??? czy polaczenie kablem to permanentnie zalaczony moze byc
+- [ ] ??? przesylanie parametrow jako zrzut FRAM
+- [ ] funkcaje na init_para, fa-
