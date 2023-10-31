@@ -8,4 +8,5 @@
 - [ ] opcja 844
 - [ ] ??? czy polaczenie kablem to permanentnie zalaczony moze byc
 - [ ] ??? przesylanie parametrow jako zrzut FRAM
-- [ ] funkcaje na init_para, fa-
+- [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para (parametry do excela i automatyzacja)
+- [ ] 
