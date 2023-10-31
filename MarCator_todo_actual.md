@@ -19,7 +19,7 @@
 - [ ] resolution evaluation + dku1
 - [ ] helios preiser evaluation
 - [ ] ??? testy automatyczne
-- [ ] ??? architektura
+- [ ] ??? architektura SW, tak aby sie dalo robic symulacje
 - [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa (to samo zaimplementrowac do MC, tam przemyslec te tryby jeszcze raz, a przede wszystkim: "Einst.RFMode = 2;" przemiescic i inny warunek na wyjscie)
 - [ ] numery Funk dal nowych urzadzen
 - [ ] ??? status LED-ow
