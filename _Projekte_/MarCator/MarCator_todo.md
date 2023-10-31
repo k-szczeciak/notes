@@ -57,9 +57,9 @@ maybe:
 - [ ] problem z ponownym polaczeniem przez przycisk w sytuacji gdy wylaczone zosatalo w czasie seak
 - [x] brakujace rozkazy ANT
 - [ ] pomiar napiecia przy pradzie - problem resetu - spardzenie dokladniejsze
-- [ ] Bat-Lo - 1d
-- [ ] pomiar napiecia baterii z dzielnika napiecia
-- [ ] cal date wg normy
+- [x] Bat-Lo - 1d
+- [x] pomiar napiecia baterii z dzielnika napiecia
+- [x] cal date wg normy
 - [ ] optymalizacja zuzycia pradu w roznych trybach
 - [ ] kodkoncyzc DK-U1 jesli chodzi o numery art i ograniczenia
 - [ ] tryby continous dla dku1 i ant
