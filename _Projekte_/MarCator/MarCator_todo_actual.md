@@ -33,6 +33,7 @@
 - [ ] poprawic funk dir w MC (tak jak w MM)
 - [ ] po VAR1 lub VAR2 - pokazac cyfry bo si enie wysietla czyasami
 - [ ] interface do precimara
+- [ ] 
 
 
 
