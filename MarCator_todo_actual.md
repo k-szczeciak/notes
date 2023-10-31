@@ -29,3 +29,4 @@
 - [ ] po resecie FA ma sie pojawic nawa i numer wersji
 - [ ] usuniecie jednej resolution
 - [ ] flashowanie radio s seggera
+- [ ] ??? biblioteka ogolna do schnitstellen
