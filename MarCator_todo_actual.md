@@ -31,4 +31,4 @@
 - [ ] flashowanie radio s seggera
 - [ ] ??? biblioteka ogolna do schnitstellen
 - [ ] poprawic funk dir w MC (tak jak w MM)
-- [ ] po VAR1 lub VAR2 - 
+- [ ] po VAR1 lub VAR2 - pokazac cyfry
