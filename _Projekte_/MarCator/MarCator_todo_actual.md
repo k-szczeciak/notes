@@ -1,5 +1,6 @@
 - [ ] Dodanie nowzych rozkazow dla DK-U1 od Nico i Ockera:
 	- [ ] ...
+- [ ] 
 - [ ] Dodanie nowych rozkaow dla ANT od Nico i Ockera
 - [ ] ??? dodac LCD1 and LCD0 - aktualizacja na bierzaco
 - [ ] ??? dodac LCDMEM do ANT oraz LCD1, i symulacja klawiszy
@@ -28,12 +29,12 @@
 - [ ] program do kalibracji rozszerzyc - marcheck
 - [ ] po resecie FA ma sie pojawic nawa i numer wersji
 - [ ] usuniecie jednej resolution
-- [ ] flashowanie radio s seggera
+- [ ] flashowanie radio z seggera
 - [ ] ??? biblioteka ogolna do schnitstellen
 - [ ] poprawic funk dir w MC (tak jak w MM)
 - [ ] po VAR1 lub VAR2 - pokazac cyfry bo si enie wysietla czyasami
 - [ ] interface do precimara
-- [ ] 
+- [ ] ??? sendString() length eval dokonczyc
 
 
 
