@@ -3,5 +3,5 @@
 - [ ] Dodanie nowych rozkaow dla ANT od Nico i Ockera
 - [ ] ??? dodac LCD1 and LCD0 - aktualizacja na bierzaco
 - [ ] ??? dodac LCDMEM do ANT oraz LCD1, i symulacja klawiszy
-- [ ] cykliczne wysylanie prawic dla DKU1 i ANT
+- [ ] cykliczne wysylanie sprawdzic dla DKU1 i ANT
 - [ ] 
