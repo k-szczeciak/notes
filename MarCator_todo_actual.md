@@ -17,3 +17,9 @@
 - [ ] helios preiser evaluation
 - [ ] ??? testy automatyczne
 - [ ] ??? architektura
+- [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa
+- [ ] numery Funk dal nowych urzadzen
+- [ ] ??? status LED-ow
+- [ ] ??? dodac do pliku wynikowego numer wersji
+- [ ] testy jednostkowe i automatyczne z precimar
+- [ ] program do kalibracji rozszerzyc - marcheck
