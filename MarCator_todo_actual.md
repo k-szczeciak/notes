@@ -8,5 +8,12 @@
 - [ ] opcja 844
 - [ ] ??? czy polaczenie kablem to permanentnie zalaczony moze byc
 - [ ] ??? przesylanie parametrow jako zrzut FRAM
-- [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para (parametry do excela i automatyzacja)
-- [ ] 
+- [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para
+- [ ] ??? (parametry do excela i automatyzacja)
+- [ ] ??? symulacja zegara
+- [ ] ??? krzywa kalibracyjna
+- [ ] units evaluation
+- [ ] resolution evaluation
+- [ ] helios preiser evaluation
+- [ ] ??? testy automatyczne
+- [ ] ??? architektura
