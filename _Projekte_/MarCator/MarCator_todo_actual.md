@@ -36,9 +36,4 @@
 
 
 
-- [ ] millimess:
-	- [ ] LED-t
-	- [ ] 3xPreset
-	- [ ] 3xTol
-	- [ ] DKU1 update
-	- [ ] ANT - update
+- [ ] millimess: [[Millimess_todos]]
