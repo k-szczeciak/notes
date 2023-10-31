@@ -8,7 +8,10 @@
 - [ ] opcja 844
 - [ ] ??? czy polaczenie kablem to permanentnie zalaczony moze byc
 - [ ] ??? przesylanie parametrow jako zrzut FRAM
-- [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para
+- [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para:
+	- 1: po wdraniu programu (tablela init)
+	- 2: po wlozeniu  baterii (funkcja - brakuje)
+	- 3: po aktywowaniu FA-SET (funkcja Init...())
 - [ ] ??? (parametry do excela i automatyzacja)
 - [ ] ??? symulacja zegara
 - [ ] ??? krzywa kalibracyjna
@@ -25,3 +28,4 @@
 - [ ] program do kalibracji rozszerzyc - marcheck
 - [ ] po resecie FA ma sie pojawic nawa i numer wersji
 - [ ] usuniecie jednej resolution
+- [ ] flashowanie radio s seggera
