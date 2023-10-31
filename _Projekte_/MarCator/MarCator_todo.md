@@ -5,13 +5,13 @@
 	- [x] zrodlo - dla HR z dzielnika napiecia, dla pozostalych z messsystem, zmiana poprzez numer Atrykulu
 	- [x] pomiar napiecia
 - [x] edycja wlasciwego presetu
-- [ ] entprellzeit - 
+- [x] entprellzeit - zwloka czasu po nacisnieciu przycisku
 - [x] laczenie sie ANT, poprawiona stabilnosc
 - [x] podluzszym czasie prad w stanie aktywnym jest +10 uA, (85 zamiast 75), dlaczego
 - [x] zmiezyc napiecie Vcc, szpilki przy wlaczonym radiu
 - [x] zmierzyc napiecie na wyjsciu z pomiaru napiecia baterii
 - [x] przy recznym wylaczaniu > 5mA
-- [ ] dokkonczyc obsluge ANT, ciagle nowe propozycje: ledy obslluga i 
+- [ ] dokkonczyc obsluge ANT, ciagle nowe propozycje: ledy obslluga i status
 - [x] iso format dla daty CAL: rrrr-mm-dd
 - [ ] zbudowac pomiar ciagly pradu z bocznikujacym i wzmacniaczem - zrobic opis przebiegu
 - [x] Autooff w menue

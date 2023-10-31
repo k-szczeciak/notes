@@ -1,0 +1,4 @@
+- [ ] Dodanie nowzych rozkazow dla DK-U1 od Nico i Ockera:
+	- [ ] ...
+- [ ] Dodanie nowych rozkaow dla ANT od Nico i Ockera
+- [ ] 
