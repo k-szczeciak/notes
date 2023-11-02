@@ -1,5 +1,5 @@
 
-- [ ] 48508 - Messrichtung (befehle)
+- [x] 48508 - Messrichtung (befehle)
 - [x] 48507 - LED-t
 - [x] 48509 - Menue Order
 - [ ] 48565 - rozszerzenie tolerancji i zwiniecie
