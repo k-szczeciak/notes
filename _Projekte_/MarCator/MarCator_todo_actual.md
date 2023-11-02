@@ -51,3 +51,7 @@ Prio 3:
 LED? - status ledow
 
 - [ ] millimess: [[Millimess_todos]]
+
+
+?
+??? czy switching off powinien byc niemozliwy gdy jest hold???
