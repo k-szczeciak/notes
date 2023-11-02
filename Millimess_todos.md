@@ -1,6 +1,6 @@
 
 - [ ] 48508 - Messrichtung (befehle)
-- [ ] 48507 - LED-t
+- [x] 48507 - LED-t
 - [x] 48509 - Menue Order
 - [ ] 48565 - rozszerzenie tolerancji i zwiniecie
 - [ ] dodac Hello i numer wersji (po resecie FA to samo)
