@@ -1,5 +1,6 @@
 
 Funkcjonalnosc
+- [ ] po resecie FA ma sie pojawic nawa i numer wersji
 - [ ] opcja HR
 - [ ] opcja 844
 - [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para:
@@ -7,10 +8,12 @@ Funkcjonalnosc
 	- 2: po wlozeniu  baterii (funkcja - brakuje)
 	- 3: po aktywowaniu FA-SET (funkcja Init...())
 - [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa (to samo zaimplementrowac do MC, tam przemyslec te tryby jeszcze raz, a przede wszystkim: "Einst.RFMode = 2;" przemiescic i inny warunek na wyjscie)
+- [ ]  usuniecie jednej resolution
 
 produkcja:
-- [ ] program do kalibracji rozszerzyc - marcheck - i produkcja
 - [ ] flashowanie radio z seggera
+- [ ] program do kalibracji rozszerzyc - marcheck - i produkcja
+- [ ] interface do precimara
 
 Interfejsy
 - [ ] Dodanie nowych rozkaow dla ANT od Nico i Ockera
@@ -21,15 +24,9 @@ Interfejsy
 - [ ] helios preiser evaluation
 - [ ] numery Funk dal nowych urzadzen
 
-- [ ] 
-- [ ] 
-- [ ] po resecie FA ma sie pojawic nawa i numer wersji
-- [ ] usuniecie jednej resolution
-
-
 - [ ] poprawic funk dir w MC (tak jak w MM)
-- [ ] po VAR1 lub VAR2 - pokazac cyfry bo si enie wysietla czyasami
-- [ ] 
+- [ ] po VAR1 lub VAR2 - pokazac cyfry bo sie nie wysietla czyasami
+
 
 
 Prio 3:
