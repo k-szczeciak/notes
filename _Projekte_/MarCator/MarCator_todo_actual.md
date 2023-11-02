@@ -24,7 +24,7 @@ Interfejsy
 - [ ] helios preiser evaluation
 - [ ] numery Funk dal nowych urzadzen
 
-- [ ] poprawic funk dir w MC (tak jak w MM)
+- [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] po VAR1 lub VAR2 - pokazac cyfry bo sie nie wysietla czyasami
 
 
