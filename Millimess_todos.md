@@ -4,7 +4,6 @@
 - [ ] 48509 - Menue Order
 - [ ] 48565 - rozszerzenie tolerancji i zwiniecie
 - [ ] dodac Hello i numer wersji (po resecie FA to samo)
-- [ ] dlugo startuje touch chip
 
 Questions and remarks:
 - after power on touch chip srtarts really late, after few minutes
