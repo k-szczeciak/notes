@@ -1,14 +1,15 @@
 
 - [ ] 48508 - Messrichtung (befehle)
 - [ ] 48507 - LED-t
-- [ ] 48509 - Menue Order
+- [x] 48509 - Menue Order
 - [ ] 48565 - rozszerzenie tolerancji i zwiniecie
 - [ ] dodac Hello i numer wersji (po resecie FA to samo)
 
 Questions and remarks:
-- after power on touch chip srtarts really late, after few minutes
+- after power on touch chip srtarts really late, after few minutes:
+	- problem z jednym millimessem (2000), bardzo pozno zaczyna dzialac touch i bnateria sie nie laduje, sprawdzic czy to gleboko rozladowana bateria czy cos innego
 - DK-U1 is not charging or blinking signal is charging ??? strange
-- no auto on?\
+- no auto on?
 - charging 20 mA (ist das limit?)
 
 
