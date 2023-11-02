@@ -7,7 +7,9 @@
 - [ ] dlugo startuje touch chip
 
 Questions and remarks:
-- after power on touch chip
+- after power on touch chip srtarts really late, after few minutes
+- DK-U1 is not charging or blinking signal is charging ??? strange
+- no auto on?
 
 
 ![[2023-10-11_16h10_23.png]]
