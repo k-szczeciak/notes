@@ -1,30 +1,24 @@
 - [ ] Dodanie nowzych rozkazow dla DK-U1 od Nico i Ockera:
 	- [ ] ...
-- [ ] 
+- [ ] MarCheck - i produkcja
 - [ ] Dodanie nowych rozkaow dla ANT od Nico i Ockera
-- [ ] ??? dodac LCD1 and LCD0 - aktualizacja na bierzaco
-- [ ] ??? dodac LCDMEM do ANT oraz LCD1, i symulacja klawiszy
+
 - [ ] cykliczne wysylanie sprawdzic dla DKU1 i ANT
 - [ ] opcja HR
 - [ ] opcja 844
-- [ ] ??? czy polaczenie kablem to permanentnie zalaczony moze byc
-- [ ] ??? przesylanie parametrow jako zrzut FRAM
+
 - [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para:
 	- 1: po wdraniu programu (tablela init)
 	- 2: po wlozeniu  baterii (funkcja - brakuje)
 	- 3: po aktywowaniu FA-SET (funkcja Init...())
-- [ ] ??? (parametry do excela i automatyzacja)
-- [ ] ??? symulacja zegara
-- [ ] ??? krzywa kalibracyjna
+
 - [ ] units evaluation + dku1
 - [ ] resolution evaluation + dku1
 - [ ] helios preiser evaluation
-- [ ] ??? testy automatyczne
-- [ ] ??? architektura SW, tak aby sie dalo robic symulacje
+
 - [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa (to samo zaimplementrowac do MC, tam przemyslec te tryby jeszcze raz, a przede wszystkim: "Einst.RFMode = 2;" przemiescic i inny warunek na wyjscie)
 - [ ] numery Funk dal nowych urzadzen
-- [ ] ??? status LED-ow
-- [ ] ??? dodac do pliku wynikowego numer wersji
+
 - [ ] testy jednostkowe i automatyczne z precimar
 - [ ] program do kalibracji rozszerzyc - marcheck
 - [ ] po resecie FA ma sie pojawic nawa i numer wersji
@@ -34,8 +28,21 @@
 - [ ] poprawic funk dir w MC (tak jak w MM)
 - [ ] po VAR1 lub VAR2 - pokazac cyfry bo si enie wysietla czyasami
 - [ ] interface do precimara
-- [ ] ??? sendString() length eval dokonczyc
 
+
+Prio 3:
+- [ ] ??? sendString() length eval dokonczyc
+- [ ] ??? dodac LCD1 and LCD0 - aktualizacja na bierzaco
+- [ ] ??? dodac LCDMEM do ANT oraz LCD1, i symulacja klawiszy
+- [ ] ??? czy polaczenie kablem to permanentnie zalaczony moze byc
+- [ ] ??? przesylanie parametrow jako zrzut FRAM
+- [ ] ??? status LED-ow
+- [ ] ??? dodac do pliku wynikowego numer wersji
+- [ ] ??? (parametry do excela i automatyzacja)
+- [ ] ??? symulacja zegara
+- [ ] ??? krzywa kalibracyjna
+- [ ] ??? testy automatyczne
+- [ ] ??? architektura SW, tak aby sie dalo robic symulacje
 
 
 - [ ] millimess: [[Millimess_todos]]
