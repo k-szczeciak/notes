@@ -6,6 +6,9 @@
 - [ ] dodac Hello i numer wersji (po resecie FA to samo)
 - [ ] dlugo startuje touch chip
 
+Questions and remarks:
+- after power on touch chip
+
 
 ![[2023-10-11_16h10_23.png]]
 ![[2023-10-11_16h10_59.png]]
