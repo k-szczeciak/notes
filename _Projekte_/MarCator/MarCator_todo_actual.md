@@ -45,5 +45,9 @@ Prio 3:
 - [ ] ??? biblioteka ogolna do schnitstellen
 - [ ] ??? testy jednostkowe i automatyczne z precimar
 - [ ] ??? czy da sie zrobiuic detekcje display type - nie koniecznie potrzebny
+- [ ] ??? po polaczeniu - wykryciu kabla wyslac wiadomosc - jestem
+- [ ] ??? podlaczoiny kablem to permanentnie wlaczony ???
+- [ ] dodac LCD1? i LCD0? wysylanie tylko zmian jezeli zaistnialy za kazdym cyklem (tez ledow) - tylko mozliwe jezeli kabel podlaczony
+LED? - status ledow
 
 - [ ] millimess: [[Millimess_todos]]
