@@ -4,6 +4,7 @@
 - [ ] 48509 - Menue Order
 - [ ] 48565 - rozszerzenie tolerancji i zwiniecie
 - [ ] dodac Hello i numer wersji (po resecie FA to samo)
+- [ ] dlugo startuje touch chip
 
 
 ![[2023-10-11_16h10_23.png]]
