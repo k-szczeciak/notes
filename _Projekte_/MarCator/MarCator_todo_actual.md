@@ -25,6 +25,7 @@ Interfejsy
 - [ ] numery Funk dal nowych urzadzen
 
 - [x] poprawic funk dir w MC (tak jak w MM)
+- [ ] gdy hold jest aktywny to czy mozna wejsc do menue
 - [ ] po VAR1 lub VAR2 - pokazac cyfry bo sie nie wysietla czyasami
 
 
