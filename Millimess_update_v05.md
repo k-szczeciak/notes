@@ -12,12 +12,14 @@
 	- DK- U1 (cable connection) : **CHA+** (direction inwards), **CHA-** (direction outwards)
 	- ANT (radio connection):  Byte4: **'H'**, Byte5: **'+'** (direction inwards), **'-'** direction outwards
 
-![[2023-11-06_10h52_34 1.png]]
- <div style="page-break-after: always;"></div>
+![[2023-11-06_10h52_34 2.png]]
+ 
 ### 48509 - Order in Menue: first preset then tolerance
 ![[2023-11-06_10h31_20.png]]
  <div style="page-break-after: always;"></div>
 ### 48565 - (Toleranzfeld in analoger Skale einstellbar) Switching tolerance scaling in analoge scale for larger range 
 ![[2023-11-06_10h36_03.png]]
-<div style="page-break-after: always;"></div>
-### Splash screen "Hello" with name and FW version on start and Factory reset ![[2023-11-06_10h25_35.png]]
+
+### Splash screen "Hello" with name and FW version on start and Factory reset 
+
+![[2023-11-06_10h25_35.png]]
