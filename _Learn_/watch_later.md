@@ -13,3 +13,9 @@ rameworks AI + python: https://towardsdatascience.com/deep-learning-with-python-
 keras tutorial: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 libs: https://www.unite.ai/10-best-python-libraries-for-machine-learning-ai/
+
+- dokonczyc: https://www.youtube.com/watch?v=kSqxn6zGE0c
+	https://www.youtube.com/watch?v=V-IUrfTJMm4
+	i przetestowac skrypt z chata
+	generowanie obrazkow: https://www.youtube.com/watch?v=YSuWejNaSfE
+	https://neptune.ai/blog/image-processing-python
