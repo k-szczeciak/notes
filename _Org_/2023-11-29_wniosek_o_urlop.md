@@ -18,7 +18,7 @@
 </div>
 <br><br>
 <div>
-Prosze o udzielenie urlopu wypoczynkowego w dniach od 30.11.2023r (Poniedzialek) do 01.12.2023 (Sroda)
+Prosze o udzielenie urlopu wypoczynkowego w dniach od 29.11.2023r (Sroda) do 01.12.2023 (Piatek)
 </div>
 <br><br><br>
 
