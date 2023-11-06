@@ -7,7 +7,8 @@ Changes in FW v0.5:
 	 - when Cable connected with supply, LEDs will glow in tolerance Active permanently
 ![[2023-11-06_10h26_51.png]]
 - 48508 - Measurement direction setting using DK-U1 and ANT:
-	- DK- U1 (cable connection) : CHA+ ()
+	- DK- U1 (cable connection) : **CHA+** (direction inwards), **CHA-** (direction outwards)
+	- ANT (radio connection):  Byte4: 'H', Byte5: '+' (direction inwards), **'-'** direction outwards
 
 - 48509 - Order in Menue: first preset then tolerance
 ![[2023-11-06_10h31_20.png]]
