@@ -22,4 +22,4 @@
 
 ### Splash screen "Hello" with name and FW version on start and Factory reset 
 
-![[2023-11-06_10h25_35.png]]
+![[2023-11-06_10h25_35 1.png]]
