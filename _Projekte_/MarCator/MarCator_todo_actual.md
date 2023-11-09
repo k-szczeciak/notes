@@ -1,7 +1,7 @@
 
 Funkcjonalnosc
 - [ ] po resecie FA ma sie pojawic nawa i numer wersji
-- [ ] opcja HR
+- [ ] opcja HR (need )
 - [ ] opcja 844
 - [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para:
 	- 1: po wdraniu programu (tablela init)
