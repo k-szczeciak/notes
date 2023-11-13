@@ -44,3 +44,5 @@ bool("") -> Flase
 bool("False") --> True
 
 str[1:-1] wszystko pomiedzy pierwszym zakiem a ostatnim
+
+ternary operator:
