@@ -76,3 +76,23 @@ e.g. for x in "string sdfsfdsdf..":
 
 ---
 all functions return None as a value
+
+call:
+foo(1, 2)
+or 
+foo(1, by=2)
+
+def param:
+foo(number, by=1):
+	return number + by
+
+
+variable number of  parmaters
+
+`def foo(*numbers)`:
+	for num
+
+
+
+myVals = [1,2,3,4] - list
+foo(myVals)
