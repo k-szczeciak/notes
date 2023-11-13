@@ -57,3 +57,11 @@ logicasl operators are short circuit
 
 conditions, chaining 
 if 12 < a <= b:
+
+
+for a`Int` in range(start, end, step):
+	print("asdasd", a, "a")
+
+else: - executed when not terminated
+
+fore - else loop
