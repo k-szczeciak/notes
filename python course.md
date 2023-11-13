@@ -37,8 +37,10 @@ x = input() - pobieranie wartosci z terminlala
 
 
 Falsy  e.g. "", 0, None will be False in bool context
+Truesy
 
 funn fact:
 bool("") -> Flase
 bool("False") --> True
 
+str[1:-1] wszystko pomiedzy pierwszym zakiem a ostatnim
