@@ -90,9 +90,20 @@ foo(number, by=1):
 variable number of  parmaters
 
 `def foo(*numbers)`:
-	for num
-
-
+	for number in numbers
 
 myVals = [1,2,3,4] - list
 foo(myVals)
+
+
+``` python
+def foo(**uses):
+	print(user)
+foo(id=1, name="John", last="unknown")
+```
+output will be dictionary
+
+
+
+
+
