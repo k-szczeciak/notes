@@ -1,4 +1,4 @@
-linter - sprawdzanie poprawnosci (podkreslenie i rozwiniecie)
+linter - sprawdzanie poprawnosci (podkreslenie i rozwiniecie) pylint
 okno "problems" z menue View (ctrl+shift+M)
 install: "autopep8" oraz w menue zaznaczyc: auotformat on save
 
