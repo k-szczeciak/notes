@@ -19,3 +19,20 @@ complex numers: 2 + 4j
 
 
 round()
+
+math functions:
+python 3 math module   (cmath) in google
+
+
+ctrl + backspace - open terminal
+
+
+
+casting:
+int(), float() bool() ...
+
+
+x = input() - pobieranie wartosci z terminlala
+
+
+Flase Falsy 
