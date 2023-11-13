@@ -26,6 +26,7 @@ python 3 math module   (cmath) in google
 
 ctrl + backspace - open terminal
 
+primitive types: string, numebr boolienas
 
 
 casting:
@@ -35,4 +36,9 @@ int(), float() bool() ...
 x = input() - pobieranie wartosci z terminlala
 
 
-Flase Falsy 
+Falsy  e.g. "", 0, None will be False in bool context
+
+funn fact:
+bool("") -> Flase
+bool("False") --> True
+
