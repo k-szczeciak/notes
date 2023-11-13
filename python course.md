@@ -104,6 +104,7 @@ foo(id=1, name="John", last="unknown")
 output will be dictionary
 
 
+Scope:
 
 
 
