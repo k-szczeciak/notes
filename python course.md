@@ -65,3 +65,5 @@ for a`Int` in range(start, end, step):
 else: - executed when not terminated
 
 fore - else loop
+
+type()
