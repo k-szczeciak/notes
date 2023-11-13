@@ -53,3 +53,7 @@ multiline cursors
 
 
 logicasl operators are short circuit
+
+
+conditions, chaining 
+if 12 < a <= b:
