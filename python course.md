@@ -67,3 +67,8 @@ else: - executed when not terminated
 fore - else loop
 
 type()
+
+range  is a type but complex - iterable
+
+e.g. for x in "string sdfsfdsdf..":
+	print(x)
