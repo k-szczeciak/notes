@@ -72,3 +72,7 @@ range  is a type but complex - iterable
 
 e.g. for x in "string sdfsfdsdf..":
 	print(x)
+
+
+---
+all functions return None as a value
