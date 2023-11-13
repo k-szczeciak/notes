@@ -46,3 +46,10 @@ bool("False") --> True
 str[1:-1] wszystko pomiedzy pierwszym zakiem a ostatnim
 
 ternary operator:
+a = "a" if var > 0 else "b"
+
+
+multiline cursors
+
+
+logicasl operators are short circuit
