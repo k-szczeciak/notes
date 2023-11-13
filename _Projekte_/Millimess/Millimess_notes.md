@@ -1,0 +1,3 @@
+- conversation with Niebling at 09.11.2023:
+	- plugging cable results in vainshing onle block: shoulb be last block blinking when charging instead of static image
+	- 

@@ -1,7 +1,7 @@
 
 Funkcjonalnosc
-- [ ] po resecie FA ma sie pojawic nawa i numer wersji
-- [ ] opcja HR
+- [x] po resecie FA ma sie pojawic nawa i numer wersji
+- [ ] opcja HR (need )
 - [ ] opcja 844
 - [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para:
 	- 1: po wdraniu programu (tablela init)
@@ -9,6 +9,7 @@ Funkcjonalnosc
 	- 3: po aktywowaniu FA-SET (funkcja Init...())
 - [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa (to samo zaimplementrowac do MC, tam przemyslec te tryby jeszcze raz, a przede wszystkim: "Einst.RFMode = 2;" przemiescic i inny warunek na wyjscie)
 - [ ]  usuniecie jednej resolution
+- [ ] dodac HOLD
 
 produkcja:
 - [ ] flashowanie radio z seggera
