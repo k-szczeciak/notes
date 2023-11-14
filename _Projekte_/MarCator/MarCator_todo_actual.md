@@ -24,6 +24,7 @@ Interfejsy
 - [ ] resolution evaluation + dku1
 - [ ] helios preiser evaluation
 - [x] numery Funk dal nowych urzadzen
+- [ ] usunac ART No z ANT
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
