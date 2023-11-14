@@ -9,7 +9,7 @@ Funkcjonalnosc
 	- 3: po aktywowaniu FA-SET (funkcja Init...())
 - [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa (to samo zaimplementrowac do MC, tam przemyslec te tryby jeszcze raz, a przede wszystkim: "Einst.RFMode = 2;" przemiescic i inny warunek na wyjscie)
 - [ ] usuniecie jednej resolution
-- [ ] jeden interface na raz
+- [ ] jeden interface na raz, kabel albo ant
 - [ ] dodac HOLD
 
 produkcja:
