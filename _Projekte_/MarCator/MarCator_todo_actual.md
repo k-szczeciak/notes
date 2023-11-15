@@ -60,3 +60,5 @@ LED? - status ledow
 
 ?
 ??? czy switching off powinien byc niemozliwy gdy jest hold???
+
+!!! interfejsy zrobic jako modul i w osobnym repo na gitlabie, nie trzeba wtedy nic uzgadniac !!!
