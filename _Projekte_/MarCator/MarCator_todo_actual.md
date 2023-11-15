@@ -11,6 +11,8 @@ Funkcjonalnosc
 - [ ] usuniecie jednej resolution
 - [ ] jeden interface na raz, kabel albo ant
 - [ ] dodac HOLD
+- [ ] init i fa - para funkcje
+- [ ] czy 
 
 produkcja:
 - [x] flashowanie radio z seggera
