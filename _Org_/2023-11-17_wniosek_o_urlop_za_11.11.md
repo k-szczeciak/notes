@@ -14,11 +14,11 @@
 
 <br><br><br>
 <div style="text-align: center">
-<h1> Wniosek o dzien wolny za 11.11.2023 (sobota) </h2>
+<h1> Wniosek o dzien wolny za Święto przypadające w Sobotę </h2>
 </div>
 <br><br>
 <div>
-Prosze o dnia wolnego za dzien wolny 11.11.2023 przypadający w sobote.
+Prosze o udzielenie dnia wolnego w w terminie 17.11.2023 w zamian za dzien Świąteczny 11.11.2023 przypadający w Sobote.
 </div>
 <br><br><br>
 
