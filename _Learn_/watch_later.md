@@ -25,4 +25,4 @@ libs: https://www.unite.ai/10-best-python-libraries-for-machine-learning-ai/
 topics:
 hex
 alf
-nosql 
+nosql https://www.youtube.com/watch?v=QZBxgX2OWbI&t=500s - json win 
