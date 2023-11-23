@@ -19,3 +19,10 @@ libs: https://www.unite.ai/10-best-python-libraries-for-machine-learning-ai/
 	i przetestowac skrypt z chata
 	generowanie obrazkow: https://www.youtube.com/watch?v=YSuWejNaSfE
 	https://neptune.ai/blog/image-processing-python
+
+
+
+topics:
+hex
+alf
+nosql 
