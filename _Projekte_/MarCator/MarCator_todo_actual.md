@@ -13,7 +13,7 @@ Funkcjonalnosc
 - [ ] dodac HOLD
 - [ ] init i fa - para funkcje
 - [ ] czy sie wylacza bez messsystem
-- [ ] 
+- [ ] nie wylacza sie samo w autooff
 
 produkcja:
 - [x] flashowanie radio z seggera
