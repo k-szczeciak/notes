@@ -17,3 +17,11 @@ PS: this will not keep your old commit history around
 
 
 clean .git folder: https://stackoverflow.com/questions/5277467/how-can-i-clean-my-git-folder-cleaned-up-my-project-directory-but-git-is-sti
+
+tagging
+```console
+git tag -a v1.4 -m "my version 1.4"
+```
+push tag
+
+list tag
