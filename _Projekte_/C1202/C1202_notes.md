@@ -62,3 +62,9 @@ https://gct.co/de/connector/mem2080
 
 - [ ] okno informacyjne gdy zmiana modulu
 - [ ] screenshot w chwili dynamicznej zrobic 
+
+
+idea C1202:
+klawiatura pcb na dku1
+
+

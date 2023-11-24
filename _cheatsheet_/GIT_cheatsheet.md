@@ -23,6 +23,16 @@ tagging
 git tag -a v1.4 -m "my version 1.4"
 ```
 push tag
+`git push origin --tags`
 
 list tag
 `git tag`
+
+usuwanie tagow:
+````console
+git tag -d v1.4-lw
+````
+usuwanie tagow z remote:
+```console
+git push origin --delete <tagname>
+```
