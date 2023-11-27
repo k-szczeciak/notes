@@ -14,7 +14,9 @@ Funkcjonalnosc
 - [ ] init i fa - para funkcje
 - [ ] czy sie wylacza bez messsystem
 - [ ] nie wylacza sie samo w autooff
-- [ ] std: min, max, musi funkcjonowac rowniez preset
+- [ ] Niebling: std: min, max, musi funkcjonowac rowniez preset
+- [ ] lo-bat, czy kasowac flage lo bat? nie., w menue czy sprawdzac lo-bat, - 
+- [ ] za szybko dziala zegar w 1086 - 
 
 produkcja:
 - [x] flashowanie radio z seggera
