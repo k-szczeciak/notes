@@ -16,7 +16,7 @@ Funkcjonalnosc
 - [ ] nie wylacza sie samo w autooff
 - [ ] Niebling: std: min, max, musi funkcjonowac rowniez preset
 - [ ] lo-bat, czy kasowac flage lo bat? nie., w menue czy sprawdzac lo-bat, - 
-- [ ] za szybko dziala zegar w 1086 - 
+- [ ] za szybko dziala zegar w 1086 - np ubat i baterie
 
 produkcja:
 - [x] flashowanie radio z seggera
