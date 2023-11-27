@@ -14,6 +14,7 @@ Funkcjonalnosc
 - [ ] init i fa - para funkcje
 - [ ] czy sie wylacza bez messsystem
 - [ ] nie wylacza sie samo w autooff
+- [ ] std: min, max, musi funkcjonowac rowniez preset
 
 produkcja:
 - [x] flashowanie radio z seggera
