@@ -18,6 +18,7 @@ Funkcjonalnosc
 - [ ] lo-bat, czy kasowac flage lo bat? nie., w menue czy sprawdzac lo-bat, - 
 - [ ] za szybko dziala zegar w 1086 - np ubat i baterie ???
 - [ ] zdezaktywowac pomiar baterii w nie HR
+- [ ] 
 
 produkcja:
 - [x] flashowanie radio z seggera
