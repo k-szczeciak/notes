@@ -20,6 +20,7 @@ Funkcjonalnosc
 - [ ] zdezaktywowac pomiar baterii w nie HR- pokazuje poprawnie dopiero przy  ref ustawione na 3V ale mierzone jest 2.2V do masy (gorny rezystor 0,56V, ucieka gdzies 0,2V, czy to rezystor wewnetrzny)
 - [ ] testy ogolne poboru pradu oraz 
 - [ ] czasami sie nie wlacza automatycznie od sondy, kabel dku1, po dluzszym czasie ???
+- [ ] sprawdzenie i upewnienie sie czy nie zostaja jakies artefakty (abstract layer Display)
 
 produkcja:
 - [x] flashowanie radio z seggera
