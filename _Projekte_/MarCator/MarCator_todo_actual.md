@@ -19,6 +19,7 @@ Funkcjonalnosc
 - [ ] za szybko dziala zegar w 1086 - np ubat i baterie tylko w hr (pewnie czestotliwosc odsierzania)
 - [ ] zdezaktywowac pomiar baterii w nie HR- pokazuje poprawnie dopiero przy  ref ustawione na 3V ale mierzone jest 2.2V do masy (gorny rezystor 0,56V, ucieka gdzies 0,2V, czy to rezystor wewnetrzny)
 - [ ] testy ogolne poboru pradu oraz 
+- [ ] czasami sie nie wlacza automatycznie od sondy, kabel dku1
 
 produkcja:
 - [x] flashowanie radio z seggera
