@@ -17,7 +17,7 @@ Funkcjonalnosc
 - [ ] Niebling: std: min, max, musi funkcjonowac rowniez preset
 - [ ] lo-bat, czy kasowac flage lo bat? nie., w menue czy sprawdzac lo-bat, - 
 - [ ] za szybko dziala zegar w 1086 - np ubat i baterie tylko w hr (pewnie czestotliwosc odsierzania)
-- [ ] zdezaktywowac pomiar baterii w nie HR
+- [ ] zdezaktywowac pomiar baterii w nie HR- pokazuje poprawnie dopi
 - [ ] 
 
 produkcja:
