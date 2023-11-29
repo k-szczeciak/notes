@@ -21,6 +21,7 @@ Funkcjonalnosc
 - [ ] testy ogolne poboru pradu oraz 
 - [ ] czasami sie nie wlacza automatycznie od sondy, kabel dku1, po dluzszym czasie ???
 - [ ] sprawdzenie i upewnienie sie czy nie zostaja jakies artefakty (abstract layer Display)
+- [ ] 844 - preset i reset poprawic
 
 produkcja:
 - [x] flashowanie radio z seggera
