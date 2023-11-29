@@ -22,6 +22,7 @@ Funkcjonalnosc
 - [ ] czasami sie nie wlacza automatycznie od sondy, kabel dku1, po dluzszym czasie ???
 - [ ] sprawdzenie i upewnienie sie czy nie zostaja jakies artefakty (abstract layer Display)
 - [ ] 844 - preset i reset poprawic, dodac jakis przedzial w celu lepszej detekcji zmiany punktu przegiecia (okno lub filtr???)
+- [ ] letd-t stralka LP do tylu z ustawieniami
 
 produkcja:
 - [x] flashowanie radio z seggera
