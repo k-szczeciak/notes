@@ -25,6 +25,7 @@ Funkcjonalnosc
 - [ ] letd-t stralka LP do tylu z ustawieniami
 - [ ] 844 zablokowac kierunek pomiaru
 - [ ] na kablu nie wylacza sie tylko inkrmentuje: dlaczego sie nie wylacza oraz dlaczego inkrmentuje (to samo bylo w EMV przy resecie)
+- [ ] poukladac procedure startowa po optymalizacji startu przejz Jensa w D
 
 produkcja:
 - [x] flashowanie radio z seggera
