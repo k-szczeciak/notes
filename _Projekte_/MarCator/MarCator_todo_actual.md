@@ -40,6 +40,7 @@ Interfejsy
 - [ ] helios preiser evaluation
 - [x] numery Funk dal nowych urzadzen
 - [ ] usunac ART No z ANT
+- [ ] sprawdzic ustawienia nico 
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
