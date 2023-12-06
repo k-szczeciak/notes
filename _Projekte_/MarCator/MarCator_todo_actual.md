@@ -40,7 +40,7 @@ Interfejsy
 - [ ] helios preiser evaluation
 - [x] numery Funk dal nowych urzadzen
 - [ ] usunac ART No z ANT
-- [ ] sprawdzic ustawienia nico 
+- [ ] sprawdzic ustawienia nico co do uart - ponoc dziala mu to lepiej
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
