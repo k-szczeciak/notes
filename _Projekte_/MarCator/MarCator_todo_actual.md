@@ -27,6 +27,7 @@ Funkcjonalnosc
 - [ ] na kablu nie wylacza sie tylko inkrmentuje: dlaczego sie nie wylacza oraz dlaczego inkrmentuje (to samo bylo w EMV przy resecie)
 - [ ] poukladac procedure startowa po optymalizacji startu przejz Jensa w DigMC.c
 - [ ] 844 - gdzie indziej zrobic ta histereze nie AnzWert tylko wczesniej???, lub przesledzic AnZWertRaw - to calosc przemyslec
+- [ ] co z konfiguracja jak nie ma radia lub jest a konfiguracja nie wymaga
 
 produkcja:
 - [x] flashowanie radio z seggera
