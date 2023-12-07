@@ -21,6 +21,11 @@ Funkcjonalnosc
 - [ ] testy ogolne poboru pradu oraz 
 - [ ] czasami sie nie wlacza automatycznie od sondy, kabel dku1, po dluzszym czasie ???
 - [ ] sprawdzenie i upewnienie sie czy nie zostaja jakies artefakty (abstract layer Display)
+- [ ] 844 - preset i reset poprawic, dodac jakis przedzial w celu lepszej detekcji zmiany punktu przegiecia (okno lub filtr???)
+- [ ] letd-t stralka LP do tylu z ustawieniami
+- [ ] 844 zablokowac kierunek pomiaru
+- [ ] na kablu nie wylacza sie tylko inkrmentuje: dlaczego sie nie wylacza oraz dlaczego inkrmentuje (to samo bylo w EMV przy resecie)
+- [ ] poukladac procedure startowa po optymalizacji startu przejz Jensa w DigMC.c
 
 produkcja:
 - [x] flashowanie radio z seggera
@@ -35,6 +40,7 @@ Interfejsy
 - [ ] helios preiser evaluation
 - [x] numery Funk dal nowych urzadzen
 - [ ] usunac ART No z ANT
+- [ ] sprawdzic ustawienia nico co do uart - ponoc dziala mu to lepiej
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue

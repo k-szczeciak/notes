@@ -14,8 +14,8 @@
 - [mail archive](https://mailarchive.europe.mahr.lan)
 - dysk sieciowy - skaner: `\\192.168.1.17\homes\SzczeciakK\skaner`
 - haslo do dysku sieciowego: `SzczeciakK` `plocka53`
-- drukarka: `192.168.1.7`
-- 
+- drukarka: `192.168.1.7` haslo admin
+- entwicklungs vorlagen: ``V:\Entwicklung\Vorlagen Entwicklung``
 
 
 temp: [docs](http://ims.mahr.lan/MahrGmbH/Processes/DienstreisePlanenBeantragenUndAbrechnen)
