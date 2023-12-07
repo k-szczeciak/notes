@@ -26,7 +26,7 @@ Funkcjonalnosc
 - [ ] 844 zablokowac kierunek pomiaru
 - [ ] na kablu nie wylacza sie tylko inkrmentuje: dlaczego sie nie wylacza oraz dlaczego inkrmentuje (to samo bylo w EMV przy resecie)
 - [ ] poukladac procedure startowa po optymalizacji startu przejz Jensa w DigMC.c
-- [ ] 844 - gdzie indziej zrobic ta histereze 
+- [ ] 844 - gdzie indziej zrobic ta histereze nie AnzWert tylko wczesniej???, lub przesledzic AnZWertRaw
 
 produkcja:
 - [x] flashowanie radio z seggera
