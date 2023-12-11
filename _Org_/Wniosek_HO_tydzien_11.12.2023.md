@@ -1,5 +1,5 @@
 porzadki i wartosci init
-<div style="text-align: right"> Warszawa 16.10.2023r.  </div>
+<div style="text-align: right"> Warszawa 11.12.2023r.  </div>
 
 <div style="text-align: left"> Krzysztof Szczeciak</div>
 <div style="text-align: left">ul. Krańcowa 17/16</div>
@@ -14,7 +14,7 @@ porzadki i wartosci init
 
 <br><br><br><br><br>
 <div>
-Strony na zasadzie porozumienia stron ustalają że dniami pracy w trybie Home Office w miejscu zamieszkania w tygodniu 16.10.2023 – 20.10.2023 będą dni 16.10.2023 (poniedzialek), 17.10.2023 (wtorek).
+Strony na zasadzie porozumienia stron ustalają że dniami pracy w trybie Home Office w miejscu zamieszkania w tygodniu 11.12.2023 – 15.12.2023 będą wszystkie dni.
 </div>
 <br>
 
