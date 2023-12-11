@@ -14,7 +14,7 @@ porzadki i wartosci init
 
 <br><br><br><br><br>
 <div>
-Strony na zasadzie porozumienia stron ustalają że wszystkie  w tygodniu 11.12.2023 – 15.12.2023 będą wszystkie dni.
+Strony na zasadzie porozumienia stron ustalają że wszystkie dni w tygodniu 18.12.2023 – 22.12.2023 będą stacjonarne na ul. Gimnazjalnej 4, w Warszawie.
 </div>
 <br>
 
