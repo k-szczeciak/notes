@@ -1,4 +1,3 @@
-porzadki i wartosci init
 <div style="text-align: right"> Warszawa 11.12.2023r.  </div>
 
 <div style="text-align: left"> Krzysztof Szczeciak</div>
