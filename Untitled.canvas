@@ -1,7 +1,13 @@
 {
 	"nodes":[
-		{"id":"cc2b45fced66ac51","x":-320,"y":-280,"width":250,"height":60,"type":"text","text":""},
-		{"id":"377a0f5f7e4a1a7b","x":-620,"y":-320,"width":160,"height":100,"color":"2","type":"text","text":"measurement \nsystem"}
+		{"id":"377a0f5f7e4a1a7b","x":-620,"y":-320,"width":160,"height":100,"color":"2","type":"text","text":"measurement \nsystem"},
+		{"id":"045312905ec04fac","type":"text","text":"Mean Value filter\n32 samples","x":-340,"y":-320,"width":160,"height":100,"color":"2"},
+		{"id":"a8564194f5b833ea","type":"text","text":"Window","x":-80,"y":-140,"width":160,"height":100,"color":"2"},
+		{"id":"d2ba04961682ac3a","type":"text","text":"Low-pass filter\nPT2 T= ","x":-80,"y":-320,"width":160,"height":100,"color":"2"},
+		{"id":"5b20cf6976606d67","type":"text","text":"Display LCD","x":180,"y":-320,"width":160,"height":100,"color":"2"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7b804d96672a7c52","fromNode":"377a0f5f7e4a1a7b","fromSide":"right","toNode":"045312905ec04fac","toSide":"left"},
+		{"id":"0839ac0d8cb23801","fromNode":"045312905ec04fac","fromSide":"right","toNode":"d2ba04961682ac3a","toSide":"left"}
+	]
 }
