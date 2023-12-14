@@ -6,3 +6,8 @@ highest interpolation 256
 
 
 in C1202 feste einstellung, nur periode umstellung moeglich.
+
+
+brak kundenkorrektur w tym module
+
+zapis parametrow na karcie sd
