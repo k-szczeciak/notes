@@ -1,0 +1,1 @@
+- przygotowac maske
