@@ -17,3 +17,7 @@ zapis calego modulu na sd???
 pokazac na wykresie punkty i w tekscie
 
 do tego dodac jakies rzeczy z listy: pokazanie csv  na ekranie, zaps csv z wykresu
+
+
+A1700 kod
+najpierw jest messbereich
