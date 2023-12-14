@@ -7,6 +7,7 @@ highest interpolation 256
 
 in C1202 feste einstellung, nur periode umstellung moeglich.
 
+sollwert + abeichung
 
 brak kundenkorrektur w tym module
 
