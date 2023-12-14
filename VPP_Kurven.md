@@ -1,1 +1,2 @@
-- przygotowac maske
+- przygotowac maske C1202
+- nico przygotuje protokol
