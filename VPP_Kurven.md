@@ -10,4 +10,8 @@ in C1202 feste einstellung, nur periode umstellung moeglich.
 
 brak kundenkorrektur w tym module
 
-zapis parametrow na karcie sd
+zapis parametrow na karcie sd razem z typem i numerm seryjnym, opis txt vector grafik lub link
+
+zapis calego modulu na sd???
+
+do tego dodac jakies rzeczy z 
