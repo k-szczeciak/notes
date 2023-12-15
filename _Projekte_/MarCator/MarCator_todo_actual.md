@@ -31,6 +31,21 @@ Funkcjonalnosc
 - [ ] jak zmiana wariantu - to reset do FA
 - [ ] hold w schnitstelle - przydala by sie w koncu unifikacja
 
+light:
+sprawdzic delay przy przyciskach
+poprawic powtarzajacy sie kod: 
+```
+if ( (Hold) && (Einst.devtype != devTypeVarStruct.BR) ){
+	TextMeldung(ANZ_HOLD, 500, 0);
+	break;
+}else{
+	if ( (Hold) && (!Einst.MaxModus) ){
+		TextMeldung(ANZ_HOLD, 500, 0);
+		break;
+	}
+}
+```
+
 produkcja:
 - [x] flashowanie radio z seggera
 - [ ] program do kalibracji rozszerzyc - marcheck - i produkcja
