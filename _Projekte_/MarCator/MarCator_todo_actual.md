@@ -29,6 +29,7 @@ Funkcjonalnosc
 - [ ] 844 - gdzie indziej zrobic ta histereze nie AnzWert tylko wczesniej???, lub przesledzic AnZWertRaw - to calosc przemyslec
 - [ ] co z konfiguracja jak nie ma radia lub jest a konfiguracja nie wymaga
 - [ ] jak zmiana wariantu - to reset do FA
+- [ ] hold w schnitstelle - przydala by sie w koncu unifikacja
 
 produkcja:
 - [x] flashowanie radio z seggera
