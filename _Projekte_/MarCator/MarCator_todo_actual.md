@@ -30,6 +30,7 @@ Funkcjonalnosc
 - [ ] co z konfiguracja jak nie ma radia lub jest a konfiguracja nie wymaga
 - [ ] jak zmiana wariantu - to reset do FA
 - [ ] hold w schnitstelle - przydala by sie w koncu unifikacja
+- [ ] zalaczanie ponowne z uspienia - czy jest taki sam stan
 
 light:
 sprawdzic delay przy przyciskach
