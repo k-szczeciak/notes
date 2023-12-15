@@ -28,6 +28,7 @@ Funkcjonalnosc
 - [ ] poukladac procedure startowa po optymalizacji startu przejz Jensa w DigMC.c
 - [ ] 844 - gdzie indziej zrobic ta histereze nie AnzWert tylko wczesniej???, lub przesledzic AnZWertRaw - to calosc przemyslec
 - [ ] co z konfiguracja jak nie ma radia lub jest a konfiguracja nie wymaga
+- [ ] jak zmiana wariantu - to reset do FA
 
 produkcja:
 - [x] flashowanie radio z seggera
