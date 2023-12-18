@@ -13,7 +13,7 @@
 | 11     | 3600 um < dTol ≤ 7200 um  |  0000.2mm  | ±4.000mm  |  00.01inch   | ±0.200inch  |  X  | only for Tol. |
 | 12     | 7200 um < dTol ≤ 18000 um |  0000.5mm  | ±10.000mm |  00.02inch   | ±0.400inch  |  X  | only for Tol. |
 | 13     |       18000 < dTol        |  0001.0mm  | ±20.000mm |      -       |      -      |  X  | only for Tol. |
-|        |                           |            |           |              |             |     |               |
+
 
 
 

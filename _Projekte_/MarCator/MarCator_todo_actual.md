@@ -26,6 +26,26 @@ Funkcjonalnosc
 - [ ] 844 zablokowac kierunek pomiaru
 - [ ] na kablu nie wylacza sie tylko inkrmentuje: dlaczego sie nie wylacza oraz dlaczego inkrmentuje (to samo bylo w EMV przy resecie)
 - [ ] poukladac procedure startowa po optymalizacji startu przejz Jensa w DigMC.c
+- [ ] 844 - gdzie indziej zrobic ta histereze nie AnzWert tylko wczesniej???, lub przesledzic AnZWertRaw - to calosc przemyslec
+- [ ] co z konfiguracja jak nie ma radia lub jest a konfiguracja nie wymaga
+- [ ] jak zmiana wariantu - to reset do FA
+- [ ] hold w schnitstelle - przydala by sie w koncu unifikacja
+- [ ] zalaczanie ponowne z uspienia - czy jest taki sam stan
+
+light:
+sprawdzic delay przy przyciskach
+poprawic powtarzajacy sie kod: 
+```
+if ( (Hold) && (Einst.devtype != devTypeVarStruct.BR) ){
+	TextMeldung(ANZ_HOLD, 500, 0);
+	break;
+}else{
+	if ( (Hold) && (!Einst.MaxModus) ){
+		TextMeldung(ANZ_HOLD, 500, 0);
+		break;
+	}
+}
+```
 
 produkcja:
 - [x] flashowanie radio z seggera
