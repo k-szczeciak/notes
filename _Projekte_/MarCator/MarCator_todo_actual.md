@@ -30,7 +30,7 @@ Funkcjonalnosc
 - [ ] co z konfiguracja jak nie ma radia lub jest a konfiguracja nie wymaga
 - [ ] jak zmiana wariantu - to reset do FA
 - [ ] hold w schnitstelle - przydala by sie w koncu unifikacja
-- [ ] zalaczanie ponowne z uspienia - czy jest taki sam stan
+- [ ] zalaczanie ponowne z uspienia - czy jest taki sam stan 
 - [ ] dodac logowanie i zmienne predkosci do np szybkich pomiarow
 
 light:
@@ -99,3 +99,6 @@ LED? - status ledow
 ??? czy switching off powinien byc niemozliwy gdy jest hold???
 
 !!! interfejsy zrobic jako modul i w osobnym repo na gitlabie, nie trzeba wtedy nic uzgadniac !!!
+
+!!! kabel dku1 rs232, drukarka termiczna np: ok 700-800 pln https://www.citizen-systems.com/en/products/printer/pos/ct-s310ii
+interfejs - automatyka IO
