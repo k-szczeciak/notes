@@ -105,3 +105,8 @@ interfejs - automatyka IO
 
 
 przestrzen na dane dowolne np stringi, txt IP w C1202 numer i inne
+
+
+FA reset
+- baud
+- SrvCmd
