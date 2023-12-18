@@ -16,7 +16,8 @@
 - haslo do dysku sieciowego: `SzczeciakK` `plocka53`
 - drukarka: `192.168.1.7` haslo admin
 - entwicklungs vorlagen: ``V:\Entwicklung\Vorlagen Entwicklung``
-
+- ASCII art: [Text to ASCII: The best ASCII Art Generator & Maker](https://www.asciiart.eu/text-to-ascii-art)
+- 
 
 temp: [docs](http://ims.mahr.lan/MahrGmbH/Processes/DienstreisePlanenBeantragenUndAbrechnen)
 
