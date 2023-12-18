@@ -102,3 +102,6 @@ LED? - status ledow
 
 !!! kabel dku1 rs232, drukarka termiczna np: ok 700-800 pln https://www.citizen-systems.com/en/products/printer/pos/ct-s310ii
 interfejs - automatyka IO
+
+
+przestrzen na dane dowolne np stringi, txt IP w C1202 numer i inne
