@@ -68,3 +68,8 @@ idea C1202:
 klawiatura pcb na dku1
 
 
+drukarka termiczna: zapis pomiarow
+klawiatura do wyboru programu i konfiguracja z poziomu pc lub c1202
+pady 4x4=16
+
+komunikat ze zostal zmieniony modul
