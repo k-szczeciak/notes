@@ -1,5 +1,5 @@
 
-<div style="text-align: right"> Warszawa 06.11.2023r.  </div>
+<div style="text-align: right"> Warszawa 18.12.2023r.  </div>
 
 <div style="text-align: left"> Krzysztof Szczeciak</div>
 <div style="text-align: left">ul. Krańcowa 17/16</div>

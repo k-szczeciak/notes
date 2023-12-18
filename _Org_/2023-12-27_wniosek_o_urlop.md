@@ -1,5 +1,5 @@
 
-<div style="text-align: right"> Warszawa 06.11.2023r.  </div>
+<div style="text-align: right"> Warszawa 18.12.2023r.  </div>
 
 <div style="text-align: left"> Krzysztof Szczeciak</div>
 <div style="text-align: left">ul. Krańcowa 17/16</div>
@@ -18,7 +18,7 @@
 </div>
 <br><br>
 <div>
-Prosze o udzielenie urlopu wypoczynkowego w dniach od 29.11.2023r (Sroda) do 01.12.2023 (Piatek)
+Prosze o udzielenie urlopu wypoczynkowego w dniach od 27.12.2023r (Sroda) do 28.12.2023 (Czwartek)
 </div>
 <br><br><br>
 
