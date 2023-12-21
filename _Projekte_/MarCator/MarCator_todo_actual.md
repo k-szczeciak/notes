@@ -32,6 +32,7 @@ Funkcjonalnosc
 - [ ] hold w schnitstelle - przydala by sie w koncu unifikacja
 - [ ] zalaczanie ponowne z uspienia - czy jest taki sam stan 
 - [ ] dodac logowanie i zmienne predkosci do np szybkich pomiarow
+- [ ] sprawdzic autooff czy na wlasciwym HW dziala poprawnie
 
 light:
 sprawdzic delay przy przyciskach
