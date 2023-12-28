@@ -64,7 +64,8 @@ Interfejsy
 - [x] numery Funk dal nowych urzadzen
 - [ ] usunac ART No z ANT
 - [ ] sprawdzic ustawienia nico co do uart - ponoc dziala mu to lepiej
-- [ ] dokonczyc SrvCmd: bit 0 raw, bit 1 filtered, bit 2 anzeige, bit 4 bat
+- [ ] dokonczyc SrvCmd: bit 0 raw, bit 1 filtered, bit 2 anzeige, bit 4 bat volt (zrobic funkcje do tego: sentDiag(srvCmd, val1, val2, val3, val4)) - tylko na kablu - detekcja
+- [ ] dodac czestosc odswierzania obrazu - tylko na kablu
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
