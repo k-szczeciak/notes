@@ -115,3 +115,12 @@ przestrzen na dane dowolne np stringi, txt IP w C1202 numer i inne
 FA reset
 - baud
 - SrvCmd
+
+```
+ ___    _                      
+|_ _|__| | ___  __ _ ___   _   
+ | |/ _` |/ _ \/ _` / __| (_)  
+ | | (_| |  __/ (_| \__ \  _   
+|___\__,_|\___|\__,_|___/ (_)
+```
+- [ ] variable refrashe rate for power eficency
