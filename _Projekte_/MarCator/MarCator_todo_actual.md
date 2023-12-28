@@ -33,7 +33,7 @@ Funkcjonalnosc
 - [ ] zalaczanie ponowne z uspienia - czy jest taki sam stan 
 - [ ] dodac logowanie i zmienne predkosci do np szybkich pomiarow
 - [ ] sprawdzic autooff czy na wlasciwym HW dziala poprawnie
-- [ ] 844  (histereze przeniesc z WandleWert() do GetAnzWert() )
+- [ ] 844  (histereze przeniesc z WandleWert() do GetAnzWert() tak aby dalo sie w trybie serwisowym widzic wlasciwa wartosc)
 
 light:
 sprawdzic delay przy przyciskach
@@ -64,8 +64,9 @@ Interfejsy
 - [x] numery Funk dal nowych urzadzen
 - [ ] usunac ART No z ANT
 - [ ] sprawdzic ustawienia nico co do uart - ponoc dziala mu to lepiej
-- [ ] dokonczyc SrvCmd: bit 0 raw, bit 1 filtered, bit 2 anzeige, bit 4 bat volt (zrobic funkcje do tego: sentDiag(srvCmd, val1, val2, val3, val4)) - tylko na kablu - detekcja
+- [ ] dokonczyc SrvCmd: bit 0 raw, bit 1 filtered, bit 2 anzeige, bit 4 bat volt dla HR, hist dla EWR (zrobic funkcje do tego: sentDiag(srvCmd, val1, val2, val3, val4)) - tylko na kablu - detekcja
 - [ ] dodac czestosc odswierzania obrazu - tylko na kablu
+- [ ] testowanie automatyczne schnitstelle
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
