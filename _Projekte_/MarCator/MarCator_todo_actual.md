@@ -33,6 +33,7 @@ Funkcjonalnosc
 - [ ] zalaczanie ponowne z uspienia - czy jest taki sam stan 
 - [ ] dodac logowanie i zmienne predkosci do np szybkich pomiarow
 - [ ] sprawdzic autooff czy na wlasciwym HW dziala poprawnie
+- [ ] 844  (histereze przeniesc z WandleWert() do GetAnzWert() )
 
 light:
 sprawdzic delay przy przyciskach
@@ -63,6 +64,7 @@ Interfejsy
 - [x] numery Funk dal nowych urzadzen
 - [ ] usunac ART No z ANT
 - [ ] sprawdzic ustawienia nico co do uart - ponoc dziala mu to lepiej
+- [ ] dokonczyc SrvCmd: bit 0 raw, bit 1 filtered, bit 2 anzeige, bit 4 bat
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
