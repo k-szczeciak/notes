@@ -34,6 +34,7 @@ Funkcjonalnosc
 - [ ] dodac logowanie i zmienne predkosci do np szybkich pomiarow
 - [ ] sprawdzic autooff czy na wlasciwym HW dziala poprawnie
 - [ ] 844  (histereze przeniesc z WandleWert() do GetAnzWert() tak aby dalo sie w trybie serwisowym widzic wlasciwa wartosc)
+- [ ] refactor and documentation
 
 light:
 sprawdzic delay przy przyciskach
@@ -97,6 +98,8 @@ Prio 3:
 - [ ] ??? podlaczoiny kablem to permanentnie wlaczony ???
 - [ ] dodac LCD1? i LCD0? wysylanie tylko zmian jezeli zaistnialy za kazdym cyklem (tez ledow) - tylko mozliwe jezeli kabel podlaczony
 LED? - status ledow
+- [ ] doxygen with ascii art 
+- [ ] wiki internal and or external with exmples, tutorials and downloads
 
 - [ ] millimess: [[Millimess_todos]]
 
@@ -126,3 +129,4 @@ FA reset
 ```
 - [ ] variable refrashe rate for power eficency
 - [ ] konfiguracja poprzez jedna komede - zwrot: lista komend i mozliwosci (cos co jest w C1202)
+- [ ] doxygen
