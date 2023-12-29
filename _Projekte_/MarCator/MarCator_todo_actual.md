@@ -67,6 +67,7 @@ Interfejsy
 - [ ] dokonczyc SrvCmd: bit 0 raw, bit 1 filtered, bit 2 anzeige, bit 4 bat volt dla HR, hist dla EWR (zrobic funkcje do tego: sentDiag(srvCmd, val1, val2, val3, val4)) - tylko na kablu - detekcja
 - [ ] dodac czestosc odswierzania obrazu - tylko na kablu
 - [ ] testowanie automatyczne schnitstelle
+- [ ] konfiguracja poprzez jedna komede - zwrot: lista komend i mozliwosci (cos co jest w C1202)
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
@@ -124,3 +125,4 @@ FA reset
 |___\__,_|\___|\__,_|___/ (_)
 ```
 - [ ] variable refrashe rate for power eficency
+- [ ] konfiguracja poprzez jedna komede - zwrot: lista komend i mozliwosci (cos co jest w C1202)
