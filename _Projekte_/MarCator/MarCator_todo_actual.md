@@ -100,7 +100,7 @@ Prio 3:
 LED? - status ledow
 - [ ] doxygen with ascii art 
 - [ ] wiki internal and or external with exmples, tutorials and downloads
-- [ ] narzedzie do commitowania podobnej 
+- [ ] narzedzie do commitowania podobne jak dla A1701
 - [ ] millimess: [[Millimess_todos]]
 
 
