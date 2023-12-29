@@ -36,3 +36,14 @@ usuwanie tagow z remote:
 ```console
 git push origin --delete <tagname>
 ```
+
+
+przegladanie historii pliku
+```
+gitk --follow [filename]
+```
+
+graficzny podglad:
+```
+gitk
+```
