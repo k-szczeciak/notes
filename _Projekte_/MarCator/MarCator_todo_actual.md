@@ -130,3 +130,7 @@ FA reset
 - [ ] variable refrashe rate for power eficency
 - [ ] konfiguracja poprzez jedna komede - zwrot: lista komend i mozliwosci (cos co jest w C1202)
 - [ ] doxygen
+- [ ] dku1 variable freq - podobnie jak SRV befehl
+- [ ] apka do androida
+- [ ] kabel do usbc do androida otg (zasilanie)
+- [ ] 
