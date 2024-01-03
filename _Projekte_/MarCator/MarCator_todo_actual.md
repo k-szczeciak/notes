@@ -69,6 +69,7 @@ Interfejsy
 - [ ] dodac czestosc odswierzania obrazu - tylko na kablu
 - [ ] testowanie automatyczne schnitstelle
 - [ ] konfiguracja poprzez jedna komede - zwrot: lista komend i mozliwosci (cos co jest w C1202)
+- [ ] usuniecie zmiennych po usunieciu kabla: SRV, BAUD i FREQ
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
