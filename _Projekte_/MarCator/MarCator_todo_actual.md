@@ -134,4 +134,4 @@ FA reset
 - [ ] dku1 variable freq - podobnie jak SRV befehl
 - [ ] apka do androida
 - [ ] kabel do usbc do androida otg (zasilanie)
-- [ ] 
+- [ ] czy nie wysylac konfiguracji jako zestaw znakow jak parmaetr zamioast art no (kazda litera jako ustawienie) - to dalej do komunikacji - jak byla by najlepsza
