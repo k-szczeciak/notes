@@ -35,6 +35,7 @@ Funkcjonalnosc
 - [ ] sprawdzic autooff czy na wlasciwym HW dziala poprawnie
 - [ ] 844  (histereze przeniesc z WandleWert() do GetAnzWert() tak aby dalo sie w trybie serwisowym widzic wlasciwa wartosc)
 - [ ] refactor and documentation
+- [ ] BR - ograniczenie 
 
 light:
 sprawdzic delay przy przyciskach
