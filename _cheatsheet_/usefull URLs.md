@@ -70,3 +70,7 @@ https://bossa.pl/notowania/wykresy?symbol=FEURM23&interval=1S
 
 pomiar malych pradow:
 https://www.eevblog.com/projects/ucurrent/
+
+
+DOXYGEN tutorial 35mins
+https://www.youtube.com/watch?v=TtRn3HsOm1s
