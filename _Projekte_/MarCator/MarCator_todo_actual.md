@@ -104,6 +104,7 @@ LED? - status ledow
 - [ ] wiki internal and or external with exmples, tutorials and downloads
 - [ ] narzedzie do commitowania podobne jak dla A1701
 - [ ] millimess: [[Millimess_todos]]
+- [ ] Kennlinie dla MC, 5-10 punktow
 
 
 ?
