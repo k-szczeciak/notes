@@ -77,6 +77,7 @@ Interfejsy
 - [ ] po VAR1 lub VAR2 - pokazac cyfry bo sie nie wysietla czyasami
 - [ ] czy po factory reset reset czy inny zestaw parametrow
 - [ ] Ub sie nie pojawia za 2 -gim razem
+- [ ] wake up ustawic do duk1
 
 
 
