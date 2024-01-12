@@ -36,6 +36,7 @@ Funkcjonalnosc
 - [ ] 844  (histereze przeniesc z WandleWert() do GetAnzWert() tak aby dalo sie w trybie serwisowym widzic wlasciwa wartosc)
 - [ ] refactor and documentation
 - [ ] BR - ograniczenie ERR3 jezeli w czasie pomiarow, aby sie nie dalo ustawic np presetu w czasie pomiaru
+- [ ] ?? display test ??
 
 light:
 sprawdzic delay przy przyciskach
