@@ -79,6 +79,7 @@ Interfejsy
 - [ ] czy po factory reset reset czy inny zestaw parametrow
 - [ ] Ub sie nie pojawia za 2 -gim razem
 - [ ] wake up ustawic do duk1
+- [ ] przypisac do S_ z T_ aby bylo takie samo - zrobic funkcje
 
 
 
