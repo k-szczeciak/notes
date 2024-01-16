@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ab03f0422cc9d8d3","x":-360,"y":-40,"width":156,"height":60,"type":"text","text":"Measurement"},
+		{"id":"2aaafbc8532ec20b","type":"text","text":"Display","x":-204,"y":-40,"width":156,"height":60},
+		{"id":"cacc528e5f8a573d","type":"text","text":"Comm","x":-48,"y":-40,"width":156,"height":60},
+		{"id":"3ddb794a468301a5","type":"text","text":"ANT","x":108,"y":-40,"width":156,"height":60}
+	],
+	"edges":[]
+}
