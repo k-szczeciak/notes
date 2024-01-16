@@ -140,3 +140,47 @@ FA reset
 - [ ] apka do androida
 - [ ] kabel do usbc do androida otg (zasilanie)
 - [ ] czy nie wysylac konfiguracji jako zestaw znakow jak parmaetr zamioast art no (kazda litera jako ustawienie) - to dalej do komunikacji - jak byla by najlepsza
+
+
+
+```c
+typedef struct{
+    char val1;
+    char val2;
+}abc;
+
+abc myabc = {.val1 = 1, .val2 = 2}
+typedef enum {
+    ONE = 0,
+    TWO,
+    THREE
+}params;
+params PAR;
+PAR.ONE;
+int get(char no);
+int set(char no);
+//uChar checkResBound(){
+//
+//}
+
+// parameters as a struct with min and max
+  
+// three options for handling parameters:
+// (1) resolution.increase(b); resolution.set(4); // check boundaries underhood: resolution.minmax(); resolution.check()
+// (2) parameter.increase(resolution, 1); // check boundaries underhood
+// (3) parameter(resolution, increase, 1); // as above
+// parameterCheck(DYNAMIC_CHANGES); parameterCheck(STATIC_CHANGES); container for parameters rules where: DYNAMIC_CHANGES only when display update, STATIC_CHANGES - all parameters.
+  
+// (4) if (getPram(RESOLUTION) == 1) , where: #define RESOLUTION 1 or enum
+// (5) param(RESOLUTION, [default|init]), param(par.RESOLUTOIN).get()
+// (6) param.get(RESOLUTION)
+// (7) param(RESOLUTION).get();
+// iterate, check, correct, save, default
+// auto generated as in c1202
+  
+// param(PAR.RESOLUTION, set, 4)
+// param(PAR.RESOLUTION, get, 0)
+// param(PAR.RESOLUTION, default, 0)
+// param(PAR.RESOLUTION).get();
+// param(PAR.RESOLUTION).set(4);
+```
