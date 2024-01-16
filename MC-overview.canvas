@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"a89f9f1dbee679b1","type":"text","text":"Feature:\n- Preset\n- Tol\n- Analog\n- ","x":-360,"y":-220,"width":156,"height":180},
-		{"id":"2aaafbc8532ec20b","type":"text","text":"Display","x":-204,"y":-40,"width":156,"height":60},
-		{"id":"11a6c0e8bbc886f2","type":"text","text":"Measurement\nAnalog\nMenue\n","x":-204,"y":-220,"width":156,"height":180},
-		{"id":"3ddb794a468301a5","type":"text","text":"I/O","x":-48,"y":-40,"width":156,"height":60},
-		{"id":"25f8ccd031116ed2","type":"text","text":"LEDs\nButtons","x":-48,"y":-220,"width":156,"height":180},
-		{"id":"cacc528e5f8a573d","type":"text","text":"Comm","x":108,"y":-40,"width":156,"height":60},
-		{"id":"c043e4486f4c0c4d","type":"text","text":"Parameters\nDKU1\nANT","x":108,"y":-220,"width":156,"height":180},
-		{"id":"ab03f0422cc9d8d3","x":-360,"y":-40,"width":156,"height":60,"type":"text","text":"Measurement"},
-		{"id":"fc345708c295cd62","type":"text","text":"Control: Set prest, abs, reset, tol, ","x":-360,"y":-280,"width":624,"height":60},
-		{"id":"298337a3c8bbdd30","type":"text","text":"State Machine: On/off, autooff, ","x":-360,"y":-340,"width":624,"height":60}
+		{"id":"a89f9f1dbee679b1","type":"text","text":"Feature:\n- Preset\n- Tol\n- Analog\n- ","x":-360,"y":-220,"width":156,"height":180,"color":"6"},
+		{"id":"2aaafbc8532ec20b","type":"text","text":"Display","x":-204,"y":-40,"width":156,"height":60,"color":"3"},
+		{"id":"11a6c0e8bbc886f2","type":"text","text":"Measurement\nAnalog\nMenue\n","x":-204,"y":-220,"width":156,"height":180,"color":"3"},
+		{"id":"3ddb794a468301a5","type":"text","text":"I/O, IRQ","x":-48,"y":-40,"width":156,"height":60,"color":"5"},
+		{"id":"25f8ccd031116ed2","type":"text","text":"LEDs\nButtons","x":-48,"y":-220,"width":156,"height":180,"color":"5"},
+		{"id":"cacc528e5f8a573d","type":"text","text":"Comm, IRQ","x":108,"y":-40,"width":156,"height":60,"color":"1"},
+		{"id":"c043e4486f4c0c4d","type":"text","text":"DKU1\nANT","x":108,"y":-220,"width":156,"height":180,"color":"1"},
+		{"id":"ab03f0422cc9d8d3","type":"text","text":"Measurement, BAT","x":-360,"y":-40,"width":156,"height":60,"color":"6"},
+		{"id":"fc345708c295cd62","type":"text","text":"Control: Set prest, abs, reset, tol, params","x":-360,"y":-280,"width":624,"height":60},
+		{"id":"298337a3c8bbdd30","type":"text","text":"State Machine: On/off, autooff, watchtog, menue, WDT","x":-360,"y":-340,"width":624,"height":60}
 	],
 	"edges":[]
 }
