@@ -8,11 +8,12 @@
 		{"id":"cacc528e5f8a573d","type":"text","text":"Comm, IRQ","x":108,"y":-40,"width":156,"height":60,"color":"1"},
 		{"id":"c043e4486f4c0c4d","type":"text","text":"DKU1\nANT","x":108,"y":-220,"width":156,"height":180,"color":"1"},
 		{"id":"ab03f0422cc9d8d3","type":"text","text":"Measurement, BAT","x":-360,"y":-40,"width":156,"height":60,"color":"6"},
-		{"id":"fc345708c295cd62","type":"text","text":"Control: Set prest, abs, reset, tol, params","x":-360,"y":-280,"width":624,"height":60},
+		{"id":"fc345708c295cd62","type":"text","text":"Control: Set prest, abs, reset, tol","x":-360,"y":-280,"width":468,"height":60},
 		{"id":"298337a3c8bbdd30","type":"text","text":"State Machine: On/off, autooff, watchtog, menue, WDT","x":-360,"y":-340,"width":468,"height":60},
 		{"id":"a6faa361754e0005","type":"text","text":"DB: comm","x":340,"y":-120,"width":140,"height":80},
 		{"id":"4794caa167c64ab9","x":340,"y":-220,"width":140,"height":80,"type":"text","text":"DB: params"},
-		{"id":"af3ec2e1f9aa53e0","type":"text","text":"IOs set get (sim)","x":108,"y":-340,"width":156,"height":60}
+		{"id":"af3ec2e1f9aa53e0","type":"text","text":"IOs set get (sim)","x":108,"y":-340,"width":156,"height":60},
+		{"id":"51e9f40881c8d96c","type":"text","text":"Params, get set","x":108,"y":-280,"width":156,"height":60}
 	],
 	"edges":[]
 }
