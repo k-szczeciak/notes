@@ -184,3 +184,7 @@ int set(char no);
 // param(PAR.RESOLUTION).get();
 // param(PAR.RESOLUTION).set(4);
 ```
+
+do T_ i S_
+dodac slownik do komunikatow, np.:
+"no Fcn": "ERR3" dla DKU1 i "E3" dla funk
