@@ -80,6 +80,7 @@ Interfejsy
 - [ ] Ub sie nie pojawia za 2 -gim razem
 - [ ] wake up ustawic do duk1
 - [ ] przypisac do S_ z T_ aby bylo takie samo - zrobic funkcje
+- [ ] nowy mat number: reset wszystkich params do ustawien fabrycznych bez sn
 
 
 
@@ -188,3 +189,4 @@ int set(char no);
 do T_ i S_
 dodac slownik do komunikatow, np.:
 "no Fcn": "ERR3" dla DKU1 i "E3" dla funk
+
