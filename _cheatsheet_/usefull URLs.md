@@ -18,7 +18,7 @@
 - entwicklungs vorlagen: ``V:\Entwicklung\Vorlagen Entwicklung``
 - ASCII art: [Text to ASCII: The best ASCII Art Generator & Maker](https://www.asciiart.eu/text-to-ascii-art)
 - ASCII art II: https://texteditor.com/ascii-art/
-- 
+- KUP: https://www.conrad.de/de/p/sks-hirschmann-pms-0-64-smd-messleitungs-set-schwarz-rot-1-st-2119264.html
 
 temp: [docs](http://ims.mahr.lan/MahrGmbH/Processes/DienstreisePlanenBeantragenUndAbrechnen)
 
