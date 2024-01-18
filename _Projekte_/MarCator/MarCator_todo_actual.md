@@ -37,6 +37,7 @@ Funkcjonalnosc
 - [ ] refactor and documentation
 - [ ] BR - ograniczenie ERR3 jezeli w czasie pomiarow, aby sie nie dalo ustawic np presetu w czasie pomiaru
 - [ ] ?? display test ??
+- [ ] HR-battery test
 - [ ] on/off:
 	- [ ] przypadkowe nacisniecie przy wlaczaniu - zwloka
 	- [ ] auto off czy mozliwe jest aby sie nie zlaczylo
