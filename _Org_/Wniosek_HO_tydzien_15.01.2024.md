@@ -1,5 +1,4 @@
-<div style="text-align: right"> Warszawa 11.12.2023r.  </div>
-<div style="text-align: right"> Warszawa 11.12.2023r.  </div>
+<div style="text-align: right"> Warszawa 15.01.2024r.  </div>
 
 <div style="text-align: left"> Krzysztof Szczeciak</div>
 <div style="text-align: left">ul. Krańcowa 17/16</div>
@@ -14,7 +13,7 @@
 
 <br><br><br><br><br>
 <div>
-Strony na zasadzie porozumienia stron ustalają że wszystkie dni w tygodniu 18.12.2023 – 22.12.2023 będą stacjonarne na ul. Gimnazjalnej 4, w Warszawie.
+Strony na zasadzie porozumienia stron ustalają że wszystkie dni w tygodniu 15.01.2024 – 19.01.2024 będą w trybie zdalnym w miejscu zamieszkania, w Warszawie.
 </div>
 <br>
 
