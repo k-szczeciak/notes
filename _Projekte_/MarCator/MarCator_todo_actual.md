@@ -88,7 +88,8 @@ Interfejsy
 - [ ] wake up ustawic do duk1
 - [ ] przypisac do S_ z T_ aby bylo takie samo - zrobic funkcje - general interfaces
 - [ ] nowy mat number: reset wszystkich params do ustawien fabrycznych bez sn
-- [ ] po wlaczeniu br w trybie sie nie odswierza - niebling
+- [ ] po wlaczeniu br w trybie sie nie odswierza sie cyfry - niebling
+- [ ] jakie radio ustawic defoltowe
 
 
 
