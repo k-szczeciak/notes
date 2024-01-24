@@ -42,6 +42,7 @@ Funkcjonalnosc
 	- [ ] przypadkowe nacisniecie przy wlaczaniu - zwloka
 	- [ ] auto off czy mozliwe jest aby sie nie zlaczylo
 	- [ ] zalaczanie z interface-u DKU1
+- [ ] 
 
 light:
 sprawdzic delay przy przyciskach
@@ -77,6 +78,7 @@ Interfejsy
 - [ ] testowanie automatyczne schnitstelle
 - [ ] konfiguracja poprzez jedna komede - zwrot: lista komend i mozliwosci (cos co jest w C1202)
 - [ ] usuniecie zmiennych po usunieciu kabla: SRV, BAUD i FREQ
+- [ ] setting radio number separetly
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
@@ -84,8 +86,9 @@ Interfejsy
 - [ ] czy po factory reset reset czy inny zestaw parametrow
 - [ ] Ub sie nie pojawia za 2 -gim razem
 - [ ] wake up ustawic do duk1
-- [ ] przypisac do S_ z T_ aby bylo takie samo - zrobic funkcje
+- [ ] przypisac do S_ z T_ aby bylo takie samo - zrobic funkcje - general interfaces
 - [ ] nowy mat number: reset wszystkich params do ustawien fabrycznych bez sn
+- [ ] po wlaczeniu br w trybie sie nie odswierza - niebling
 
 
 
