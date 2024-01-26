@@ -59,3 +59,9 @@ commit and stage at one step:
 ```
 git commit -am "asdfasdf"
 ```
+
+
+combining commits onto one commit
+```
+git rebase -i <commit>
+```
