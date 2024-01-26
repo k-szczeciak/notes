@@ -66,5 +66,7 @@ combining commits onto one commit
 git rebase -i <commit>
 ```
 
+git reset --hard <commit>
+
 reflog
 fixup
