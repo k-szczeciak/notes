@@ -1,2 +1,3 @@
 - [ ] interface do symulacji zewnetrzny, np vcom
-- [ ] 
+- [ ] def values - recap
+- [ ] speed up test - Test flow
