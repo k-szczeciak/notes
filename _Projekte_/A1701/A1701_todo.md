@@ -15,7 +15,25 @@ switch for absolute position instead of relative
 #define ZeroP5          0x00 // none
 
 proposal:
-#define U200G           0x00
+// Range 
+#define U200B           (1 << 0)
+#define U200C           (1 << 1)
+#define U200D           (1 << 2)
+#define U200E           (1 << 3)
+// Zero Point:
+#define U200F           (1 << 4)
+#define U200G           (1 << 5)
+// Filter:
+#define U200H           (1 << 6)
+#define U200I           (1 << 7)
+#define U205B           (1 << 8)
+//Output
+#define U205C           (1 << 9) // range
+#define U205D           (1 << 10) // offset 5V
+#define U205F           (1 << 12) // offset 2x
+// Output:
+
+
 #define ZeroP100        U200G + U200F
 ```
 add functions for setting switches to be easy adopted by simulation
