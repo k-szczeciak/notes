@@ -1,6 +1,7 @@
 - [ ] interface do symulacji zewnetrzny, np vcom
 - [ ] def values - recap (MRange - used for testing is 1000)
 - [ ] speed up test - Test flow
+- [ ] przetestowac Wavelight czy dziala poprawnie
 - [ ] dokonczyc symulacje switchy
 
 in code:  replace:
