@@ -41,12 +41,17 @@ proposal:
 #define ZeroP5          0x00
 
 /*...*/
+MRange
+
 
 ```
-add functions for setting switches to be easy adopted by simulation
-one table with settings for dev and separate with values for simulation or:
-- using "config" variable for simulation with multiplier and bitmap mask
+wykozystac funkcje "setSwitches()" i zamienic to co jest w scene.c
 
-??? struct for simulation only:
-- number ( position in )
-- designation- name 
+other option to be considered:
+- add yet another functions for setting switches to be easy adopted by simulation - but there is one
+- one table with settings for dev and separate with values for simulation or:
+	- using "config" variable for simulation with multiplier and bitmap mask - thats the better way
+
+- struct for simulation only ():
+	- number ( position in )
+	- designation- name 
