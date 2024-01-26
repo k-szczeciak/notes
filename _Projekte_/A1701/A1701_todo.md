@@ -12,3 +12,7 @@ in code:  replace:
 #define ZeroP20         U200F // U200F
 #define ZeroP5          0x00 // none
 ```
+add functions for setting switches to be easy adopted by simulation
+struct:
+- number ( position in )
+- designation
