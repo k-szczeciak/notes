@@ -47,3 +47,9 @@ graficzny podglad:
 ```
 gitk
 ```
+
+
+list tags with names:
+```
+git tag -l -n9
+```
