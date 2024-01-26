@@ -1,8 +1,11 @@
-- [ ] interface do symulacji zewnetrzny, np vcom
+Main todos:
 - [ ] def values - recap (MRange - used for testing is 1000)
 - [ ] speed up test - Test flow
 - [ ] przetestowac Wavelight czy dziala poprawnie
-- [ ] dokonczyc symulacje switchy
+- [ ] dokonczyc symulacje switchy i refactor
+optional todos
+- [ ] 
+- [ ] interface do symulacji zewnetrzny, np vcom
 
 in code:  replace:
 switch for absolute position instead of relative 
@@ -42,7 +45,7 @@ proposal:
 
 /*...*/
 MRange
-
+// for Wavelight - Output range as a separate value - 0,1,2 (wavelight)
 
 ```
 wykozystac funkcje "setSwitches()" i zamienic to co jest w scene.c
@@ -52,6 +55,7 @@ other option to be considered:
 - one table with settings for dev and separate with values for simulation or:
 	- using "config" variable for simulation with multiplier and bitmap mask - thats the better way
 
-- struct for simulation only ():
+- struct for simulation only (object like with scene object placement props): - or maybe just evaluate in "setSwitches()"
 	- number ( position in )
 	- designation- name 
+	- group
