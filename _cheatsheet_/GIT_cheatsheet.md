@@ -53,3 +53,9 @@ list tags with names:
 ```
 git tag -l -n9
 ```
+
+
+commit and stage at one step:
+```
+git commit -am "asdfasdf"
+```
