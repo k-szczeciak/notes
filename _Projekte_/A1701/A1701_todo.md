@@ -38,7 +38,10 @@ proposal:
 
 #define ZeroP100        U205G + U205F
 #define ZeroP20         U205F
-#define ZeroP5          U205F
+#define ZeroP5          0x00
+
+/*...*/
+
 ```
 add functions for setting switches to be easy adopted by simulation
 one table with settings for dev and separate with values for simulation or:
