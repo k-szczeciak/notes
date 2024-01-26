@@ -2,9 +2,10 @@ Main todos:
 - [ ] def values - recap (MRange - used for testing is 1000)
 - [ ] speed up test - Test flow
 - [ ] przetestowac Wavelight czy dziala poprawnie
-- [ ] dokonczyc symulacje switchy i refactor
+- [ ] test HW copnfig options
+- [ ] dokonczyc symulacje switchy i refactor (jak ponizej, as below)
+- [ ] correct version display - split to red and green (red major (1 - 7))
 optional todos
-- [ ] 
 - [ ] interface do symulacji zewnetrzny, np vcom
 
 in code:  replace:
@@ -44,7 +45,9 @@ proposal:
 #define ZeroP5          0x00
 
 /*...*/
-MRange
+#define MRange
+ZeroP
+Filter
 // for Wavelight - Output range as a separate value - 0,1,2 (wavelight)
 
 ```
