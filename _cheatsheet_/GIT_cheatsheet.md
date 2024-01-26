@@ -65,3 +65,6 @@ combining commits onto one commit
 ```
 git rebase -i <commit>
 ```
+
+reflog
+fixup
