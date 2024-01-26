@@ -4,7 +4,7 @@ Main todos:
 - [ ] przetestowac Wavelight czy dziala poprawnie
 - [ ] test HW copnfig options
 - [ ] dokonczyc symulacje switchy i refactor (jak ponizej, as below)
-- [ ] correct version display - split to red and green (red major (1 - 7))
+- [ ] correct version display - split to red and green (red major (1 - 7), minor (1 - 7): zamiast 11: 1-1)
 optional todos
 - [ ] interface do symulacji zewnetrzny, np vcom
 
