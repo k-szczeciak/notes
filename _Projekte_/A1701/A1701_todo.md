@@ -4,6 +4,7 @@
 - [ ] dokonczyc symulacje switchy
 
 in code:  replace:
+switch for absolute position instead of relative 
 ```
 #define U200G           0x03 // should be split ... todo
 #define U200F           0x01
@@ -13,6 +14,6 @@ in code:  replace:
 #define ZeroP5          0x00 // none
 ```
 add functions for setting switches to be easy adopted by simulation
-struct:
+struct for simulation only:
 - number ( position in )
-- designation
+- designation- name 
