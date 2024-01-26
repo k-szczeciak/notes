@@ -1,3 +1,3 @@
 - [ ] interface do symulacji zewnetrzny, np vcom
-- [ ] def values - recap
+- [ ] def values - recap (MRange - used for testing is 1000)
 - [ ] speed up test - Test flow
