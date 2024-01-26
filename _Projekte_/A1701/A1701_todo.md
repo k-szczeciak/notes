@@ -27,14 +27,18 @@ proposal:
 #define U200H           (1 << 6)
 #define U200I           (1 << 7)
 #define U205B           (1 << 8)
-//Output
-#define U205C           (1 << 9) // range
+// Output:Components
+#define U205C           (1 << 9) // Half Range
 #define U205D           (1 << 10) // offset 5V
 #define U205F           (1 << 12) // offset 2x
 // Output:
+#define HalfRange       U205C
+#define Offset5V        U205D
+#define OffsetD         U205F
 
-
-#define ZeroP100        U200G + U200F
+#define ZeroP100        U205G + U205F
+#define ZeroP20         U205F
+#define ZeroP5          U205F
 ```
 add functions for setting switches to be easy adopted by simulation
 one table with settings for dev and separate with values for simulation or:
