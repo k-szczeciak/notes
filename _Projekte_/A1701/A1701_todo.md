@@ -13,8 +13,15 @@ switch for absolute position instead of relative
 #define ZeroP100        U200G // U200G
 #define ZeroP20         U200F // U200F
 #define ZeroP5          0x00 // none
+
+proposal:
+#define U200G           0x00
+#define ZeroP100        U200G + U200F
 ```
 add functions for setting switches to be easy adopted by simulation
-struct for simulation only:
+one table with settings for dev and separate with values for simulation or:
+- using "config" variable for simulation with multiplier and bitmap mask
+
+??? struct for simulation only:
 - number ( position in )
 - designation- name 
