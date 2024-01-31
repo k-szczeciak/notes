@@ -199,3 +199,4 @@ do T_ i S_
 dodac slownik do komunikatow, np.:
 "no Fcn": "ERR3" dla DKU1 i "E3" dla funk
 
+ustawianie cyfr jak u nico przez przekrecanie
