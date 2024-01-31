@@ -42,7 +42,7 @@ Funkcjonalnosc
 	- [ ] przypadkowe nacisniecie przy wlaczaniu - zwloka
 	- [ ] auto off czy mozliwe jest aby sie nie zlaczylo
 	- [ ] zalaczanie z interface-u DKU1
-- [ ] 
+- [ ] czy w trakcie pomiaru mozna wylaczyc BR-a
 
 light:
 sprawdzic delay przy przyciskach
