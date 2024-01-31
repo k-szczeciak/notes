@@ -43,6 +43,7 @@ Funkcjonalnosc
 	- [ ] auto off czy mozliwe jest aby sie nie zlaczylo
 	- [ ] zalaczanie z interface-u DKU1
 - [ ] czy w trakcie pomiaru mozna wylaczyc BR-a
+- [ ] ANT - wysylanie danych (pomiaru) - potwierdzenie - zrodla - to co Nico 
 
 light:
 sprawdzic delay przy przyciskach
