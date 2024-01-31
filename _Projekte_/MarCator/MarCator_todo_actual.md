@@ -45,6 +45,7 @@ Funkcjonalnosc
 - [ ] czy w trakcie pomiaru mozna wylaczyc BR-a
 - [ ] ANT - wysylanie danych (pomiaru) - potwierdzenie - zrodla - to co Nico pytal i opowiadal 
 - [ ] auto wylaczenie i brak ponownego zalaczenia - sprawdzane top bylo w 
+- [ ] przeniesc z WDT do maina, a tam zostawic counter lub tick
 
 light:
 sprawdzic delay przy przyciskach
