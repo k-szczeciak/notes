@@ -205,3 +205,9 @@ dodac slownik do komunikatow, np.:
 ustawianie cyfr jak u nico przez przekrecanie
 
 !!! dodac ustawianie z przemeszczenia sondy jak u niko z pokretlem !!!
+
+
+
+pytania do PM-a:
+- czy auto off w menue, i gdzie powrot
+- czy automatyczne opuszczenie menue
