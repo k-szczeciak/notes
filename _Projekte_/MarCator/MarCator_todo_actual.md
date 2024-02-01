@@ -50,6 +50,7 @@ Funkcjonalnosc
 - [ ] usuniecie menue nastawy histerezy
 - [ ] co z battery? jak ukryc?
 - [ ] przejscie z preset - zwloka w skali
+- [ ] refactor i usuniecie nie potrzebnych juz zmiennych
 
 light:
 sprawdzic delay przy przyciskach
