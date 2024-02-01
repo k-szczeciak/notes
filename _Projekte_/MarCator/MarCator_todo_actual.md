@@ -46,6 +46,9 @@ Funkcjonalnosc
 - [ ] ANT - wysylanie danych (pomiaru) - potwierdzenie - zrodla - to co Nico pytal i opowiadal 
 - [ ] auto wylaczenie i brak ponownego zalaczenia - sprawdzane top bylo w 
 - [ ] przeniesc z WDT do maina, a tam zostawic counter lub tick
+- [ ] potwierdzenie preset w menue po nastawie - refactor kodu
+- [ ] usuniecie menue nastawy histerezy
+- [ ] co z battery? jak ukryc?
 
 light:
 sprawdzic delay przy przyciskach
