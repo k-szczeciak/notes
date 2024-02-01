@@ -210,4 +210,4 @@ ustawianie cyfr jak u nico przez przekrecanie
 
 pytania do PM-a:
 - czy auto off w menue, i gdzie powrot
-- czy automatyczne opuszczenie menue
+- czy automatyczne opuszczenie menue?
