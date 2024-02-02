@@ -51,6 +51,7 @@ Funkcjonalnosc
 - [ ] co z battery? jak ukryc?
 - [ ] przejscie z preset - zwloka w skali
 - [ ] refactor i usuniecie nie potrzebnych juz zmiennych
+- [ ] dane diagnostyczne co z nimi
 
 light:
 sprawdzic delay przy przyciskach
