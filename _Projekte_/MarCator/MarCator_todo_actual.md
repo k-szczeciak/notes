@@ -99,6 +99,7 @@ Interfejsy
 - [ ] nowy mat number: reset wszystkich params do ustawien fabrycznych bez sn
 - [ ] po wlaczeniu br w trybie sie nie odswierza sie cyfry - niebling czy to nim nax bylo czy tez br - sprawdzic weszedzie
 - [ ] jakie radio ustawic defoltowe
+- [ ] sterowanie po dku1 np wyjscie z menue jak w C1202
 
 
 
