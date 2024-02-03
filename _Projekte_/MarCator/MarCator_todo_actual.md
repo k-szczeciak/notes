@@ -6,7 +6,7 @@ Funkcjonalnosc
 - [ ] funkcaje na init_para, fa-para i reset-para, ew on-off-para:
 	- 1: po wdraniu programu (tablela init)
 	- 2: po wlozeniu  baterii (funkcja - brakuje)
-	- 3: po aktywowaniu FA-SET (funkcja Init...()) odpalenie articleEval() by ustawic zmienne
+	- 3: po aktywowaniu FA-SET (funkcja Init...()) odpalenie articleEval() by ustawic zmienne lub!!! zrobic liste jak w c1202 z wart std???
 - [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa (to samo zaimplementrowac do MC, tam przemyslec te tryby jeszcze raz, a przede wszystkim: "Einst.RFMode = 2;" przemiescic i inny warunek na wyjscie)
 - [ ] usuniecie jednej resolution
 - [ ] jeden interface na raz, kabel albo ant
