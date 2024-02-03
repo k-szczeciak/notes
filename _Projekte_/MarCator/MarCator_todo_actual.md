@@ -52,6 +52,8 @@ Funkcjonalnosc
 - [ ] przejscie z preset - zwloka w skali
 - [ ] refactor i usuniecie nie potrzebnych juz zmiennych
 - [ ] dane diagnostyczne co z nimi
+- [ ] przechodzenie z menue do pomiaru ma byc "ladne"
+- [ ] meldunek ze brak radia nawet jesli ustawiono
 
 light:
 sprawdzic delay przy przyciskach
