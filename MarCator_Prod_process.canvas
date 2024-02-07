@@ -14,8 +14,8 @@
 		{"id":"0da288f81c2963b6","type":"text","text":"set up manually at approx 0,2mm","x":20,"y":-100,"width":200,"height":100,"color":"2"},
 		{"id":"5743eb578013b69a","type":"text","text":"conduct automatic check","x":20,"y":180,"width":200,"height":100,"color":"2"},
 		{"id":"241b1009fa661ee4","type":"text","text":"certificate printout","x":20,"y":320,"width":200,"height":100,"color":"2"},
-		{"id":"697739e31a8c2544","type":"text","text":"**MarCom** for radio check if relevant","x":-640,"y":180,"width":260,"height":100,"color":"2"},
-		{"id":"2e1aab374cb17ba7","type":"text","text":"MarCatorCheck:\n- automatic aligment\n- Article number and serial number automatically send\n- calibration prprocedure\n- cetificate","x":-640,"y":-100,"width":260,"height":240,"color":"2"}
+		{"id":"697739e31a8c2544","type":"text","text":"**MarCom** for radio check if relevant","x":-880,"y":200,"width":260,"height":100,"color":"5"},
+		{"id":"2e1aab374cb17ba7","type":"text","text":"MarCatorCheck:\n- 2D code scanning\n- automatic aligment\n- Article number and serial number automatically send\n- calibration prprocedure\n- cetificate","x":-880,"y":-100,"width":260,"height":260,"color":"5"}
 	],
 	"edges":[
 		{"id":"c3dd07a5b4cdc09f","fromNode":"7e396d10bb13c0c3","fromSide":"bottom","toNode":"746c229b94a4a299","toSide":"top"},
