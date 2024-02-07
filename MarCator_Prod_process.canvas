@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"746c229b94a4a299","type":"text","text":"Measurement system assembly","x":-440,"y":-380,"width":160,"height":100,"color":"3"},
-		{"id":"c8401a6fcb02b941","type":"text","text":"Main board assembly","x":-80,"y":-520,"width":160,"height":100,"color":"6"},
-		{"id":"763364ace0134618","type":"text","text":"display test\n(not performed for Millimess)","x":-80,"y":-380,"width":160,"height":100,"color":"6"},
+		{"id":"c8401a6fcb02b941","type":"text","text":"Main board assembly","x":-80,"y":-520,"width":180,"height":100,"color":"6"},
+		{"id":"763364ace0134618","type":"text","text":"display test\n(not performed for Millimess)","x":-80,"y":-380,"width":180,"height":100,"color":"6"},
 		{"id":"7e396d10bb13c0c3","type":"text","text":"Aluminum body assembly","x":-440,"y":-520,"width":160,"height":100,"color":"3"},
 		{"id":"f6d0ce0ab1816942","type":"text","text":"2D-code engraving","x":-440,"y":-660,"width":160,"height":100,"color":"3"},
 		{"id":"e50382a479ad27ef","type":"text","text":"final assmbly","x":-260,"y":-240,"width":160,"height":100,"color":"4"},
