@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"746c229b94a4a299","type":"text","text":"Measurement system assembly","x":-440,"y":-380,"width":160,"height":100,"color":"3"},
 		{"id":"c8401a6fcb02b941","type":"text","text":"Main board assembly","x":-80,"y":-520,"width":160,"height":100,"color":"6"},
-		{"id":"763364ace0134618","type":"text","text":"display test\nnew: when ","x":-80,"y":-380,"width":160,"height":100,"color":"6"},
+		{"id":"763364ace0134618","type":"text","text":"display test\n(not performed for Millimess)","x":-80,"y":-380,"width":160,"height":100,"color":"6"},
 		{"id":"7e396d10bb13c0c3","type":"text","text":"Aluminum body assembly","x":-440,"y":-520,"width":160,"height":100,"color":"3"},
 		{"id":"f6d0ce0ab1816942","type":"text","text":"2D-code engraving","x":-440,"y":-660,"width":160,"height":100,"color":"3"},
 		{"id":"e50382a479ad27ef","type":"text","text":"final assmbly","x":-260,"y":-240,"width":160,"height":100,"color":"4"},
@@ -12,9 +12,10 @@
 		{"id":"b98565d19b0ef2fb","type":"text","text":"**MarCatorCheck** for calibration\n2D code scanner","x":-280,"y":40,"width":200,"height":100,"color":"4"},
 		{"id":"a4a6693b1395273b","type":"text","text":" 2D code scanner for selecting program","x":20,"y":40,"width":200,"height":100,"color":"2"},
 		{"id":"0da288f81c2963b6","type":"text","text":"set up manually at approx 0,2mm","x":20,"y":-100,"width":200,"height":100,"color":"2"},
-		{"id":"2e1aab374cb17ba7","type":"text","text":"MarCatorCheck:\n- automatic aligment\n- Article number and serial number automatically send\n- calibration prprocedure\n- ceri","x":-640,"y":-100,"width":220,"height":380,"color":"2"},
 		{"id":"5743eb578013b69a","type":"text","text":"conduct automatic check","x":20,"y":180,"width":200,"height":100,"color":"2"},
-		{"id":"241b1009fa661ee4","type":"text","text":"certificate printout","x":20,"y":320,"width":200,"height":100,"color":"2"}
+		{"id":"241b1009fa661ee4","type":"text","text":"certificate printout","x":20,"y":320,"width":200,"height":100,"color":"2"},
+		{"id":"697739e31a8c2544","type":"text","text":"**MarCom** for radio check if relevant","x":-640,"y":180,"width":260,"height":100,"color":"2"},
+		{"id":"2e1aab374cb17ba7","type":"text","text":"MarCatorCheck:\n- automatic aligment\n- Article number and serial number automatically send\n- calibration prprocedure\n- cetificate","x":-640,"y":-100,"width":260,"height":240,"color":"2"}
 	],
 	"edges":[
 		{"id":"c3dd07a5b4cdc09f","fromNode":"7e396d10bb13c0c3","fromSide":"bottom","toNode":"746c229b94a4a299","toSide":"top"},
@@ -30,6 +31,9 @@
 		{"id":"7928f55e3604c1eb","fromNode":"a4a6693b1395273b","fromSide":"bottom","toNode":"5743eb578013b69a","toSide":"top"},
 		{"id":"ef2633f8bdad6623","fromNode":"b98565d19b0ef2fb","fromSide":"right","toNode":"0da288f81c2963b6","toSide":"left"},
 		{"id":"9e6976ff47927c3e","fromNode":"241b1009fa661ee4","fromSide":"left","toNode":"b98565d19b0ef2fb","toSide":"right"},
-		{"id":"b7b9793b254263b1","fromNode":"5743eb578013b69a","fromSide":"bottom","toNode":"241b1009fa661ee4","toSide":"top"}
+		{"id":"b7b9793b254263b1","fromNode":"5743eb578013b69a","fromSide":"bottom","toNode":"241b1009fa661ee4","toSide":"top"},
+		{"id":"b7bb44eec64817ff","fromNode":"2e1aab374cb17ba7","fromSide":"bottom","toNode":"697739e31a8c2544","toSide":"top"},
+		{"id":"5ffa41f48e263766","fromNode":"697739e31a8c2544","fromSide":"bottom","toNode":"0c617913e2ceb9e5","toSide":"left"},
+		{"id":"66807eb53f9a0d3f","fromNode":"e50382a479ad27ef","fromSide":"left","toNode":"2e1aab374cb17ba7","toSide":"top"}
 	]
 }
