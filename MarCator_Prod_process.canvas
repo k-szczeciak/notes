@@ -7,9 +7,14 @@
 		{"id":"f6d0ce0ab1816942","type":"text","text":"2D-code engraving","x":-440,"y":-660,"width":160,"height":100,"color":"3"},
 		{"id":"e50382a479ad27ef","type":"text","text":"final assmbly","x":-260,"y":-240,"width":160,"height":100,"color":"4"},
 		{"id":"cdef368bd1f16190","type":"text","text":"**MarCatorControl**\nconfig files are selected manually","x":-280,"y":-100,"width":200,"height":100,"color":"4"},
-		{"id":"b98565d19b0ef2fb","type":"text","text":"**MarCatorCheck** for calibration\n2D code scanner","x":-280,"y":40,"width":200,"height":100,"color":"4"},
 		{"id":"18c561bcdf08b2be","type":"text","text":"**MarCom** to send serial number and article number","x":-280,"y":180,"width":200,"height":100,"color":"4"},
-		{"id":"0c617913e2ceb9e5","type":"text","text":"**MarCom** to send serial number and article number","x":-280,"y":320,"width":200,"height":100,"color":"4"}
+		{"id":"0c617913e2ceb9e5","type":"text","text":"front glass assembly and packing","x":-280,"y":320,"width":200,"height":100,"color":"4"},
+		{"id":"b98565d19b0ef2fb","type":"text","text":"**MarCatorCheck** for calibration\n2D code scanner","x":-280,"y":40,"width":200,"height":100,"color":"4"},
+		{"id":"a4a6693b1395273b","type":"text","text":" 2D code scanner for selecting program","x":20,"y":40,"width":200,"height":100,"color":"2"},
+		{"id":"0da288f81c2963b6","type":"text","text":"set up manually at approx 0,2mm","x":20,"y":-100,"width":200,"height":100,"color":"2"},
+		{"id":"2e1aab374cb17ba7","type":"text","text":"MarCatorCheck:\n- automatic aligment\n- Article number and serial number automatically send\n- calibration prprocedure\n- ceri","x":-640,"y":-100,"width":220,"height":380,"color":"2"},
+		{"id":"5743eb578013b69a","type":"text","text":"conduct automatic check","x":20,"y":180,"width":200,"height":100,"color":"2"},
+		{"id":"241b1009fa661ee4","type":"text","text":"certificate printout","x":20,"y":320,"width":200,"height":100,"color":"2"}
 	],
 	"edges":[
 		{"id":"c3dd07a5b4cdc09f","fromNode":"7e396d10bb13c0c3","fromSide":"bottom","toNode":"746c229b94a4a299","toSide":"top"},
@@ -19,6 +24,12 @@
 		{"id":"1eb97f420a97cc8e","fromNode":"f6d0ce0ab1816942","fromSide":"bottom","toNode":"7e396d10bb13c0c3","toSide":"top"},
 		{"id":"3e9b187c6e4fd81e","fromNode":"e50382a479ad27ef","fromSide":"bottom","toNode":"cdef368bd1f16190","toSide":"top"},
 		{"id":"8def227f81d0358a","fromNode":"cdef368bd1f16190","fromSide":"bottom","toNode":"b98565d19b0ef2fb","toSide":"top"},
-		{"id":"4e921c25323192b2","fromNode":"b98565d19b0ef2fb","fromSide":"bottom","toNode":"18c561bcdf08b2be","toSide":"top"}
+		{"id":"4e921c25323192b2","fromNode":"b98565d19b0ef2fb","fromSide":"bottom","toNode":"18c561bcdf08b2be","toSide":"top"},
+		{"id":"ff8fd06971f4382d","fromNode":"18c561bcdf08b2be","fromSide":"bottom","toNode":"0c617913e2ceb9e5","toSide":"top"},
+		{"id":"666ed7927fb4e3b9","fromNode":"0da288f81c2963b6","fromSide":"bottom","toNode":"a4a6693b1395273b","toSide":"top"},
+		{"id":"7928f55e3604c1eb","fromNode":"a4a6693b1395273b","fromSide":"bottom","toNode":"5743eb578013b69a","toSide":"top"},
+		{"id":"ef2633f8bdad6623","fromNode":"b98565d19b0ef2fb","fromSide":"right","toNode":"0da288f81c2963b6","toSide":"left"},
+		{"id":"9e6976ff47927c3e","fromNode":"241b1009fa661ee4","fromSide":"left","toNode":"b98565d19b0ef2fb","toSide":"right"},
+		{"id":"b7b9793b254263b1","fromNode":"5743eb578013b69a","fromSide":"bottom","toNode":"241b1009fa661ee4","toSide":"top"}
 	]
 }
