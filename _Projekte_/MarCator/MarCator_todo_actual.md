@@ -229,3 +229,6 @@ czy maxim bedzie lylko z "9" na koncu
 pozniej 
 co z batereria - wskazaniem
 czy do menue dodac tez sterownaie przy pomocy sondy?
+
+
+max wartosc suma 32 x 9999.999 900 = 32 x 10 000, 000 000 ( moze przekroczyc max wartosc long)
