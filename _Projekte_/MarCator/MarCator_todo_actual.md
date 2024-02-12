@@ -56,6 +56,7 @@ Funkcjonalnosc
 - [ ] przechodzenie z menue do pomiaru ma byc "ladne"
 - [ ] meldunek ze brak radia nawet jesli ustawiono
 - [ ] zerowanie wartosci przy wlozeniu baterii - doparam (podobnie jak przys fa-reset)
+- [ ] co z holdem po polaczneniu przez radio
 
 light:
 sprawdzic delay przy przyciskach
