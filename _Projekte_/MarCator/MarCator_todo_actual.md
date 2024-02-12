@@ -225,6 +225,7 @@ ustawianie cyfr jak u nico przez przekrecanie
 pytania do PM-a:
 - czy auto off w menue, i gdzie powrot
 - czy automatyczne opuszczenie menue?
+- co z kierunkiem w 844 dla histerezy
 
 pytania do Nieblinga:
 czy nowe wskazanie do wszystkich Z-tow czy tylko do uMaxuma III?
