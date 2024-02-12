@@ -55,6 +55,7 @@ Funkcjonalnosc
 - [ ] dane diagnostyczne co z nimi
 - [ ] przechodzenie z menue do pomiaru ma byc "ladne"
 - [ ] meldunek ze brak radia nawet jesli ustawiono
+- [ ] zerowanie wartosci przy wlozeniu ba
 
 light:
 sprawdzic delay przy przyciskach
