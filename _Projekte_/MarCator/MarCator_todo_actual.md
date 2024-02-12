@@ -55,7 +55,7 @@ Funkcjonalnosc
 - [ ] dane diagnostyczne co z nimi
 - [ ] przechodzenie z menue do pomiaru ma byc "ladne"
 - [ ] meldunek ze brak radia nawet jesli ustawiono
-- [ ] zerowanie wartosci przy wlozeniu ba
+- [ ] zerowanie wartosci przy wlozeniu baterii - doparam (podobnie jak przys fa-reset)
 
 light:
 sprawdzic delay przy przyciskach
