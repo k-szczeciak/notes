@@ -11,3 +11,4 @@ static
 makeFile learn
 
 
+[int to bcd]https://stackoverflow.com/questions/13247647/convert-integer-from-pure-binary-to-bcd
