@@ -107,6 +107,7 @@ Interfejsy
 - [ ] po wlaczeniu br w trybie sie nie odswierza sie cyfry - niebling czy to nim nax bylo czy tez br - sprawdzic weszedzie
 - [ ] jakie radio ustawic defoltowe
 - [ ] sterowanie po dku1 np wyjscie z menue jak w C1202
+- [ ] service data: on off ale "RUN" must stay, lub wlaczenie diag wczesniej w MarCator Check, lub pierwszy raz po zmianie T_...
 
 
 
