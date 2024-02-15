@@ -13,3 +13,9 @@ makeFile learn
 
 [int to bcd](https://stackoverflow.com/questions/13247647/convert-integer-from-pure-binary-to-bcd)
 
+C darmowy kurs (tez: obiektowosc w C):
+https://www.coursera.org/specializations/python
+
+python od tego samego autora:
+https://www.coursera.org/specializations/c-programming-for-everybody?utm_source=cc4e_com
+	
