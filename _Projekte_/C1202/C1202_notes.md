@@ -73,3 +73,8 @@ klawiatura do wyboru programu i konfiguracja z poziomu pc lub c1202
 pady 4x4=16
 
 komunikat ze zostal zmieniony modul
+
+
+[Will LoRaWAN IoT device work with a coin cell battery? (qoitech.com)](https://www.qoitech.com/blog/lorawan-iot-coin-cell-battery/)
+
+![[2024-02-15_09h35_49.png]]
