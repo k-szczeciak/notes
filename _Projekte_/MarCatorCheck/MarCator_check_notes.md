@@ -12,3 +12,34 @@ MarCator Check todo:
 - [ ] dopisac??? czy nowe
 - [x] ukryc checkbox dla innych
 - [ ] poczatek, spada czasami - moze porozmawaic z Jensem
+
+other:
+marcator not ready - zdarza sie czasami
+??? zamienic repead-y
+
+
+
+MCC finished:
+- procedure for new MC (touch):
+	- communication duplex
+	- evaluation after "(Touch)" string
+- antasten (Touch) for MC:
+	- zeroing value before movement
+	- finding beginning from bottom
+	- ride to 0,2 mm
+	- zeroing
+	- move to test procedure as for previous MC-s
+	- Timeout for procedure
+- added "Autoconfig" checkbox for configuration
+	- autohide if not relevant (not for other than Touch MC's)
+	- with Hint
+	- saved in INI-file
+- device configuration before calibration:
+	- dialog for confirmation of configuration - abort possible
+	- dialog after abord to proceed calibraction w/o configuration
+	- sending Serial number
+	- sending Article number
+
+Q:
+- czy po nie udanym pomiarz wycofac ???
+- Jakie nastawy do poszczegolnych programow
