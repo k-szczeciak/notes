@@ -29,7 +29,7 @@ MCC finished:
 	- ride to 0,2 mm
 	- zeroing
 	- move to test procedure as for previous MC-s
-	- Timeout for procedure
+	- Timeout for procedure 2x messages
 - added "Autoconfig" checkbox for configuration
 	- autohide if not relevant (not for other than Touch MC's)
 	- with Hint
