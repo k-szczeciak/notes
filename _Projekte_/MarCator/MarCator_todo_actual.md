@@ -237,3 +237,22 @@ czy do menue dodac tez sterownaie przy pomocy sondy?
 
 
 max wartosc suma 32 x 9999.999 900 = 32 x 10 000, 000 000 ( moze przekroczyc max wartosc long)
+
+
+```
+ _____ _      _     _   _____             _ _                _          
+|  ___(_) ___| | __| | |  ___|__  ___  __| | |__   __ _  ___| | __  _   
+| |_  | |/ _ \ |/ _` | | |_ / _ \/ _ \/ _` | '_ \ / _` |/ __| |/ / (_)  
+|  _| | |  __/ | (_| | |  _|  __/  __/ (_| | |_) | (_| | (__|   <   _   
+|_|   |_|\___|_|\__,_| |_|  \___|\___|\__,_|_.__/ \__,_|\___|_|\_\ (_)
+```
+
+- rozmowa z Krzyskiem Tluczkiem (15.02.2024):
+	- pierwszy pomiar BR ???
+	- wyjasnic LED-y kolory ( nie konsekwencja, podwojne dzialanie - moze zaburzac doznania)
+	- "No Fcn" - za czesto bez opisu
+	- powinno dzialac "IO" zawsze jako homescreen 
+	- przenoszenie pressetu MIN MAX przy kalibracji Min w odniesieniu do Max
+	- Start stop jezeli hold z pedalu
+	- Tol aktywna - brak mozliwosci zalaczenia resetu
+- dodatkowo maile,
