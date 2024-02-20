@@ -45,7 +45,7 @@ MCC finished:
 	- dialog after abord to proceed calibraction w/o configuration
 	- sending Serial number
 	- sending Article number
-	- dialog that configuration has beeb 
+	- dialog that configuration has been finished
 
 Q:
 - czy po nie udanym pomiarz wycofac ???
