@@ -1,5 +1,5 @@
 - [[job search]]
-- [[zakupy]]
+- [[_Private_/zakupy/zakupy]]
 - [[podatki DE]]
 - [display SPI step by step](https://forbot.pl/blog/kurs-stm32l4-kolorowy-wyswietlacz-tft-spi-id48620)
 - [[pomiar dugosci pantograf]]
