@@ -17,6 +17,9 @@ other:
 marcator not ready - zdarza sie czasami
 ??? zamienic repead-y
 
+- potwierdzenie ze sie zrobilo kalibracje
+- sprawdzanie cz jest juz numer An, jezeli jest to nie bedzie programowane ???
+
 
 
 MCC finished:
