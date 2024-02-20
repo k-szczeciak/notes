@@ -1,5 +1,8 @@
 do rozwazenia:
 - [4005 SENSEPEEK AB - Zestaw sond pomiarowych | pasywna; 10MHz; 1: 1; 30VAC,60VDC; ≤34ns; PCBITE-4005 | TME - Części elektroniczne](https://www.tme.eu/pl/details/pcbite-4005/sondy-do-oscyloskopow-i-skopometrow/sensepeek-ab/4005/?brutto=1&currency=PLN&gad_source=1&gclid=Cj0KCQiAhomtBhDgARIsABcaYylPpX2LjFPg55_Vwig1PW7k3kbPgWSHJxNrbQ3RaBJe2iZ9edchfiYaAlflEALw_wcB)
+- https://sensepeek.com/
+- zestaw: [4003 SENSEPEEK AB - Uchwyt PCB | PCBite; PCBITE-4003 | TME - Części elektroniczne](https://www.tme.eu/pl/details/pcbite-4003/ramy-i-uchwyty-pcb/sensepeek-ab/4003/)
+- 
 
 
 zamowione:
