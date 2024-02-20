@@ -17,6 +17,9 @@ other:
 marcator not ready - zdarza sie czasami
 ??? zamienic repead-y
 
+
+!!!
+
 - potwierdzenie ze sie zrobilo kalibracje
 - sprawdzanie cz jest juz numer An, jezeli jest to nie bedzie programowane ???
 
@@ -42,6 +45,7 @@ MCC finished:
 	- dialog after abord to proceed calibraction w/o configuration
 	- sending Serial number
 	- sending Article number
+	- dialog that configuration has beeb 
 
 Q:
 - czy po nie udanym pomiarz wycofac ???
