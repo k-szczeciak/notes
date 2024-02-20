@@ -58,6 +58,7 @@ Funkcjonalnosc
 - [ ] zerowanie wartosci przy wlozeniu baterii - doparam (podobnie jak przys fa-reset) - byla poluzowana srobka
 - [ ] co z holdem po polaczneniu przez radio
 - [ ] !!! jak polezy dlugo z bateria to wychodza jakies jaja przy kalibracji z uzyciem MarCator Check, albo moze tak wplywa na to wysylanie konfiguracji
+- [ ] preset przy zmianie kierunku nie dziala i ikona F poprawic
 
 light:
 sprawdzic delay przy przyciskach
