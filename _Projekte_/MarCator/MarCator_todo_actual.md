@@ -55,7 +55,7 @@ Funkcjonalnosc
 - [ ] dane diagnostyczne co z nimi
 - [ ] przechodzenie z menue do pomiaru ma byc "ladne"
 - [ ] meldunek ze brak radia nawet jesli ustawiono
-- [ ] zerowanie wartosci przy wlozeniu baterii - doparam (podobnie jak przys fa-reset)
+- [ ] zerowanie wartosci przy wlozeniu baterii - doparam (podobnie jak przys fa-reset) - byla poluzowana srobka
 - [ ] co z holdem po polaczneniu przez radio
 - [ ] !!! jak polezy dlugo z bateria to wychodza jakies jaja przy kalibracji z uzyciem MarCator Check, albo moze tak wplywa na to wysylanie konfiguracji
 
