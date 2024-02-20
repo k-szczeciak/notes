@@ -17,7 +17,7 @@ other:
 marcator not ready - zdarza sie czasami
 ??? zamienic repead-y
 
-
+marcator time out
 !!!
 
 - potwierdzenie ze sie zrobilo kalibracje
