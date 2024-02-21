@@ -12,6 +12,7 @@ MarCator Check todo:
 - [ ] dopisac??? czy nowe
 - [x] ukryc checkbox dla innych
 - [ ] poczatek, spada czasami - moze porozmawaic z Jensem
+- [ ] sprawdzanie czy pole nie jest puste i czy skanowanie mialo miejsce ???
 
 other:
 marcator not ready - zdarza sie czasami
