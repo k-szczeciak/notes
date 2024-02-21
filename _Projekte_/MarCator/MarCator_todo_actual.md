@@ -262,5 +262,25 @@ max wartosc suma 32 x 9999.999 900 = 32 x 10 000, 000 000 ( moze przekroczyc max
 	- Idąc poza domem zapomniałem po której stronie świeci się czerwona a po której żółta dioda. Okazuje się, że w przypadku, gdy wyłączone są granice kontrolne – ustawienie 00 istnieje jeszcze większa nielogiczność niż Tobie zgłosiłem. Gdy przekroczona zostanie górna granica tolerancji świeci się dioda czerwona po lewej stronie, a właśnie wtedy wyświetla się strzałka w prawym górnym rogu wyświetlacza, gdy przekroczona jest dolna granica tolerancji świeci się żółta dioda po prawej stronie wyświetlacza, a na wyświetlaczu pojawia się strzałka przekroczenia w lewym dolnym rogu wyświetlacza. Więc nie ma w tym żadnej logiki, gdyż powinno być na odwrót, chociaż ja nadal twierdzę, że w obu przypadkach powinna się świecić tylko dioda czerwona, która jednoznacznie określa przekroczenie granic tolerancji, a jeżeli ktoś chce wiedzieć która ma taką informację na wyświetlaczu w postaci strzałki. 
 	- Oprócz tego co Tobie zgłaszałem wcześniej – gruby problem z przenoszeniem wartości kalibracji w min na max i na odwrót na razie nie mam się do czego przyczepić więcej.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 ---------------------------------------------------------------------------------------------------------------------------------------------
-Testy Nico:
-- 
+spotkanie 20.02.2024 z PM:
+- cos bylo z hold ze sie nie pojawia przy wlaczeniu i lub wylaczeniu funk - wiadomo (przy autooff)
+- tol-abs przelaczanie zostaje - ale posprawdzac z mojej strony (rowniez ((0)))
+- czasy meldunkow takie same wszedzie - 1sek
+- autooff kiedy byl aktywny hold - po wlaczeniu ponownie ma byc to samo - tu jest blad bo jest zatrzymane ale sie nie wyswietla
+- "mm" w menue ma sie pojawiac poprawnie
+- komunikaty maja sie pokazywac jezeli z dku1 rowniez na display-u
+- brak autooff kiedy kabel podlaczony
+- led t dodac do sperren
+- kiedy kabal opdlaczony to autooff ma byc zawieszone
+- DATA btn z digimatic ma dzialac
+
+
+Od innego PM-a:
+- preset od sebastiana przy zmianie kierunku zle wskazuje
+- wysokie zuzycie pradu w menue przy tej nowej funkcji
+- sprwdzic duze liczby w HR z filtrem
+
+
+
+
+- czy nie zastosowac filtra w std???
