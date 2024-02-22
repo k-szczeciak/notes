@@ -62,7 +62,7 @@ Funkcjonalnosc
 - [ ] init para after calibration (article number)
 - [ ] create struct or function state: eg cableCon = 1 
 - [ ] pomyslec o true and false lib
-- [ ] 
+- [ ] zrobic funkcje do  set preset, ser reset, set abs
 
 light:
 sprawdzic delay przy przyciskach
