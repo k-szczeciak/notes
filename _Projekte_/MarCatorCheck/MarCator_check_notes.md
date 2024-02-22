@@ -1,4 +1,4 @@
-
+[[MarCatorCheck_meetings]]
 
 MarCator Check todo:
 - [x] przeniesc checkboxa pod sn - i nie pokazyac dla innych typow
@@ -26,7 +26,7 @@ marcator time out
 
 
 
-MCC finished:
+Version 5.0:
 - procedure for new MC (touch):
 	- communication duplex
 	- evaluation after "(Touch)" string
