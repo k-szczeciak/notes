@@ -60,6 +60,9 @@ Funkcjonalnosc
 - [ ] !!! jak polezy dlugo z bateria to wychodza jakies jaja przy kalibracji z uzyciem MarCator Check, albo moze tak wplywa na to wysylanie konfiguracji
 - [ ] preset przy zmianie kierunku nie dziala i ikona F poprawic
 - [ ] init para after calibration (article number)
+- [ ] create struct or function state: eg cableCon = 1 
+- [ ] pomyslec o true and false lib
+- [ ] 
 
 light:
 sprawdzic delay przy przyciskach
@@ -171,6 +174,7 @@ FA reset
 - [ ] apka do androida
 - [ ] kabel do usbc do androida otg (zasilanie)
 - [ ] czy nie wysylac konfiguracji jako zestaw znakow jak parmaetr zamioast art no (kazda litera jako ustawienie) - to dalej do komunikacji - jak byla by najlepsza
+- [ ] Abstraction layer [[MC-overview.canvas|MC-overview]]
 
 
 
