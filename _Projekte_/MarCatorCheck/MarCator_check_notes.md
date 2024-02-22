@@ -6,7 +6,7 @@
 MarCator Check todo:
 - [x] przeniesc checkboxa pod sn - i nie pokazyac dla innych typow
 - [x] dodac parametr do ini
-- [ ] dodanie listy do testow (qr cody)
+- [x] dodanie listy do testow (qr cody)
 - [ ] sprawdzic dla innych zegarow jak to dziala (czy nadal poprawnie)
 - [ ] porownac z tym co bylo - static code analysis
 - [ ] czas zwloki na ustalenie pomiarow - poexperymentowac ??? - lepsze pomiary
@@ -54,3 +54,6 @@ Version 5.0:
 Q:
 - czy po nie udanym pomiarz wycofac ???
 - Jakie nastawy do poszczegolnych programow
+- whether to check if AN an SN is set correctly???
+- check if sn is empty before?
+- enable auto config only when qr code was scanned???
