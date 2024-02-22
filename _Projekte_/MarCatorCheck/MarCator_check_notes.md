@@ -1,6 +1,9 @@
 [[MarCatorCheck_meetings]]
 [[MarCator_Prod_process.canvas|MarCator_Prod_process]]
 
+Topics:
+- INI-file with measurements
+- Current procedure 
 
 
 MarCator Check todo:
@@ -57,3 +60,4 @@ Q:
 - whether to check if AN an SN is set correctly???
 - check if sn is empty before?
 - enable auto config only when qr code was scanned???
+- check if sn and an is correct
