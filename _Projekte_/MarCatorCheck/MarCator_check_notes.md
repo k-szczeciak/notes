@@ -4,6 +4,9 @@
 Topics:
 - INI-file with measurements
 - Current procedure 
+- pinola drop at hold
+- radio test
+- setting artcle number
 
 
 MarCator Check todo:
@@ -55,8 +58,7 @@ Version 5.0:
 	- dialog that configuration has been finished
 
 Q:
-- czy po nie udanym pomiarz wycofac ???
-- Jakie nastawy do poszczegolnych programow
+- what Tolerance settings ?
 - whether to check if AN an SN is set correctly???
 - check if sn is empty before?
 - enable auto config only when qr code was scanned???
