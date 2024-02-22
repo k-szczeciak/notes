@@ -142,6 +142,7 @@ LED? - status ledow
 - [ ] narzedzie do commitowania podobne jak dla A1701
 - [ ] millimess: [[Millimess_todos]]
 - [ ] Kennlinie dla MC, 5-10 punktow
+- [ ] !!! Zebrac wszystkie toole jak do ustawiania wariantow w jedno miejsc
 
 
 ?
@@ -175,6 +176,8 @@ FA reset
 - [ ] kabel do usbc do androida otg (zasilanie)
 - [ ] czy nie wysylac konfiguracji jako zestaw znakow jak parmaetr zamioast art no (kazda litera jako ustawienie) - to dalej do komunikacji - jak byla by najlepsza
 - [ ] Abstraction layer [[MC-overview.canvas|MC-overview]]
+- [ ] swipe gertures gora i dol po 3 przyciski do edycji cyfr np, przesuwania sie w menue
+- [ ] 
 
 
 
