@@ -1,4 +1,6 @@
 [[MarCatorCheck_meetings]]
+[[MarC]]
+
 
 MarCator Check todo:
 - [x] przeniesc checkboxa pod sn - i nie pokazyac dla innych typow
