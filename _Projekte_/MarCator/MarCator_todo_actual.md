@@ -65,6 +65,7 @@ Funkcjonalnosc
 - [ ] zrobic funkcje do  set preset, ser reset, set abs
 - [ ] overflow wszedzie sprawdzic w wartosciach
 - [ ] sprwdzic duze liczby w HR z filtrem
+- [ ] sprawdzic edycje incha w kontekscie 10 metrow
 
 light:
 sprawdzic delay przy przyciskach
