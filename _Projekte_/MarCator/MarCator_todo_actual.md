@@ -304,6 +304,8 @@ Od innego PM-a:
 |_|   |_|  |_| |_|\__,_|\___|\__,_|___/ (_)
 ```
 
-- YT
+- YT - dluzsze szkoleniowe
 - YT shorts
-- Product public Roadmap
+- adsense - algorytmy - jaki zastosowac Hooks??
+- przegladanie tego aktywne i dodawanie co tydzien
+- Activ Product public Roadmap
