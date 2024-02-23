@@ -309,3 +309,4 @@ Od innego PM-a:
 - adsense - algorytmy - jaki zastosowac Hooks??
 - przegladanie tego aktywne i dodawanie co tydzien
 - Activ Product public Roadmap
+!!! zrobic samemu kilka shortsow: najpierw plan jakie tresci w punktach, np jeden short tygodniowo
