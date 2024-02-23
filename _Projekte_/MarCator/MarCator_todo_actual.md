@@ -64,6 +64,7 @@ Funkcjonalnosc
 - [ ] pomyslec o true and false lib
 - [ ] zrobic funkcje do  set preset, ser reset, set abs
 - [ ] overflow wszedzie sprawdzic w wartosciach
+- [ ] sprwdzic duze liczby w HR z filtrem
 
 light:
 sprawdzic delay przy przyciskach
@@ -289,7 +290,13 @@ Od innego PM-a:
 - wysokie zuzycie pradu w menue przy tej nowej funkcji
 - sprwdzic duze liczby w HR z filtrem
 
+2024-02-22, Engler i PM:
+	- MC -liczenie zuzycia pradu na ile czasu - oszacowac to
+	- MC - uMaxum - zmiana nazwy i moze jeszcze cos, dopasowanie zmian i inne ale z tym poczekac do powrotu ze stanow 
+	- MC - poprosic krzyska tluczka o dalsze wnioski i spisanie ich
+	- MC - sprawdzic jak moc jest emitowana z radia - w instrukcji jest **4dB**
 
+blink cyfr - poczekac na decyzje PM-a
 
 
 - czy nie zastosowac filtra w std???
