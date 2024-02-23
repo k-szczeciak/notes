@@ -63,7 +63,7 @@ Funkcjonalnosc
 - [ ] create struct or function state: eg cableCon = 1 
 - [ ] pomyslec o true and false lib
 - [ ] zrobic funkcje do  set preset, ser reset, set abs
-- [ ] overflow wszedzie
+- [ ] overflow wszedzie sprawdzic w wartosciach
 
 light:
 sprawdzic delay przy przyciskach
