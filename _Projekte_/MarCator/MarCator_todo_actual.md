@@ -294,8 +294,6 @@ Od innego PM-a:
 
 - czy nie zastosowac filtra w std???
 
-
-
 ```
  ____  __  __   _     _                      
 |  _ \|  \/  | (_) __| | ___  __ _ ___   _   
