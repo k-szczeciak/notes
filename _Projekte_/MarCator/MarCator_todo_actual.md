@@ -104,6 +104,7 @@ Interfejsy
 - [ ] setting radio number separetly
 - [ ] standard function dla nastaw dla DKU1
 - [ ] rozlaczenie ANT i DKU1 aby sie nie dalo
+- [ ] command Home
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
