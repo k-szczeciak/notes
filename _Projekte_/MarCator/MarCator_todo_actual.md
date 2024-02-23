@@ -180,6 +180,9 @@ FA reset
 - [ ] Abstraction layer [[MC-overview.canvas|MC-overview]]
 - [ ] swipe gertures gora i dol po 3 przyciski do edycji cyfr np, przesuwania sie w menue
 - [ ] przemyslec now rozkazy tak aby byly uniwersalne, proste i szybkie w impelmentacji - zrobic biblioteke i repo do tego tak aby mogl tez niko wspoldzielic
+- [ ] status przesylac gdzie jest w menue???
+- [ ] sterowanie dowolnym segmentem???
+- [ ] status: automatyczny lub na zyczenie parametr
 
 
 
