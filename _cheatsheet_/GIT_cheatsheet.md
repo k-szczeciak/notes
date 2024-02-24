@@ -70,3 +70,8 @@ git reset --hard <commit>
 
 reflog
 fixup
+
+
+change commit locally:
+
+git commit --amend
