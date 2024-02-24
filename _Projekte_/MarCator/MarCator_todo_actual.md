@@ -185,6 +185,7 @@ FA reset
 - [ ] status przesylac gdzie jest w menue???
 - [ ] sterowanie dowolnym segmentem???
 - [ ] status: automatyczny lub na zyczenie parametr
+- [ ] states for display and other components like battery display when changing
 
 
 
