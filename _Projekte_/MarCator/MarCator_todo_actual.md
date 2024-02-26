@@ -1,6 +1,7 @@
 
 Todo temp 2024-02-26:
 - [ ] poprawic scale: sklowanie wszystkie wskazania, porozmawiac nt temat z PM 
+- [ ] -> dodac LEDt fo sperren oraz scale (FktFilter)
 - [ ] wprowadzanbie incha dla duzych wartosci wadliwe
 - [ ] ograniczenie wprowadzania incha do 399.999
 - [ ] "OL" dla wartosci przekraczjacych 9999.999 lub dla incha
@@ -54,7 +55,25 @@ Q:
 - long press TOL when tol not active - no fcn???
 - czy w scale 2 min lub max - wiper nie powinien prazechodsizc na druga strone?
 
+tluczek kontaklt z nim:
+- wytlumaczenie z maxami
+- aby napisal swoje wnioski
+opis jak urazyc hr-plot
 
+next week: [[2024-02-26]]
+tluczek
+testy, testy automatyczne
+parametery 
+czyszczenie
+
+Napiecia miezone u Jensa:
+3.4v - 3.30v
+3.2v - 3.14v
+3.0v - 2.94v
+2.8v - 2.77v
+2.6v - 2.58v
+2.4v - 2.36v
+2.2v - 2.22v
 
 ---
 ### poprzednie, dlugoterminowe (do weryfikacji)
