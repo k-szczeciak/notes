@@ -1,7 +1,7 @@
 
 Todo temp 2024-02-26:
 - [ ] poprawic scale: sklowanie wszystkie wskazania, porozmawiac nt temat z PM
-- [ ] -> dodac LEDt fo sperren oraz scale (FktFilter)
+- [x] -> dodac LEDt fo sperren oraz scale (FktFilter)
 - [x] -> nie chce sie ponownie laczyc po wlozeniu baterii - bat on values
 - [ ] -> odswierzanie w menue aby ograniczyc prad (obnizyc czestotliwosc w menue), to ponizej tez sie powinno poprawic, albo 
 - [ ] -> poprawa digimatic - inch
