@@ -10,7 +10,9 @@ Todo temp 2024-02-26:
 - [ ] wprowadzanbie incha dla duzych wartosci wadliwe
 - [ ] ograniczenie wprowadzania incha do 399.999
 - [ ] "OL" dla wartosci przekraczjacych 9999.999 lub dla incha
-- [ ] change - Bat-messung - tryb serwisowy (tez dodac pozostale rzeczy np statrtup)
+- [ ] change - Bat-messung - tryb serwisowy (tez dodac pozostale rzeczy np statrtup):
+	- [ ] nowe funkcje te co dodalem: caly nowy interface
+	- [ ] boot sequence
 - [ ] change -LED-y zolty permanentnie 
 
 
