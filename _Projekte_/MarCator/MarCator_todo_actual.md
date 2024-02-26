@@ -1,6 +1,7 @@
 
 Todo temp 2024-02-26:
-- [ ] poprawic scale: sklowanie wszystkie wskazania, porozmawiac nt temat z PM 
+- [ ] poprawic scale: sklowanie wszystkie wskazania, porozmawiac nt temat z PM
+- [ ] 
 - [ ] -> dodac LEDt fo sperren oraz scale (FktFilter)
 - [ ] wprowadzanbie incha dla duzych wartosci wadliwe
 - [ ] ograniczenie wprowadzania incha do 399.999
@@ -56,6 +57,7 @@ Q:
 - long press TOL when tol not active - no fcn???
 - czy w scale 2 min lub max - wiper nie powinien prazechodsizc na druga strone?
 - czy w 87 strzalka w analogu ma sie tez pokazac jak ta w 86
+- moze wiper powinien blinkac, czy musi blinkiac w scale 2
 
 tluczek kontaklt z nim:
 - wytlumaczenie z maxami
