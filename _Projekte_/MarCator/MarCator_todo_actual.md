@@ -1,4 +1,13 @@
 
+Todo temp 2024-02-26:
+- [ ] wprowadzanbie incha dla duzych wartosci wadliwe
+- [ ] ograniczenie wprowadzania incha do 399.999
+- [ ] "OL" dla wartosci przekraczjacych 9999.999 lub dla incha
+- change - Bat-messung - tryb serwisowy (tez dodac pozostale rzeczy np statrtup)
+- change -LED-y zolty permanentnie 
+
+
+
 Funkcjonalnosc
 - [x] po resecie FA ma sie pojawic nawa i numer wersji
 - [ ] opcja HR (needed HW), optymalizacja pomiaru, filter i czestosc sprawdzania bateri
