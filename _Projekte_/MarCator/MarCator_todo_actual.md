@@ -55,6 +55,7 @@ Q:
 - zapytac gdzie das menue baterii???
 - long press TOL when tol not active - no fcn???
 - czy w scale 2 min lub max - wiper nie powinien prazechodsizc na druga strone?
+- czy w 87 strzalka w analogu ma sie tez pokazac jak ta w 86
 
 tluczek kontaklt z nim:
 - wytlumaczenie z maxami
