@@ -13,6 +13,7 @@ Todo temp 2024-02-26:
 - [ ] change - Bat-messung - tryb serwisowy (tez dodac pozostale rzeczy np statrtup):
 	- [ ] nowe funkcje te co dodalem: caly nowy interface
 	- [ ] boot sequence
+	- [ ] doatep do funkcji w menue? lub home order - totalna kontrola
 - [ ] change -LED-y zolty permanentnie 
 
 
