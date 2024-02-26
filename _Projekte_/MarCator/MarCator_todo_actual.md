@@ -16,7 +16,7 @@ Todo temp 2024-02-26:
 
 next:
 - 
-- 
+- jednoczesne przesylanie funk i dku1
 - jakies Tech dlugi z np needle (niepotrzebne funkcje i eksperymenty) - razem z tymi ghostami [[2024-02-03]] i [[2024-02-04]]:
 	- animacja w scale - nadmiarowe funkcje, polaczenie istniejacych, ...
 - przejzec - zoptymalizowac dzialanie tych funkcji
