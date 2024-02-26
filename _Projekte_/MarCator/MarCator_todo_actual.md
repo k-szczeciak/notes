@@ -40,6 +40,7 @@ next:
 - Display test dorobic 
 - przejscie z menue - przeset do ekranu glownego - moze byc ladniejsze
 - preset dluga zwloka przy nacisnienie ponownym preset i analogu scale 2
+- 
 
 
 Q:
