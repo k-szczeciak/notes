@@ -1,8 +1,12 @@
 
 Todo temp 2024-02-26:
 - [ ] poprawic scale: sklowanie wszystkie wskazania, porozmawiac nt temat z PM
-- [ ] 
 - [ ] -> dodac LEDt fo sperren oraz scale (FktFilter)
+- [ ] -> nie chce sie ponownie laczyc po wlozeniu baterii - bat on values
+- [ ] -> odswierzanie w menue aby ograniczyc prad (obnizyc czestotliwosc w menue), to ponizej tez sie powinno poprawic, albo 
+- [ ] -> poprawa digimatic - inch
+- [ ] -> menue - powrot z channel do off???
+- [ ] -> z kabla Err 255
 - [ ] wprowadzanbie incha dla duzych wartosci wadliwe
 - [ ] ograniczenie wprowadzania incha do 399.999
 - [ ] "OL" dla wartosci przekraczjacych 9999.999 lub dla incha
@@ -12,36 +16,25 @@ Todo temp 2024-02-26:
 
 next:
 - 
-- -> w hold zamraza sie tolerancja gdzie powinna mrugac
+- 
 - jakies Tech dlugi z np needle (niepotrzebne funkcje i eksperymenty) - razem z tymi ghostami [[2024-02-03]] i [[2024-02-04]]:
 	- animacja w scale - nadmiarowe funkcje, polaczenie istniejacych, ...
 - przejzec - zoptymalizowac dzialanie tych funkcji
-
 - sprawdzic jaki prad dla nowej skali analogowej 
 - inne ogolne symbole w menue
-- -> odswierzanie w menue aby ograniczyc prad (obnizyc czestotliwosc w menue), to ponizej tez sie powinno poprawic, albo
 - ledy w menue bat w HR - za krotko - pewnie czest odswierznia - zmienic na timer
-- -> dodac LEDt fo sperren oraz scale (FktFilter)
 - "Error" -> "No SenSo" when measurement system is not detected
-- 
 - sprawa wersji w ANT - 1 byte: 0..255 -> 0.00 .. 2.55
 - sprawa pomiaru CDT - ciaglego
-- -> nie chce sie ponownie laczyc po wlozeniu baterii - bat on values
 - komunikaty jednoczesne po kablu plus wyswietlacz
-- -> poprawa digimatic - inch
 - sprawdzic edycje incha w kontekscie 10 metrow - preset i tolerancja
-- -> z kabla Err 255
 - punkty z ostatniego spotkania: np: - nazwa do uMaxum w marcator check i inne. sprawdzic dB radia itp - do dku1
 - autooff in menue, recovery, czasami nie wrac z uspienia, to od nico, powrot z pomiarow. jaki stan itd - testy
-- 
-- -> menue - powrot z channel do off???
 - przeanalizowac wszystkie sytuacje dla ((0))
 - statusy on off , ale RUN musi zostac, lub zmodyfikowac MarCator Check
-- 
 - Display test dorobic 
 - przejscie z menue - przeset do ekranu glownego - moze byc ladniejsze
 - preset dluga zwloka przy nacisnienie ponownym preset i analogu scale 2
-- 
 
 
 Q:
