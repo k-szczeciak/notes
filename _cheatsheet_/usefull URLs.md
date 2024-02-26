@@ -20,6 +20,10 @@
 - ASCII art II: https://texteditor.com/ascii-art/
 - KUP: https://www.conrad.de/de/p/sks-hirschmann-pms-0-64-smd-messleitungs-set-schwarz-rot-1-st-2119264.html
 
+wyszukiwarka AI
+- https://www.perplexity.ai/
+- 
+
 temp: [docs](http://ims.mahr.lan/MahrGmbH/Processes/DienstreisePlanenBeantragenUndAbrechnen)
 
   
