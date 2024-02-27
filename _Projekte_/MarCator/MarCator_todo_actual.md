@@ -26,7 +26,7 @@ next:
 - przejzec - zoptymalizowac dzialanie tych funkcji
 - sprawdzic jaki prad dla nowej skali analogowej 
 - inne ogolne symbole w menue
-- ledy w menue bat w HR - za krotko - pewnie czest odswierznia - zmienic na timer
+- ledy w menue bat w HR - za krotko - pewnie czest odswierznia - zmienic na timer, podonie tez splashscreen jest za szybki
 - "Error" -> "No SenSo" when measurement system is not detected
 - 
 - sprawa pomiaru CDT - ciaglego
