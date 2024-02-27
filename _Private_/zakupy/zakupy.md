@@ -69,3 +69,14 @@ https://allegro.pl/produkt/brother-ql-810wc-drukarka-etykiet-wifi-d9aeccaa-199c-
 
 lampka budzik
 https://allegro.pl/produkt/radio-sieciowe-fm-philips-hf3519-65ddf00d-b72d-4810-bff2-9c0d85f6b2a1
+
+
+YT link siec domowa
+https://www.youtube.com/watch?v=mdJLSxssyhI
+###Switche zarzadzalne:
+Switch z poe:[ UBIQUITI US-8-60W ]( [https://www.komputronik.pl/product/635423/ubiquiti-us-8-60w.html](https://www.komputronik.pl/product/635423/ubiquiti-us-8-60w.html)) 500pln
+Switch z SFP+: [MikroTik CSS610-8G-2S+IN]([https://www.komputronik.pl/product/728914/mikrotik-css610-8g-2s-in.html](https://www.komputronik.pl/product/728914/mikrotik-css610-8g-2s-in.html)) 450pln
+Najtanszy: TP-Link: [TP-Link TL-SG108E]([https://www.komputronik.pl/product/257413/tp-link-tl-sg108e.html](https://www.komputronik.pl/product/257413/tp-link-tl-sg108e.html)) 120pln
+Najtansza 16-tka: [TP-Link TL-SG1016DE]([https://www.komputronik.pl/product/199518/tp-link-tl-sg1016de.html](https://www.komputronik.pl/product/199518/tp-link-tl-sg1016de.html)) 360pln
+8portow z SFP: [Linksys LGS310C-EU]( [https://www.komputronik.pl/product/757040/linksys-lgs310c-eu.html](https://www.komputronik.pl/product/757040/linksys-lgs310c-eu.html)) 310pln
+Keystone kat 6. [https://allegro.pl/oferta/modul-keystone-rj45-gniazdo-komputerowe-lan-kat-6-stp-180-beznarzedziowe-12293113673](https://allegro.pl/oferta/modul-keystone-rj45-gniazdo-komputerowe-lan-kat-6-stp-180-beznarzedziowe-12293113673) 14pln
