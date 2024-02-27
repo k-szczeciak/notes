@@ -28,7 +28,7 @@ next:
 - inne ogolne symbole w menue
 - ledy w menue bat w HR - za krotko - pewnie czest odswierznia - zmienic na timer
 - "Error" -> "No SenSo" when measurement system is not detected
-- sprawa wersji w ANT - 1 byte: 0..255 -> 0.00 .. 2.55
+- 
 - sprawa pomiaru CDT - ciaglego
 - komunikaty jednoczesne po kablu plus wyswietlacz
 - sprawdzic edycje incha w kontekscie 10 metrow - preset i tolerancja
@@ -87,6 +87,7 @@ Funkcjonalnosc
 	- 2: po wlozeniu  baterii (funkcja - brakuje)
 	- 3: po aktywowaniu FA-SET (funkcja Init...()) odpalenie articleEval() by ustawic zmienne lub!!! zrobic liste jak w c1202 z wart std???
 	- 4: przy starcie sprawdzanie czy wartosci takie jak Einheit jest ok, np nie 0 ( dla Einheit - jest na starcie) - testy testy testy
+	- wygene
 - [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa (to samo zaimplementrowac do MC, tam przemyslec te tryby jeszcze raz, a przede wszystkim: "Einst.RFMode = 2;" przemiescic i inny warunek na wyjscie)
 - [ ] usuniecie jednej resolution
 - [ ] jeden interface na raz, kabel albo ant
