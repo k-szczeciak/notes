@@ -87,7 +87,7 @@ Funkcjonalnosc
 	- 2: po wlozeniu  baterii (funkcja - brakuje)
 	- 3: po aktywowaniu FA-SET (funkcja Init...()) odpalenie articleEval() by ustawic zmienne lub!!! zrobic liste jak w c1202 z wart std???
 	- 4: przy starcie sprawdzanie czy wartosci takie jak Einheit jest ok, np nie 0 ( dla Einheit - jest na starcie) - testy testy testy
-	- wygene
+	- wygenerowanie tez enumeratprow do wszystkich parametrow
 - [ ] logika radia - sprawdzic i poprawic to co bylo z millimessa (to samo zaimplementrowac do MC, tam przemyslec te tryby jeszcze raz, a przede wszystkim: "Einst.RFMode = 2;" przemiescic i inny warunek na wyjscie)
 - [ ] usuniecie jednej resolution
 - [ ] jeden interface na raz, kabel albo ant
