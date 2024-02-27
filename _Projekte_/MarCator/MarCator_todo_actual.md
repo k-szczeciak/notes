@@ -14,6 +14,7 @@ Todo temp 2024-02-26:
 	- [ ] nowe funkcje te co dodalem: caly nowy interface
 	- [ ] boot sequence
 	- [ ] doatep do funkcji w menue? lub home order - totalna kontrola
+	- [ ] dodac np sterowanie klawiszami, do symulacji lub edycji 
 - [ ] change -LED-y zolty permanentnie 
 
 
