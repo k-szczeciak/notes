@@ -266,6 +266,7 @@ FA reset
 - [ ] sterowanie dowolnym segmentem???
 - [ ] status: automatyczny lub na zyczenie parametr
 - [ ] states for display and other components like battery display when changing
+- [ ]  dodac do MC - wywolanie z lista komend aby program mogl pobrac z urzadzenia ??? zamalo miejsca raczej - to moze do C1202 - dzieki temu bedzie zawsze aktualna lista komand.
 
 
 
