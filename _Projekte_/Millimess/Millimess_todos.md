@@ -5,6 +5,7 @@
 - [x] 48565 - rozszerzenie tolerancji i zwiniecie
 - [x] dodac Hello i numer wersji (po resecie FA to samo)
 - [ ] czy dodac off jako 0???
+- [ ] uzgodnic co z MC ma przejsc do MM
 
 Questions and remarks:
 - after power on touch chip srtarts really late, after few minutes:

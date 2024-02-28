@@ -55,6 +55,8 @@ Q:
 - czy w scale 2 min lub max - wiper nie powinien prazechodsizc na druga strone?
 - czy w 87 strzalka w analogu ma sie tez pokazac jak ta w 86
 - moze wiper powinien blinkac, czy musi blinkiac w scale 2
+- czy zmieniajac PRI -> PRII -> PRIII zmienia sie res max, ale cza ma sie zmieniac rowniez na minimalna rozdzielczosc ??? chyba nie
+- 
 
 tluczek kontaklt z nim:
 - wytlumaczenie z maxami
@@ -185,6 +187,7 @@ Interfejsy
 - [ ] standard function dla nastaw dla DKU1
 - [ ] rozlaczenie ANT i DKU1 aby sie nie dalo
 - [ ] command Home
+- [ ] brakuje ustawiania skali (SkalierTeilungsWert czy jakos tak)
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
@@ -266,6 +269,7 @@ FA reset
 - [ ] sterowanie dowolnym segmentem???
 - [ ] status: automatyczny lub na zyczenie parametr
 - [ ] states for display and other components like battery display when changing
+- [ ]  dodac do MC - wywolanie z lista komend aby program mogl pobrac z urzadzenia ??? zamalo miejsca raczej - to moze do C1202 - dzieki temu bedzie zawsze aktualna lista komand.
 
 
 

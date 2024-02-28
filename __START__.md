@@ -1,6 +1,9 @@
 ## Notes Hub
 - [[LogBook_sum]]
 - [[Projekte_sum]]
+- [[Planning]]
+
+
 - [[todo]]
 - [[usefull URLs]]
 - [[General notes Mahr]]
