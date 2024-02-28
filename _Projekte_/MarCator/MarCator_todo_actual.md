@@ -230,6 +230,7 @@ LED? - status ledow
 - [ ] millimess: [[Millimess_todos]]
 - [ ] Kennlinie dla MC, 5-10 punktow
 - [ ] !!! Zebrac wszystkie toole jak do ustawiania wariantow w jedno miejsce
+- [ ] zrobic do tolerancji w menue dluzdze strzalki wskazujace up i down
 
 
 ?
