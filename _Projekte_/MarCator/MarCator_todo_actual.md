@@ -55,6 +55,7 @@ Q:
 - czy w scale 2 min lub max - wiper nie powinien prazechodsizc na druga strone?
 - czy w 87 strzalka w analogu ma sie tez pokazac jak ta w 86
 - moze wiper powinien blinkac, czy musi blinkiac w scale 2
+- czy zmieniajac PRI -> PRII -> PRIII zmienia sie res max, ale cza ma sie zmieniac rowniez na minimalna rozdzielczosc ??? chyba nie
 
 tluczek kontaklt z nim:
 - wytlumaczenie z maxami
