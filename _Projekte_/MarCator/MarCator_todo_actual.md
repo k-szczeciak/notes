@@ -185,6 +185,7 @@ Interfejsy
 - [ ] standard function dla nastaw dla DKU1
 - [ ] rozlaczenie ANT i DKU1 aby sie nie dalo
 - [ ] command Home
+- [ ] brakuje ustawiania skali (SkalierTeilungsWert czy jakos tak)
 
 - [x] poprawic funk dir w MC (tak jak w MM)
 - [ ] gdy hold jest aktywny to czy mozna wejsc do menue
