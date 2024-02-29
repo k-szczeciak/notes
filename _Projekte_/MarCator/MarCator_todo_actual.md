@@ -50,8 +50,9 @@ Q:
 	- in alfa
 - czy nie powinien byc komunikat przy naciskani ABS jezeli jest juz w ABS
 	- (no functyion)
-- dodanie resetu do startu w BR-e ??? nie ma to wplywu na pomiar
-- czy mozna zmieniac kierunek w BR-e w czasie pomiaru
+- dodanie resetu do startu w BR-e ??? nie ma to wplywu na pomiar ??
+- czy mozna zmieniac kierunek w BR-e w czasie pomiaru:
+	- messung halten. muss preset neu setzen
 - ~~co z tym przenoszeniem pomiaru tluczka pomyslec
 - jaka jest ideaa LED-ow i spradzenie jak to ma moeisce z warngrenzen - pogadac z Niebingiem 
 - leds - czy bez warngrenzen nie powinno byc na odwrot?
