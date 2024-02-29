@@ -20,11 +20,22 @@ Todo temp 2024-02-26:
 - [ ] zaokraglanie w dol dla incha tez bo jak jest ustawiona inna resolution to jest problem bo za duza wartosc
 - [ ] przerobic zaokraglanie
 
+dodane 2024-02-29:
+- [ ] battery measuremnt:
+	- [ ] do wszystkich modeli 
+	- [ ] pomiar co 10 minut
+	- [ ] flaga nie resetowalna
+	- [ ] pomiar 3 razy aby uniknac bledow
+	- [ ] brak pomiaru jezeli ledy , touch lub radio sa aktywne
+	- [ ] napiecie 2,7V
+
 
 next:
 od PM-a
 - Hold ma byc w menue dla radio kiedy jest off (pokazanie ze klawisz srodkowy ma byc HOLD)
 - "no fcn" jak sie naciska ABS a juz jest w trybie abs
+	- policzyc, oszacowac ile godzin
+	- Zapytac PM-a jaki zas ma byc na ponmiar i jaki charakter orazz jak oszacowac zuzycie energii wdla BR-a
 - oszacowac /. obliczyc ilosc godzin pracy w roznych trybach (Jupyter lab)
 - zmiana kierunku w czasie pomiaru w BR-ze zatrzymanie pomiaru
 - symbol kabla z maenue ma zniknac - tylko tam gdzie jest USB lub digi
@@ -55,6 +66,7 @@ od PM-a
 - preset dluga zwloka przy nacisnienie ponownym preset i analogu scale 2
 - zmiana nazwy dla uMaxum
 - prady i optymalizacja
+- 
 
 
 Q:
