@@ -9,6 +9,13 @@ V0.23:
 - Irregular Blinging at vallue edition in menue
 - "mm" symbol in menue applied in correspodning places
 - LED-t 0 time added with blinking at warning
+- Enhance automatic resolution switching (maxResolution):
+	- in menue when switching unit, between preset
+	- applies to preset and tolerance values, currently selected
+- Inch max value limit with extended Error message
+- Inch editing correction
+- mm rounding down when boundaries values given
+- OL for over Value in display
 - 
 
 
