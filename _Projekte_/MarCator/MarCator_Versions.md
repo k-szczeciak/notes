@@ -32,12 +32,15 @@ V0.23:
 - battery on restart values corrected:
 	- radio automatic reconnection possible
 	- eco mode, Sensitivity, direction, button delay, .. 
+- fix: Editing PRIII - will not jump directly to Measurement
 
 
 ToDo:
 - bugfixes:
 - digimatic inch
-- 
+- 844 EWR, hysteresis (preset) and adjustment values
+- CDT1
+- TOLW 2 digits evaluation not one only
 
 
 
