@@ -335,6 +335,7 @@ LED? - status ledow
 - [ ] !!!! wszedzie  jednostki w zmiennych - unifikacja jak w boschu !!! poszukac program do jednostek richtlinie
 - [ ] porawic analog anzeige z niefajnych komponentow typu przeliczanie +21 - 21 - optymalizacja
 - [ ] zlikwidowac AnalogAnzeige()
+- [ ] usunac zbedne argumenty z displMarker()
 
 
 ?
