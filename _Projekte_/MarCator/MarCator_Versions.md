@@ -1,3 +1,21 @@
+
+V0.23:
+- autooff timing
+
+
+
+
+V0.22
+EWR corrected
+
+V0.21 EWR update
+
+V0.20:
+- scale 2
+- setting values with probe
+- uMaxum new Art
+
+
 V11 (14.08.2023)
 - pressing Data Btn search/reconnect
 - turning on - search/reconnect
@@ -13,6 +31,3 @@ V11 (14.08.2023)
 - switching off when searching and pairng peak current resolved after voltage drop measuring
 - powering on voltage drop resolved by delay time for stabilisation
 - timeout in menue is active
-
-
-
