@@ -56,7 +56,8 @@ Q:
 - ~~co z tym przenoszeniem pomiaru tluczka pomyslec
 - jaka jest ideaa LED-ow i spradzenie jak to ma moeisce z warngrenzen - pogadac z Niebingiem 
 - leds - czy bez warngrenzen nie powinno byc na odwrot?
-- -> co z tym Hold w menue ma byc prze jakims menue
+- -> co z tym Hold w menue ma byc prze jakims menue:
+	- z d-off bei funk 
 - zapytac gdzie das menue baterii???
 - long press TOL when tol not active - no fcn???
 - czy w scale 2 min lub max - wiper nie powinien prazechodsizc na druga strone?
