@@ -6,13 +6,16 @@ V0.23:
 - ANT - version format corrected
 - Hold logo after autooff when
 - all messages with the same timing 1 sec
-- Irregular Blinging at vallue edition in menue
+- Irregular Blinking at value edition in menue
 - "mm" symbol in menue applied in correspodning places
 - LED-t 0 time added with blinking at warning
 - Enhance automatic resolution switching (maxResolution):
 	- in menue when switching unit, between preset
 	- applies to preset and tolerance values, currently selected
 	- extended to inch - more thersholds
+	- in measurment
+	- in resolution selection, highest possible
+	- scaling back mus be done manual
 - Inch max value limit with extended Error message
 - Inch editing correction
 - mm rounding down when boundaries values given and displayed in menue and measurements
@@ -24,6 +27,9 @@ V0.23:
 - Factor setting 0.0 error with exit to main menue and previous value return
 - Marker blinking at Tolerance when Hold - fixed
 - corrected analog display
+- battery on restart values corrected:
+	- radio automatic reconnection possible
+	- eco mode, Sensitivity, direction, button delay, .. 
 - 
 
 
