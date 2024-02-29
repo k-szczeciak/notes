@@ -49,7 +49,7 @@ ToDo:
 	- menue hysteris remove
 	- mapping buttons for editing
 	- variable settings with measurement system depending on art (diff length)
-- CDT1
+- CDT1 - 
 - TOLW 2 digits evaluation not one only
 - in Menue LCD flickering
 - slower refresh in menue for current consumption

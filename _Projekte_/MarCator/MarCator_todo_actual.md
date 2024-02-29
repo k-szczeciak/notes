@@ -86,6 +86,12 @@ RST - ERR3?
 LED 3 - kabel - brak ???
 
 
+inne:
+jaka moc radia
+jakie zuzycie baterii dl aLEDs
+krzysiek podsumowanie
+
+
 
 
 
