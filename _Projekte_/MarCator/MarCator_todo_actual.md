@@ -66,6 +66,8 @@ Q:
 - czy zmieniajac PRI -> PRII -> PRIII zmienia sie res max, ale cza ma sie zmieniac rowniez na minimalna rozdzielczosc ??? chyba nie
 - Q - czy symbol podlaczonego kabla ma sie siecic caly czas?
 	- in menue nur bei digimatic
+	- bei funk wellen
+- funk - daten kabel muss unterbrochen, nur strom versorgung
 
 
 
