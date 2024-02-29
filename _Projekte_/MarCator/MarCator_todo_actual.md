@@ -65,6 +65,7 @@ Q:
 - moze wiper powinien blinkac, czy musi blinkiac w scale 2
 - czy zmieniajac PRI -> PRII -> PRIII zmienia sie res max, ale cza ma sie zmieniac rowniez na minimalna rozdzielczosc ??? chyba nie
 - Q - czy symbol podlaczonego kabla ma sie siecic caly czas?
+	- in menue nur bei digimatic
 
 
 
