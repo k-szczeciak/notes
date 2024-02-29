@@ -68,6 +68,9 @@ Q:
 	- in menue nur bei digimatic
 	- bei funk wellen
 - funk - daten kabel muss unterbrochen, nur strom versorgung
+- poprawic Analog anzeige:
+	- min nie pokazuje wartosci
+	- dla reverse
 
 
 
