@@ -33,6 +33,7 @@ dodane 2024-02-29:
 next:
 od PM-a
 - wylaczyc LEDy w menue
+- timery do splash screen (kopia timera z scaleAnimation()) oraz Battery timer
 - Hold ma byc w menue dla radio kiedy jest off (pokazanie ze klawisz srodkowy ma byc HOLD)
 - "no fcn" jak sie naciska ABS a juz jest w trybie abs
 	- policzyc, oszacowac ile godzin
