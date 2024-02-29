@@ -50,10 +50,10 @@ Q:
 - czy nie powinien byc komunikat przy naciskani ABS jezeli jest juz w ABS
 - dodanie resetu do startu w BR-e ??? nie ma to wplywu na pomiar
 - czy mozna zmieniac kierunek w BR-e w czasie pomiaru
-- co z tym przenoszeniem pomiaru tluczka pomyslec
+- ~~co z tym przenoszeniem pomiaru tluczka pomyslec
 - jaka jest ideaa LED-ow i spradzenie jak to ma moeisce z warngrenzen - pogadac z Niebingiem 
 - leds - czy bez warngrenzen nie powinno byc na odwrot?
-- co z tym Hold w menue ma byc prze jakims menue
+- -> co z tym Hold w menue ma byc prze jakims menue
 - zapytac gdzie das menue baterii???
 - long press TOL when tol not active - no fcn???
 - czy w scale 2 min lub max - wiper nie powinien prazechodsizc na druga strone?
@@ -61,6 +61,26 @@ Q:
 - moze wiper powinien blinkac, czy musi blinkiac w scale 2
 - czy zmieniajac PRI -> PRII -> PRIII zmienia sie res max, ale cza ma sie zmieniac rowniez na minimalna rozdzielczosc ??? chyba nie
 - Q - czy symbol podlaczonego kabla ma sie siecic caly czas?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 tluczek kontaklt z nim:
 - wytlumaczenie z maxami
