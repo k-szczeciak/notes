@@ -12,10 +12,18 @@ V0.23:
 - Enhance automatic resolution switching (maxResolution):
 	- in menue when switching unit, between preset
 	- applies to preset and tolerance values, currently selected
+	- extended to inch - more thersholds
 - Inch max value limit with extended Error message
 - Inch editing correction
-- mm rounding down when boundaries values given
+- mm rounding down when boundaries values given and displayed in menue and measurements
 - OL for over Value in display
+- removed battery measurements - to be placed in service mode
+- "F" symbol evalued for consistensy and proper display in Display test
+- Battery icon evaluation  - now visible in displaytest
+- "Ghosting" marker removal
+- Factor setting 0.0 error with exit to main menue and previous value return
+- Marker blinking at Tolerance when Hold - fixed
+- corrected analog display
 - 
 
 
