@@ -1,6 +1,15 @@
 
 V0.23:
-- autooff timing
+- autooff timing corrected
+- autooff switched off when cable connected
+- ANT - Seiarl no and Art No in BCD format corrected
+- ANT - version format corrected
+- Hold logo after autooff when
+- all messages with the same timing 1 sec
+- Irregular Blinging at vallue edition in menue
+- "mm" symbol in menue applied in correspodning places
+- LED-t 0 time added with blinking at warning
+- 
 
 
 
