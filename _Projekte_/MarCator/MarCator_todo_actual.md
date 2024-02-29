@@ -25,6 +25,7 @@ next:
 od PM-a
 - Hold ma byc w menue dla radio kiedy jest off (pokazanie ze klawisz srodkowy ma byc HOLD)
 - "no fcn" jak sie naciska ABS a juz jest w trybie abs
+- oszacowac /. obliczyc ilosc godzin pracy w roznych trybach (Jupyter lab)
 - zmiana kierunku w czasie pomiaru w BR-ze zatrzymanie pomiaru
 - symbol kabla z maenue ma zniknac - tylko tam gdzie jest USB lub digi
 - symbol funk w menue - tylko w funk
@@ -88,7 +89,8 @@ RST - ERR3?
 LED 3 - kabel - brak ???
 
 pytania do PM:
-- B
+- BR - measurement timeout should be fixed or floating (now is fixed)
+- kazrza jaki czas i ile przyjac do kalkulacji 
 
 
 inne:
