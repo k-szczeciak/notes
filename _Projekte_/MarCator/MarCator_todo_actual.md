@@ -70,7 +70,7 @@ Q:
 - funk - daten kabel muss unterbrochen, nur strom versorgung
 - poprawic Analog anzeige:
 	- min nie pokazuje wartosci
-	- dla reverse
+	- dla reverse zawsze blinken
 
 
 
