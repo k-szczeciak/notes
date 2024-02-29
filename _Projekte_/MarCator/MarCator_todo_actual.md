@@ -47,7 +47,9 @@ next:
 
 Q:
 - OI jako home button nawet w menue???
+	- in alfa
 - czy nie powinien byc komunikat przy naciskani ABS jezeli jest juz w ABS
+	- (no functyion)
 - dodanie resetu do startu w BR-e ??? nie ma to wplywu na pomiar
 - czy mozna zmieniac kierunek w BR-e w czasie pomiaru
 - ~~co z tym przenoszeniem pomiaru tluczka pomyslec
