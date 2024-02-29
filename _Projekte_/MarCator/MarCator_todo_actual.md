@@ -233,6 +233,7 @@ LED? - status ledow
 - [ ] !!! Zebrac wszystkie toole jak do ustawiania wariantow w jedno miejsce
 - [ ] zrobic do tolerancji w menue dluzdze strzalki wskazujace up i down
 - [ ] przerobic DigitalWert() rounding na tabele i jjedna formule - miejsce
+- [ ] !!!! wszedzie  jednostki w zmiennych - unifikacja jak w boschu !!! poszukac program do jednostek richtlinie
 
 
 ?
