@@ -1,5 +1,6 @@
 
 V0.23:
+- Menue LED-t and Scale - Lock with DKU1
 - autooff timing corrected
 - autooff switched off when cable connected
 - ANT - Seiarl no and Art No in BCD format corrected
@@ -36,9 +37,17 @@ V0.23:
 
 
 ToDo:
-- bugfixes:
+- bugfixes and updates:
+	- err 255 
+	- Battery Voltage over DKU1
 - digimatic inch
-- 844 EWR, hysteresis (preset) and adjustment values
+- 844 EWR:
+	- hysteresis (preset)
+	- adjustment values
+	- test hysteresis with inch
+	- menue hysteris remove
+	- mapping buttons for editing
+	- variable settings with measurement system depending on art (diff length)
 - CDT1
 - TOLW 2 digits evaluation not one only
 
