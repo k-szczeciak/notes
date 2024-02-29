@@ -52,6 +52,8 @@ od PM-a
 - Display test dorobic 
 - przejscie z menue - przeset do ekranu glownego - moze byc ladniejsze
 - preset dluga zwloka przy nacisnienie ponownym preset i analogu scale 2
+- zmiana nazwy dla uMaxum
+- prady i optymalizacja
 
 
 Q:
@@ -90,6 +92,8 @@ inne:
 jaka moc radia
 jakie zuzycie baterii dl aLEDs
 krzysiek podsumowanie
+pomiar pradu i ew. optymalizacja
+zmiana nazwy uMaxum - MarCator i Marcator check
 
 
 

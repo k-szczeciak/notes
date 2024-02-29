@@ -53,6 +53,8 @@ ToDo:
 - TOLW 2 digits evaluation not one only
 - in Menue LCD flickering
 - slower refresh in menue for current consumption
+- uMaxum - waiting for decisions:
+	- names
 
 
 
