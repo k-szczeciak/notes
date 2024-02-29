@@ -333,6 +333,7 @@ LED? - status ledow
 - [ ] zrobic do tolerancji w menue dluzdze strzalki wskazujace up i down
 - [ ] przerobic DigitalWert() rounding na tabele i jjedna formule - miejsce
 - [ ] !!!! wszedzie  jednostki w zmiennych - unifikacja jak w boschu !!! poszukac program do jednostek richtlinie
+- [ ] porawic analog anzeige z niefajnych komponentow typu przeliczanie +21 - 21 - optymalizacja
 
 
 ?
