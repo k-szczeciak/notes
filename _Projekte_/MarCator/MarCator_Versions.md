@@ -32,6 +32,11 @@ V0.23:
 - battery on restart values corrected:
 	- radio automatic reconnection possible
 	- eco mode, Sensitivity, direction, button delay, .. 
+
+
+ToDo:
+- bugfixes:
+- digimatic inch
 - 
 
 

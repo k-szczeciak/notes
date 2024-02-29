@@ -22,7 +22,16 @@ Todo temp 2024-02-26:
 
 
 next:
-
+od PM-a
+- Hold ma byc w menue dla radio kiedy jest off (pokazanie ze klawisz srodkowy ma byc HOLD)
+- "no fcn" jak sie naciska ABS a juz jest w trybie abs
+- zmiana kierunku w czasie pomiaru w BR-ze zatrzymanie pomiaru
+- symbol kabla z maenue ma zniknac - tylko tam gdzie jest USB lub digi
+- symbol funk w menue - tylko w funk
+- jezeli kabel i funk to tylko funk - odciecie
+- poprawic scale 1 min
+- poprawic scale 2 z blinken dla wartosci chwilowych rowniez
+- 
 - jednoczesne przesylanie funk i dku1
 - jakies Tech dlugi z np needle (niepotrzebne funkcje i eksperymenty) - razem z tymi ghostami [[2024-02-03]] i [[2024-02-04]]:
 	- animacja w scale - nadmiarowe funkcje, polaczenie istniejacych, ...
