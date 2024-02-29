@@ -13,3 +13,6 @@ V11 (14.08.2023)
 - switching off when searching and pairng peak current resolved after voltage drop measuring
 - powering on voltage drop resolved by delay time for stabilisation
 - timeout in menue is active
+
+
+
