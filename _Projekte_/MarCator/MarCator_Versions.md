@@ -16,7 +16,9 @@ V0.23:
 	- in measurment
 	- in resolution selection, highest possible
 	- scaling back mus be done manual
-- Inch max value limit with extended Error message
+	- resolution request evaluation
+- Inch max value limit with extended Error message:
+	- max for inch 393.7007
 - Inch editing correction
 - mm rounding down when boundaries values given and displayed in menue and measurements
 - OL for over Value in display
