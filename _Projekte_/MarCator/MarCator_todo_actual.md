@@ -124,7 +124,13 @@ testy, testy automatyczne
 parametery 
 czyszczenie
 
+
+
+
+
+
 Napiecia miezone u Jensa:
+soll -    ist
 3.4v - 3.30v
 3.2v - 3.14v
 3.0v - 2.94v
@@ -132,6 +138,27 @@ Napiecia miezone u Jensa:
 2.6v - 2.58v
 2.4v - 2.36v
 2.2v - 2.22v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### poprzednie, dlugoterminowe (do weryfikacji)
