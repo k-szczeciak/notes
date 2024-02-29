@@ -148,6 +148,7 @@ Funkcjonalnosc
 - [ ] overflow wszedzie sprawdzic w wartosciach
 - [ ] sprwdzic duze liczby w HR z filtrem
 - [ ] sprawdzic edycje incha w kontekscie 10 metrow
+- [ ] 
 
 light:
 sprawdzic delay przy przyciskach
@@ -231,6 +232,7 @@ LED? - status ledow
 - [ ] Kennlinie dla MC, 5-10 punktow
 - [ ] !!! Zebrac wszystkie toole jak do ustawiania wariantow w jedno miejsce
 - [ ] zrobic do tolerancji w menue dluzdze strzalki wskazujace up i down
+- [ ] przerobic DigitalWert() rounding na tabele i jjedna formule - miejsce
 
 
 ?
