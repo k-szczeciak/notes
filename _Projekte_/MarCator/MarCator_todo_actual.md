@@ -1,6 +1,6 @@
 
 Todo temp 2024-02-26:
-- [ ] poprawic scale: sklowanie wszystkie wskazania, porozmawiac nt temat z PM
+- [ ] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
 - [x] -> dodac LEDt fo sperren oraz scale (FktFilter)
 - [x] -> nie chce sie ponownie laczyc po wlozeniu baterii - bat on values
 - [ ] -> odswierzanie w menue aby ograniczyc prad (obnizyc czestotliwosc w menue), to ponizej tez sie powinno poprawic, albo 
@@ -16,11 +16,13 @@ Todo temp 2024-02-26:
 	- [ ] doatep do funkcji w menue? lub home order - totalna kontrola
 	- [ ] dodac np sterowanie klawiszami, do symulacji lub edycji 
 - [ ] change -LED-y zolty permanentnie 
+- [ ] ustawianie wartosci w inchu - zgodnie z ustawiona resolution, ostatnia cyfra
+- [ ] zaokraglanie w dol dla incha tez bo jak jest ustawiona inna resolution to jest problem bo za duza wartosc
+- [ ] przerobic zaokraglanie
 
 
 next:
-- ustawianie wartosci w inchu - zgodnie z ustawiona resolution, 
-- [ ] zaokraglanie w dol dla incha tez bo jak jest ustawiona inna resolution to jest problem
+
 - jednoczesne przesylanie funk i dku1
 - jakies Tech dlugi z np needle (niepotrzebne funkcje i eksperymenty) - razem z tymi ghostami [[2024-02-03]] i [[2024-02-04]]:
 	- animacja w scale - nadmiarowe funkcje, polaczenie istniejacych, ...
