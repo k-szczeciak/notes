@@ -40,6 +40,7 @@ ToDo:
 - bugfixes and updates:
 	- err 255 
 	- Battery Voltage over DKU1
+	- HR- start value - filter starts
 - digimatic inch
 - 844 EWR:
 	- hysteresis (preset)
@@ -50,6 +51,8 @@ ToDo:
 	- variable settings with measurement system depending on art (diff length)
 - CDT1
 - TOLW 2 digits evaluation not one only
+- in Menue LCD flickering
+- slower refresh in menue for current consumption
 
 
 

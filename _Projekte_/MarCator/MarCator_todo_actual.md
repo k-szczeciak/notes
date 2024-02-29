@@ -81,7 +81,9 @@ Q:
 	- min nie pokazuje wartosci
 	- dla reverse zawsze blinken
 
-
+Q form Nico Test comparison:
+RST - ERR3?
+LED 3 - kabel - brak ???
 
 
 
