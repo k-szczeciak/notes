@@ -100,6 +100,7 @@ Q:
 	- min nie pokazuje wartosci
 	- dla reverse zawsze blinken
 ---
+- czy HOLD w menue Funk, ale gdy kabel podlaczony tez?
 
 Q form Nico Test comparison:
 RST - ERR3?
