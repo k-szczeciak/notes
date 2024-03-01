@@ -19,6 +19,7 @@ Todo temp 2024-02-26:
 - [ ] ustawianie wartosci w inchu - zgodnie z ustawiona resolution, ostatnia cyfra
 - [ ] zaokraglanie w dol dla incha tez bo jak jest ustawiona inna resolution to jest problem bo za duza wartosc
 - [ ] przerobic zaokraglanie
+- [ ] logika RF z Millimesa - w menue - razem z tym powrotem z CH do radio
 
 dodane 2024-02-29:
 - [ ] battery measuremnt:
@@ -69,6 +70,7 @@ od PM-a
 - zmiana nazwy dla uMaxum
 - prady i optymalizacja
 - rozszezenie trybu serwisowego o np konfiguracje - jak robilem w AT, lub osobny tryb AT
+- 
 
 
 Q:
