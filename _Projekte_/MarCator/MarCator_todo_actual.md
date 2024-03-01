@@ -99,6 +99,7 @@ Q:
 - poprawic Analog anzeige:
 	- min nie pokazuje wartosci
 	- dla reverse zawsze blinken
+---
 
 Q form Nico Test comparison:
 RST - ERR3?
