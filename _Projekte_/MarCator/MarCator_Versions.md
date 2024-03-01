@@ -34,6 +34,10 @@ V0.23:
 	- radio automatic reconnection possible
 	- eco mode, Sensitivity, direction, button delay, .. 
 - fix: Editing PRIII - will not jump directly to Measurement
+- Animation enhaancement for Scale in menue - timer based independent on refreshrate
+- one battery measurement for all variants bsaed on voltage divider
+- Analog scale fix: MIN needle display not visible
+- Analog scale blinging always when 2 indicators ar in the same place with Tolerance, possible both bling
 
 
 ToDo:
