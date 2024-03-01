@@ -68,7 +68,7 @@ od PM-a
 - preset dluga zwloka przy nacisnienie ponownym preset i analogu scale 2
 - zmiana nazwy dla uMaxum
 - prady i optymalizacja
-- 
+- rozszezenie trybu serwisowego o np konfiguracje - jak robilem w AT, lub osobny tryb AT
 
 
 Q:
