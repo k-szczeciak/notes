@@ -1,5 +1,5 @@
 
-V0.24:
+V0.24: "some more fixes: HR, refresh rate, service mode, Hold and cable icons"
 - Service mode for activating messages
 - Menue refresh rate in to be constant - prevent to high current consumption in menue
 - Removed Cable Icon in menue
