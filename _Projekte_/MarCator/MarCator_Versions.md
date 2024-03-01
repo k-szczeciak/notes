@@ -3,6 +3,7 @@ V0.24:
 - Service mode for activating messages
 - Menue refresh rate in to be constant - prevent to high current consumption in menue
 - Removed Cable Icon in menue
+- 1086 - STD: 75, 12uA, HR: 150/12uA, in menue Alle 70uA
 
 V0.23:
 - Menue LED-t and Scale - Lock with DKU1
