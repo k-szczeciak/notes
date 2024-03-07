@@ -14,7 +14,8 @@
 - create memo cards: [[MEMO CARDS]]
 - - [[~Private_sum]]
 
-
+Learn:
+[[courses_to_learn]]
 
 
 overview:
