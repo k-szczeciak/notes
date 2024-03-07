@@ -7,11 +7,16 @@ Angular, spring boot3 , msp430, linux mastery, python bootcamp, stm32, python da
 
 udemy do rozwarzenia
 https://www.udemy.com/course/master-embedded-c-interview-500-most-asked-questions-2023
-
+https://www.udemy.com/course/rtos-building-from-ground-up-on-arm-processors/
 
 
 
 code with mosh
+python
+c#
+docker
+
+mybe c++
 
 linux
 
@@ -22,5 +27,8 @@ inee do dnauki:
 kryptografia
 rtos
 advanced arm
-
+fpga
+yocto
 na YT sa rtosy i  inne odnosnie c
+embedded programming
+modern c
