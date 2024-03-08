@@ -1,3 +1,93 @@
+
+V0.24: "some more fixes: HR, refresh rate, service mode, Hold and cable icons"
+- Service mode for activating messages
+- Menue refresh rate in to be constant - prevent to high current consumption in menue
+- Removed Cable Icon in menue
+- fixed: HR refreshrate
+- 1086 - STD: 75, 12uA, HR: 150/12uA, in menue Alle 70uA
+- "HOLD" symbol in Menu Radio settings: Active when Radio is Off
+
+V0.23:
+- Menue LED-t and Scale - Lock with DKU1
+- autooff timing corrected
+- autooff switched off when cable connected
+- ANT - Seiarl no and Art No in BCD format corrected
+- ANT - version format corrected
+- Hold logo after autooff when
+- all messages with the same timing 1 sec
+- Irregular Blinking at value edition in menue
+- "mm" symbol in menue applied in correspodning places
+- LED-t 0 time added with blinking at warning
+- Enhance automatic resolution switching (maxResolution):
+	- in menue when switching unit, between preset
+	- applies to preset and tolerance values, currently selected
+	- extended to inch - more thersholds
+	- in measurment
+	- in resolution selection, highest possible
+	- scaling back mus be done manual
+	- resolution request evaluation
+- Inch max value limit with extended Error message:
+	- max for inch 393.7007
+- Inch editing correction
+- mm rounding down when boundaries values given and displayed in menue and measurements
+- OL for over Value in display
+- removed battery measurements - to be placed in service mode
+- "F" symbol evalued for consistensy and proper display in Display test
+- Battery icon evaluation  - now visible in displaytest
+- "Ghosting" marker removal
+- Factor setting 0.0 error with exit to main menue and previous value return
+- Marker blinking at Tolerance when Hold - fixed
+- corrected analog display
+- battery on restart values corrected:
+	- radio automatic reconnection possible
+	- eco mode, Sensitivity, direction, button delay, .. 
+- fix: Editing PRIII - will not jump directly to Measurement
+- Animation enhaancement for Scale in menue - timer based independent on refreshrate
+- one battery measurement for all variants bsaed on voltage divider
+- Analog scale:
+	- fix: MIN needle display not visible
+	- blinking always when 2 indicators ar in the same place with Tolerance, possible both bling Tolerances
+	- reconstruction of model
+	- clean up and functions refactoring
+- battery power on cleanup and refactor:
+	- all parameters evaluation , i.e. Resolution evaluation based on Art No moved to functions
+	- comments cleanup
+
+
+ToDo:
+- bugfixes and updates:
+	- err 255 
+	- Battery Voltage over DKU1
+	- HR- start value - filter starts
+- digimatic inch
+- 844 EWR:
+	- hysteresis (preset)
+	- adjustment values
+	- test hysteresis with inch
+	- menue hysteris remove
+	- mapping buttons for editing
+	- variable settings with measurement system depending on art (diff length)
+- CDT1 - 
+- TOLW 2 digits evaluation not one only
+- in Menue LCD flickering
+- slower refresh in menue for current consumption
+- uMaxum - waiting for decisions:
+	- names
+
+
+
+
+V0.22
+EWR corrected
+
+V0.21 EWR update
+
+V0.20:
+- scale 2
+- setting values with probe
+- uMaxum new Art
+
+
 V11 (14.08.2023)
 - pressing Data Btn search/reconnect
 - turning on - search/reconnect

@@ -1,6 +1,6 @@
 
 Todo temp 2024-02-26:
-- [ ] poprawic scale: sklowanie wszystkie wskazania, porozmawiac nt temat z PM
+- [ ] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
 - [x] -> dodac LEDt fo sperren oraz scale (FktFilter)
 - [x] -> nie chce sie ponownie laczyc po wlozeniu baterii - bat on values
 - [ ] -> odswierzanie w menue aby ograniczyc prad (obnizyc czestotliwosc w menue), to ponizej tez sie powinno poprawic, albo 
@@ -16,9 +16,36 @@ Todo temp 2024-02-26:
 	- [ ] doatep do funkcji w menue? lub home order - totalna kontrola
 	- [ ] dodac np sterowanie klawiszami, do symulacji lub edycji 
 - [ ] change -LED-y zolty permanentnie 
+- [ ] ustawianie wartosci w inchu - zgodnie z ustawiona resolution, ostatnia cyfra
+- [ ] zaokraglanie w dol dla incha tez bo jak jest ustawiona inna resolution to jest problem bo za duza wartosc
+- [ ] przerobic zaokraglanie
+- [ ] logika RF z Millimesa - w menue - razem z tym powrotem z CH do radio
+
+dodane 2024-02-29:
+- [ ] battery measuremnt:
+	- [ ] do wszystkich modeli 
+	- [ ] pomiar co 10 minut
+	- [ ] flaga nie resetowalna
+	- [ ] pomiar 3 razy aby uniknac bledow
+	- [ ] brak pomiaru jezeli ledy , touch lub radio sa aktywne
+	- [ ] napiecie 2,7V
 
 
 next:
+od PM-a
+- wylaczyc LEDy w menue
+- timery do splash screen (kopia timera z scaleAnimation()) oraz Battery timer
+- Hold ma byc w menue dla radio kiedy jest off (pokazanie ze klawisz srodkowy ma byc HOLD)
+- "no fcn" jak sie naciska ABS a juz jest w trybie abs
+	- policzyc, oszacowac ile godzin
+	- Zapytac PM-a jaki zas ma byc na ponmiar i jaki charakter orazz jak oszacowac zuzycie energii wdla BR-a
+- oszacowac /. obliczyc ilosc godzin pracy w roznych trybach (Jupyter lab)
+- zmiana kierunku w czasie pomiaru w BR-ze zatrzymanie pomiaru
+- symbol kabla z maenue ma zniknac - tylko tam gdzie jest USB lub digi
+- symbol funk w menue - tylko w funk
+- jezeli kabel i funk to tylko funk - odciecie
+- poprawic scale 1 min
+- poprawic scale 2 z blinken dla wartosci chwilowych rowniez
 - 
 - jednoczesne przesylanie funk i dku1
 - jakies Tech dlugi z np needle (niepotrzebne funkcje i eksperymenty) - razem z tymi ghostami [[2024-02-03]] i [[2024-02-04]]:
@@ -27,6 +54,7 @@ next:
 - sprawdzic jaki prad dla nowej skali analogowej 
 - inne ogolne symbole w menue
 - ledy w menue bat w HR - za krotko - pewnie czest odswierznia - zmienic na timer, podonie tez splashscreen jest za szybki
+- podobnie animacja w HR-e dla scale
 - "Error" -> "No SenSo" when measurement system is not detected
 - 
 - sprawa pomiaru CDT - ciaglego
@@ -39,24 +67,74 @@ next:
 - Display test dorobic 
 - przejscie z menue - przeset do ekranu glownego - moze byc ladniejsze
 - preset dluga zwloka przy nacisnienie ponownym preset i analogu scale 2
+- zmiana nazwy dla uMaxum
+- prady i optymalizacja
+- rozszezenie trybu serwisowego o np konfiguracje - jak robilem w AT, lub osobny tryb AT
+- 
 
 
 Q:
 - OI jako home button nawet w menue???
+	- in alfa
 - czy nie powinien byc komunikat przy naciskani ABS jezeli jest juz w ABS
-- dodanie resetu do startu w BR-e ??? nie ma to wplywu na pomiar
-- czy mozna zmieniac kierunek w BR-e w czasie pomiaru
-- co z tym przenoszeniem pomiaru tluczka pomyslec
+	- (no functyion)
+- dodanie resetu do startu w BR-e ??? nie ma to wplywu na pomiar ??
+- czy mozna zmieniac kierunek w BR-e w czasie pomiaru:
+	- messung halten. muss preset neu setzen
+- ~~co z tym przenoszeniem pomiaru tluczka pomyslec
 - jaka jest ideaa LED-ow i spradzenie jak to ma moeisce z warngrenzen - pogadac z Niebingiem 
 - leds - czy bez warngrenzen nie powinno byc na odwrot?
-- co z tym Hold w menue ma byc prze jakims menue
+- -> co z tym Hold w menue ma byc prze jakims menue:
+	- z d-off bei funk 
 - zapytac gdzie das menue baterii???
 - long press TOL when tol not active - no fcn???
 - czy w scale 2 min lub max - wiper nie powinien prazechodsizc na druga strone?
 - czy w 87 strzalka w analogu ma sie tez pokazac jak ta w 86
 - moze wiper powinien blinkac, czy musi blinkiac w scale 2
 - czy zmieniajac PRI -> PRII -> PRIII zmienia sie res max, ale cza ma sie zmieniac rowniez na minimalna rozdzielczosc ??? chyba nie
-- 
+- Q - czy symbol podlaczonego kabla ma sie siecic caly czas?
+	- in menue nur bei digimatic
+	- bei funk wellen
+- funk - daten kabel muss unterbrochen, nur strom versorgung
+- poprawic Analog anzeige:
+	- min nie pokazuje wartosci
+	- dla reverse zawsze blinken
+---
+- czy HOLD w menue Funk, ale gdy kabel podlaczony tez?
+
+Q form Nico Test comparison:
+RST - ERR3?
+LED 3 - kabel - brak ???
+
+pytania do PM:
+- BR - measurement timeout should be fixed or floating (now is fixed)
+- kazrza jaki czas i ile przyjac do kalkulacji 
+
+
+inne:
+jaka moc radia
+jakie zuzycie baterii dl aLEDs
+krzysiek podsumowanie
+pomiar pradu i ew. optymalizacja
+zmiana nazwy uMaxum - MarCator i Marcator check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 tluczek kontaklt z nim:
 - wytlumaczenie z maxami
@@ -69,7 +147,13 @@ testy, testy automatyczne
 parametery 
 czyszczenie
 
+
+
+
+
+
 Napiecia miezone u Jensa:
+soll -    ist
 3.4v - 3.30v
 3.2v - 3.14v
 3.0v - 2.94v
@@ -77,6 +161,27 @@ Napiecia miezone u Jensa:
 2.6v - 2.58v
 2.4v - 2.36v
 2.2v - 2.22v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### poprzednie, dlugoterminowe (do weryfikacji)
@@ -148,6 +253,7 @@ Funkcjonalnosc
 - [ ] overflow wszedzie sprawdzic w wartosciach
 - [ ] sprwdzic duze liczby w HR z filtrem
 - [ ] sprawdzic edycje incha w kontekscie 10 metrow
+- [ ] 
 
 light:
 sprawdzic delay przy przyciskach
@@ -230,6 +336,12 @@ LED? - status ledow
 - [ ] millimess: [[Millimess_todos]]
 - [ ] Kennlinie dla MC, 5-10 punktow
 - [ ] !!! Zebrac wszystkie toole jak do ustawiania wariantow w jedno miejsce
+- [ ] zrobic do tolerancji w menue dluzdze strzalki wskazujace up i down
+- [ ] przerobic DigitalWert() rounding na tabele i jjedna formule - miejsce
+- [ ] !!!! wszedzie  jednostki w zmiennych - unifikacja jak w boschu !!! poszukac program do jednostek richtlinie
+- [ ] porawic analog anzeige z niefajnych komponentow typu przeliczanie +21 - 21 - optymalizacja
+- [x] Zostaje, ale zminilalizowany zamiast wielu funkcji dodatkowych zlikwidowac AnalogAnzeige()
+- [ ] usunac zbedne argumenty z displMarker()
 
 
 ?
@@ -315,6 +427,8 @@ int set(char no);
 // param(PAR.RESOLUTION).set(4);
 ```
 
+[[c_unit_test]]
+
 do T_ i S_
 dodac slownik do komunikatow, np.:
 "no Fcn": "ERR3" dla DKU1 i "E3" dla funk
@@ -339,6 +453,20 @@ czy do menue dodac tez sterownaie przy pomocy sondy?
 
 
 max wartosc suma 32 x 9999.999 900 = 32 x 10 000, 000 000 ( moze przekroczyc max wartosc long)
+
+```
+ _____         _                _    _ _   _____           _       
+|_   _|__   __| | ___    _     / \  | | | |_   _|__   ___ | |___   
+  | |/ _ \ / _` |/ _ \  (_)   / _ \ | | |   | |/ _ \ / _ \| / __|  
+  | | (_) | (_| | (_) |  _   / ___ \| | |   | | (_) | (_) | \__ \  
+ _|_|\___/ \__,_|\___/  (_)_/_/   \_\_|_|   |_|\___/ \___/|_|___/  
+|  _ \  ___  ___  ___ _ __(_)_ __ | |_(_) ___  _ __   | | | |      
+| | | |/ _ \/ __|/ __| '__| | '_ \| __| |/ _ \| '_ \  | | | |      
+| |_| |  __/\__ \ (__| |  | | |_) | |_| | (_) | | | | |_|_|_|      
+|____/ \___||___/\___|_|  |_| .__/ \__|_|\___/|_| |_| (_|_|_)      
+                            |_|
+```
+
 
 
 ```
