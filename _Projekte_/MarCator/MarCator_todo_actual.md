@@ -384,7 +384,7 @@ FA reset
 - [ ]  dodac do MC - wywolanie z lista komend aby program mogl pobrac z urzadzenia ??? zamalo miejsca raczej - to moze do C1202 - dzieki temu bedzie zawsze aktualna lista komand.
 
 
-
+params: factory settings po zaprogramowaniu nowego artykulu
 ```c
 typedef struct{
     char val1;
