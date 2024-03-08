@@ -482,7 +482,7 @@ max wartosc suma 32 x 9999.999 900 = 32 x 10 000, 000 000 ( moze przekroczyc max
 	- wyjasnic LED-y kolory (nie konsekwencja, podwojne dzialanie - moze zaburzac doznania)
 	- "No Fcn" - za czesto bez opisu
 	- powinno dzialac "IO" zawsze jako homescreen 
-	- przenoszenie pressetu MIN MAX przy kalibracji Min w odniesieniu do Max
+	- przenoszenie pressetu MIN MAX przy kalibracji Min w odniesieniu do Max: nastawy na innej powierzchni - 
 	- Start stop jezeli hold z pedalu
 	- Tol aktywna - brak mozliwosci zalaczenia resetu
 - dodatkowo mail od niego:
