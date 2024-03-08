@@ -478,8 +478,8 @@ max wartosc suma 32 x 9999.999 900 = 32 x 10 000, 000 000 ( moze przekroczyc max
 ```
 
 - rozmowa z Krzyskiem Tluczkiem (15.02.2024):
-	- pierwszy pomiar BR ???
-	- wyjasnic LED-y kolory ( nie konsekwencja, podwojne dzialanie - moze zaburzac doznania)
+	- ???pierwszy pomiar BR ???
+	- wyjasnic LED-y kolory (nie konsekwencja, podwojne dzialanie - moze zaburzac doznania)
 	- "No Fcn" - za czesto bez opisu
 	- powinno dzialac "IO" zawsze jako homescreen 
 	- przenoszenie pressetu MIN MAX przy kalibracji Min w odniesieniu do Max
