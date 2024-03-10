@@ -1,0 +1,7 @@
+https://wiki.mikrotik.com/wiki/SwOS/CSS326
+https://duckduckgo.com/?t=ffab&q=mikrotik+switch+configuratioon&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D66AytqHYfHo
+user guide: tplink
+https://static.tp-link.com/upload/manual/2023/202305/20230531/1910013259_Easy%20Smart%20Switch_UG.pdf
+
+wyjasnienie bebecho
+https://www.youtube.com/watch?v=4Z32oOPqCqc
