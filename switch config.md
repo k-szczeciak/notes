@@ -13,3 +13,6 @@ app.diagrams.net
 
 teoria vlan
 https://www.youtube.com/watch?v=iCQ2vWena4o
+
+
+24 - bits of mask in ip address 8+8+8 = 
