@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=4Z32oOPqCqc
 
 nice router:
 https://www.ceneo.pl/148390086
+
+app.diAG
