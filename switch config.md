@@ -15,4 +15,11 @@ teoria vlan
 https://www.youtube.com/watch?v=iCQ2vWena4o
 
 
-24 - bits of mask in ip address 8+8+8 = 
+24 - bits of mask in ip address 8+8+8 = 24 czyli
+24 to 0-255
+25 to 0-127
+26 to 00 - 63
+27 to 0 - 31
+28 to 0-15
+29 to 0-7
+30 to 0 - 3
