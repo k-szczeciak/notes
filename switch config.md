@@ -5,3 +5,6 @@ https://static.tp-link.com/upload/manual/2023/202305/20230531/1910013259_Easy%20
 
 wyjasnienie bebecho mikrotika:
 https://www.youtube.com/watch?v=4Z32oOPqCqc
+
+nice router:
+https://www.ceneo.pl/148390086
