@@ -27,7 +27,7 @@
 - no option for factory "FA-set" setting when No DKU1 cale is availbe and and menue is locked.
 	- My comment: we can use the same procedure as planned for display test (when no measurement system is detected and button pressed when battery inserted)
 - Hardware: too easy to for taking display from Measurments apart. That may easliy damage measurment  ribbon cable.
-- Moving MAX or MIN values when switching between MIN and MAX when calibrated with master of a different shape, e.g. master with Squere shape and measured piece with round shape. Master is set with min and measured piece is measured with max.
+- Moving MAX or MIN values when switching between MIN and MAX when calibrated with master of a different shape, e.g. master with Squere shape and measured piece with round shape. Master is set with MIN and measured piece is measured with MAX.
 - MarCom: Foot switch with option as Start/Stop functionality.                                                                                                                                                                         
 
 
