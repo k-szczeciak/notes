@@ -4,20 +4,22 @@
 
 ### Good:
 - Animations and comments - clear statements and ecplanantion
-- Intuitive
+- Intuitiveness
 - New Analog inverted display
 - 3xPresets and Tolerances
 - setting values with probe
-- 
+- Switching tolerance scaling on analoge scale
 ### Reported bugs:
-none
+none so far
 
 ### Reported issues with handling:
 - Hardware: LEDs display - yellow LED phisical position is fixed, hence not intuitive when only toerance is active: sugestion 2-color LEDs on sides (yellow or red) that it can indicate status and direction.
 - No Max-Min in BR-variant as full equiped model
 - switching PRI -> PRII  -> PRIII not intuitive with right arrow. More maybe with long press as it is in measurement mode - consistent
 - Editing with sensor: progressive curve (speed dependent) and decrement with retraction
-- 
+- "Home" button in Menue under "IO" in case when confirmation means activation of value. Also as quick return to "Home" screen from menue.
+- More descriptions when "No Fcn" message is displyed
+- variabv
 
 
 
@@ -38,9 +40,7 @@ none
 
 Bartoszek:
 
-home button w menue
-dodanie dodatkowych opisow
-komunikat - brak radia pomimo art ???
+
 eaton - zywotnosc testy - podobnie na suwmarki i odklejajace sie elementy
 filtr - do normalnego czujnika, lub czestotliwosc probkowania z menue
 ustawienia fabryczne bez kabla jezeli jest blokada na FA-set - kombinacja klawiszy np brak detekcji 
