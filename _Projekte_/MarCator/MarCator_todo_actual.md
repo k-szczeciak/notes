@@ -1,14 +1,14 @@
 
 Todo temp 2024-02-26:
-- [ ] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
+- [x] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
 - [x] -> dodac LEDt fo sperren oraz scale (FktFilter)
 - [x] -> nie chce sie ponownie laczyc po wlozeniu baterii - bat on values
-- [ ] -> odswierzanie w menue aby ograniczyc prad (obnizyc czestotliwosc w menue), to ponizej tez sie powinno poprawic, albo 
+- [x] -> odswierzanie w menue aby ograniczyc prad (obnizyc czestotliwosc w menue), to ponizej tez sie powinno poprawic, albo 
 - [ ] -> poprawa digimatic - inch
 - [ ] -> menue - powrot z channel do off???
 - [ ] -> z kabla Err 255
-- [ ] wprowadzanbie incha dla duzych wartosci wadliwe
-- [ ] ograniczenie wprowadzania incha do 399.999
+- [x] wprowadzanbie incha dla duzych wartosci wadliwe
+- [x] ograniczenie wprowadzania incha do 399.999 - zamiast tego obliczanie wartosci i meldunek ze wskazaniem za duzej wartosci
 - [ ] "OL" dla wartosci przekraczjacych 9999.999 lub dla incha
 - [ ] change - Bat-messung - tryb serwisowy (tez dodac pozostale rzeczy np statrtup):
 	- [ ] nowe funkcje te co dodalem: caly nowy interface
