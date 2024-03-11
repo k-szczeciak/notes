@@ -1,12 +1,22 @@
 
 # MarCator test summary Report
 
+
+### Good:
+- Animations and comments - clear statements and ecplanantion
+- Intuitive
+- New Analog inverted display
+- 3xPresets and Tolerances
+- setting values with probe
+- 
 ### Reported bugs:
 none
 
 ### Reported issues with handling:
 - Hardware: LEDs display - yellow LED phisical position is fixed, hence not intuitive when only toerance is active: sugestion 2-color LEDs on sides (yellow or red) that it can indicate status and direction.
-- No Max-Min in BR-variant
+- No Max-Min in BR-variant as full equiped model
+- switching PRI -> PRII  -> PRIII not intuitive with right arrow. More maybe with long press as it is in measurement mode - consistent
+- Editing with sensor: progressive curve (speed dependent) and decrement with retraction
 - 
 
 
@@ -27,10 +37,7 @@ none
 	- Oprócz tego co Tobie zgłaszałem wcześniej – gruby problem z przenoszeniem wartości kalibracji w min na max i na odwrót na razie nie mam się do czego przyczepić więcej.                                                                                                                                                                           
 
 Bartoszek:
-didy 3 kolorowe
-brak Max-Min w BR-e
-przechodzenie na PRI -> PRII -> PRIII strzalka do gory
-inkrementacja i dekrementacja  - pomyslec, progresja 
+
 home button w menue
 dodanie dodatkowych opisow
 komunikat - brak radia pomimo art ???
