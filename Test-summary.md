@@ -19,7 +19,11 @@ none so far
 - Editing with sensor: progressive curve (speed dependent) and decrement with retraction
 - "Home" button in Menue under "IO" in case when confirmation means activation of value. Also as quick return to "Home" screen from menue.
 - More descriptions when "No Fcn" message is displyed
-- variabv
+- variable (set in Menue) refreshrate. Now is 16Hz (maybe 8Hz an 4Hz selectable or even 32Hz???), whick is for some too high. In other devices like Caliper or Micromar is lower.
+	- my comment: That also will save current, hence prolong battery life.
+- no option for factory setting when No DKU1 cale is availbe and and menue is locked.
+	- My comment: we can use the same procedure as planned for display test (when no measurement system is detected and button pressed when battery inserted)
+- 
 
 
 
@@ -42,7 +46,7 @@ Bartoszek:
 
 
 eaton - zywotnosc testy - podobnie na suwmarki i odklejajace sie elementy
-filtr - do normalnego czujnika, lub czestotliwosc probkowania z menue
+
 ustawienia fabryczne bez kabla jezeli jest blokada na FA-set - kombinacja klawiszy np brak detekcji 
 ekran pojemnosciowy - ????
 pulsowanie analogu w stasunku do digital
