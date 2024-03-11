@@ -16,11 +16,12 @@
 ### Reported issues with handling:
 - Hardware: LEDs display - yellow LED phisical position is fixed in place, hence not intuitive when only tolerance is active - expected illumination on the side of overflow. It does not correspond with Arrows on LCD display.
 	- sugestion 2-color LEDs on sides (yellow or red) that it can indicate status and direction. Or all RGB leds.
-- No "MAX-MIN" in BR-variant as full equiped model
-- switching PRI -> PRII  -> PRIII not intuitive with right arrow. More maybe with long press as it is in measurement mode - consistent
+- No "MAX-MIN" (TIR) in BR-variant as this is concidered as full equiped model.
+- switching "PRI -> PRII  -> PRIII" not intuitive with right arrow.
+	- Suggestion: PRESET long press as it is in measurement mode - consistent handling in both modes
 - Editing with sensor: progressive curve (speed dependent) and decrement with retraction
-- "Home" button in Menue under "IO" in case when confirmation means activation of value. Also as quick return to "Home" screen from menue.
-- More descriptions when "No Fcn" message is displyed
+- "Home" functionality in Menue under "IO" (short press) in case when confirmation (with right lower button) means activation of value (e.g. in preset). Also as quick return to "Home" screen from any place in menue as a "quick rescue"
+- More descriptions when "No Fcn" message is displyed, possible everywhere
 - variable (set in Menue) refreshrate. Now is 16Hz (maybe 8Hz an 4Hz selectable or even 32Hz???), whick is for some too high. In other devices like Caliper or Micromar is lower.
 	- my comment: That also will save current, hence prolong battery life.
 - no option for factory setting when No DKU1 cale is availbe and and menue is locked.
