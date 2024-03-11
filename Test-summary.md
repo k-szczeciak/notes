@@ -22,11 +22,12 @@
 - Editing with sensor: progressive curve (speed dependent) and decrement with retraction
 - "Home" functionality in Menue under "IO" (short press) in case when confirmation (with right lower button) means activation of value (e.g. in preset). Also as quick return to "Home" screen from any place in menue as a "quick rescue"
 - More descriptions when "No Fcn" message is displyed, possible everywhere
-- variable (set in Menue) refreshrate. Now is 16Hz (maybe 8Hz an 4Hz selectable or even 32Hz???), whick is for some too high. In other devices like Caliper or Micromar is lower.
+- variable Display refreshrate (set in Menue). Now is 16Hz (maybe 8Hz an 4Hz selectable or even 32Hz???), which is for some too high. In other devices like Caliper or Micromar is lower.
 	- my comment: That also will save current, hence prolong battery life.
-- no option for factory setting when No DKU1 cale is availbe and and menue is locked.
+- no option for factory "FA-set" setting when No DKU1 cale is availbe and and menue is locked.
 	- My comment: we can use the same procedure as planned for display test (when no measurement system is detected and button pressed when battery inserted)
 - Hardware: too easy to for taking display from Measurments apart. That may easliy damage measurment  ribbon cable.
-- Moveing max or min values when switching between min and max when calibrated with master of a different shape, e.g. square master and round measured piece. Master is set with min and measured piece is measured with max.
+- Moving MAX or MIN values when switching between MIN and MAX when calibrated with master of a different shape, e.g. master with Squere shape and measured piece with round shape. Master is set with min and measured piece is measured with max.
 - MarCom: Foot switch with option as Start/Stop functionality.                                                                                                                                                                         
+
 
