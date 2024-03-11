@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"file","file":"2023-05-09_14h00_06.png","id":"dfe45fbaa682d961","x":-580,"y":-360,"width":828,"height":260},
+		{"type":"file","file":"_LogBook_/2023/2023.09/2023-05-09_14h00_06.png","id":"dfe45fbaa682d961","x":-580,"y":-360,"width":828,"height":260},
 		{"type":"link","url":"https://pl.wikipedia.org/wiki/SOLID","id":"8155a91e275f6cb3","x":-580,"y":-60,"width":828,"height":360},
 		{"type":"text","text":"The four pillars of object-oriented programming are:\n\n-   Abstraction\n-   Encapsulation\n-   Inheritance\n-   Polymorphism","id":"b6704a4252cfac5d","x":320,"y":-360,"width":250,"height":236}
 	],
