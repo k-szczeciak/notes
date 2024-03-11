@@ -70,7 +70,7 @@ od PM-a
 - zmiana nazwy dla uMaxum
 - prady i optymalizacja
 - rozszezenie trybu serwisowego o np konfiguracje - jak robilem w AT, lub osobny tryb AT
-- 
+- wskazanie led w menue gdy kabel podlaczony
 
 
 Q:
