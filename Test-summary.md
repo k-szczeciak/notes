@@ -4,18 +4,19 @@
 
 ### Good:
 - Animations and comments (e.g. START/STOP, Preset switching, animation in menue)
-- clear statements and explanantion when e.
+- clear statements and explanantion when e.g. "No fcn" ->"Tol Act" 
 - Intuitiveness
 - New Analog inverted display
 - 3xPresets and Tolerances
-- setting values with probe
+- quick setting digital values using probe
 - Switching tolerance scaling on analoge scale
 ### Reported bugs:
-none so far
+- none so far
 
 ### Reported issues with handling:
-- Hardware: LEDs display - yellow LED phisical position is fixed, hence not intuitive when only toerance is active: sugestion 2-color LEDs on sides (yellow or red) that it can indicate status and direction. Also that will correspond with arrows on LCD display
-- No Max-Min in BR-variant as full equiped model
+- Hardware: LEDs display - yellow LED phisical position is fixed in place, hence not intuitive when only tolerance is active - expected illumination on the side of overflow. It does not correspond with Arrows on LCD display.
+	- sugestion 2-color LEDs on sides (yellow or red) that it can indicate status and direction. Or all RGB leds.
+- No "MAX-MIN" in BR-variant as full equiped model
 - switching PRI -> PRII  -> PRIII not intuitive with right arrow. More maybe with long press as it is in measurement mode - consistent
 - Editing with sensor: progressive curve (speed dependent) and decrement with retraction
 - "Home" button in Menue under "IO" in case when confirmation means activation of value. Also as quick return to "Home" screen from menue.
