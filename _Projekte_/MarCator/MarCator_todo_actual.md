@@ -71,6 +71,7 @@ od PM-a
 - prady i optymalizacja
 - rozszezenie trybu serwisowego o np konfiguracje - jak robilem w AT, lub osobny tryb AT
 - wskazanie led w menue gdy kabel podlaczony
+- zamienic struktury: DisplVarStruct na enumeratory
 
 
 Q:
