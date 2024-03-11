@@ -5,7 +5,9 @@
 none
 
 ### Reported issues with handling:
-- LEDs display - 
+- Hardware: LEDs display - yellow LED phisical position is fixed, hence not intuitive when only toerance is active: sugestion 2-color LEDs on sides (yellow or red) that it can indicate status and direction.
+- No Max-Min in BR-variant
+- 
 
 
 
