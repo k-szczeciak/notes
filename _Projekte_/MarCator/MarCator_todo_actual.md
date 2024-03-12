@@ -72,6 +72,7 @@ od PM-a
 - rozszezenie trybu serwisowego o np konfiguracje - jak robilem w AT, lub osobny tryb AT
 - wskazanie led w menue gdy kabel podlaczony
 - zamienic struktury: DisplVarStruct na enumeratory
+- dodac wysylanie: JSONa lub liste z komendami i parametrami - parametry juz sa, dodac tylko strukture
 
 
 Q:
