@@ -29,5 +29,9 @@ radio:
 | H   | F_DIR;    | measurement direction change (direction in ANTmessage[5] +/- |
 | J   | F_ST;     | start and stop - only for br type                            |
 | l   | F_LEDT;   | leds flash time                                              |
+Radio new:
 
-Cable 
+
+
+Cable new:
+bat voltage
