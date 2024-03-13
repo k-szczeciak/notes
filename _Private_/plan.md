@@ -109,6 +109,7 @@ rozmowy z jak najwieksza iloscia osob - byc wszedzie
 ksiazki ta mala i greene
 rozmawiac, rozmawiac i rozmawiac
 zanuzac sie w niemeickim
+to z chata gpt
 
 kompetencje i umiejetnosc i w IT:
 https://bootstrapmade.com/bootstrap-resume-cv-templates/
