@@ -33,6 +33,8 @@ Radio new:
 - bat voltage
 - p parameter setting
 - service mode: 
+- zapilementowac 'C'
+- 
 
 Cable new:
 - bat voltage
