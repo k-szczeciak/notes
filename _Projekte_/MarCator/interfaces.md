@@ -58,7 +58,9 @@ Later:
 - name
 
 remove:
-- 
+- S_HR_T
+- S_HR_ML
+- S_HR_W
 
 cable fix:
 - CDT1
@@ -66,4 +68,11 @@ cable fix:
 - bat voltage
 
 zapimplementowane:
+LCD_MEM - get displ memory
+S_SET_T - set keys
+SRV - service mode: for battery display 
+FREQ - refresh display
 
+brakuje:
+- get led status
+- set led
