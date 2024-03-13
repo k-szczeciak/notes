@@ -83,6 +83,9 @@ czym zaskoczyc:
 
 kompetencje:
 - IT technologie
+- znajomosc zagadnien z PG
+- angielski
+- dosw miedznarodowe
 
 skladac czy nie:
 pro:
@@ -90,6 +93,9 @@ pro:
 against:
 - nie powazny, niereaklistyczny ofensywny
 
+czy mam kompetencje:
+- rozmowy
+- decyzje
 
 
 ### next steps
