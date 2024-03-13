@@ -34,6 +34,7 @@ general:
 - rozdzielenie albo radio albo kabel
 
 Radio new/rework:
+- 's' - scale reverse setting
 - new: bat voltage
 - zapilementowac 'C'
 - zaiplementowac 'D'
