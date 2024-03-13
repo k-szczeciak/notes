@@ -30,8 +30,8 @@ radio:
 | J   | F_ST;     | start and stop - only for br type                            |
 | l   | F_LEDT;   | leds flash time                                              |
 Radio new:
-
-
+- bat voltage
+- p parameter setting
 
 Cable new:
-bat voltage
+- bat voltage
