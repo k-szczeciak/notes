@@ -76,3 +76,4 @@ FREQ - refresh display
 brakuje:
 - get led status
 - set led
+- poprawic LCD aby przesylane byly zmiany natychmiast
