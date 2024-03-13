@@ -49,6 +49,7 @@ later:
 - (service mode)
 
 Cable new:
+- PRA
 
 Later:
 - devtype
