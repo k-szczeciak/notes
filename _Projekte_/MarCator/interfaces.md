@@ -49,7 +49,13 @@ later:
 - (service mode)
 
 Cable new:
-- PRA
+- PRA x active preset
+- PRA?
+- FIL? - get averagiing filter 0..4 - not here
+- LCK?
+- DEL1, DEL0, DEL? - delay 
+- SEN0, SEN1, SEN? - touch sensistivity
+- CNL9, CLN1, CLN? - clean display
 
 Later:
 - devtype
