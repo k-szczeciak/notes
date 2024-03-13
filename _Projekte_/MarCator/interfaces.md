@@ -31,12 +31,15 @@ radio:
 | l   | F_LEDT;   | leds flash time                                              |
 Radio new:
 - bat voltage
-- p parameter setting
-- service mode: 
 - zapilementowac 'C'
 - zaiplementowac 'D'
 - poprawic 'B'
-- wysylanie dan
+- wysylanie danych z przycisku
+- rozdzielenie albo radio albo kabel
+later:
+- (p parameter setting )
+- dane led
+- (service mode: )
 
 Cable new:
 - bat voltage
