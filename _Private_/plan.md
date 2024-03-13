@@ -1,4 +1,10 @@
 
+co podpytac Englera:
+- co z zatrudnianiem ludzi w wawie, pomoc i jak to bedzie wygladac organizacyjnie
+- restrukturyzacja
+- alfa
+- 
+
 kontakt z jak najwieksza liczba ludzi
 Thomeier, Reitemeyer,...
 
