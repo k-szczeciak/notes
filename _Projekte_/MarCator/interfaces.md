@@ -29,21 +29,28 @@ radio:
 | H   | F_DIR;    | measurement direction change (direction in ANTmessage[5] +/- |
 | J   | F_ST;     | start and stop - only for br type                            |
 | l   | F_LEDT;   | leds flash time                                              |
+
+general:
+- rozdzielenie albo radio albo kabel
+
 Radio new/rework:
-- bat voltage
+- new: bat voltage
 - zapilementowac 'C'
 - zaiplementowac 'D'
 - poprawic 'B'
 - wysylanie danych z przycisku
-- rozdzielenie albo radio albo kabel
+- mode min max spr
+- ??? fix res
+- ??? dipl variant
 later:
 - (p parameter setting )
 - dane led (get set)
 - (service mode: )
 
 Cable new:
-- bat voltage
+- 
 
 cable fix:
 - CDT1
-- 
+- DIF
+- bat voltage
