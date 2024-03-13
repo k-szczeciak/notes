@@ -81,4 +81,4 @@ brakuje:
 
 OGOLNIE:
 CSV, JSON, YAML i inne
-GET method 
+GET method jak url z &-em
