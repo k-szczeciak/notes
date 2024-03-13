@@ -46,7 +46,7 @@ Radio new/rework:
 later:
 - (p parameter setting )
 - dane led (get set)
-- (service mode: )
+- (service mode)
 
 Cable new:
 
@@ -83,3 +83,6 @@ brakuje:
 OGOLNIE:
 CSV, JSON, YAML i inne
 GET method jak url z &-em
+
+
+filter setting???
