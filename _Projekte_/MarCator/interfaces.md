@@ -48,8 +48,7 @@ later:
 - (service mode: )
 
 Cable new:
-- scale rev
-- 
+
 Later:
 - devtype
 - unit restr
@@ -72,6 +71,7 @@ LCD_MEM - get displ memory
 S_SET_T - set keys
 SRV - service mode: for battery display 
 FREQ - refresh display
+REBOOT
 
 brakuje:
 - get led status
