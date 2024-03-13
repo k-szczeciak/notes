@@ -34,7 +34,9 @@ Radio new:
 - p parameter setting
 - service mode: 
 - zapilementowac 'C'
-- 
+- zaiplementowac 'D'
+- poprawic 'B'
+- wysylanie dan
 
 Cable new:
 - bat voltage
