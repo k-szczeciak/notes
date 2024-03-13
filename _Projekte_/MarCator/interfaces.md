@@ -48,9 +48,22 @@ later:
 - (service mode: )
 
 Cable new:
+- scale rev
+- 
+Later:
+- devtype
+- unit restr
+- radioNo
+- brand
+- name
+
+remove:
 - 
 
 cable fix:
 - CDT1
 - DIF
 - bat voltage
+
+zapimplementowane:
+
