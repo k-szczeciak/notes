@@ -23,7 +23,7 @@ Todo temp 2024-02-26:
 
 dodane 2024-02-29:
 - [ ] battery measuremnt:
-	- [ ] do wszystkich modeli 
+	- [x] do wszystkich modeli 
 	- [ ] pomiar co 10 minut
 	- [ ] flaga nie resetowalna
 	- [ ] pomiar 3 razy aby uniknac bledow
@@ -57,7 +57,7 @@ od PM-a
 - podobnie animacja w HR-e dla scale
 - "Error" -> "No SenSo" when measurement system is not detected
 - 
-- sprawa pomiaru CDT - ciaglego
+- --> sprawa pomiaru CDT - ciaglego
 - komunikaty jednoczesne po kablu plus wyswietlacz
 - sprawdzic edycje incha w kontekscie 10 metrow - preset i tolerancja
 - punkty z ostatniego spotkania: np: - nazwa do uMaxum w marcator check i inne. sprawdzic dB radia itp - do dku1
