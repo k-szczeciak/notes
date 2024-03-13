@@ -55,7 +55,7 @@ Cable new:
 - LCK?
 - DEL1, DEL0, DEL? - delay 
 - SEN0, SEN1, SEN? - touch sensistivity
-- CNL9, CLN1, CLN? - clean display
+- CLN0, CLN1, CLN? - clean display
 
 Later:
 - devtype
@@ -63,6 +63,7 @@ Later:
 - radioNo
 - brand
 - name
+- czytanie parmaetrow wszystkich
 
 remove:
 - S_HR_T
