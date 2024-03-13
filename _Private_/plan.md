@@ -105,6 +105,10 @@ czy mam kompetencje:
 	- https://bootstrapmade.com/bootstrap-resume-cv-templates/ - bootstrap theames
 
 postawa: gotowosc, odwaga czujnosc. analiza i 
+rozmowy z jak najwieksza iloscia osob - byc wszedzie
+ksiazki ta mala i greene
+rozmawiac, rozmawiac i rozmawiac
+zanuzac sie w niemeickim
 
 kompetencje i umiejetnosc i w IT:
 https://bootstrapmade.com/bootstrap-resume-cv-templates/
