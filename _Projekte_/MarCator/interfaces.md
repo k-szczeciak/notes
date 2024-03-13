@@ -32,6 +32,7 @@ radio:
 Radio new:
 - bat voltage
 - p parameter setting
+- service mode: 
 
 Cable new:
 - bat voltage
