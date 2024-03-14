@@ -30,6 +30,15 @@ dodane 2024-02-29:
 	- [ ] brak pomiaru jezeli ledy , touch lub radio sa aktywne
 	- [ ] napiecie 2,7V
 
+dodane: 2024-03-14
+- rozmowa projektowa:
+	- usunac ustawianie przy pomocy tastera - patentschutz
+	- analog scale naciskanie RST i PRE - przeskakiwanie wartosci
+	- Battry: detekcja No bat: jezeli napiecie ponizej 1 V gdy np polaczone przez kabel - wtedy reset flagi to na wypadek wyciagniecia i zmiany bateri
+	- blad zaokraglania dla wartosci max w mm - OL widoczne tylko
+	- scale 2 - wskazowka ma blinkac tez na skrajach czyli 0 w maxie oraz max 
+	- Blokada wszystkiego nawet FA - ale po wyciagnieciu bateri i wlozeniu mozliwe jest FA
+	- 
 
 next:
 od PM-a
