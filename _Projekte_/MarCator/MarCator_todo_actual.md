@@ -111,6 +111,16 @@ Q:
 - poprawic Analog anzeige:
 	- min nie pokazuje wartosci
 	- dla reverse zawsze blinken
+
+dodanie 2024-03-12
+Q?
+czy dodac KFAK do radio
+czy dodamy filter do zwyklych??? - lub low freq
+
+
+- later!!! remove: sendStrPrep(), substitute
+- rename MESS_MODE_REL to MESS_MODE_ABS
+
 ---
 - czy HOLD w menue Funk, ale gdy kabel podlaczony tez?
 
