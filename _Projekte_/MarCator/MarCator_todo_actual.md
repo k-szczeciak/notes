@@ -88,7 +88,7 @@ od PM-a
 - zamienic struktury: DisplVarStruct na enumeratory
 - dodac wysylanie: JSONa lub liste z komendami i parametrami - parametry juz sa, dodac tylko strukture
 - usunac parametr: 
-
+- wylaczyc radio z menue j
 
 Q:
 - OI jako home button nawet w menue???
