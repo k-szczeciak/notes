@@ -71,7 +71,7 @@ od PM-a
 - podobnie animacja w HR-e dla scale
 - "Error" -> "No SenSo" when measurement system is not detected
 - 
-- --> sprawa pomiaru CDT - ciaglego
+- [x] sprawa pomiaru CDT - ciaglego
 - komunikaty jednoczesne po kablu plus wyswietlacz
 - sprawdzic edycje incha w kontekscie 10 metrow - preset i tolerancja
 - punkty z ostatniego spotkania: np: - nazwa do uMaxum w marcator check i inne. sprawdzic dB radia itp - do dku1
@@ -87,7 +87,7 @@ od PM-a
 - wskazanie led w menue gdy kabel podlaczony
 - zamienic struktury: DisplVarStruct na enumeratory
 - dodac wysylanie: JSONa lub liste z komendami i parametrami - parametry juz sa, dodac tylko strukture
-- usunac parametry
+- usunac parametry, poprawic devGroup, HR params
 - [x] wylaczyc radio z menue jak art nie odpowiadia takiemu - bo nie widomo jaki numer ma miec radio, czyli nr radia = 0 to brak w menue
 
 Q:
