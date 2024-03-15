@@ -1,3 +1,7 @@
+issues:
+- nie wybudzanie
+- polaczenie radia
+- pierwszy pomiar br
 
 Todo temp 2024-02-26:
 - [x] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
