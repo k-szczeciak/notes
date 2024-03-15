@@ -150,7 +150,28 @@ zmiana nazwy uMaxum - MarCator i Marcator check
 
 
 
-
+z 2024-03-15:next:
+- [x] rozdzielenie Radio od cable
+- [x] Menue: dodac HOLD do menue DIGI
+- [x] Menue: przechodzenie z w funk
+- [x] 255 err po kablu ??? od nico - zalatwione przez usuniecie d ---- po przejsciu do kanalu
+- [x] brak radia numeru - nie ma menue
+- [x] komunikat ze brak radia  jezeli konfiguracja o tym mowi
+- [x] korekta wprowadzania bledu duzej wartosci, zaookraglanie
+- [ ] monitorowanie wartosci  duzych - teraz sprawdzic jak dzialaja
+- [x] komunikaty takie same na wyswietlaczu jak z klawiszy - tylko Pr(x)
+- [ ] usuniecie sterowania tasterem, wylaczenie tastera w menue, pozostawic refreshrate taki jak dla std 16Hz
+- [ ] dodanie baterry no bat  i pozostale z bat wlacznie z przesylaniem komunikatu
+- [ ] serwis dopracowac w tym z bat (BatStatus)
+- [ ] digimatic inch
+- [x] wysylanie "OL"
+- [ ] komunikat jak ABS kiedy wlaczone PRE - "in ABS"
+- [ ] komunikat w 86 jezeli 2 klawisz nacisniety: "No Tol"
+- [x] poprawic TOLW(x) powinno byc jedno
+- [ ] "Error" -> "No SenSo" when measurement system is not detected
+- [x] blysniecie Led-t z  dla 0s
+- [ ] menu Bat
+spr prady: std hr br menue
 
 
 
