@@ -70,7 +70,7 @@ od PM-a
 - ledy w menue bat w HR - za krotko - pewnie czest odswierznia - zmienic na timer, podonie tez splashscreen jest za szybki
 - podobnie animacja w HR-e dla scale
 - "Error" -> "No SenSo" when measurement system is not detected
-- 
+- przebufdowac ` else if (!strncmp((char *)DuplexRXD, "PRE", 3))    Ev = msgArgumentEval((char *)DuplexRXD, 3, &msgPar, S_PRE_F);` w bedien - najlepiej wszystkie funkcje na jakis standard
 - [x] sprawa pomiaru CDT - ciaglego
 - komunikaty jednoczesne po kablu plus wyswietlacz
 - sprawdzic edycje incha w kontekscie 10 metrow - preset i tolerancja
