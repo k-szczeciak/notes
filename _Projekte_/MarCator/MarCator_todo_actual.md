@@ -89,7 +89,8 @@ od PM-a
 - dodac wysylanie: JSONa lub liste z komendami i parametrami - parametry juz sa, dodac tylko strukture
 - usunac parametry, poprawic devGroup, HR params
 - [x] wylaczyc radio z menue jak art nie odpowiadia takiemu - bo nie widomo jaki numer ma miec radio, czyli nr radia = 0 to brak w menue
-- [ ] popracowac nad wylaczaniem mess syetem w menue - przy przelaczaniu wystepuja chwilowo 
+- [ ] popracowac nad wylaczaniem mess syetem w menue - przy przelaczaniu wystepuja chwilowo nie wlasciwe, pomyslec nad optymalizacja
+- [ ] poprawcowac nad przelaczaniem sie z mene do pomiarow
 
 Q:
 - OI jako home button nawet w menue???
