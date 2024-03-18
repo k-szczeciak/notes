@@ -93,7 +93,7 @@ od PM-a
 - [ ] poprawcowac nad przelaczaniem sie z mene do pomiarow
 - [ ] Befehl - na sama analogowa skale zmiane
 - [x] pierwsze wlaczenie tolerancji - daje dluzsze mrugniecie ze wzgledu ze granice tol sa globalne i przeliczane w trakcie zalaczania - inan filozofia - przeliczanie razem z aktywacja toler - wysietlanie jakmin max itp jako funkcje
-- [ ] wyeliminowac wszystkie zwloki czasowe w analogu scale 2 preset i pierwszysraz tolerancja
+- [ ] wyeliminowac wszystkie zwloki czasowe w analogu scale 2 preset (tol tez bo wlacza jednoczesnie preset). rylko w scale 2
 
 Q:
 - OI jako home button nawet w menue???
