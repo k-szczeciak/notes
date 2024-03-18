@@ -92,6 +92,7 @@ od PM-a
 - [ ] popracowac nad wylaczaniem mess syetem w menue - przy przelaczaniu wystepuja chwilowo nie wlasciwe, pomyslec nad optymalizacja
 - [ ] poprawcowac nad przelaczaniem sie z mene do pomiarow
 - [ ] Befehl - na sama analogowa skale zmiane
+- [ ] pierwsze wlaczenie tolerancji - daje dluzsze mrugniecie ze wzgledu ze granice tol sa globalne i przeliczane w trakcie zalaczania - inan filozofia - przeliczanie razem z aktywacja toler - wysietlanie jakmin max itp jako funkcje
 
 Q:
 - OI jako home button nawet w menue???
