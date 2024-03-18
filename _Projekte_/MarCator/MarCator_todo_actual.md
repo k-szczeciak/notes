@@ -93,6 +93,7 @@ od PM-a
 - [ ] poprawcowac nad przelaczaniem sie z mene do pomiarow
 - [ ] Befehl - na sama analogowa skale zmiane
 - [ ] blysniecie gdy poza tolerancja i prest nacisieny
+- [ ] ??? pomiar napiecia baterii w menue gdy kabel podlaczony to podbija napiecie do 3.6V
 
 
 Q:
