@@ -92,6 +92,7 @@ od PM-a
 - [ ] popracowac nad wylaczaniem mess syetem w menue - przy przelaczaniu wystepuja chwilowo nie wlasciwe, pomyslec nad optymalizacja
 - [ ] poprawcowac nad przelaczaniem sie z mene do pomiarow
 - [ ] Befehl - na sama analogowa skale zmiane
+- [ ] blysniecie gdy poza tolerancja i prest nacisieny
 
 
 Q:
