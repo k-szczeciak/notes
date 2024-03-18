@@ -95,6 +95,7 @@ od PM-a
 - [ ] blysniecie gdy poza tolerancja i prest nacisieny
 - [ ] ??? pomiar napiecia baterii w menue gdy kabel podlaczony to podbija napiecie do 3.6V
 - [ ] sprawdzic testy LED-ow wraz ze zdalnym sterowaniem i statusem
+- [ ] tryb serwisowy poprawic - logo zalacznaie i pomiary i takie tam dalej inne
 
 
 Q:
