@@ -94,6 +94,7 @@ od PM-a
 - [ ] Befehl - na sama analogowa skale zmiane
 - [ ] blysniecie gdy poza tolerancja i prest nacisieny
 - [ ] ??? pomiar napiecia baterii w menue gdy kabel podlaczony to podbija napiecie do 3.6V
+- [ ] sprawdzic testy LED-ow wraz ze zdalnym sterowaniem i statusem
 
 
 Q:
