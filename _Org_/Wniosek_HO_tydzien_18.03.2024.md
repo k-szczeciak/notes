@@ -1,7 +1,5 @@
-<div style="text-align: right"> Warszawa 11.12.2023r.  </div>
-<div style="text-align: right"> Warszawa 11.12.2023r.  </div>
-<div style="text-align: right"> Warszawa 11.12.2023r.  </div>
-<div style="text-align: right"> Warszawa 11.12.2023r.  </div>
+<div style="text-align: right"> Warszawa 18.03.2024r.  </div>
+
 
 <div style="text-align: left"> Krzysztof Szczeciak</div>
 <div style="text-align: left">ul. Krańcowa 17/16</div>
@@ -16,7 +14,7 @@
 
 <br><br><br><br><br>
 <div>
-Strony na zasadzie porozumienia stron ustalają że wszystkie dni w tygodniu 18.12.2023 – 22.12.2023 będą stacjonarne na ul. Gimnazjalnej 4, w Warszawie.
+Strony na zasadzie porozumienia stron ustalają że dniami pracy w trybie Home Office w miejscu zamieszkania w tygodniu 18.03.2024 – 22.03.2024 będą dni 18.03.2024 (poniedzialek), 21.03.2024 (czwartek).
 </div>
 <br>
 
