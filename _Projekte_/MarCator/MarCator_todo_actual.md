@@ -5,6 +5,7 @@ gen issues:
 - sprawdzenie duzych liczb w HR-module
 
 - [ ] struktura do zmiennych koniecznie
+- [ ] BR, oraz MIN MAX i inne blokady z befehl z DKU1 i inne takze ANT
 
 Todo temp 2024-02-26:
 - [x] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
