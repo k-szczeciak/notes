@@ -1,16 +1,17 @@
-issues:
+gen issues:
 - nie wybudzanie
 - polaczenie radia
 - pierwszy pomiar br
+- sprawdzenie duzych liczb w HR-module
 
 Todo temp 2024-02-26:
 - [x] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
 - [x] -> dodac LEDt fo sperren oraz scale (FktFilter)
 - [x] -> nie chce sie ponownie laczyc po wlozeniu baterii - bat on values
 - [x] -> odswierzanie w menue aby ograniczyc prad (obnizyc czestotliwosc w menue), to ponizej tez sie powinno poprawic, albo 
-- [ ] -> poprawa digimatic - inch
-- [ ] -> menue - powrot z channel do off???
-- [ ] -> z kabla Err 255
+- [x] -> poprawa digimatic - inch
+- [x] -> menue - powrot z channel do off???
+- [x] -> z kabla Err 255
 - [x] wprowadzanbie incha dla duzych wartosci wadliwe
 - [x] ograniczenie wprowadzania incha do 399.999 - zamiast tego obliczanie wartosci i meldunek ze wskazaniem za duzej wartosci
 - [ ] "OL" dla wartosci przekraczjacych 9999.999 lub dla incha
