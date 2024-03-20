@@ -6,6 +6,7 @@ gen issues:
 
 - [ ] struktura do zmiennych koniecznie
 - [ ] BR, oraz MIN MAX i inne blokady z befehl z DKU1 i inne takze ANT
+- [ ] przeglad fnkcji do stringow - pogrupowac i z refaktorowac 
 
 Todo temp 2024-02-26:
 - [x] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
