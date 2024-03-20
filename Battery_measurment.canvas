@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"dc99ce13f8c066be","x":-140,"y":-260,"width":140,"height":80,"type":"text","text":"Battery on (power on)"},
+		{"id":"acdbe2ed6306fc88","type":"text","text":"Init","x":-140,"y":-80,"width":140,"height":80},
+		{"id":"e4874ae82c78db65","type":"text","text":"Menue","x":440,"y":180,"width":160,"height":80},
+		{"id":"f26bdc2a747cec59","type":"text","text":"Measurement","x":-150,"y":180,"width":160,"height":80},
+		{"id":"d62bf7136dc49f4f","type":"text","text":"Battery measurement","x":140,"y":180,"width":160,"height":80}
+	],
+	"edges":[
+		{"id":"b95287554561e3cd","fromNode":"dc99ce13f8c066be","fromSide":"bottom","toNode":"acdbe2ed6306fc88","toSide":"top"},
+		{"id":"7aac95a6f1f5cdd0","fromNode":"acdbe2ed6306fc88","fromSide":"bottom","toNode":"f26bdc2a747cec59","toSide":"top"},
+		{"id":"12122f741c9208ad","fromNode":"f26bdc2a747cec59","fromSide":"bottom","toNode":"e4874ae82c78db65","toSide":"bottom"},
+		{"id":"46b9e19007588deb","fromNode":"e4874ae82c78db65","fromSide":"top","toNode":"f26bdc2a747cec59","toSide":"top"},
+		{"id":"9faaac9b33149e2a","fromNode":"d62bf7136dc49f4f","fromSide":"top","toNode":"f26bdc2a747cec59","toSide":"top"},
+		{"id":"bc62675f7bdeaef5","fromNode":"f26bdc2a747cec59","fromSide":"bottom","toNode":"d62bf7136dc49f4f","toSide":"bottom"},
+		{"id":"12734d1bcb462a15","fromNode":"e4874ae82c78db65","fromSide":"top","toNode":"d62bf7136dc49f4f","toSide":"top"}
+	]
+}
