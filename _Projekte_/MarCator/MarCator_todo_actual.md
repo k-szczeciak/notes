@@ -4,6 +4,8 @@ gen issues:
 - pierwszy pomiar br
 - sprawdzenie duzych liczb w HR-module
 
+- [ ] struktura do zmiennych koniecznie
+
 Todo temp 2024-02-26:
 - [x] poprawic scale: dla 1 i 0 sprawdzenie wszystkich  wskazania, porozmawiac nt temat z PM
 - [x] -> dodac LEDt fo sperren oraz scale (FktFilter)
