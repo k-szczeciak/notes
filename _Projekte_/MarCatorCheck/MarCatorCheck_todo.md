@@ -4,27 +4,28 @@
 - [ ] include printout for bosch (see in teams)
 - [ ] main screen layout corretion request
 
+---
 MarCator Check todo previous:
 - [x] przeniesc checkboxa pod sn - i nie pokazyac dla innych typow
 - [x] dodac parametr do ini
 - [x] dodanie listy do testow (qr cody)
 - [ ] sprawdzic dla innych zegarow jak to dziala (czy nadal poprawnie)
 - [ ] porownac z tym co bylo - static code analysis
-- [ ] czas zwloki na ustalenie pomiarow - poexperymentowac ??? - lepsze pomiary
+- [ ] czas zwloki na ustalenie pomiarow - poexperymentowac ??? - lepsze pomiary - nie moze byc za krotkie
 - [ ] ~~sprawdzanie na koncyu czy dane sie zgadzaja (sn i an)
 - [x] zaslanienie dla nie MC touch
-- [ ] dopisac??? czy nowe
+- [ ] dopisac??? czy nowe pomiary
 - [x] ukryc checkbox dla innych
-- [ ] poczatek, spada czasami - moze porozmawaic z Jensem
+- [ ] poczatek, spada czasami - moze porozmawaic z Jensem:
+	- [ ] sprawdzic na nowym icmie
 - [ ] sprawdzanie czy pole nie jest puste i czy skanowanie mialo miejsce ???
 
 other:
 marcator not ready - happends
 ??? replace  repead-y with timer
 
-
-emails:
-
+---
+e-mails:
 ```
 Hallo Herr Szczeciak,
 
