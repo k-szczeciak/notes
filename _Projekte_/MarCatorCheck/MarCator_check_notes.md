@@ -1,3 +1,6 @@
+[[MarCatorCheck_todo]]
+
+
 [[MarCatorCheck_meetings]]
 [[MarCator_Prod_process.canvas|MarCator_Prod_process]]
 
@@ -13,6 +16,12 @@ Next:
 - securyty - double check Sn AN and config
 - test result passed??
 - radio test
+
+Version 5.1. 
+- bug fix: more than 100 test programs [prueflings] selecatble
+- communication reply 
+
+
 
 Version 5.0:
 - procedure for new MC (touch):
@@ -53,20 +62,4 @@ Q:
 
 
 
-MarCator Check todo:
-- [x] przeniesc checkboxa pod sn - i nie pokazyac dla innych typow
-- [x] dodac parametr do ini
-- [x] dodanie listy do testow (qr cody)
-- [ ] sprawdzic dla innych zegarow jak to dziala (czy nadal poprawnie)
-- [ ] porownac z tym co bylo - static code analysis
-- [ ] czas zwloki na ustalenie pomiarow - poexperymentowac ??? - lepsze pomiary
-- [ ] ~~sprawdzanie na koncyu czy dane sie zgadzaja (sn i an)
-- [x] zaslanienie dla nie MC touch
-- [ ] dopisac??? czy nowe
-- [x] ukryc checkbox dla innych
-- [ ] poczatek, spada czasami - moze porozmawaic z Jensem
-- [ ] sprawdzanie czy pole nie jest puste i czy skanowanie mialo miejsce ???
 
-other:
-marcator not ready - happends
-??? replace  repead-y with timer
