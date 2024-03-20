@@ -29,7 +29,7 @@ radio:
 | H   | F_DIR;    | measurement direction change (direction in ANTmessage[5] +/- |     |
 | J   | F_ST;     | start and stop - only for br type                            |     |
 | l   | F_LEDT;   | leds flash time                                              |     |
-| s   | F_SREV;   | reverse analog scale switch                                  |     |
+| s   | F_SREV;   | reverse analog scale                                         |     |
 
 general:
 - rozdzielenie albo radio albo kabel
