@@ -17,11 +17,14 @@ Next:
 - test result passed??
 - radio test
 
+Version 5.2.
+- independedt device configuration with all logic behind "Configure" button
+- additional tests for values, e.g. serial number may not be empty
+
 Version 5.1. 
 - bug fix: more than 100 test programs [prueflings] selecatble
-- communication reply 
-
-
+- communication reply wait time prolonged for no time out in communication
+- new proposal for protocol table 
 
 Version 5.0:
 - procedure for new MC (touch):

@@ -1,8 +1,10 @@
 2024-03-19:
 - [ ] new printout head table 
 - [ ] adjustement for 1075R - show 0,1 µm in measurements
+- [ ] include printout for bosch (see in teams)
+- [ ] main screen layout corretion request
 
-MarCator Check todo:
+MarCator Check todo previous:
 - [x] przeniesc checkboxa pod sn - i nie pokazyac dla innych typow
 - [x] dodac parametr do ini
 - [x] dodanie listy do testow (qr cody)
