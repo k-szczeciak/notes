@@ -25,6 +25,7 @@ Todo temp 2024-02-26:
 - [ ] zaokraglanie w dol dla incha tez bo jak jest ustawiona inna resolution to jest problem bo za duza wartosc
 - [ ] przerobic zaokraglanie
 - [ ] logika RF z Millimesa - w menue - razem z tym powrotem z CH do radio
+- [ ] wlaczanie 86 ze zwloka, 2-etpowo
 
 dodane 2024-02-29:
 - [ ] battery measuremnt:
