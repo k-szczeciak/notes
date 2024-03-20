@@ -185,6 +185,7 @@ z 2024-03-15:next:
 - [ ] "Error" -> "No SenSo" when measurement system is not detected
 - [x] blysniecie Led-t z  dla 0s
 - [ ] menu Bat
+- [ ] digimatic poprawic timingi aby osiagnac predkosc max jak dla c1202
 spr prady: std hr br menue
 
 
