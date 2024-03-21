@@ -37,8 +37,11 @@ V0.25: (21.03.2024)
 	- blinking at ends
 	- instand change after button pressed (PRE and RST), TOL with delay only when to button delay time active
 - FA lock function bemoved when battey reset
+- battery measurement (ppt dokument):
 
-battery measurement (ppt dokument)
+current measurement:
+	- std 86: 72 in act 74 in menue 11 off
+	- hr: 170 in act, 76 inmenue, 11 off
 
 
 V0.24: (01.03.2024)
