@@ -31,6 +31,7 @@ Todo temp 2024-02-26:
 - [ ] logika RF z Millimesa - w menue - razem z tym powrotem z CH do radio
 - [ ] wlaczanie 86 ze zwloka, 2-etpowo
 - [ ] poprawic widok hold w menue funk
+- [ ] dodac znacznik BAT check do tx i sprawdzac kiedy jest testowane
 
 dodane 2024-02-29:
 - [ ] battery measuremnt:
