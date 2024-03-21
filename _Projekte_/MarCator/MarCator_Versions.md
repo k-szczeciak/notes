@@ -40,7 +40,7 @@ V0.25: (21.03.2024)
 - battery measurement (ppt dokument):
 
 current measurement:
-	- std 86: 72 in act 74 in menue 11 off
+	- std 86: 72uA in act 74 in menue 11uAoff
 	- hr: 170 in act, 76 inmenue, 11 off
 
 
