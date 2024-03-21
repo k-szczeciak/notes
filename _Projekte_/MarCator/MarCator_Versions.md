@@ -6,7 +6,6 @@ V0.25: (21.03.2024)
 - HR timing optimization in menue
 - Removed Setting with sensor in menue
 - fixed refresh rate in Menue across all models (battery saving)
-- battery measurement (ppt dokument)
 - HR - startup value after battery on (low pass filter adjustment)
 - TOLW corrected
 - Setting up Radio in menue Corrected:
@@ -24,7 +23,17 @@ V0.25: (21.03.2024)
 	- new Prameter handling routine
 - New command fro radio: 's' for inverted analaog scale
 - changind Preset with cable will show confirmation "Prx"
-- 
+- LED-T time 0 correction (no flash)
+- Version in cable and radio corrected "VER?"
+- New battery value reply: now reply to "BAT?" is voltage: BAT 0.000 V (last read value)
+- new Service mode added for battery menue activation
+- Battery menue activation with command "SRV 0" and in menue First lock menue , button 1 long press
+- no sensor detection, new message: "no SEnS"
+- manual display test added: when no sensor detected and pressed button 5 after power on
+- "MOD?" adjusted:
+	- for BR: "Start" Stop state
+
+battery measurement (ppt dokument)
 
 
 V0.24: (01.03.2024)
