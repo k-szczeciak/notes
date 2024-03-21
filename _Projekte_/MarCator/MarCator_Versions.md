@@ -3,7 +3,17 @@ V0.25: (21.03.2024)
 	- normalized
 	- automatic generated
 	- adjsuted for states [[parameters]]
-- HR timing optimization in mene
+- HR timing optimization in menue
+- Removed Setting with sensor in menue
+- fixed refresh rate in Menue across all models (battery saving)
+- battery measurement (ppt dokument)
+- HR - startup value after battery on (low pass filter adjustment)
+- TOLW corrected
+- Setting up Radio in menue Corrected:
+	- return to OFF if left in initializatio state
+	- error 255 removal
+- CDT1 - coniuous measurment - corrected and adjusted for timing:
+	- 20 Hz in 1086, 1087 HR (after filter)
 
 
 V0.24: (01.03.2024)
