@@ -1,3 +1,6 @@
+V0.25: (21.03.2024)
+- parametrs normalized and adjsuted for states 
+
 
 V0.24: "some more fixes: HR, refresh rate, service mode, Hold and cable icons"
 - Service mode for activating messages
