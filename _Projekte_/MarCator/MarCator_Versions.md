@@ -31,7 +31,12 @@ V0.25: (21.03.2024)
 - no sensor detection, new message: "no SEnS"
 - manual display test added: when no sensor detected and pressed button 5 after power on
 - "MOD?" adjusted:
-	- for BR: "Start" Stop state
+	- for BR: "Start", "Stop" and "RUN" states added
+	- DIF added for 1087
+- Reversed scale enhanced:
+	- blinking at ends
+	- instand change after button pressed (PRE and RST), TOL with delay only when to button delay time active
+- FA lock function bemoved when battey reset
 
 battery measurement (ppt dokument)
 
