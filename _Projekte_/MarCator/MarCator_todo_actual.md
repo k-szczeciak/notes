@@ -32,6 +32,7 @@ Todo temp 2024-02-26:
 - [ ] wlaczanie 86 ze zwloka, 2-etpowo
 - [ ] poprawic widok hold w menue funk
 - [ ] dodac znacznik BAT check do tx i sprawdzac kiedy jest testowane
+- [ ] spra RESFx dla HR i innych ??
 
 dodane 2024-02-29:
 - [ ] battery measuremnt:

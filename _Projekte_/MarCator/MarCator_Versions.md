@@ -13,7 +13,18 @@ V0.25: (21.03.2024)
 	- return to OFF if left in initializatio state
 	- error 255 removal
 - CDT1 - coniuous measurment - corrected and adjusted for timing:
-	- 20 Hz in 1086, 1087 HR (after filter)
+	- 20 Hz in 1086, 1087 HR (after filter), BR in measurment (64 / 3 = 21Hz)
+- RES1 for HR mode corrected
+- "OL" in Cable and Radio sending ERR0 command or 'E' '0' respectively
+- added new commands for cable communication:
+	- PRA(x) and PRA?
+	- LCK?
+	- DEL
+	- SEN
+	- new Prameter handling routine
+- New command fro radio: 's' for inverted analaog scale
+- changind Preset with cable will show confirmation "Prx"
+- 
 
 
 V0.24: (01.03.2024)
