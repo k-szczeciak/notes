@@ -34,6 +34,8 @@ Todo temp 2024-02-26:
 - [ ] dodac znacznik BAT check do tx i sprawdzac kiedy jest testowane
 - [ ] spra RESFx dla HR i innych ??
 - [ ] sprawdzic CLEAN?
+- [ ] ANT i led time - powinno blinkac moze prz przesylaniu ???
+- [ ] ANT - jak sie wejdzie w menue i wysle komuniact to przerywa polaczenie
 
 dodane 2024-02-29:
 - [ ] battery measuremnt:
