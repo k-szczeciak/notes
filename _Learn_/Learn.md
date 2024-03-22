@@ -4,6 +4,9 @@
 
 https://codewithmosh.com/
 
+AI
+https://eitca.pl/program-certyfikacyjny-akademii-eitcaai
+cloud
 
 |  #  | item                                      | score | notes                  |
 |:---:|:----------------------------------------- |:----- |:---------------------- |

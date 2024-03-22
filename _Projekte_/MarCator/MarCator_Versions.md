@@ -1,5 +1,51 @@
+V0.25: (21.03.2024)
+- parametrs
+	- normalized
+	- automatic generated
+	- adjsuted for states [[parameters]]
+- HR timing optimization in menue
+- Removed Setting with sensor in menue
+- fixed refresh rate in Menue across all models (battery saving)
+- HR - startup value after battery on (low pass filter adjustment)
+- TOLW corrected
+- Setting up Radio in menue Corrected:
+	- return to OFF if left in initializatio state
+	- error 255 removal
+- CDT1 - coniuous measurment - corrected and adjusted for timing:
+	- 20 Hz in 1086, 1087 HR (after filter), BR in measurment (64 / 3 = 21Hz)
+- RES1 for HR mode corrected
+- "OL" in Cable and Radio sending ERR0 command or 'E' '0' respectively
+- added new commands for cable communication:
+	- PRA(x) and PRA?
+	- LCK?
+	- DEL
+	- SEN
+	- new Prameter handling routine
+- New command fro radio: 's' for inverted analaog scale
+- changind Preset with cable will show confirmation "Prx"
+- LED-T time 0 correction (no flash)
+- Version in cable and radio corrected "VER?"
+- New battery value reply: now reply to "BAT?" is voltage: BAT 0.000 V (last read value)
+- new Service mode added for battery menue activation
+- Battery menue activation with command "SRV 0" and in menue First lock menue , button 1 long press
+- no sensor detection, new message: "no SEnS"
+- manual display test added: when no sensor detected and pressed button 5 after power on
+- "MOD?" adjusted:
+	- for BR: "Start", "Stop" and "RUN" states added
+	- DIF added for 1087
+- Reversed scale enhanced:
+	- blinking at ends
+	- instand change after button pressed (PRE and RST), TOL with delay only when to button delay time active
+- FA lock function bemoved when battey reset
+- battery measurement (ppt dokument):
 
-V0.24: "some more fixes: HR, refresh rate, service mode, Hold and cable icons"
+current measurement:
+	- std 86: 72uA in act 74 in menue 11uAoff
+	- hr: 170 in act, 76 inmenue, 11 off
+
+
+V0.24: (01.03.2024)
+"some more fixes: HR, refresh rate, service mode, Hold and cable icons"
 - Service mode for activating messages
 - Menue refresh rate in to be constant - prevent to high current consumption in menue
 - Removed Cable Icon in menue
