@@ -36,7 +36,7 @@ Todo temp 2024-02-26:
 - [ ] sprawdzic CLEAN?
 - [ ] ANT i led time - powinno blinkac moze prz przesylaniu ???
 - [ ] ANT - jak sie wejdzie w menue i wysle komuniact to przerywa polaczenie
-- [ ] ANT - czasami problem z laczeniem, trzeba wtedy zmienic numer
+- [ ] ANT - czasami problem z laczeniem, trzeba wtedy zmienic numer, co z tym polaczeniem jest nie tak ??? 
 
 dodane 2024-02-29:
 - [ ] battery measuremnt:
