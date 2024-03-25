@@ -4,6 +4,9 @@
 - [ ] include printout for bosch (see in teams)
 - [ ] main screen layout corretion request
 
+
+- genb concern:
+	- start pomiaru - opadanie: sprawdzic na nowym oraz
 ---
 MarCator Check todo previous:
 - [x] przeniesc checkboxa pod sn - i nie pokazyac dla innych typow
