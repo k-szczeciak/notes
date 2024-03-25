@@ -18,7 +18,7 @@
 </div>
 <br><br>
 <div>
-Proszę o udzielenie urlopu wypoczynkowego w dniu od 2.05.2024r (Czwartek) - 1 dzien.
+Proszę o udzielenie urlopu wypoczynkowego w dniu 2.05.2024r (Czwartek) - 1 dzien.
 </div>
 <br><br><br>
 
