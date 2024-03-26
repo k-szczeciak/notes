@@ -1,4 +1,18 @@
-- [ ]  create a branch
+- [x]  create a branch
+- [ ] update docs and update module
+- [ ] read values
+- [ ] display values - new menue
+
+```
+anbei der aktualisierte Befehlssatz und eine erste Version der neuen Firmware V1.1.8 (MarNet_1_18).
+
+Folgendes wurde implementiert:
+
+- Befehl ‚C‘ mit Parameter 18 für Speicherung der Periode  (Mit dieser Periode wurde die Korrektur aufgenommen)
+- Befehl ‚C‘ mit Parameter 19 für Korrektur (in)aktiv, Korrektur mit Bezug zum Referenzpunkt, Interpolationsfaktor für Korrektur
+- Befehl ‚C‘ mit Parameter 17 für Korrekturpunkte bestehend aus Sollwert und Abweichung
+- Alle Parameter werden im Info-Segment A nichtflüchtig gespeichert
+```
 
 
 ```
