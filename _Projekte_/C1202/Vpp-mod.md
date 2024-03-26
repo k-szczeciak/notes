@@ -4,7 +4,7 @@
 	- [ ] ??? remove curve - then edition is possible
 	- [ ] no editing of the parameters is possible
 	- [ ] ??? activation and deactivation is possible  but no edition of parameters is possible
-	- [ ] 
+	- [ ] switching modules either message at startup and or resetting some parameters after confirmation
 - [ ] read values
 - [ ] perform calculations
 - [ ] display values - new menue
