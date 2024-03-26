@@ -1,5 +1,8 @@
 - [x]  create a branch
 - [x] update docs and update module
+- [ ] curve detection:
+	- [ ] no editing of the parameters is possible
+	- [ ] activation and deactivation is possible
 - [ ] read values
 - [ ] perform calculations
 - [ ] display values - new menue
