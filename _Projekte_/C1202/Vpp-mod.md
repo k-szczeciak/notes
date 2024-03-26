@@ -7,6 +7,9 @@
 - [ ] perform calculations
 - [ ] display values - new menue
 
+Q:
+- reference point is active? should it be done before calibration
+
 
 ``` engler, thomas: 22.01.2024:
 Hallo Herr Kamper,
