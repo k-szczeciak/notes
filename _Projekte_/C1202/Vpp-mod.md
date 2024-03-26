@@ -1,6 +1,7 @@
 - [x]  create a branch
-- [ ] update docs and update module
+- [x] update docs and update module
 - [ ] read values
+- [ ] perform calculations
 - [ ] display values - new menue
 
 
