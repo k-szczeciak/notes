@@ -3,6 +3,7 @@
 - [ ] adjustement for 1075R - show 0,1 µm in measurements
 - [ ] include printout for bosch (see in teams)
 - [ ] main screen layout corretion request
+- [ ] radio test
 
 
 - genb concern:
